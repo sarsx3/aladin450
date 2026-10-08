@@ -31,5 +31,5 @@ jobs:
         run: |
           node scripts/sync.js
           git add events.json
-          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
+          git diff --cached --quiet || git commit -m "sync: $(TZ='Asia/Dhaka' date +'%I:%M:%S %p')"
           git push
