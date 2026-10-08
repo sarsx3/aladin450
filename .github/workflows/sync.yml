@@ -1,0 +1,87 @@
+name: Sync Sports Events
+
+on:
+  schedule:
+    # GitHub Actions minimum = 5 minutes
+    # We loop INSIDE the job every ~60s to simulate 1-minute updates
+    - cron: "*/5 * * * *"
+  workflow_dispatch: # manual trigger button
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6 # slightly over 5min so loops complete
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # ── Loop 5 times with ~55s sleep between = ~4.5 min coverage ────────────
+      - name: Sync round 1
+        run: node scripts/sync.js
+
+      - name: Commit round 1
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
+
+      - name: Wait 55s
+        run: sleep 55
+
+      - name: Sync round 2
+        run: node scripts/sync.js
+
+      - name: Commit round 2
+        run: |
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
+
+      - name: Wait 55s
+        run: sleep 55
+
+      - name: Sync round 3
+        run: node scripts/sync.js
+
+      - name: Commit round 3
+        run: |
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
+
+      - name: Wait 55s
+        run: sleep 55
+
+      - name: Sync round 4
+        run: node scripts/sync.js
+
+      - name: Commit round 4
+        run: |
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
+
+      - name: Wait 55s
+        run: sleep 55
+
+      - name: Sync round 5
+        run: node scripts/sync.js
+
+      - name: Commit round 5
+        run: |
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
