@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Oct 2026, 04:57:12 PM BST",
-  "last_updated_iso": "2026-10-08T10:57:12.563Z",
+  "last_updated": "08 Oct 2026, 04:58:11 PM BST",
+  "last_updated_iso": "2026-10-08T10:58:11.699Z",
   "total_events": 281,
   "events": [
     {
@@ -3739,7 +3739,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/28308/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001791425327-0-0-6ccb3d9a8578aa9dcf832e6966c70c18",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1445",
