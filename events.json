@@ -1,44 +1,8 @@
 {
-  "last_updated": "08 Oct 2026, 02:18:12 PM BST",
-  "last_updated_iso": "2026-10-08T08:18:12.789Z",
-  "total_events": 282,
+  "last_updated": "08 Oct 2026, 02:19:11 PM BST",
+  "last_updated_iso": "2026-10-08T08:19:11.242Z",
+  "total_events": 281,
   "events": [
-    {
-      "id": "4",
-      "date": "08/10/2026",
-      "time": "8:00 AM",
-      "league": "Baseball | MLB",
-      "team1": "San Diego Padres",
-      "team2": "Milwaukee Brewers",
-      "logo1": "https://img.sofascore.com/api/v1/team/3636/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3630/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "FOX1 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "FOX DEPORTES-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "STREAM TV + HD",
-          "url": "https://edgestream3.pro/hls/sqdahach1ax.m3u8",
-          "referer": "https://streame.center",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1168",
       "date": "09/10/2026",
