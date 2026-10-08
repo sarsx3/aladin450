@@ -29,35 +29,47 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # ── সব sync করো, শেষে একবার push ──────────────────────────────────────
-
       - name: Round 1
-        run: node scripts/sync.js && git add events.json && git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
+        run: |
+          node scripts/sync.js
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
 
       - name: Wait
         run: sleep 55
 
       - name: Round 2
-        run: node scripts/sync.js && git add events.json && git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
+        run: |
+          node scripts/sync.js
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
 
       - name: Wait
         run: sleep 55
 
       - name: Round 3
-        run: node scripts/sync.js && git add events.json && git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
+        run: |
+          node scripts/sync.js
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
 
       - name: Wait
         run: sleep 55
 
       - name: Round 4
-        run: node scripts/sync.js && git add events.json && git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
+        run: |
+          node scripts/sync.js
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
 
       - name: Wait
         run: sleep 55
 
       - name: Round 5
-        run: node scripts/sync.js && git add events.json && git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
+        run: |
+          node scripts/sync.js
+          git add events.json
+          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
 
-      # ── শেষে একবারই push ────────────────────────────────────────────────────
       - name: Push all commits
         run: git push
