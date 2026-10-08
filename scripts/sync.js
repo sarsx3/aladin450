@@ -111,15 +111,31 @@ async function main() {
     return da - db;
   });
 
+  const now = new Date();
+
+  // Bangladesh Standard Time = UTC+6
+  const bst = new Date(now.getTime() + 6 * 60 * 60 * 1000);
+  const pad = (n) => String(n).padStart(2, "0");
+  const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  const hours24 = bst.getUTCHours();
+  const hours12 = hours24 % 12 === 0 ? 12 : hours24 % 12;
+  const ampm = hours24 < 12 ? "AM" : "PM";
+  const readableUTC =
+    `${pad(bst.getUTCDate())} ${months[bst.getUTCMonth()]} ${bst.getUTCFullYear()}, ` +
+    `${pad(hours12)}:${pad(bst.getUTCMinutes())}:${pad(bst.getUTCSeconds())} ${ampm} BST`;
+
+  // Build output — last_updated is the very first key
   const output = {
-    lastUpdated: new Date().toISOString(),
-    totalEvents: events.length,
+    last_updated: readableUTC,
+    last_updated_iso: now.toISOString(),
+    total_events: events.length,
     events,
   };
 
+  // Write with last_updated guaranteed at top
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), "utf8");
   console.log(
-    `[${new Date().toISOString()}] ✅ Saved ${events.length} events to events.json`
+    `[${now.toISOString()}] ✅ Saved ${events.length} events → last_updated: ${readableUTC}`
   );
 }
 
