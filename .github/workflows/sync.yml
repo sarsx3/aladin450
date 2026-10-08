@@ -1,8 +1,6 @@
 name: Sync Sports Events
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,7 +9,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 3
 
     steps:
       - name: Checkout repo
@@ -29,47 +27,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Round 1
+      - name: Sync & Commit
         run: |
           node scripts/sync.js
           git add events.json
           git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
-
-      - name: Wait
-        run: sleep 55
-
-      - name: Round 2
-        run: |
-          node scripts/sync.js
-          git add events.json
-          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
-
-      - name: Wait
-        run: sleep 55
-
-      - name: Round 3
-        run: |
-          node scripts/sync.js
-          git add events.json
-          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
-
-      - name: Wait
-        run: sleep 55
-
-      - name: Round 4
-        run: |
-          node scripts/sync.js
-          git add events.json
-          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
-
-      - name: Wait
-        run: sleep 55
-
-      - name: Round 5
-        run: |
-          node scripts/sync.js
-          git add events.json
-          git diff --cached --quiet || git commit -m "sync: $(date -u +'%H:%M:%S')"
-
-      - name: Push all commits
-        run: git push
+          git push
