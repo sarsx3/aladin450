@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Oct 2026, 06:33:14 PM BST",
-  "last_updated_iso": "2026-10-08T12:33:14.636Z",
-  "total_events": 282,
+  "last_updated": "08 Oct 2026, 06:34:18 PM BST",
+  "last_updated_iso": "2026-10-08T12:34:18.579Z",
+  "total_events": 283,
   "events": [
     {
       "id": "1168",
@@ -3950,6 +3950,20 @@
     {
       "id": "1458",
       "date": "09/10/2026",
+      "time": "9:50 AM",
+      "league": "Cricket | ICC Women's Championship",
+      "team1": "Australia Women",
+      "team2": "Bangladesh Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/213117/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187809/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "1459",
+      "date": "11/10/2026",
       "time": "9:50 AM",
       "league": "Cricket | ICC Women's Championship",
       "team1": "Australia Women",
