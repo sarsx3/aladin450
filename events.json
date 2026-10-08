@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Oct 2026, 06:17:14 PM BST",
-  "last_updated_iso": "2026-10-08T12:17:14.494Z",
-  "total_events": 281,
+  "last_updated": "08 Oct 2026, 06:18:13 PM BST",
+  "last_updated_iso": "2026-10-08T12:18:13.239Z",
+  "total_events": 282,
   "events": [
     {
       "id": "1168",
@@ -3864,20 +3864,6 @@
       "streams": []
     },
     {
-      "id": "1250",
-      "date": "11/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Liga Profesional",
-      "team1": "San Lorenzo",
-      "team2": "Deportivo Riestra",
-      "logo1": "https://img.sofascore.com/api/v1/team/3201/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/189723/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "1452",
       "date": "12/10/2026",
       "time": "3:00 PM",
@@ -3959,6 +3945,34 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "isHot": false,
       "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "1458",
+      "date": "09/10/2026",
+      "time": "9:50 AM",
+      "league": "Cricket | ICC Women's Championship",
+      "team1": "Australia Women",
+      "team2": "Bangladesh Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/213117/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187809/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "1250",
+      "date": "11/10/2026",
+      "time": "11:45 PM",
+      "league": "Football | Liga Profesional",
+      "team1": "San Lorenzo",
+      "team2": "Deportivo Riestra",
+      "logo1": "https://img.sofascore.com/api/v1/team/3201/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/189723/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+      "isHot": false,
+      "visibility": "public",
       "streams": []
     }
   ]
