@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Oct 2026, 07:34:13 PM BST",
-  "last_updated_iso": "2026-10-08T13:34:13.441Z",
-  "total_events": 283,
+  "last_updated": "08 Oct 2026, 07:35:15 PM BST",
+  "last_updated_iso": "2026-10-08T13:35:15.175Z",
+  "total_events": 282,
   "events": [
     {
       "id": "1168",
@@ -3726,28 +3726,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1444",
-      "date": "08/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | ASEAN Club Championship - Group B",
-      "team1": "Lion City Sailors",
-      "team2": "Cong An Ho Noi",
-      "logo1": "https://img.sofascore.com/api/v1/team/3041/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/193616/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/28308/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001791425327-0-0-6ccb3d9a8578aa9dcf832e6966c70c18",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1445",
