@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 06:17:12 PM BST",
-  "last_updated_iso": "2026-10-09T12:17:12.727Z",
+  "last_updated": "09 Oct 2026, 06:18:14 PM BST",
+  "last_updated_iso": "2026-10-09T12:18:14.576Z",
   "total_events": 272,
   "events": [
     {
@@ -196,6 +196,20 @@
         {
           "name": "STAR SPORTS HD",
           "url": "http://51.75.127.199:3141/starsports2/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/baf1i3t0be/out/v1/4682e81704e242fd9bfb36f56b6413e7/cenc.mpd?|drmScheme=clearkey&drmLicense=9dd245fb23d190ca8222a4d94476ab40:c8cbd313661d9ab75603ce59a0c974b0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "WILLOW-ALT",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/baf1i3t0be/out/v1/4682e81704e242fd9bfb36f56b6413e7/cenc.mpd?|drmScheme=clearkey&drmLicense=9dd245fb23d190ca8222a4d94476ab40:c8cbd313661d9ab75603ce59a0c974b0",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
