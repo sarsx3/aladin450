@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 07:17:12 PM BST",
-  "last_updated_iso": "2026-10-09T13:17:12.849Z",
+  "last_updated": "09 Oct 2026, 07:18:14 PM BST",
+  "last_updated_iso": "2026-10-09T13:18:14.626Z",
   "total_events": 272,
   "events": [
     {
@@ -333,6 +333,13 @@
           "name": "willow sports-aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
