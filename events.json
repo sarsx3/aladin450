@@ -1,13 +1,13 @@
 {
-  "last_updated": "09 Oct 2026, 11:45:17 AM BST",
-  "last_updated_iso": "2026-10-09T05:45:17.387Z",
+  "last_updated": "09 Oct 2026, 11:46:12 AM BST",
+  "last_updated_iso": "2026-10-09T05:46:12.829Z",
   "total_events": 275,
   "events": [
     {
       "id": "1172",
       "date": "09/10/2026",
       "time": "12:00 PM",
-      "league": "Cricket | Afghanistan vs Bangladesh",
+      "league": "Cricket | Test Series 1st International",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
