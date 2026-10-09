@@ -1,7 +1,7 @@
 {
-  "last_updated": "10 Oct 2026, 01:45:20 AM BST",
-  "last_updated_iso": "2026-10-09T19:45:20.677Z",
-  "total_events": 393,
+  "last_updated": "10 Oct 2026, 01:46:11 AM BST",
+  "last_updated_iso": "2026-10-09T19:46:11.837Z",
+  "total_events": 392,
   "events": [
     {
       "id": "1179",
@@ -303,20 +303,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1184",
-      "date": "10/10/2026",
-      "time": "3:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Gimnasia La Plata",
-      "team2": "Atletico Tucuman",
-      "logo1": "https://img.sofascore.com/api/v1/team/3205/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36833/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1185",
