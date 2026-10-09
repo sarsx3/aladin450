@@ -1,7 +1,7 @@
 {
-  "last_updated": "09 Oct 2026, 11:34:13 PM BST",
-  "last_updated_iso": "2026-10-09T17:34:13.804Z",
-  "total_events": 351,
+  "last_updated": "09 Oct 2026, 11:35:14 PM BST",
+  "last_updated_iso": "2026-10-09T17:35:14.349Z",
+  "total_events": 350,
   "events": [
     {
       "id": "1179",
@@ -89,20 +89,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1182",
-      "date": "09/10/2026",
-      "time": "11:30 PM",
-      "league": "Football | Liga Profesional",
-      "team1": "Aldosivi",
-      "team2": "Sarmiento Junin",
-      "logo1": "https://img.sofascore.com/api/v1/team/36836/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/42338/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1183",
