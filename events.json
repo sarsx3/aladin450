@@ -1,51 +1,8 @@
 {
-  "last_updated": "10 Oct 2026, 01:48:13 AM BST",
-  "last_updated_iso": "2026-10-09T19:48:13.290Z",
-  "total_events": 391,
+  "last_updated": "10 Oct 2026, 01:49:10 AM BST",
+  "last_updated_iso": "2026-10-09T19:49:10.962Z",
+  "total_events": 390,
   "events": [
-    {
-      "id": "1179",
-      "date": "09/10/2026",
-      "time": "9:30 PM",
-      "league": "Cricket | World Championship of Legends",
-      "team1": "Bangladesh Champions",
-      "team2": "West Indies Champions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1L6.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/VO.png",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "t sports-hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "fancode-aq",
-          "url": "https://live.kaizokutv.tech/prox/fan2-prox.php?url=https%3A%2F%2Fdai-fancode.pages.dev%2Fmumbai%2F4249227_english_hls_290b2baf07538_1ta-di_h264%2Findex.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "t sports",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/itsuxjcvc3/out/v1/7652799de8394e77818b1f2015d98dd2/cenc.mpd?|drmScheme=clearkey&drmLicense=0c738e45889502a8a47674830bf844ff:50b7002a7f3f2a323d896d738777acf0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1233",
       "date": "10/10/2026",
