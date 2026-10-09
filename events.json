@@ -1,21 +1,29 @@
 {
-  "last_updated": "09 Oct 2026, 11:40:21 AM BST",
-  "last_updated_iso": "2026-10-09T05:40:21.339Z",
+  "last_updated": "09 Oct 2026, 11:41:10 AM BST",
+  "last_updated_iso": "2026-10-09T05:41:10.939Z",
   "total_events": 275,
   "events": [
     {
       "id": "1172",
       "date": "09/10/2026",
       "time": "11:30 AM",
-      "league": "Cricket | Afghanistan vs Bangladesh ? One-off Test, Day 1",
+      "league": "Cricket | Afghanistan vs Bangladesh",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
+      "isHot": true,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "201",
