@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 07:06:12 PM BST",
-  "last_updated_iso": "2026-10-09T13:06:12.692Z",
+  "last_updated": "09 Oct 2026, 07:07:16 PM BST",
+  "last_updated_iso": "2026-10-09T13:07:16.614Z",
   "total_events": 272,
   "events": [
     {
@@ -263,13 +263,13 @@
       "id": "1175",
       "date": "09/10/2026",
       "time": "7:30 PM",
-      "league": "Cricket | India vs West Indies ? 2nd T20I",
+      "league": "Cricket | International T20 Series 2nd T20I",
       "team1": "India",
       "team2": "West Indies",
       "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
-      "isHot": false,
+      "isHot": true,
       "visibility": "public",
       "streams": [
         {
