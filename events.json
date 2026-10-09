@@ -1,7 +1,7 @@
 {
-  "last_updated": "09 Oct 2026, 11:05:15 PM BST",
-  "last_updated_iso": "2026-10-09T17:05:15.616Z",
-  "total_events": 354,
+  "last_updated": "09 Oct 2026, 11:06:12 PM BST",
+  "last_updated_iso": "2026-10-09T17:06:12.798Z",
+  "total_events": 353,
   "events": [
     {
       "id": "1178",
@@ -77,35 +77,6 @@
           "name": "willow-aq",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aiu8gnpwij/out/v1/ecb8a3e4e29d4f58970e6494626a02bd/cenc.mpd?|drmScheme=clearkey&drmLicense=0ddad5a3a8550c203f90b86e0005700b:4dc553c52439eb86922df317a470bccb",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1177",
-      "date": "09/10/2026",
-      "time": "8:55 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Fateh",
-      "team2": "Al Ahli",
-      "logo1": "https://img.sofascore.com/api/v1/team/56023/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34469/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "FOX SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
