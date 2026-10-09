@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 11:57:11 AM BST",
-  "last_updated_iso": "2026-10-09T05:57:11.033Z",
+  "last_updated": "09 Oct 2026, 11:58:12 AM BST",
+  "last_updated_iso": "2026-10-09T05:58:12.615Z",
   "total_events": 275,
   "events": [
     {
@@ -19,6 +19,13 @@
         {
           "name": "t sports hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -422,7 +429,7 @@
       "id": "1244",
       "date": "10/10/2026",
       "time": "1:30 PM",
-      "league": "Cricket | SA vs AUS ? 1st Test, Day 2",
+      "league": "Cricket | International Test Series",
       "team1": "South Africa",
       "team2": "Australia",
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
