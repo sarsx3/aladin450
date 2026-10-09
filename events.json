@@ -1,7 +1,7 @@
 {
-  "last_updated": "09 Oct 2026, 03:55:15 PM BST",
-  "last_updated_iso": "2026-10-09T09:55:15.699Z",
-  "total_events": 274,
+  "last_updated": "09 Oct 2026, 03:56:14 PM BST",
+  "last_updated_iso": "2026-10-09T09:56:14.391Z",
+  "total_events": 273,
   "events": [
     {
       "id": "1172",
@@ -3960,35 +3960,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1458",
-      "date": "09/10/2026",
-      "time": "9:50 AM",
-      "league": "Cricket | ICC Women's Championship",
-      "team1": "Australia Women",
-      "team2": "Bangladesh Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/213117/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187809/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low-server",
-          "url": "http://193.47.62.44/hls/ZZZZ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1459",
