@@ -1,7 +1,7 @@
 {
-  "last_updated": "10 Oct 2026, 01:47:12 AM BST",
-  "last_updated_iso": "2026-10-09T19:47:12.446Z",
-  "total_events": 392,
+  "last_updated": "10 Oct 2026, 01:48:13 AM BST",
+  "last_updated_iso": "2026-10-09T19:48:13.290Z",
+  "total_events": 391,
   "events": [
     {
       "id": "1179",
@@ -325,20 +325,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1186",
-      "date": "10/10/2026",
-      "time": "6:45 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Union Santa Fe",
-      "team2": "Defensa Y Justicia",
-      "logo1": "https://img.sofascore.com/api/v1/team/3204/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36839/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1243",
