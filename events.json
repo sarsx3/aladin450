@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 12:21:12 AM BST",
-  "last_updated_iso": "2026-10-09T18:21:12.614Z",
+  "last_updated": "10 Oct 2026, 12:22:12 AM BST",
+  "last_updated_iso": "2026-10-09T18:22:12.859Z",
   "total_events": 349,
   "events": [
     {
@@ -178,6 +178,13 @@
           "name": "ESPN3 ARGENTINa-aq",
           "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd?|drmScheme=clearkey&drmLicense=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
