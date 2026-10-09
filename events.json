@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 02:45:17 PM BST",
-  "last_updated_iso": "2026-10-09T08:45:17.201Z",
+  "last_updated": "09 Oct 2026, 02:46:15 PM BST",
+  "last_updated_iso": "2026-10-09T08:46:15.861Z",
   "total_events": 274,
   "events": [
     {
@@ -49,6 +49,13 @@
           "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
           "referer": "",
           "userAgent": "",
+          "drm": ""
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd?|drmScheme=clearkey&drmLicense=effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
       ]
