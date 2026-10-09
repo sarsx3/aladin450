@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 09:30:21 AM BST",
-  "last_updated_iso": "2026-10-09T03:30:21.484Z",
+  "last_updated": "09 Oct 2026, 09:31:10 AM BST",
+  "last_updated_iso": "2026-10-09T03:31:10.975Z",
   "total_events": 275,
   "events": [
     {
@@ -3866,7 +3866,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1459",
