@@ -1,7 +1,7 @@
 {
-  "last_updated": "09 Oct 2026, 06:16:13 PM BST",
-  "last_updated_iso": "2026-10-09T12:16:13.425Z",
-  "total_events": 273,
+  "last_updated": "09 Oct 2026, 06:17:12 PM BST",
+  "last_updated_iso": "2026-10-09T12:17:12.727Z",
+  "total_events": 272,
   "events": [
     {
       "id": "1172",
@@ -140,56 +140,6 @@
           "name": "low-server",
           "url": "http://193.47.62.50/hls/HHHHR.m3u8?",
           "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "202",
-      "date": "09/10/2026",
-      "time": "2:30 PM",
-      "league": "Motorsport | Formula 1 Singapore GP - Practice 1",
-      "team1": "Formula 1",
-      "team2": "Formula 1",
-      "logo1": "https://img.sofascore.com/api/v1/category/36/image",
-      "logo2": "https://img.sofascore.com/api/v1/category/36/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "fancode-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "TSN1 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "TSN5 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SporTV BR - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SKY SPORTS",
-          "url": "https://tedesco.formaturamaxi.com.br/tsn.m3u8",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -2171,20 +2121,6 @@
       "streams": []
     },
     {
-      "id": "1250",
-      "date": "11/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Liga Profesional",
-      "team1": "San Lorenzo",
-      "team2": "Deportivo Riestra",
-      "logo1": "https://img.sofascore.com/api/v1/team/3201/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/189723/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "1307",
       "date": "12/10/2026",
       "time": "12:00 AM",
@@ -4014,6 +3950,20 @@
       "logo1": "https://img.sofascore.com/api/v1/team/213117/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187809/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "1250",
+      "date": "11/10/2026",
+      "time": "11:45 PM",
+      "league": "Football | Liga Profesional",
+      "team1": "San Lorenzo",
+      "team2": "Deportivo Riestra",
+      "logo1": "https://img.sofascore.com/api/v1/team/3201/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/189723/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
