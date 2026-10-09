@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 01:22:12 PM BST",
-  "last_updated_iso": "2026-10-09T07:22:12.569Z",
+  "last_updated": "09 Oct 2026, 01:23:13 PM BST",
+  "last_updated_iso": "2026-10-09T07:23:13.426Z",
   "total_events": 274,
   "events": [
     {
@@ -77,6 +77,13 @@
           "name": "SKY SPORTS-aq",
           "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low-server",
+          "url": "http://193.47.62.50/hls/HHHHR.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
