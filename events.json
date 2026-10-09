@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 12:12:12 PM BST",
-  "last_updated_iso": "2026-10-09T06:12:12.381Z",
+  "last_updated": "09 Oct 2026, 12:13:10 PM BST",
+  "last_updated_iso": "2026-10-09T06:13:10.486Z",
   "total_events": 275,
   "events": [
     {
@@ -34,6 +34,13 @@
           "name": "willow-aq",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/94oo2jxxp4/out/v1/c6789bc599e54c3bb1f26880531b8531/cenc.mpd?|drmScheme=clearkey&drmLicense=effa45e438d4a21939035abc7cf5d3a4:d2f43abbc17cb5e3c05c5f14fd1e8181",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
