@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 12:56:13 AM BST",
-  "last_updated_iso": "2026-10-09T18:56:13.008Z",
+  "last_updated": "10 Oct 2026, 12:57:11 AM BST",
+  "last_updated_iso": "2026-10-09T18:57:11.897Z",
   "total_events": 347,
   "events": [
     {
@@ -294,7 +294,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "D SPORTS-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1184",
