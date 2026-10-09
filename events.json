@@ -1,7 +1,7 @@
 {
-  "last_updated": "09 Oct 2026, 11:43:11 PM BST",
-  "last_updated_iso": "2026-10-09T17:43:11.090Z",
-  "total_events": 350,
+  "last_updated": "09 Oct 2026, 11:44:13 PM BST",
+  "last_updated_iso": "2026-10-09T17:44:13.039Z",
+  "total_events": 349,
   "events": [
     {
       "id": "1179",
@@ -89,20 +89,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1183",
-      "date": "09/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Liga Portugal",
-      "team1": "Moreirense",
-      "team2": "Gil Vicente",
-      "logo1": "https://img.sofascore.com/api/v1/team/3014/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3010/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1233",
