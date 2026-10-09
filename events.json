@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Oct 2026, 10:37:10 PM BST",
-  "last_updated_iso": "2026-10-09T16:37:10.925Z",
+  "last_updated": "09 Oct 2026, 10:38:12 PM BST",
+  "last_updated_iso": "2026-10-09T16:38:12.522Z",
   "total_events": 355,
   "events": [
     {
@@ -177,6 +177,13 @@
         {
           "name": "t sports",
           "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/itsuxjcvc3/out/v1/7652799de8394e77818b1f2015d98dd2/cenc.mpd?|drmScheme=clearkey&drmLicense=0c738e45889502a8a47674830bf844ff:50b7002a7f3f2a323d896d738777acf0",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
