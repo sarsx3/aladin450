@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 01:46:11 AM BST",
-  "last_updated_iso": "2026-10-09T19:46:11.837Z",
+  "last_updated": "10 Oct 2026, 01:47:12 AM BST",
+  "last_updated_iso": "2026-10-09T19:47:12.446Z",
   "total_events": 392,
   "events": [
     {
@@ -316,7 +316,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "SportDigital Fussball",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1186",
