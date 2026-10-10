@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 10:31:14 AM BST",
-  "last_updated_iso": "2026-10-10T04:31:14.354Z",
+  "last_updated": "10 Oct 2026, 10:32:12 AM BST",
+  "last_updated_iso": "2026-10-10T04:32:12.709Z",
   "total_events": 390,
   "events": [
     {
@@ -294,7 +294,7 @@
       "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": []
     },
     {
@@ -322,7 +322,7 @@
       "logo2": "https://img.sofascore.com/api/v1/category/36/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": []
     },
     {
@@ -476,7 +476,7 @@
       "logo2": "https://img.sofascore.com/api/v1/category/36/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": []
     },
     {
@@ -1484,7 +1484,7 @@
       "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": []
     },
     {
@@ -1596,7 +1596,7 @@
       "logo2": "https://img.sofascore.com/api/v1/category/36/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": []
     },
     {
