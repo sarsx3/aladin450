@@ -1,37 +1,8 @@
 {
-  "last_updated": "11 Oct 2026, 01:35:14 AM BST",
-  "last_updated_iso": "2026-10-10T19:35:14.981Z",
-  "total_events": 328,
+  "last_updated": "11 Oct 2026, 01:36:12 AM BST",
+  "last_updated_iso": "2026-10-10T19:36:12.673Z",
+  "total_events": 327,
   "events": [
-    {
-      "id": "1242",
-      "date": "10/10/2026",
-      "time": "11:00 PM",
-      "league": "Football | MLS",
-      "team1": "Toronto",
-      "team2": "CF Montr?al",
-      "logo1": "https://img.sofascore.com/api/v1/team/7080/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/22006/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://netanjahu.hls.st/t/ae311dd89ac213ca4273bef4ca4f96c8/index.m3u8",
-          "referer": "https://iplayer.is/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toronto-fc-vs-cf-montr-al/2/playlist.m3u8?tk=gpAdj78nRBjRNhl5u5JZ3g&e=1791694815",
-          "referer": "https://ondemand.st/embed/?id=mls/2026-10-10/tor-mtl",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1277",
       "date": "11/10/2026",
