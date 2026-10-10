@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 12:46:10 AM BST",
-  "last_updated_iso": "2026-10-10T18:46:10.821Z",
+  "last_updated": "11 Oct 2026, 12:47:10 AM BST",
+  "last_updated_iso": "2026-10-10T18:47:10.576Z",
   "total_events": 330,
   "events": [
     {
@@ -258,6 +258,13 @@
           "name": "Tapmad - Aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/KRRRRAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
