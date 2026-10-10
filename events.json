@@ -1,44 +1,8 @@
 {
-  "last_updated": "10 Oct 2026, 09:27:10 PM BST",
-  "last_updated_iso": "2026-10-10T15:27:10.992Z",
-  "total_events": 349,
+  "last_updated": "10 Oct 2026, 09:28:12 PM BST",
+  "last_updated_iso": "2026-10-10T15:28:12.697Z",
+  "total_events": 348,
   "events": [
-    {
-      "id": "1228",
-      "date": "10/10/2026",
-      "time": "7:00 PM",
-      "league": "Football | Serie A",
-      "team1": "Genoa",
-      "team2": "Fiorentina",
-      "logo1": "https://img.sofascore.com/api/v1/team/2713/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2693/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Myco - Aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "BeIN SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SPORT1 CZ-aq",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1219",
       "date": "10/10/2026",
