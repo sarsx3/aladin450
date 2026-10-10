@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 12:21:12 PM BST",
-  "last_updated_iso": "2026-10-10T06:21:12.208Z",
+  "last_updated": "10 Oct 2026, 12:22:12 PM BST",
+  "last_updated_iso": "2026-10-10T06:22:12.221Z",
   "total_events": 383,
   "events": [
     {
@@ -5413,7 +5413,7 @@
       "id": "1593",
       "date": "18/10/2026",
       "time": "2:00 PM",
-      "league": "Cricket | Pakistan vs Sri Lanka ? 1st Match",
+      "league": "Cricket | international Test Series 1st Match",
       "team1": "Pakistan",
       "team2": "Sri Lanka",
       "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
@@ -5427,7 +5427,7 @@
       "id": "1594",
       "date": "18/10/2026",
       "time": "9:30 PM",
-      "league": "Cricket | World Championship of Legends ? Final",
+      "league": "Cricket | World Championship of Legends Final",
       "team1": "TBC",
       "team2": "TBC",
       "logo1": "",
