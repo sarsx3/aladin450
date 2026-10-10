@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 08:49:10 PM BST",
-  "last_updated_iso": "2026-10-10T14:49:10.643Z",
+  "last_updated": "10 Oct 2026, 08:50:15 PM BST",
+  "last_updated_iso": "2026-10-10T14:50:15.063Z",
   "total_events": 350,
   "events": [
     {
@@ -497,7 +497,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1245",
