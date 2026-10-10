@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 12:23:10 PM BST",
-  "last_updated_iso": "2026-10-10T06:23:10.931Z",
+  "last_updated": "10 Oct 2026, 12:24:11 PM BST",
+  "last_updated_iso": "2026-10-10T06:24:11.770Z",
   "total_events": 383,
   "events": [
     {
@@ -2347,7 +2347,7 @@
       "id": "1350",
       "date": "13/10/2026",
       "time": "9:00 PM",
-      "league": "Cricket | Pakistan vs Sri Lanka ? 3rd T20I",
+      "league": "Cricket | International T20I Series",
       "team1": "Pakistan",
       "team2": "Sri Lanka",
       "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
@@ -2823,7 +2823,7 @@
       "id": "1401",
       "date": "14/10/2026",
       "time": "7:30 PM",
-      "league": "Cricket | India vs West Indies ? 4th T20I",
+      "league": "Cricket | International T20I Series",
       "team1": "India",
       "team2": "West Indies",
       "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
@@ -3901,7 +3901,7 @@
       "id": "1485",
       "date": "16/10/2026",
       "time": "5:30 PM",
-      "league": "Cricket | World Championship of Legends ? Semi Final 1",
+      "league": "Cricket | World Championship of Legends Semi Final 1",
       "team1": "TBC",
       "team2": "TBC",
       "logo1": "",
