@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 12:50:16 AM BST",
-  "last_updated_iso": "2026-10-10T18:50:16.918Z",
+  "last_updated": "11 Oct 2026, 12:51:10 AM BST",
+  "last_updated_iso": "2026-10-10T18:51:10.489Z",
   "total_events": 330,
   "events": [
     {
@@ -337,6 +337,13 @@
           "name": "Tapmad - Aq",
           "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/400508cb-9dbf-4bfa-8d70-92064e4e80b7.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
