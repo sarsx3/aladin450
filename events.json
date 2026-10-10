@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 10:31:13 PM BST",
-  "last_updated_iso": "2026-10-10T16:31:13.287Z",
+  "last_updated": "10 Oct 2026, 10:32:14 PM BST",
+  "last_updated_iso": "2026-10-10T16:32:14.174Z",
   "total_events": 336,
   "events": [
     {
@@ -184,6 +184,20 @@
           "name": "Myco - Aq",
           "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO6/hls/index.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/2a1ac868-88c1-4ea6-b2be-cc14a109a69b.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low-server",
+          "url": "https://n1.ys.football/online/PViqwkYUx6oueHZOveNm5g/1791653455/main_480.m3u8",
+          "referer": "https://stream0.org/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
