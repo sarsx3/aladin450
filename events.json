@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 10:01:11 PM BST",
-  "last_updated_iso": "2026-10-10T16:01:11.875Z",
+  "last_updated": "10 Oct 2026, 10:02:12 PM BST",
+  "last_updated_iso": "2026-10-10T16:02:12.683Z",
   "total_events": 341,
   "events": [
     {
@@ -293,6 +293,13 @@
           "name": "Myco - Aq",
           "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low-server",
+          "url": "https://n1.ys.football/online/XfW03RNtjdCZm2P41Mva8g/1791651571/golazo_480.m3u8",
+          "referer": "https://stream0.org/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
