@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 10:32:12 AM BST",
-  "last_updated_iso": "2026-10-10T04:32:12.709Z",
+  "last_updated": "10 Oct 2026, 10:33:11 AM BST",
+  "last_updated_iso": "2026-10-10T04:33:11.387Z",
   "total_events": 390,
   "events": [
     {
@@ -14,7 +14,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "tapmad-aq",
