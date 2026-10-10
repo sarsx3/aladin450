@@ -1,7 +1,7 @@
 {
-  "last_updated": "10 Oct 2026, 08:18:14 PM BST",
-  "last_updated_iso": "2026-10-10T14:18:14.906Z",
-  "total_events": 353,
+  "last_updated": "10 Oct 2026, 08:19:14 PM BST",
+  "last_updated_iso": "2026-10-10T14:19:14.113Z",
+  "total_events": 352,
   "events": [
     {
       "id": "1244",
@@ -422,20 +422,6 @@
       "team2": "Lincoln",
       "logo1": "https://img.sofascore.com/api/v1/team/15/image",
       "logo2": "https://img.sofascore.com/api/v1/team/92/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1203",
-      "date": "10/10/2026",
-      "time": "8:00 PM",
-      "league": "Football | Championship",
-      "team1": "Blackburn",
-      "team2": "Cardiff",
-      "logo1": "https://img.sofascore.com/api/v1/team/46/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/61/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
