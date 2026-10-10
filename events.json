@@ -1,7 +1,7 @@
 {
-  "last_updated": "10 Oct 2026, 06:44:12 PM BST",
-  "last_updated_iso": "2026-10-10T12:44:12.237Z",
-  "total_events": 379,
+  "last_updated": "10 Oct 2026, 06:45:17 PM BST",
+  "last_updated_iso": "2026-10-10T12:45:17.557Z",
+  "total_events": 378,
   "events": [
     {
       "id": "1243",
@@ -425,20 +425,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "206",
-      "date": "10/10/2026",
-      "time": "7:00 PM",
-      "league": "Motorsport | Formula 1 Singapore GP - Qualifying",
-      "team1": "Formula 1",
-      "team2": "Formula 1",
-      "logo1": "https://img.sofascore.com/api/v1/category/36/image",
-      "logo2": "https://img.sofascore.com/api/v1/category/36/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": []
     },
     {
       "id": "1228",
