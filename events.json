@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 12:24:11 PM BST",
-  "last_updated_iso": "2026-10-10T06:24:11.770Z",
+  "last_updated": "10 Oct 2026, 12:25:12 PM BST",
+  "last_updated_iso": "2026-10-10T06:25:12.918Z",
   "total_events": 383,
   "events": [
     {
@@ -107,7 +107,7 @@
       "id": "1244",
       "date": "10/10/2026",
       "time": "1:30 PM",
-      "league": "Cricket | SA vs AUS ? 1st Test, Day 2",
+      "league": "Cricket | international Test Series",
       "team1": "South Africa",
       "team2": "Australia",
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
@@ -1269,7 +1269,7 @@
       "id": "1301",
       "date": "11/10/2026",
       "time": "11:30 AM",
-      "league": "Cricket | AFG vs BAN ? One-off Test, Day 3",
+      "league": "Cricket | international Test Series",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
@@ -2221,7 +2221,7 @@
       "id": "1341",
       "date": "13/10/2026",
       "time": "1:30 PM",
-      "league": "Cricket | South Africa vs Australia ? 1st Test, Day 5",
+      "league": "Cricket | international Test Series",
       "team1": "South Africa",
       "team2": "Australia",
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
