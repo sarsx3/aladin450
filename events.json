@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 12:26:11 PM BST",
-  "last_updated_iso": "2026-10-10T06:26:11.931Z",
+  "last_updated": "10 Oct 2026, 12:27:11 PM BST",
+  "last_updated_iso": "2026-10-10T06:27:11.233Z",
   "total_events": 383,
   "events": [
     {
@@ -1521,7 +1521,7 @@
       "id": "1305",
       "date": "11/10/2026",
       "time": "7:30 PM",
-      "league": "Cricket | India vs West Indies ? 3rd T20I",
+      "league": "Cricket | International T20I Series",
       "team1": "India",
       "team2": "West Indies",
       "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
@@ -1591,7 +1591,7 @@
       "id": "1306",
       "date": "11/10/2026",
       "time": "9:00 PM",
-      "league": "Cricket | Pakistan vs Sri Lanka ? 2nd T20I",
+      "league": "Cricket | international T20I Series",
       "team1": "Pakistan",
       "team2": "Sri Lanka",
       "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
@@ -1969,7 +1969,7 @@
       "id": "1323",
       "date": "12/10/2026",
       "time": "11:30 AM",
-      "league": "Cricket | AFG vs BAN ? One-off Test, Day 4",
+      "league": "Cricket | international Test Series",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
