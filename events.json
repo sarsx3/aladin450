@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 05:22:15 PM BST",
-  "last_updated_iso": "2026-10-10T11:22:15.618Z",
+  "last_updated": "10 Oct 2026, 05:23:10 PM BST",
+  "last_updated_iso": "2026-10-10T11:23:10.296Z",
   "total_events": 381,
   "events": [
     {
@@ -200,6 +200,13 @@
           "name": "FUBO SPORTS -aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
