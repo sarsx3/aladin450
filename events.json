@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 09:24:14 PM BST",
-  "last_updated_iso": "2026-10-10T15:24:14.877Z",
+  "last_updated": "10 Oct 2026, 09:25:13 PM BST",
+  "last_updated_iso": "2026-10-10T15:25:13.879Z",
   "total_events": 349,
   "events": [
     {
@@ -465,6 +465,13 @@
         {
           "name": "Server - 2",
           "url": "https://1cdn.syria-player.info/proxy.php?stream=bein6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/87b7069d-1f48-4d0d-9d83-49a580572aab.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
