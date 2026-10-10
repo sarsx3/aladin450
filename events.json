@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 05:29:11 AM BST",
-  "last_updated_iso": "2026-10-10T23:29:11.836Z",
+  "last_updated": "11 Oct 2026, 05:30:21 AM BST",
+  "last_updated_iso": "2026-10-10T23:30:21.935Z",
   "total_events": 301,
   "events": [
     {
@@ -2236,7 +2236,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
+      "streams": [
+        {
+          "name": "TNT SPORTS-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY + MLB",
+          "url": "https://edgestream5.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "STREAM TV + HD",
+          "url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1451",
