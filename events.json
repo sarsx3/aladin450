@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 12:47:10 AM BST",
-  "last_updated_iso": "2026-10-10T18:47:10.576Z",
+  "last_updated": "11 Oct 2026, 12:48:11 AM BST",
+  "last_updated_iso": "2026-10-10T18:48:11.638Z",
   "total_events": 330,
   "events": [
     {
@@ -236,6 +236,13 @@
           "name": "tapmad-aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/KRRRRAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
