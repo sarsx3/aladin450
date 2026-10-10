@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 12:02:12 PM BST",
-  "last_updated_iso": "2026-10-10T06:02:12.435Z",
+  "last_updated": "10 Oct 2026, 12:03:10 PM BST",
+  "last_updated_iso": "2026-10-10T06:03:10.289Z",
   "total_events": 383,
   "events": [
     {
@@ -33,6 +33,13 @@
         {
           "name": "ariana tv",
           "url": "https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow-hd",
+          "url": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
