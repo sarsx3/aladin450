@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 12:51:09 PM BST",
-  "last_updated_iso": "2026-10-10T06:51:09.713Z",
+  "last_updated": "10 Oct 2026, 12:52:14 PM BST",
+  "last_updated_iso": "2026-10-10T06:52:14.581Z",
   "total_events": 383,
   "events": [
     {
@@ -40,6 +40,20 @@
         {
           "name": "willow-hd",
           "url": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd?|drmScheme=clearkey&drmLicense=09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd?|drmScheme=clearkey&drmLicense=09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
