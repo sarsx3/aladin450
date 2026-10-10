@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 10:32:14 PM BST",
-  "last_updated_iso": "2026-10-10T16:32:14.174Z",
+  "last_updated": "10 Oct 2026, 10:33:11 PM BST",
+  "last_updated_iso": "2026-10-10T16:33:11.150Z",
   "total_events": 336,
   "events": [
     {
@@ -291,6 +291,20 @@
           "name": "Tapmad - Aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/275da0d5-95c3-4151-af22-781d4a602b26.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low-server",
+          "url": "https://n1.ys.football/online/WbVGwUXVgbxA0hjdzoOqhw/1791653507/now2_480.m3u8",
+          "referer": "https://stream0.org/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
