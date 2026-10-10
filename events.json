@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 07:14:11 PM BST",
-  "last_updated_iso": "2026-10-10T13:14:11.384Z",
+  "last_updated": "10 Oct 2026, 07:15:16 PM BST",
+  "last_updated_iso": "2026-10-10T13:15:16.051Z",
   "total_events": 375,
   "events": [
     {
@@ -408,7 +408,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Myco - Aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1220",
