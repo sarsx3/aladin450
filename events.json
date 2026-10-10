@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 10:08:11 PM BST",
-  "last_updated_iso": "2026-10-10T16:08:11.829Z",
+  "last_updated": "10 Oct 2026, 10:09:11 PM BST",
+  "last_updated_iso": "2026-10-10T16:09:11.214Z",
   "total_events": 337,
   "events": [
     {
@@ -172,6 +172,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "cbs sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZDk2MjM3NzRhYzVjOGMzNTFhYWZlOTdjNWZlNzAyNjc6NTE2NGU2ZDA1MTY0YTJkNjVmYThmY2M5NjJhYTQ4NjE="
         }
       ]
     },
