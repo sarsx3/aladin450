@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 05:40:18 PM BST",
-  "last_updated_iso": "2026-10-10T11:40:18.267Z",
+  "last_updated": "10 Oct 2026, 05:41:13 PM BST",
+  "last_updated_iso": "2026-10-10T11:41:13.942Z",
   "total_events": 381,
   "events": [
     {
@@ -286,6 +286,27 @@
           "name": "Server - 1",
           "url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live.vivo155.com/live/sd-1-4563611.m3u8?txSecret=abef080102238cb562d155866b5537d1&txTime=6ACA2A73",
+          "referer": "https://player.online909.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://netanjahu.hls.st/t/d7070162ae197aa8ab9c03f867abfe24/index.m3u8?",
+          "referer": "https://iplayer.is/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/AKKKaAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
