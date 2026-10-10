@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 05:07:10 PM BST",
-  "last_updated_iso": "2026-10-10T11:07:10.912Z",
+  "last_updated": "10 Oct 2026, 05:08:11 PM BST",
+  "last_updated_iso": "2026-10-10T11:08:11.483Z",
   "total_events": 378,
   "events": [
     {
@@ -236,7 +236,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Caz?TV-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "206",
