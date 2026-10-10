@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 05:54:13 AM BST",
-  "last_updated_iso": "2026-10-10T23:54:13.881Z",
+  "last_updated": "11 Oct 2026, 05:55:15 AM BST",
+  "last_updated_iso": "2026-10-10T23:55:15.208Z",
   "total_events": 301,
   "events": [
     {
@@ -27,6 +27,13 @@
           "name": "Server - 2",
           "url": "https://live4.dyrur1.com/live/66299618_35ed41776dcd761ad2338ee3cd8a50f0_720p.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://hls.hockey.do/secure_hls.php?path=f6a214cf886d35a5591087d6a8ca8d58%2Findex.m3u8&e=1791678142&sig=ohCRBThfmk5_taAsLWTAGPmeUtnmGxiMmWcP8rUfC2k&v=1791676342-6030",
+          "referer": "https://matchli.st/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
