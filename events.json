@@ -1,7 +1,7 @@
 {
-  "last_updated": "10 Oct 2026, 07:04:13 PM BST",
-  "last_updated_iso": "2026-10-10T13:04:13.107Z",
-  "total_events": 378,
+  "last_updated": "10 Oct 2026, 07:05:13 PM BST",
+  "last_updated_iso": "2026-10-10T13:05:13.903Z",
+  "total_events": 375,
   "events": [
     {
       "id": "1243",
@@ -105,72 +105,6 @@
           "name": "willow-alt",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1225",
-      "date": "10/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Osnabr?ck",
-      "team2": "Dynamo Dresden",
-      "logo1": "https://img.sofascore.com/api/v1/team/2581/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2595/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server 1",
-          "url": "http://193.47.62.44/hls/JIIIAAAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1226",
-      "date": "10/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Magdeburg",
-      "team2": "Hannover Regents",
-      "logo1": "https://img.sofascore.com/api/v1/team/2591/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2541/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server 1",
-          "url": "http://193.47.62.44/hls/JIIIAAAQ.m3u8?",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1227",
-      "date": "10/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Darmstadt 98",
-      "team2": "Energie Cottbus",
-      "logo1": "https://img.sofascore.com/api/v1/team/2576/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2532/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server 1",
-          "url": "http://193.47.62.44/hls/JIIIAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
