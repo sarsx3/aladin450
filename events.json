@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 07:27:12 PM BST",
-  "last_updated_iso": "2026-10-10T13:27:12.260Z",
+  "last_updated": "10 Oct 2026, 07:28:11 PM BST",
+  "last_updated_iso": "2026-10-10T13:28:11.025Z",
   "total_events": 375,
   "events": [
     {
@@ -422,6 +422,13 @@
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/0dae0294-a293-47d2-9a9f-b2e5e184a6df.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -478,6 +485,13 @@
           "name": "Server - 1",
           "url": "http://193.47.62.41/hls/KYYYAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/ca8fb2ed-68a6-47f9-b893-f2f5008dd43c.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
