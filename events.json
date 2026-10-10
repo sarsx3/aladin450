@@ -1,7 +1,7 @@
 {
-  "last_updated": "10 Oct 2026, 08:19:14 PM BST",
-  "last_updated_iso": "2026-10-10T14:19:14.113Z",
-  "total_events": 352,
+  "last_updated": "10 Oct 2026, 08:20:16 PM BST",
+  "last_updated_iso": "2026-10-10T14:20:16.262Z",
+  "total_events": 349,
   "events": [
     {
       "id": "1244",
@@ -263,20 +263,6 @@
       ]
     },
     {
-      "id": "1234",
-      "date": "10/10/2026",
-      "time": "7:50 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Hazm",
-      "team2": "NEOM SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/168086/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/530631/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "1188",
       "date": "10/10/2026",
       "time": "8:00 PM",
@@ -414,20 +400,6 @@
       ]
     },
     {
-      "id": "1198",
-      "date": "10/10/2026",
-      "time": "8:00 PM",
-      "league": "Football | Championship",
-      "team1": "Sheff Utd",
-      "team2": "Lincoln",
-      "logo1": "https://img.sofascore.com/api/v1/team/15/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/92/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "1238",
       "date": "10/10/2026",
       "time": "8:15 PM",
@@ -476,20 +448,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1231",
-      "date": "10/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Liga Portugal",
-      "team1": "Casa Pia",
-      "team2": "Santa Clara",
-      "logo1": "https://img.sofascore.com/api/v1/team/36365/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3011/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1235",
