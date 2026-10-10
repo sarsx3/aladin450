@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 05:45:17 AM BST",
-  "last_updated_iso": "2026-10-10T23:45:17.752Z",
+  "last_updated": "11 Oct 2026, 05:46:11 AM BST",
+  "last_updated_iso": "2026-10-10T23:46:11.131Z",
   "total_events": 301,
   "events": [
     {
@@ -20,6 +20,13 @@
           "name": "Server - 1",
           "url": "https://1cdn.syria-player.info/proxy.php?stream=apple.m3u8",
           "referer": "https://1cdn.syria-player.info/apple",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live4.dyrur1.com/live/66299618_35ed41776dcd761ad2338ee3cd8a50f0_720p.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
