@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 12:41:11 AM BST",
-  "last_updated_iso": "2026-10-10T18:41:11.001Z",
+  "last_updated": "11 Oct 2026, 12:42:11 AM BST",
+  "last_updated_iso": "2026-10-10T18:42:11.852Z",
   "total_events": 330,
   "events": [
     {
@@ -215,6 +215,13 @@
           "name": "hd quality",
           "url": "https://chatgpt.hereisman.net/playlist/57827/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
