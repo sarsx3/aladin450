@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 12:42:11 AM BST",
-  "last_updated_iso": "2026-10-10T18:42:11.852Z",
+  "last_updated": "11 Oct 2026, 12:43:11 AM BST",
+  "last_updated_iso": "2026-10-10T18:43:11.938Z",
   "total_events": 330,
   "events": [
     {
@@ -157,6 +157,20 @@
           "name": "Server - 1",
           "url": "https://instreams.xyz/live3/tv761846/index.m3u8?st=s8qZSdhoh4SietEUW-wkWA&e=1791666010",
           "referer": "https://xstream.st/livetv.php?stream=tv761846",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "TSN3 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://chatgpt.hereisman.net/playlist/57825/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
