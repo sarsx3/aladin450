@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 06:11:10 PM BST",
-  "last_updated_iso": "2026-10-10T12:11:10.353Z",
+  "last_updated": "10 Oct 2026, 06:12:12 PM BST",
+  "last_updated_iso": "2026-10-10T12:12:12.099Z",
   "total_events": 379,
   "events": [
     {
@@ -407,6 +407,20 @@
           "name": "tapmad-aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd-server",
+          "url": "https://chatgpt.hereisman.net/playlist/57780/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low-server",
+          "url": "http://193.47.62.41/hls/R777AAAAAAQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
