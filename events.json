@@ -1,13 +1,13 @@
 {
-  "last_updated": "10 Oct 2026, 11:41:10 AM BST",
-  "last_updated_iso": "2026-10-10T05:41:10.392Z",
+  "last_updated": "10 Oct 2026, 11:42:12 AM BST",
+  "last_updated_iso": "2026-10-10T05:42:12.242Z",
   "total_events": 383,
   "events": [
     {
       "id": "1243",
       "date": "10/10/2026",
       "time": "11:30 AM",
-      "league": "Cricket | AFG vs BAN ? One-off Test, Day 2",
+      "league": "Cricket | international Test Series",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
