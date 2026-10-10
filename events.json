@@ -1,30 +1,8 @@
 {
-  "last_updated": "10 Oct 2026, 09:33:12 PM BST",
-  "last_updated_iso": "2026-10-10T15:33:12.254Z",
-  "total_events": 343,
+  "last_updated": "10 Oct 2026, 09:34:11 PM BST",
+  "last_updated_iso": "2026-10-10T15:34:11.737Z",
+  "total_events": 341,
   "events": [
-    {
-      "id": "1234",
-      "date": "10/10/2026",
-      "time": "7:50 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Hazm",
-      "team2": "NEOM SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/168086/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/530631/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server 1",
-          "url": "https://www.rtmpcdn.com/live/35707d90-7321-4471-a9c9-a3304b7b71c1.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1188",
       "date": "10/10/2026",
@@ -211,20 +189,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1235",
-      "date": "10/10/2026",
-      "time": "8:55 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ettifaq",
-      "team2": "Al Khaleej",
-      "logo1": "https://img.sofascore.com/api/v1/team/34318/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/167228/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1217",
