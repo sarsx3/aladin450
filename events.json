@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 12:58:14 AM BST",
-  "last_updated_iso": "2026-10-10T18:58:14.708Z",
+  "last_updated": "11 Oct 2026, 12:59:12 AM BST",
+  "last_updated_iso": "2026-10-10T18:59:12.010Z",
   "total_events": 330,
   "events": [
     {
@@ -249,6 +249,13 @@
         {
           "name": "hd quality",
           "url": "https://www.rtmpcdn.com/live/0dc56a3e-d999-4fc0-9f0d-1ba70cc74b97.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://1cdn.syria-player.info/proxy.php?stream=bein1.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
