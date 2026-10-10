@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 10:14:16 PM BST",
-  "last_updated_iso": "2026-10-10T16:14:16.019Z",
+  "last_updated": "10 Oct 2026, 10:15:19 PM BST",
+  "last_updated_iso": "2026-10-10T16:15:19.098Z",
   "total_events": 337,
   "events": [
     {
@@ -179,6 +179,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZDk2MjM3NzRhYzVjOGMzNTFhYWZlOTdjNWZlNzAyNjc6NTE2NGU2ZDA1MTY0YTJkNjVmYThmY2M5NjJhYTQ4NjE="
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://edgestream6.pro/hls/syaLqucEne4k.m3u8",
+          "referer": "https://streame.center",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
