@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 12:39:12 AM BST",
-  "last_updated_iso": "2026-10-10T18:39:12.281Z",
+  "last_updated": "11 Oct 2026, 12:40:19 AM BST",
+  "last_updated_iso": "2026-10-10T18:40:19.680Z",
   "total_events": 330,
   "events": [
     {
@@ -174,7 +174,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "ESPN1 ARGENTINA FHD",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd?|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1257",
