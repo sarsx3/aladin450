@@ -1,7 +1,7 @@
 {
-  "last_updated": "10 Oct 2026, 05:04:12 PM BST",
-  "last_updated_iso": "2026-10-10T11:04:12.474Z",
-  "total_events": 381,
+  "last_updated": "10 Oct 2026, 05:05:13 PM BST",
+  "last_updated_iso": "2026-10-10T11:05:13.043Z",
+  "total_events": 378,
   "events": [
     {
       "id": "1243",
@@ -109,48 +109,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1225",
-      "date": "10/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Osnabr?ck",
-      "team2": "Dynamo Dresden",
-      "logo1": "https://img.sofascore.com/api/v1/team/2581/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2595/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1226",
-      "date": "10/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Magdeburg",
-      "team2": "Hannover Regents",
-      "logo1": "https://img.sofascore.com/api/v1/team/2591/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2541/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1227",
-      "date": "10/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Darmstadt 98",
-      "team2": "Energie Cottbus",
-      "logo1": "https://img.sofascore.com/api/v1/team/2576/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2532/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1187",
