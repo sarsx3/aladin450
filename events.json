@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Oct 2026, 11:24:11 PM BST",
-  "last_updated_iso": "2026-10-10T17:24:11.856Z",
+  "last_updated": "10 Oct 2026, 11:25:14 PM BST",
+  "last_updated_iso": "2026-10-10T17:25:14.602Z",
   "total_events": 335,
   "events": [
     {
@@ -334,6 +334,13 @@
           "name": "Server - 1",
           "url": "https://netanjahu.hls.st/t/ae311dd89ac213ca4273bef4ca4f96c8/index.m3u8",
           "referer": "https://iplayer.is/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toronto-fc-vs-cf-montr-al/2/playlist.m3u8?tk=gpAdj78nRBjRNhl5u5JZ3g&e=1791694815",
+          "referer": "https://ondemand.st/embed/?id=mls/2026-10-10/tor-mtl",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
