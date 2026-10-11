@@ -1,7 +1,7 @@
 {
-  "last_updated": "11 Oct 2026, 02:16:11 PM BST",
-  "last_updated_iso": "2026-10-11T08:16:11.187Z",
-  "total_events": 297,
+  "last_updated": "11 Oct 2026, 02:17:10 PM BST",
+  "last_updated_iso": "2026-10-11T08:17:10.920Z",
+  "total_events": 296,
   "events": [
     {
       "id": "1301",
@@ -45,20 +45,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "207",
-      "date": "11/10/2026",
-      "time": "1:00 PM",
-      "league": "Motorsport | MotoGP Indonesian GP",
-      "team1": "MotoGP",
-      "team2": "MotoGP",
-      "logo1": "https://img.sofascore.com/api/v1/category/1325/image",
-      "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": []
     },
     {
       "id": "1302",
