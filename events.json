@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 06:08:11 AM BST",
-  "last_updated_iso": "2026-10-11T00:08:11.849Z",
+  "last_updated": "11 Oct 2026, 06:09:10 AM BST",
+  "last_updated_iso": "2026-10-11T00:09:10.177Z",
   "total_events": 301,
   "events": [
     {
@@ -34,6 +34,13 @@
           "name": "Server - 3",
           "url": "https://hls.hockey.do/secure_hls.php?path=f6a214cf886d35a5591087d6a8ca8d58%2Findex.m3u8&e=1791678142&sig=ohCRBThfmk5_taAsLWTAGPmeUtnmGxiMmWcP8rUfC2k&v=1791676342-6030",
           "referer": "https://matchli.st/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://scontent.fdac27-2.fna.fbcdn.net/hvideo-prn-atn/_nc_cat-105/_nc_sr_t-4/v/rASe6eGvK3TBKtjV3OL4AFxWd_SLrKWQutFgY0jIWV9KN9g/_nc_ohc-KozKxY4TCcMQ7kNvwFbh4St/live-dash/dash-abr-ibr-audio/122179446146957861.mpd?_nc_eui2=AeEvagMxnvclDBFITiIbmbpYkWVh2oinhQyRZWHaiKeFDA4CE7csRyZQTVDjob8O6hPuO8z-Ed1HafpVrnGnellR&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=0&sc_t=1&oh=00_AQM2kZsaYJ2nFJavZNjaMNTwo-QUZDEcLkX9Dr-h9WYGkw&oe=6ACCC032",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
