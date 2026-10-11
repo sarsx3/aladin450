@@ -1,7 +1,7 @@
 {
-  "last_updated": "11 Oct 2026, 11:42:12 PM BST",
-  "last_updated_iso": "2026-10-11T17:42:12.221Z",
-  "total_events": 266,
+  "last_updated": "11 Oct 2026, 11:43:10 PM BST",
+  "last_updated_iso": "2026-10-11T17:43:10.415Z",
+  "total_events": 265,
   "events": [
     {
       "id": "1273",
@@ -152,20 +152,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1250",
-      "date": "11/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Liga Profesional",
-      "team1": "San Lorenzo",
-      "team2": "Deportivo Riestra",
-      "logo1": "https://img.sofascore.com/api/v1/team/3201/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/189723/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1307",
