@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Oct 2026, 12:27:10 AM BST",
-  "last_updated_iso": "2026-10-11T18:27:10.820Z",
+  "last_updated": "12 Oct 2026, 12:28:15 AM BST",
+  "last_updated_iso": "2026-10-11T18:28:15.448Z",
   "total_events": 265,
   "events": [
     {
@@ -180,7 +180,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "BEIN3 SPORTS-AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BEIN SPORTS HD",
+          "url": "https://edgestream1.pro/hls/dza5z8f69.m3u8",
+          "referer": "https://streame.center",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1309",
