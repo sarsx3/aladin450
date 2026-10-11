@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 02:57:10 PM BST",
-  "last_updated_iso": "2026-10-11T08:57:10.911Z",
+  "last_updated": "11 Oct 2026, 02:58:11 PM BST",
+  "last_updated_iso": "2026-10-11T08:58:11.750Z",
   "total_events": 296,
   "events": [
     {
@@ -104,6 +104,13 @@
         {
           "name": "a sports",
           "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://001.cdnplayer.eu/live/csstream3/chunklist.m3u8?vidictid=207378990026&id=1003&pk=11610a315ce224d69ccaa6eefe427320123ac668175cab4fa723a8d26c70079acd7e565bb6063d7499c80486c9bf93358cf2018f2e29ef8e0f45d78c7c332d34",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
