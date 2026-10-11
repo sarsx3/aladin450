@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 02:53:11 PM BST",
-  "last_updated_iso": "2026-10-11T08:53:11.403Z",
+  "last_updated": "11 Oct 2026, 02:54:14 PM BST",
+  "last_updated_iso": "2026-10-11T08:54:14.597Z",
   "total_events": 296,
   "events": [
     {
@@ -40,6 +40,13 @@
         {
           "name": "t sports-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://001.cdnplayer.eu/live/csstream4/chunklist.m3u8?vidictid=207373996170&id=1004&pk=11610a315ce224d69ccaa6eefe427320123ac668175cab4fa723a8d26c70079acd7e565bb6063d7499c80486c9bf93358cf2018f2e29ef8e0f45d78c7c332d34",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
