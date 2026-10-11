@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 09:21:12 AM BST",
-  "last_updated_iso": "2026-10-11T03:21:12.611Z",
+  "last_updated": "11 Oct 2026, 09:22:10 AM BST",
+  "last_updated_iso": "2026-10-11T03:22:10.679Z",
   "total_events": 300,
   "events": [
     {
@@ -14,7 +14,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2502/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Server - 1",
@@ -57,7 +57,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1962/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "PREMIERER1 FHD",
