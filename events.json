@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 04:48:12 PM BST",
-  "last_updated_iso": "2026-10-11T10:48:12.401Z",
+  "last_updated": "11 Oct 2026, 04:49:10 PM BST",
+  "last_updated_iso": "2026-10-11T10:49:10.213Z",
   "total_events": 295,
   "events": [
     {
@@ -205,6 +205,27 @@
           "name": "cbs sports-aq",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
           "referer": "https://amazon.com",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "bd - 1",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791802025~_GO=Generated~acl=/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/*~SessionID=1890000065807_fc-web_88454ed9-d5fc-47~Signature=AdJJtMMufHQe9rB0h_mEN7m4KkThWH2r9MwOwfFb4-3taeHnLN9JxAEnwcAVhnDJMwqGcVc2mqHvbwcfRfnZx0P4e3YB",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "bd - 2",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/720p.m3u8?hdntl=Expires=1791802025~_GO=Generated~acl=/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/*~SessionID=1890000065807_fc-web_88454ed9-d5fc-47~Signature=AdJJtMMufHQe9rB0h_mEN7m4KkThWH2r9MwOwfFb4-3taeHnLN9JxAEnwcAVhnDJMwqGcVc2mqHvbwcfRfnZx0P4e3YB",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=Znm0j43qKCy0TBuHXeCr0g&expires=1791720410&ch=spch40&s=7b7001789fbf246d10bcc7ce7caf7b17",
+          "referer": "https://playerdee.top/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
