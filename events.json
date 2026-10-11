@@ -1,8 +1,22 @@
 {
-  "last_updated": "11 Oct 2026, 09:23:10 AM BST",
-  "last_updated_iso": "2026-10-11T03:23:10.454Z",
+  "last_updated": "11 Oct 2026, 09:24:14 AM BST",
+  "last_updated_iso": "2026-10-11T03:24:14.337Z",
   "total_events": 300,
   "events": [
+    {
+      "id": "1301",
+      "date": "11/10/2026",
+      "time": "12:00 AM",
+      "league": "Cricket | international Test Series",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
     {
       "id": "1293",
       "date": "11/10/2026",
@@ -74,20 +88,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1301",
-      "date": "11/10/2026",
-      "time": "11:30 AM",
-      "league": "Cricket | international Test Series",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "207",
