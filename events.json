@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 07:42:12 PM BST",
-  "last_updated_iso": "2026-10-11T13:42:12.460Z",
+  "last_updated": "11 Oct 2026, 07:43:10 PM BST",
+  "last_updated_iso": "2026-10-11T13:43:10.794Z",
   "total_events": 288,
   "events": [
     {
@@ -530,7 +530,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.59/hls/NCCCAAQQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1282",
