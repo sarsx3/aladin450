@@ -1,7 +1,7 @@
 {
-  "last_updated": "11 Oct 2026, 05:34:11 PM BST",
-  "last_updated_iso": "2026-10-11T11:34:11.102Z",
-  "total_events": 295,
+  "last_updated": "11 Oct 2026, 05:35:15 PM BST",
+  "last_updated_iso": "2026-10-11T11:35:15.333Z",
+  "total_events": 292,
   "events": [
     {
       "id": "1301",
@@ -237,48 +237,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1266",
-      "date": "11/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Bochum",
-      "team2": "Arminia",
-      "logo1": "https://img.sofascore.com/api/v1/team/2542/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2540/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1267",
-      "date": "11/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Hertha BSC",
-      "team2": "Furth",
-      "logo1": "https://img.sofascore.com/api/v1/team/2528/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2551/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1268",
-      "date": "11/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "St. Pauli",
-      "team2": "Karlsruher",
-      "logo1": "https://img.sofascore.com/api/v1/team/2526/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2553/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1303",
