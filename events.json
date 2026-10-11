@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 05:59:10 PM BST",
-  "last_updated_iso": "2026-10-11T11:59:10.461Z",
+  "last_updated": "11 Oct 2026, 06:00:24 PM BST",
+  "last_updated_iso": "2026-10-11T12:00:24.442Z",
   "total_events": 291,
   "events": [
     {
@@ -235,6 +235,13 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "cbs sports-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "referer": "https://amazon.com",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZDk2MjM3NzRhYzVjOGMzNTFhYWZlOTdjNWZlNzAyNjc6NTE2NGU2ZDA1MTY0YTJkNjVmYThmY2M5NjJhYTQ4NjE="
         }
       ]
     },
