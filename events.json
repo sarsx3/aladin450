@@ -1,7 +1,7 @@
 {
-  "last_updated": "11 Oct 2026, 09:41:11 PM BST",
-  "last_updated_iso": "2026-10-11T15:41:11.498Z",
-  "total_events": 276,
+  "last_updated": "11 Oct 2026, 09:42:12 PM BST",
+  "last_updated_iso": "2026-10-11T15:42:12.544Z",
+  "total_events": 275,
   "events": [
     {
       "id": "1305",
@@ -41,28 +41,6 @@
           "name": "willow-alt",
           "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd?|drmScheme=clearkey&drmLicense=acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1278",
-      "date": "11/10/2026",
-      "time": "7:40 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Feiha",
-      "team2": "Al Riyadh",
-      "logo1": "https://img.sofascore.com/api/v1/team/168094/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/168088/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.59/hls/NCCCAAQQQA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -342,6 +320,13 @@
         {
           "name": "t sports-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "WILLOW-AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agalsxsze1/out/v1/d7586764e3e34a3f8def92bc2425a80f/cenc.mpd?|drmScheme=clearkey&drmLicense=fb6564bd84e4d819a92ca9abf6ad4077:b4f83a12e123f3abef6a298c1497c22d",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
