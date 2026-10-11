@@ -1,7 +1,7 @@
 {
-  "last_updated": "11 Oct 2026, 03:54:11 PM BST",
-  "last_updated_iso": "2026-10-11T09:54:11.665Z",
-  "total_events": 296,
+  "last_updated": "11 Oct 2026, 03:55:14 PM BST",
+  "last_updated_iso": "2026-10-11T09:55:14.484Z",
+  "total_events": 295,
   "events": [
     {
       "id": "1301",
@@ -2328,28 +2328,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1459",
-      "date": "11/10/2026",
-      "time": "9:50 AM",
-      "league": "Cricket | ICC Women's Championship",
-      "team1": "Australia Women",
-      "team2": "Bangladesh Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/213117/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187809/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MjkwZTA5YzgzN2RhNzhkNWNkOTYxOTc4ZDM5MDUxNWM6Yjc0ODgzNmM3MWU2YTRjYTY4ZWY1YjU2NTJkYjYyNDc="
-        }
-      ]
     },
     {
       "id": "1460",
