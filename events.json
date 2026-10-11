@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 07:27:10 PM BST",
-  "last_updated_iso": "2026-10-11T13:27:10.849Z",
+  "last_updated": "11 Oct 2026, 07:28:19 PM BST",
+  "last_updated_iso": "2026-10-11T13:28:19.115Z",
   "total_events": 289,
   "events": [
     {
@@ -513,6 +513,13 @@
           "name": "Myco - Aq",
           "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/730724ec-614f-4553-ad93-463f03e2baea.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
