@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 08:16:12 PM BST",
-  "last_updated_iso": "2026-10-11T14:16:12.286Z",
+  "last_updated": "11 Oct 2026, 08:17:11 PM BST",
+  "last_updated_iso": "2026-10-11T14:17:11.603Z",
   "total_events": 288,
   "events": [
     {
@@ -595,7 +595,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8?|drmScheme=clearkey&drmLicense=bc1ba12f4bf63bdd174fa9d781619371:0612fbf17cca145bf907cceffed162ab",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1275",
