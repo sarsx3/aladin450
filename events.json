@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 05:27:10 PM BST",
-  "last_updated_iso": "2026-10-11T11:27:10.118Z",
+  "last_updated": "11 Oct 2026, 05:28:12 PM BST",
+  "last_updated_iso": "2026-10-11T11:28:12.152Z",
   "total_events": 295,
   "events": [
     {
@@ -226,6 +226,13 @@
           "name": "Server - 1",
           "url": "https://dz5.bhalocast.pro:7059/hls/spch40.m3u8?md5=Znm0j43qKCy0TBuHXeCr0g&expires=1791720410&ch=spch40&s=7b7001789fbf246d10bcc7ce7caf7b17",
           "referer": "https://playerdee.top/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://tedesco.formaturamaxi.com.br/golazo.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
