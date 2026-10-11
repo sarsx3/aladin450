@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 12:11:10 PM BST",
-  "last_updated_iso": "2026-10-11T06:11:10.450Z",
+  "last_updated": "11 Oct 2026, 12:12:12 PM BST",
+  "last_updated_iso": "2026-10-11T06:12:12.278Z",
   "total_events": 297,
   "events": [
     {
@@ -19,13 +19,6 @@
         {
           "name": "T Sports HD",
           "url": "http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
-        {
-          "name": "T Sports aq",
-          "url": "https://bdixtvbd.netlify.app/stream/sports1/playlist.m3u8",
           "referer": "",
           "userAgent": "",
           "drm": ""
