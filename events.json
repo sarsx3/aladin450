@@ -1,7 +1,7 @@
 {
-  "last_updated": "12 Oct 2026, 01:41:10 AM BST",
-  "last_updated_iso": "2026-10-11T19:41:10.637Z",
-  "total_events": 262,
+  "last_updated": "12 Oct 2026, 01:42:11 AM BST",
+  "last_updated_iso": "2026-10-11T19:42:11.973Z",
+  "total_events": 257,
   "events": [
     {
       "id": "1307",
@@ -227,48 +227,6 @@
       ]
     },
     {
-      "id": "1313",
-      "date": "12/10/2026",
-      "time": "1:30 AM",
-      "league": "Football | Liga Portugal",
-      "team1": "Arouca",
-      "team2": "Amadora",
-      "logo1": "https://img.sofascore.com/api/v1/team/25777/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3035/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1314",
-      "date": "12/10/2026",
-      "time": "2:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Rosario Central",
-      "team2": "Independiente Rivadavia",
-      "logo1": "https://img.sofascore.com/api/v1/team/3217/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36842/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1315",
-      "date": "12/10/2026",
-      "time": "2:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Platense",
-      "team2": "Argentinos Juniors",
-      "logo1": "https://img.sofascore.com/api/v1/team/36837/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3216/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "1316",
       "date": "12/10/2026",
       "time": "2:30 AM",
@@ -334,34 +292,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/1955/image",
       "logo2": "https://img.sofascore.com/api/v1/team/21982/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1321",
-      "date": "12/10/2026",
-      "time": "5:00 AM",
-      "league": "Football | MLS",
-      "team1": "St. Louis City",
-      "team2": "LA Galaxy",
-      "logo1": "https://img.sofascore.com/api/v1/team/407803/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2513/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1322",
-      "date": "12/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Talleres",
-      "team2": "Independiente",
-      "logo1": "https://img.sofascore.com/api/v1/team/3210/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3209/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
