@@ -1,58 +1,8 @@
 {
-  "last_updated": "11 Oct 2026, 07:40:16 PM BST",
-  "last_updated_iso": "2026-10-11T13:40:16.772Z",
-  "total_events": 289,
+  "last_updated": "11 Oct 2026, 07:41:10 PM BST",
+  "last_updated_iso": "2026-10-11T13:41:10.931Z",
+  "total_events": 288,
   "events": [
-    {
-      "id": "1301",
-      "date": "11/10/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | international Test Series",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "T Sports HD",
-          "url": "http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
-        {
-          "name": "T Sports",
-          "url": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "t sports-hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://001.cdnplayer.eu/live/csstream4/chunklist.m3u8?vidictid=207373996170&id=1004&pk=11610a315ce224d69ccaa6eefe427320123ac668175cab4fa723a8d26c70079acd7e565bb6063d7499c80486c9bf93358cf2018f2e29ef8e0f45d78c7c332d34",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1302",
       "date": "11/10/2026",
