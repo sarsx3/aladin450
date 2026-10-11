@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Oct 2026, 10:59:10 PM BST",
-  "last_updated_iso": "2026-10-11T16:59:10.380Z",
+  "last_updated": "11 Oct 2026, 11:00:25 PM BST",
+  "last_updated_iso": "2026-10-11T17:00:25.155Z",
   "total_events": 271,
   "events": [
     {
@@ -362,6 +362,13 @@
           "name": "tapmad-aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/ef794ea1-61a0-41e8-8986-36f22b7b390f.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
