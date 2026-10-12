@@ -1,7 +1,7 @@
 {
-  "last_updated": "12 Oct 2026, 08:01:15 PM BST",
-  "last_updated_iso": "2026-10-12T14:01:15.601Z",
-  "total_events": 274,
+  "last_updated": "12 Oct 2026, 08:02:12 PM BST",
+  "last_updated_iso": "2026-10-12T14:02:12.924Z",
+  "total_events": 273,
   "events": [
     {
       "id": "1324",
@@ -68,28 +68,6 @@
       ]
     },
     {
-      "id": "1325",
-      "date": "12/10/2026",
-      "time": "6:00 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Valladolid",
-      "team2": "Albacete",
-      "logo1": "https://img.sofascore.com/api/v1/team/2831/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2848/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1326",
       "date": "12/10/2026",
       "time": "7:45 PM",
@@ -130,7 +108,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1328",
