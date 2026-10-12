@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Oct 2026, 10:29:11 PM BST",
-  "last_updated_iso": "2026-10-12T16:29:11.356Z",
+  "last_updated": "12 Oct 2026, 10:30:22 PM BST",
+  "last_updated_iso": "2026-10-12T16:30:22.967Z",
   "total_events": 270,
   "events": [
     {
@@ -77,6 +77,13 @@
           "name": "fancode-aq",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Bein Sports 1",
+          "url": "https://icwibb.shootwithyalla.online/hls/ch1/live/index.m3u8",
+          "referer": "https://new.onlineworldcupfifa.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
