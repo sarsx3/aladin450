@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Oct 2026, 07:31:15 PM BST",
-  "last_updated_iso": "2026-10-12T13:31:15.284Z",
+  "last_updated": "12 Oct 2026, 07:32:14 PM BST",
+  "last_updated_iso": "2026-10-12T13:32:14.038Z",
   "total_events": 275,
   "events": [
     {
@@ -179,7 +179,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "tapmad-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1327",
