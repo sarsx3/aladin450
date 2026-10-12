@@ -1,86 +1,8 @@
 {
-  "last_updated": "12 Oct 2026, 07:58:17 PM BST",
-  "last_updated_iso": "2026-10-12T13:58:17.559Z",
-  "total_events": 275,
+  "last_updated": "12 Oct 2026, 07:59:13 PM BST",
+  "last_updated_iso": "2026-10-12T13:59:13.146Z",
+  "total_events": 274,
   "events": [
-    {
-      "id": "1323",
-      "date": "12/10/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | international Test Series",
-      "team1": "Afghanistan",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "T Sports Hd",
-          "url": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "t sports-hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "willow sports-aq",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-hd",
-          "url": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "Y2M3OTUwODI3MTVlMzk1ODViYjhiOTkxM2EyMDcyZGI6YjZhMTYxZDY0N2EzZTEzMTk2NDljYmFlMmVlMjU2YmY="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "Y2M3OTUwODI3MTVlMzk1ODViYjhiOTkxM2EyMDcyZGI6YjZhMTYxZDY0N2EzZTEzMTk2NDljYmFlMmVlMjU2YmY="
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "Y2M3OTUwODI3MTVlMzk1ODViYjhiOTkxM2EyMDcyZGI6YjZhMTYxZDY0N2EzZTEzMTk2NDljYmFlMmVlMjU2YmY="
-        },
-        {
-          "name": "peo SPORTS-aq",
-          "url": "https://str001.peotv.lk/drmchtr2/live/peo-sports-0137-dash/manifest.mpd?|drmScheme=clearkey&drmLicense=3942bb0dd3a2c6c22814705725e22885:8cea7d844678df5ad86bf851d27a7f69",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1324",
       "date": "12/10/2026",
