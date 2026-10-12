@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Oct 2026, 12:58:11 AM BST",
-  "last_updated_iso": "2026-10-12T18:58:11.931Z",
+  "last_updated": "13 Oct 2026, 12:59:10 AM BST",
+  "last_updated_iso": "2026-10-12T18:59:10.830Z",
   "total_events": 266,
   "events": [
     {
@@ -227,6 +227,27 @@
           "name": "low quality",
           "url": "http://193.47.62.59/hls/FZZZZ.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality 2",
+          "url": "https://pull.gosh6.app/live/obs_16884902.m3u8?txSecret=3bc93d67a275576b3fa011fd3f5c3a62&txTime=6ad0ef7e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://icwibb.yallashoooootlive.online/hls/ch2/live/index.m3u8",
+          "referer": "https://new.onlineworldcupfifa.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://n13.ys.football/online/h45QXE027rU752nSnLtFoA/1791835035/main_480.m3u8",
+          "referer": "https://stream0.org/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
