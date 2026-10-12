@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Oct 2026, 01:36:13 PM BST",
-  "last_updated_iso": "2026-10-12T07:36:13.862Z",
+  "last_updated": "12 Oct 2026, 01:37:12 PM BST",
+  "last_updated_iso": "2026-10-12T07:37:12.226Z",
   "total_events": 275,
   "events": [
     {
@@ -71,6 +71,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "Y2M3OTUwODI3MTVlMzk1ODViYjhiOTkxM2EyMDcyZGI6YjZhMTYxZDY0N2EzZTEzMTk2NDljYmFlMmVlMjU2YmY="
+        },
+        {
+          "name": "peo SPORTS-aq",
+          "url": "https://str001.peotv.lk/drmchtr2/live/peo-sports-0137-dash/manifest.mpd?|drmScheme=clearkey&drmLicense=3942bb0dd3a2c6c22814705725e22885:8cea7d844678df5ad86bf851d27a7f69",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
