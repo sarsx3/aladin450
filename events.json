@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Oct 2026, 07:53:13 PM BST",
-  "last_updated_iso": "2026-10-12T13:53:13.217Z",
+  "last_updated": "12 Oct 2026, 07:54:12 PM BST",
+  "last_updated_iso": "2026-10-12T13:54:12.549Z",
   "total_events": 275,
   "events": [
     {
@@ -184,6 +184,13 @@
           "name": "tapmad-aq",
           "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.44/hls/YFFFAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
