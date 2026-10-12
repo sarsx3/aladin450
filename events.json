@@ -1,30 +1,8 @@
 {
-  "last_updated": "12 Oct 2026, 10:22:13 PM BST",
-  "last_updated_iso": "2026-10-12T16:22:13.898Z",
-  "total_events": 271,
+  "last_updated": "12 Oct 2026, 10:23:14 PM BST",
+  "last_updated_iso": "2026-10-12T16:23:14.481Z",
+  "total_events": 270,
   "events": [
-    {
-      "id": "1327",
-      "date": "12/10/2026",
-      "time": "8:15 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Burgos",
-      "team2": "Granada",
-      "logo1": "https://img.sofascore.com/api/v1/team/2854/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/33779/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1328",
       "date": "12/10/2026",
@@ -142,6 +120,20 @@
           "name": "SPORT1 CZ-AQ",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/48e91178-39d6-423d-bf2c-0bbd3dcf43b9.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.55/hls/A555AAAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
