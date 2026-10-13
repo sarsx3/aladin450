@@ -1,95 +1,8 @@
 {
-  "last_updated": "13 Oct 2026, 10:53:11 PM BST",
-  "last_updated_iso": "2026-10-13T16:53:11.071Z",
-  "total_events": 309,
+  "last_updated": "13 Oct 2026, 10:54:13 PM BST",
+  "last_updated_iso": "2026-10-13T16:54:13.440Z",
+  "total_events": 305,
   "events": [
-    {
-      "id": "1",
-      "date": "13/10/2026",
-      "time": "8:00 PM",
-      "league": "Cricket | Atlanta Open T20",
-      "team1": "ICR Falcons",
-      "team2": "Central Cardinals",
-      "logo1": "https://atlantaopent20.com/__l5e/assets-v1/e82da5a9-22d8-4492-80c8-60cf484c5de1/icr-falcons.png",
-      "logo2": "https://atlantaopent20.com/__l5e/assets-v1/4ca02da1-ed46-4f90-8455-7425bf71cc92/central-cardinals.png",
-      "leagueLogo": "https://atlantaopent20.com/__l5e/assets-v1/d04d6b04-e674-433a-b05d-4fab54a47688/atlanta-open-logo.png",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "OGQ4YzdhMTk5ZDFkMzIwMWVkY2Q3N2FkMjNhNTY2MzY6NGVmOTkwYTNkYTgwMjVlZGU4MWU4YjJkYmUxNThlZWU="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "OGQ4YzdhMTk5ZDFkMzIwMWVkY2Q3N2FkMjNhNTY2MzY6NGVmOTkwYTNkYTgwMjVlZGU4MWU4YjJkYmUxNThlZWU="
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "date": "13/10/2026",
-      "time": "8:15 PM",
-      "league": "Cricket | Atlanta Open T20",
-      "team1": "Prime Gladiators",
-      "team2": "Atlanta Force",
-      "logo1": "https://atlantaopent20.com/__l5e/assets-v1/c7dd6180-4351-48a2-aff6-7a9c9d3290d4/prime-gladiators.png",
-      "logo2": "https://atlantaopent20.com/__l5e/assets-v1/ba40579a-f7f3-47f8-99a4-3252675140c0/atlanta-force.png",
-      "leagueLogo": "https://atlantaopent20.com/__l5e/assets-v1/d04d6b04-e674-433a-b05d-4fab54a47688/atlanta-open-logo.png",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YmNmMzFhZjRmYjAwNjYxYTI5OWZkZDI3NjkxOTFjM2U6MjcyMjdlNWQ5NjkyNmQ2YjNlNjQ0MGMzYjk5ZDZhYjQ="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YmNmMzFhZjRmYjAwNjYxYTI5OWZkZDI3NjkxOTFjM2U6MjcyMjdlNWQ5NjkyNmQ2YjNlNjQ0MGMzYjk5ZDZhYjQ="
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "date": "13/10/2026",
-      "time": "8:30 PM",
-      "league": "Cricket | Atlanta Open T20",
-      "team1": "Atlanta Lightning",
-      "team2": "Bay Blazers",
-      "logo1": "https://atlantaopent20.com/__l5e/assets-v1/2720f584-27dc-45a6-a734-c10074f82278/atlanta-lightning.png",
-      "logo2": "https://atlantaopent20.com/__l5e/assets-v1/49e554b0-8aa1-42b9-8535-71ed0430e89c/bay-blazers.png",
-      "leagueLogo": "https://atlantaopent20.com/__l5e/assets-v1/d04d6b04-e674-433a-b05d-4fab54a47688/atlanta-open-logo.png",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MWU1MmYxMzZhNDg2ODIwYzNiZWRlZWE2ODY5OTAzYWI6ZjI3MjY0OWVjMWI3ZjQ0MTk4YTYyZjAxZGEwZTM4YTM="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MWU1MmYxMzZhNDg2ODIwYzNiZWRlZWE2ODY5OTAzYWI6ZjI3MjY0OWVjMWI3ZjQ0MTk4YTYyZjAxZGEwZTM4YTM="
-        }
-      ]
-    },
     {
       "id": "50",
       "date": "14/10/2026",
@@ -103,56 +16,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1350",
-      "date": "13/10/2026",
-      "time": "9:00 PM",
-      "league": "Cricket | International T20I Series",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZWRlNjM4NjA3ODIzODA1ZTc3Njc3ODRlNDU1ODI5MmI6OTFmY2NjNTdjMDU4MjE4YzJhMjJmYTIxZjM3OGExYWY="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZWRlNjM4NjA3ODIzODA1ZTc3Njc3ODRlNDU1ODI5MmI6OTFmY2NjNTdjMDU4MjE4YzJhMjJmYTIxZjM3OGExYWY="
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1351",
