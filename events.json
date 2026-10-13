@@ -1,51 +1,8 @@
 {
-  "last_updated": "13 Oct 2026, 08:07:11 PM BST",
-  "last_updated_iso": "2026-10-13T14:07:11.993Z",
-  "total_events": 332,
+  "last_updated": "13 Oct 2026, 08:08:13 PM BST",
+  "last_updated_iso": "2026-10-13T14:08:13.377Z",
+  "total_events": 330,
   "events": [
-    {
-      "id": "1",
-      "date": "13/10/2026",
-      "time": "8:00 PM",
-      "league": "Cricket | Atlanta Open T20",
-      "team1": "ICR Falcons",
-      "team2": "Central Cardinals",
-      "logo1": "https://atlantaopent20.com/__l5e/assets-v1/e82da5a9-22d8-4492-80c8-60cf484c5de1/icr-falcons.png",
-      "logo2": "https://atlantaopent20.com/__l5e/assets-v1/4ca02da1-ed46-4f90-8455-7425bf71cc92/central-cardinals.png",
-      "leagueLogo": "https://atlantaopent20.com/__l5e/assets-v1/d04d6b04-e674-433a-b05d-4fab54a47688/atlanta-open-logo.png",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "OGQ4YzdhMTk5ZDFkMzIwMWVkY2Q3N2FkMjNhNTY2MzY6NGVmOTkwYTNkYTgwMjVlZGU4MWU4YjJkYmUxNThlZWU="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "OGQ4YzdhMTk5ZDFkMzIwMWVkY2Q3N2FkMjNhNTY2MzY6NGVmOTkwYTNkYTgwMjVlZGU4MWU4YjJkYmUxNThlZWU="
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "date": "13/10/2026",
-      "time": "8:15 PM",
-      "league": "Cricket | Atlanta Open T20",
-      "team1": "Prime Gladiators",
-      "team2": "Atlanta Force",
-      "logo1": "https://atlantaopent20.com/__l5e/assets-v1/c7dd6180-4351-48a2-aff6-7a9c9d3290d4/prime-gladiators.png",
-      "logo2": "https://atlantaopent20.com/__l5e/assets-v1/ba40579a-f7f3-47f8-99a4-3252675140c0/atlanta-force.png",
-      "leagueLogo": "https://atlantaopent20.com/__l5e/assets-v1/d04d6b04-e674-433a-b05d-4fab54a47688/atlanta-open-logo.png",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": []
-    },
     {
       "id": "3",
       "date": "13/10/2026",
