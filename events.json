@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Oct 2026, 08:48:12 PM BST",
-  "last_updated_iso": "2026-10-13T14:48:12.155Z",
+  "last_updated": "13 Oct 2026, 08:49:16 PM BST",
+  "last_updated_iso": "2026-10-13T14:49:16.240Z",
   "total_events": 332,
   "events": [
     {
@@ -73,7 +73,22 @@
       "leagueLogo": "https://atlantaopent20.com/__l5e/assets-v1/d04d6b04-e674-433a-b05d-4fab54a47688/atlanta-open-logo.png",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MWU1MmYxMzZhNDg2ODIwYzNiZWRlZWE2ODY5OTAzYWI6ZjI3MjY0OWVjMWI3ZjQ0MTk4YTYyZjAxZGEwZTM4YTM="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MWU1MmYxMzZhNDg2ODIwYzNiZWRlZWE2ODY5OTAzYWI6ZjI3MjY0OWVjMWI3ZjQ0MTk4YTYyZjAxZGEwZTM4YTM="
+        }
+      ]
     },
     {
       "id": "4",
