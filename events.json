@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 01:19:14 AM BST",
-  "last_updated_iso": "2026-10-13T19:19:14.151Z",
+  "last_updated": "14 Oct 2026, 01:20:18 AM BST",
+  "last_updated_iso": "2026-10-13T19:20:18.287Z",
   "total_events": 301,
   "events": [
     {
@@ -440,6 +440,20 @@
           "name": "Server - 1",
           "url": "https://n11.ys.football/online/wlNvKMbzZP03CulF-EnxBQ/1791922116/tnt1_480.m3u8",
           "referer": "https://stream0.org/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/46a1ec93-a37e-4a2c-83e5-19855ca7ff5d.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/H999AA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
