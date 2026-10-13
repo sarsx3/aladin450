@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Oct 2026, 11:37:13 AM BST",
-  "last_updated_iso": "2026-10-13T05:37:13.939Z",
+  "last_updated": "13 Oct 2026, 11:38:12 AM BST",
+  "last_updated_iso": "2026-10-13T05:38:12.397Z",
   "total_events": 315,
   "events": [
     {
@@ -15,7 +15,36 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YTIyMTRmZGMwODRiOGI2M2U4MWU4NTM4ZjYxOTAyOGI6Mzg2MjNkZGQyZjY4Nzk3NTRlYjc5NmU3ZTgzNzc4YzI="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YTIyMTRmZGMwODRiOGI2M2U4MWU4NTM4ZjYxOTAyOGI6Mzg2MjNkZGQyZjY4Nzk3NTRlYjc5NmU3ZTgzNzc4YzI="
+        },
+        {
+          "name": "t sports-hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow-hd",
+          "url": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1341",
