@@ -1,7 +1,7 @@
 {
-  "last_updated": "13 Oct 2026, 08:55:15 PM BST",
-  "last_updated_iso": "2026-10-13T14:55:15.101Z",
-  "total_events": 332,
+  "last_updated": "13 Oct 2026, 08:56:15 PM BST",
+  "last_updated_iso": "2026-10-13T14:56:15.430Z",
+  "total_events": 329,
   "events": [
     {
       "id": "1",
@@ -369,114 +369,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1346",
-      "date": "13/10/2026",
-      "time": "5:30 PM",
-      "league": "Cricket | World Championship of Legends",
-      "team1": "South Africa Champions",
-      "team2": "England Champions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/VN.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/VL.png",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjY4ZWUxN2JiMDRlOTEyNjlmZTliN2FhMjU2Mzg0Njc6ZWE0YjQxNmU4Njk0ZmExZGNmOTJlM2I0YjMxOGM3ZDg="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjY4ZWUxN2JiMDRlOTEyNjlmZTliN2FhMjU2Mzg0Njc6ZWE0YjQxNmU4Njk0ZmExZGNmOTJlM2I0YjMxOGM3ZDg="
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1347",
-      "date": "13/10/2026",
-      "time": "6:15 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Buriram United",
-      "team2": "Beijing Guoan",
-      "logo1": "https://img.sofascore.com/api/v1/team/34218/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3376/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/6b650563-7fe5-4273-9b24-8d78baa1dd52.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.41/hls/FJJJAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1348",
-      "date": "13/10/2026",
-      "time": "6:15 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "C?ng An H? N?i",
-      "team2": "Kashima Antlers",
-      "logo1": "https://img.sofascore.com/api/v1/team/193616/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3134/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/71154d4e-2e1f-4f39-a98c-b744d20e00c4.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.41/hls/FJJJAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1349",
