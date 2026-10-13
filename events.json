@@ -1,7 +1,7 @@
 {
-  "last_updated": "14 Oct 2026, 02:55:14 AM BST",
-  "last_updated_iso": "2026-10-13T20:55:14.103Z",
-  "total_events": 299,
+  "last_updated": "14 Oct 2026, 02:56:12 AM BST",
+  "last_updated_iso": "2026-10-13T20:56:12.308Z",
+  "total_events": 293,
   "events": [
     {
       "id": "50",
@@ -793,138 +793,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1391",
-      "date": "14/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Championship",
-      "team1": "Wrexham",
-      "team2": "West Brom",
-      "logo1": "https://img.sofascore.com/api/v1/team/64/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/8/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/H333AAAAAQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1392",
-      "date": "14/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Championship",
-      "team1": "Wolves",
-      "team2": "Bolton",
-      "logo1": "https://img.sofascore.com/api/v1/team/3/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/H333AAAAAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1393",
-      "date": "14/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Championship",
-      "team1": "Millwall",
-      "team2": "Swansea",
-      "logo1": "https://img.sofascore.com/api/v1/team/25/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/74/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/H333AAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1394",
-      "date": "14/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Championship",
-      "team1": "Cardiff",
-      "team2": "Watford",
-      "logo1": "https://img.sofascore.com/api/v1/team/61/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/24/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/H333AAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1395",
-      "date": "14/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Championship",
-      "team1": "Burnley",
-      "team2": "Charlton",
-      "logo1": "https://img.sofascore.com/api/v1/team/6/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/47/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/H333AAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1396",
-      "date": "14/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Championship",
-      "team1": "Bristol City",
-      "team2": "Blackburn",
-      "logo1": "https://img.sofascore.com/api/v1/team/58/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/46/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/H333AA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1397",
