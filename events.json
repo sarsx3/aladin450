@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 01:58:13 AM BST",
-  "last_updated_iso": "2026-10-13T19:58:13.270Z",
+  "last_updated": "14 Oct 2026, 01:59:15 AM BST",
+  "last_updated_iso": "2026-10-13T19:59:15.431Z",
   "total_events": 300,
   "events": [
     {
@@ -375,6 +375,20 @@
           "name": "Server - 6",
           "url": "http://193.47.62.55/hls/H999AAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tggpszadss/out/v1/a088e2f35cd242d38f702c21ee36dfe5/e7a8bc98-8ba1-4f84-83ae-ed23698d63bf-cenc.mpd?aws_sessionId=0592a9cc-4bc9-45f5-bf66-41569976fc6e?|drmScheme=clearkey&drmLicense=32507c089197f338745c8ee60b7b72d4:7ee03c2fc10288cc846d2a8bade8134b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://chatgpt.hereisman.net/playlist/57993/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
