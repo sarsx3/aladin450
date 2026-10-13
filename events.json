@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 01:05:16 AM BST",
-  "last_updated_iso": "2026-10-13T19:05:16.104Z",
+  "last_updated": "14 Oct 2026, 01:06:17 AM BST",
+  "last_updated_iso": "2026-10-13T19:06:17.876Z",
   "total_events": 301,
   "events": [
     {
@@ -256,6 +256,20 @@
         {
           "name": "hd quality",
           "url": "https://yl.akbarnews.store/live/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://cte.voorerman.cam/lived1.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://cte.voorerman.cam/lived1_720/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
