@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 12:09:17 AM BST",
-  "last_updated_iso": "2026-10-13T18:09:17.893Z",
+  "last_updated": "14 Oct 2026, 12:10:19 AM BST",
+  "last_updated_iso": "2026-10-13T18:10:19.434Z",
   "total_events": 303,
   "events": [
     {
@@ -296,6 +296,13 @@
           "name": "tapmad-aq",
           "url": "https://vodintlv2.in-maa-1.linodeobjects.com/AFC2026/Elite/PERVIEW/AfcElitepromo/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.50/hls/YY666AAQQQQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
