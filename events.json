@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 12:04:12 AM BST",
-  "last_updated_iso": "2026-10-13T18:04:12.202Z",
+  "last_updated": "14 Oct 2026, 12:05:15 AM BST",
+  "last_updated_iso": "2026-10-13T18:05:15.126Z",
   "total_events": 303,
   "events": [
     {
@@ -291,7 +291,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "tapmad-aq",
+          "url": "https://vodintlv2.in-maa-1.linodeobjects.com/AFC2026/Elite/PERVIEW/AfcElitepromo/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1383",
