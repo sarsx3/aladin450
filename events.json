@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Oct 2026, 11:59:11 AM BST",
-  "last_updated_iso": "2026-10-13T05:59:11.388Z",
+  "last_updated": "13 Oct 2026, 12:00:27 PM BST",
+  "last_updated_iso": "2026-10-13T06:00:27.197Z",
   "total_events": 315,
   "events": [
     {
@@ -48,6 +48,20 @@
           "name": "tapmad-aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports-hd",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "a sports-hd",
+          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
