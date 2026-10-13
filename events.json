@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 12:49:13 AM BST",
-  "last_updated_iso": "2026-10-13T18:49:13.584Z",
+  "last_updated": "14 Oct 2026, 12:50:16 AM BST",
+  "last_updated_iso": "2026-10-13T18:50:16.619Z",
   "total_events": 303,
   "events": [
     {
@@ -165,7 +165,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1374",
@@ -230,7 +238,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1377",
@@ -244,7 +260,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1378",
