@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Oct 2026, 06:19:14 PM BST",
-  "last_updated_iso": "2026-10-13T12:19:14.598Z",
+  "last_updated": "13 Oct 2026, 06:20:16 PM BST",
+  "last_updated_iso": "2026-10-13T12:20:16.385Z",
   "total_events": 311,
   "events": [
     {
@@ -126,6 +126,13 @@
           "name": "low quality",
           "url": "http://193.47.62.50/hls/HHHHRX.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "fox cricket",
+          "url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
