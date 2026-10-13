@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 02:25:16 AM BST",
-  "last_updated_iso": "2026-10-13T20:25:16.720Z",
+  "last_updated": "14 Oct 2026, 02:26:12 AM BST",
+  "last_updated_iso": "2026-10-13T20:26:12.662Z",
   "total_events": 299,
   "events": [
     {
@@ -62,6 +62,34 @@
           "name": "low quality",
           "url": "http://193.47.62.55/hls/FF666AA.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/oghrc20eee/out/v1/975a705fc9ee405d9fb6b10637a5dff3/b52529e6-edc9-4e58-9a12-ebadd90a3612-cenc.mpd?aws_sessionId=9ac9d495-a4ee-47fa-a274-6c511d1d24b0?|drmScheme=clearkey&drmLicense=b27cd2979bc6b87256302cff30e60723:6c575373dc855d2931a604ac40cffd4a",
+          "referer": "https://stream0.org/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://chatgpt.hereisman.net/playlist/57991/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "STAN SPORTS HD",
+          "url": "https://netanjahu.hls.st/t/a6dea5bb606e1b714d771bf2c99d65be/index.m3u8?",
+          "referer": "https://iplayer.is/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ HD",
+          "url": "https://netanjahu.hls.st/t/4751c0268db43ae6905044596b4a5f7b/index.m3u8?",
+          "referer": "https://iplayer.is/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
