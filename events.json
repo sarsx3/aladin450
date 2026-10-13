@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Oct 2026, 11:52:11 AM BST",
-  "last_updated_iso": "2026-10-13T05:52:11.647Z",
+  "last_updated": "13 Oct 2026, 11:53:11 AM BST",
+  "last_updated_iso": "2026-10-13T05:53:11.429Z",
   "total_events": 315,
   "events": [
     {
@@ -41,6 +41,13 @@
           "name": "willow-hd",
           "url": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
