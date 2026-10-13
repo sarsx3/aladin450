@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 01:51:10 AM BST",
-  "last_updated_iso": "2026-10-13T19:51:10.823Z",
+  "last_updated": "14 Oct 2026, 01:52:14 AM BST",
+  "last_updated_iso": "2026-10-13T19:52:14.716Z",
   "total_events": 300,
   "events": [
     {
@@ -183,6 +183,13 @@
           "name": "low quality",
           "url": "http://193.47.62.41/hls/H999AAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=NeHlIvC-ioUoi1Wm3mOOyQ&expires=1791925745&ch=yt7c&s=d2f0c1e14b7118183ba00763015e8e4b",
+          "referer": "https://playerdee.top/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
