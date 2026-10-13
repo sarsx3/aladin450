@@ -1,7 +1,7 @@
 {
-  "last_updated": "13 Oct 2026, 06:05:17 PM BST",
-  "last_updated_iso": "2026-10-13T12:05:17.357Z",
-  "total_events": 314,
+  "last_updated": "13 Oct 2026, 06:06:13 PM BST",
+  "last_updated_iso": "2026-10-13T12:06:13.452Z",
+  "total_events": 311,
   "events": [
     {
       "id": "1340",
@@ -126,107 +126,6 @@
           "name": "low quality",
           "url": "http://193.47.62.50/hls/HHHHRX.m3u8",
           "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1343",
-      "date": "13/10/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Shanghai Port",
-      "team2": "Daejeon Hana Citizen",
-      "logo1": "https://img.sofascore.com/api/v1/team/41537/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7645/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Tapmad - Aq",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.41/hls/BABABAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/f325f4bc-3b78-4ad4-80c9-c77b65520d86.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1344",
-      "date": "13/10/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Pohang Steelers",
-      "team2": "Johor Darul Ta?zim",
-      "logo1": "https://img.sofascore.com/api/v1/team/7650/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3327/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Tapmad - Aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.41/hls/BABABAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/ba41a433-fdc3-4d61-a4b3-ec426b99d5aa.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1345",
-      "date": "13/10/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Kyoto",
-      "team2": "Ratchaburi FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/3149/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/85743/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.41/hls/BABABA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://www.rtmpcdn.com/live/b77997dc-9ec8-4407-b5f5-1491143b5109.m3u8",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
