@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Oct 2026, 10:29:13 PM BST",
-  "last_updated_iso": "2026-10-13T16:29:13.551Z",
+  "last_updated": "13 Oct 2026, 10:30:21 PM BST",
+  "last_updated_iso": "2026-10-13T16:30:21.533Z",
   "total_events": 309,
   "events": [
     {
@@ -281,6 +281,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951652~acl=/*~id=37612463050887949662377689323105~hmac=4a3bc6d49fdf11857769a0e9a05ed9009dd4e12ad7cbbd8eeaf51ae96a80666c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -308,6 +322,20 @@
           "name": "hd quality",
           "url": "https://www.rtmpcdn.com/live/6683df5e-b1a0-4833-970d-756f530bea18.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
