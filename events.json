@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 11:47:14 PM BST",
-  "last_updated_iso": "2026-10-14T17:47:14.766Z",
+  "last_updated": "14 Oct 2026, 11:48:13 PM BST",
+  "last_updated_iso": "2026-10-14T17:48:13.904Z",
   "total_events": 371,
   "events": [
     {
@@ -140,6 +140,27 @@
           "name": "Server - 3",
           "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1791999005-0-0-23a65362c9ab8cd11355ae0e99e0ccc9",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bzwyqtfne1/out/v1/4738ca812efc4e479962387ce9638c1e/91bf3dd7-b3de-4bae-8449-ef173d741d4b-cenc.mpd?aws_sessionId=2c53f966-b154-48d3-9dfc-e72097a0bcaf?|drmScheme=clearkey&drmLicense=4733a461d2ac2e41045bdf6eb4a48d34:b6f731f225351a8029c58624fdf112ad",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhtbae2kfy/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd?aws_sessionId=60a6715e-bcb3-4766-b7c9-030a66091f75?|drmScheme=clearkey&drmLicense=79f896678ea586e1c0ab644934c24678:6d78ba30699beb8486dd83f8813a8902",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://chatgpt.hereisman.net/playlist/58028/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
