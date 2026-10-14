@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 12:42:18 AM BST",
-  "last_updated_iso": "2026-10-14T18:42:18.969Z",
+  "last_updated": "15 Oct 2026, 12:43:12 AM BST",
+  "last_updated_iso": "2026-10-14T18:43:12.299Z",
   "total_events": 366,
   "events": [
     {
@@ -293,6 +293,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -371,6 +378,13 @@
           "name": "Server - 1",
           "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001791949883-0-0-3a73aafb6d5b1db395e62f47da64502f",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
