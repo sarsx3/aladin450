@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 09:50:34 PM BST",
-  "last_updated_iso": "2026-10-14T15:50:34.394Z",
+  "last_updated": "14 Oct 2026, 09:51:12 PM BST",
+  "last_updated_iso": "2026-10-14T15:51:12.591Z",
   "total_events": 372,
   "events": [
     {
@@ -94,7 +94,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1390",
