@@ -47,16 +47,21 @@ function aesDecrypt(str) {
   }
 }
 
-/** AES → না হলে সাধারণ Base64 → না হলে যেমন আছে তেমনই */
+/** AES → না হলে সাধারণ Base64 (valid হলে) → না হলে যেমন আছে তেমনই */
 function dec(str) {
   if (!str || typeof str !== "string") return "";
   const viaAes = aesDecrypt(str);
   if (viaAes !== null) return viaAes;
-  try {
-    return Buffer.from(str, "base64").toString("utf8");
-  } catch {
-    return str;
+  // Base64 কিনা যাচাই করে তবেই decode, নাহলে plain text হিসেবে ফেরত দাও
+  const looksBase64 = /^[A-Za-z0-9+/]+=*$/.test(str.trim()) && str.length % 4 === 0;
+  if (looksBase64) {
+    try {
+      return Buffer.from(str, "base64").toString("utf8");
+    } catch {
+      return str;
+    }
   }
+  return str;
 }
 
 /**
