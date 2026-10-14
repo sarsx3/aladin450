@@ -1,7 +1,7 @@
 {
-  "last_updated": "15 Oct 2026, 12:07:13 AM BST",
-  "last_updated_iso": "2026-10-14T18:07:13.767Z",
-  "total_events": 368,
+  "last_updated": "15 Oct 2026, 12:08:12 AM BST",
+  "last_updated_iso": "2026-10-14T18:08:12.322Z",
+  "total_events": 366,
   "events": [
     {
       "id": "1380",
@@ -161,71 +161,6 @@
           "name": "hd quality",
           "url": "https://chatgpt.hereisman.net/playlist/58028/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1389",
-      "date": "14/10/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Muharraq SC",
-      "team2": "Gol Gohar",
-      "logo1": "https://img.sofascore.com/api/v1/team/45474/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/275525/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "http://193.47.62.59/hls/T888AAAAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1390",
-      "date": "14/10/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Al-Jazira",
-      "team2": "Arkadag",
-      "logo1": "https://img.sofascore.com/api/v1/team/8090/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/469420/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001791948285-0-0-733cf60a3b5d0cca3faec697b4a1b3eb",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791974645-0-0-4091be4e63ccf365012b48ca1ec832a2",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791978485-0-0-696ff0b0e0c9ba059c521774e02adec4",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
