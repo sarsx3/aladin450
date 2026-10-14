@@ -1,7 +1,7 @@
 {
-  "last_updated": "14 Oct 2026, 11:48:13 PM BST",
-  "last_updated_iso": "2026-10-14T17:48:13.904Z",
-  "total_events": 371,
+  "last_updated": "14 Oct 2026, 11:49:11 PM BST",
+  "last_updated_iso": "2026-10-14T17:49:11.382Z",
+  "total_events": 370,
   "events": [
     {
       "id": "1380",
@@ -293,70 +293,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZGUxMzQ3NzNiNDQ1YTdkOWM0MWU0MWFhNWMzNDViYmY6YjBmNTQ2ZTI0MTNhODJmZGFkMzAyY2VhYzUzYzA0OTM="
-        }
-      ]
-    },
-    {
-      "id": "1401",
-      "date": "14/10/2026",
-      "time": "7:30 PM",
-      "league": "Cricket | India vs West Indies – 4th T20I",
-      "team1": "India",
-      "team2": "West Indies",
-      "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
-      "isHot": true,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTcxOTE4ZmNjMmYxMjA2NmY3MGI3YzM5YjBlMGRjZjM6YTVlMzUxMjFkNGY2ZjE2Njk0YmVhMTUzMzRmMTQ4MTQ="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTcxOTE4ZmNjMmYxMjA2NmY3MGI3YzM5YjBlMGRjZjM6YTVlMzUxMjFkNGY2ZjE2Njk0YmVhMTUzMzRmMTQ4MTQ="
-        },
-        {
-          "name": "tnt sports-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NjlhNWFhODM1YTA2MWNlNjRhNjMwZDEwNDY3MjdlNDA6ZDAyZmVhYzhhOTk5YmQwNmJmNDA1OWJmMzM0MTE3NDk="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTcxOTE4ZmNjMmYxMjA2NmY3MGI3YzM5YjBlMGRjZjM6YTVlMzUxMjFkNGY2ZjE2Njk0YmVhMTUzMzRmMTQ4MTQ="
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ]
     },
