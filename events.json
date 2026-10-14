@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 01:05:20 AM BST",
-  "last_updated_iso": "2026-10-14T19:05:20.851Z",
+  "last_updated": "15 Oct 2026, 01:06:13 AM BST",
+  "last_updated_iso": "2026-10-14T19:06:13.667Z",
   "total_events": 364,
   "events": [
     {
@@ -562,6 +562,20 @@
           "name": "Server - 1",
           "url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://netanjahu.hls.st/t/079b0b648fe797ce1b776997d4fba2f4/index.m3u8?",
+          "referer": "https://iplayer.is/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090",
+          "referer": "https://player.online878.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
