@@ -1,7 +1,7 @@
 {
-  "last_updated": "14 Oct 2026, 09:53:12 PM BST",
-  "last_updated_iso": "2026-10-14T15:53:12.513Z",
-  "total_events": 372,
+  "last_updated": "14 Oct 2026, 09:54:14 PM BST",
+  "last_updated_iso": "2026-10-14T15:54:14.402Z",
+  "total_events": 371,
   "events": [
     {
       "id": "1380",
@@ -30,35 +30,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1387",
-      "date": "14/10/2026",
-      "time": "7:45 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Nasaf",
-      "team2": "Wahda Abu Dhabi",
-      "logo1": "https://img.sofascore.com/api/v1/team/34017/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/264115/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.59/hls/f333AA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1388",
