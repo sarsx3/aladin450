@@ -1,7 +1,7 @@
 {
-  "last_updated": "15 Oct 2026, 12:06:16 AM BST",
-  "last_updated_iso": "2026-10-14T18:06:16.448Z",
-  "total_events": 370,
+  "last_updated": "15 Oct 2026, 12:07:13 AM BST",
+  "last_updated_iso": "2026-10-14T18:07:13.767Z",
+  "total_events": 368,
   "events": [
     {
       "id": "1380",
@@ -161,28 +161,6 @@
           "name": "hd quality",
           "url": "https://chatgpt.hereisman.net/playlist/58028/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1388",
-      "date": "14/10/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Al-Taawon",
-      "team2": "Al Rayyan",
-      "logo1": "https://img.sofascore.com/api/v1/team/56021/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/40660/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001791948192-0-0-8a59548ae533b47f1c61cfb6b055222e",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -436,20 +414,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1411",
-      "date": "15/10/2026",
-      "time": "12:15 AM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Kuwait SC",
-      "team2": "Al Khalidiyah",
-      "logo1": "https://img.sofascore.com/api/v1/team/32525/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/371631/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1412",
