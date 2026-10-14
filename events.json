@@ -1,7 +1,7 @@
 {
-  "last_updated": "15 Oct 2026, 02:44:12 AM BST",
-  "last_updated_iso": "2026-10-14T20:44:12.142Z",
-  "total_events": 363,
+  "last_updated": "15 Oct 2026, 02:45:20 AM BST",
+  "last_updated_iso": "2026-10-14T20:45:20.750Z",
+  "total_events": 362,
   "events": [
     {
       "id": "1402",
@@ -380,35 +380,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1410",
-      "date": "15/10/2026",
-      "time": "12:15 AM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Al Faisaly",
-      "team2": "Al Nahda",
-      "logo1": "https://img.sofascore.com/api/v1/team/47482/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/40648/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "tapmad-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.59/hls/BGBGBGA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1412",
