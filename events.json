@@ -1,171 +1,8 @@
 {
-  "last_updated": "15 Oct 2026, 12:52:13 AM BST",
-  "last_updated_iso": "2026-10-14T18:52:13.271Z",
-  "total_events": 366,
+  "last_updated": "15 Oct 2026, 12:53:11 AM BST",
+  "last_updated_iso": "2026-10-14T18:53:11.944Z",
+  "total_events": 364,
   "events": [
-    {
-      "id": "1380",
-      "date": "14/10/2026",
-      "time": "10:45 PM",
-      "league": "Football | UEFA Champions League",
-      "team1": "LASK",
-      "team2": "Liverpool",
-      "logo1": "https://img.sofascore.com/api/v1/team/2058/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/44/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv-aq",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001791948677-0-0-8a5eff82b8b56010254f95814acc1553",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791974705-0-0-90af034ae678bd0eeec45c4c70a16f2b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=cab9aa6d54b16a5a7b5ce2350f576720&txTime=6acfa381",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/sryyedmu8v/out/v1/4dc59fd7700642b4be87f5e612b19df2/0e37f950-6ffa-4f63-b88d-dd6c4fabd003-cenc.mpd?aws_sessionId=1124ba46-5484-4b40-bebb-4458920b81d0?|drmScheme=clearkey&drmLicense=3a1c451ffc0dd98444c3950b9f8333f4:a6e6dd3d407c3ca531d817e72fd240a4",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "VIX Español FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1zyfqt5pka/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd?aws_sessionId=d489c3ec-b204-45c2-bb98-31a187843d01?|drmScheme=clearkey&drmLicense=23c68026a4a92a82c03b3d7e7924b342:0811239285fd4778d325e1d63a66bb2b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://chatgpt.hereisman.net/playlist/58029/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1381",
-      "date": "14/10/2026",
-      "time": "10:45 PM",
-      "league": "Football | UEFA Champions League",
-      "team1": "Feyenoord",
-      "team2": "Como",
-      "logo1": "https://img.sofascore.com/api/v1/team/2959/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2704/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv-aq",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038050~acl=/*~id=49979137453577214539217262172687~hmac=3474a3d08231cb9dca19b09b0927f98beeb08e75acde7055297bc3f7b3f1f3bb",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001791948454-0-0-f9398def64e230b1a3f6e1cea84003fc",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.fmp.live/live/live_57689_lud.m3u8?auth_key=1792008221-0-0-7ebe2c2eff37689c62d4224945043821",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1791999005-0-0-23a65362c9ab8cd11355ae0e99e0ccc9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PARAMOUNT+ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bzwyqtfne1/out/v1/4738ca812efc4e479962387ce9638c1e/91bf3dd7-b3de-4bae-8449-ef173d741d4b-cenc.mpd?aws_sessionId=2c53f966-b154-48d3-9dfc-e72097a0bcaf?|drmScheme=clearkey&drmLicense=4733a461d2ac2e41045bdf6eb4a48d34:b6f731f225351a8029c58624fdf112ad",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "VIX Español FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhtbae2kfy/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd?aws_sessionId=60a6715e-bcb3-4766-b7c9-030a66091f75?|drmScheme=clearkey&drmLicense=79f896678ea586e1c0ab644934c24678:6d78ba30699beb8486dd83f8813a8902",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://chatgpt.hereisman.net/playlist/58028/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1400",
       "date": "14/10/2026",
@@ -511,6 +348,13 @@
         {
           "name": "Server - 2",
           "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791977345-0-0-029524d64f4416e0ff2659fdc2c958d0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
