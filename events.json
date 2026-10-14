@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 12:53:11 AM BST",
-  "last_updated_iso": "2026-10-14T18:53:11.944Z",
+  "last_updated": "15 Oct 2026, 12:54:13 AM BST",
+  "last_updated_iso": "2026-10-14T18:54:13.852Z",
   "total_events": 364,
   "events": [
     {
@@ -119,6 +119,13 @@
         {
           "name": "sonyliv-aq",
           "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1791977585-0-0-232cc97f5fa1fa3acdea69eae6441dd2",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
