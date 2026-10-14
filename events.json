@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 07:08:16 PM BST",
-  "last_updated_iso": "2026-10-14T13:08:16.729Z",
+  "last_updated": "14 Oct 2026, 07:09:25 PM BST",
+  "last_updated_iso": "2026-10-14T13:09:25.703Z",
   "total_events": 374,
   "events": [
     {
@@ -192,7 +192,36 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YTcxOTE4ZmNjMmYxMjA2NmY3MGI3YzM5YjBlMGRjZjM6YTVlMzUxMjFkNGY2ZjE2Njk0YmVhMTUzMzRmMTQ4MTQ="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YTcxOTE4ZmNjMmYxMjA2NmY3MGI3YzM5YjBlMGRjZjM6YTVlMzUxMjFkNGY2ZjE2Njk0YmVhMTUzMzRmMTQ4MTQ="
+        },
+        {
+          "name": "tnt sports-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1402",
