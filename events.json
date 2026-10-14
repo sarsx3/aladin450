@@ -1,7 +1,7 @@
 {
-  "last_updated": "14 Oct 2026, 08:47:12 PM BST",
-  "last_updated_iso": "2026-10-14T14:47:12.400Z",
-  "total_events": 374,
+  "last_updated": "14 Oct 2026, 08:48:14 PM BST",
+  "last_updated_iso": "2026-10-14T14:48:14.441Z",
+  "total_events": 373,
   "events": [
     {
       "id": "1380",
@@ -30,42 +30,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1386",
-      "date": "14/10/2026",
-      "time": "6:15 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Persib Bandung",
-      "team2": "Viettel",
-      "logo1": "https://img.sofascore.com/api/v1/team/64289/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/231270/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001791947640-0-0-0cd9b2b900961d19783f83eb6ae3528b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791974405-0-0-4f485712d78771d046a718ee1327ad7b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=99628c51556e96f8c56eac59ea5c2419&txTime=6acfa255",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1387",
