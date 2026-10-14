@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 07:11:11 PM BST",
-  "last_updated_iso": "2026-10-14T13:11:11.799Z",
+  "last_updated": "14 Oct 2026, 07:12:15 PM BST",
+  "last_updated_iso": "2026-10-14T13:12:15.091Z",
   "total_events": 374,
   "events": [
     {
@@ -190,7 +190,7 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
-      "isHot": false,
+      "isHot": true,
       "visibility": "public",
       "streams": [
         {
