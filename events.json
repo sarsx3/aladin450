@@ -1,7 +1,7 @@
 {
-  "last_updated": "14 Oct 2026, 09:01:21 PM BST",
-  "last_updated_iso": "2026-10-14T15:01:21.754Z",
-  "total_events": 373,
+  "last_updated": "14 Oct 2026, 09:02:13 PM BST",
+  "last_updated_iso": "2026-10-14T15:02:13.142Z",
+  "total_events": 372,
   "events": [
     {
       "id": "1380",
@@ -101,49 +101,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1399",
-      "date": "14/10/2026",
-      "time": "5:30 PM",
-      "league": "Cricket | World Championship of Legends",
-      "team1": "England Champions",
-      "team2": "Australia Champions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/VL.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/VK.png",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "fancode-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MzY0MTY1M2Q5MmI4OWU0NDZmYTA5OGEwMGQ0NzM1ZGQ6ZjhlMjk0ZjU3YjYwNTYxZWU0YTZlNTM5OTY4MTNlODU="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MzY0MTY1M2Q5MmI4OWU0NDZmYTA5OGEwMGQ0NzM1ZGQ6ZjhlMjk0ZjU3YjYwNTYxZWU0YTZlNTM5OTY4MTNlODU="
-        }
-      ]
     },
     {
       "id": "1400",
