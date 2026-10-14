@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 12:44:14 AM BST",
-  "last_updated_iso": "2026-10-14T18:44:14.623Z",
+  "last_updated": "15 Oct 2026, 12:45:18 AM BST",
+  "last_updated_iso": "2026-10-14T18:45:18.974Z",
   "total_events": 366,
   "events": [
     {
@@ -226,6 +226,13 @@
           "name": "Server - 1",
           "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001791949590-0-0-7482ddac2105a0d9b4c211b620f6d951",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
