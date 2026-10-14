@@ -2,9 +2,16 @@ name: Sync Sports Events
 
 on:
   workflow_dispatch:
+  # অটো সিংক চাইলে নিচের দুই লাইনের # তুলে দিন (প্রতি ৩০ মিনিটে)
+  # schedule:
+  #   - cron: "*/30 * * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: sync-sports-events
+  cancel-in-progress: false
 
 jobs:
   sync:
@@ -27,9 +34,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Sync & Commit
+      - name: Sync from API
+        # Secrets সেট করা না থাকলে scripts/sync.js এর ডিফল্ট ভ্যালু ব্যবহার হবে
+        env:
+          API_URL: ${{ secrets.API_URL }}
+          HMAC_SECRET: ${{ secrets.HMAC_SECRET }}
+          AES_KEY: ${{ secrets.AES_KEY }}
+          AES_IV: ${{ secrets.AES_IV }}
+        run: node scripts/sync.js
+
+      - name: Commit & Push
         run: |
-          node scripts/sync.js
           git add events.json
           git diff --cached --quiet || git commit -m "sync: $(TZ='Asia/Dhaka' date +'%I:%M:%S %p')"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
           git push
