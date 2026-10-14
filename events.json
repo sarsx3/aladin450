@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 12:21:17 AM BST",
-  "last_updated_iso": "2026-10-14T18:21:17.672Z",
+  "last_updated": "15 Oct 2026, 12:22:13 AM BST",
+  "last_updated_iso": "2026-10-14T18:22:13.747Z",
   "total_events": 366,
   "events": [
     {
@@ -388,7 +388,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "TNT SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001791949804-0-0-461ec92825c0518973374d02d2a9bad3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791977345-0-0-029524d64f4416e0ff2659fdc2c958d0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1409",
