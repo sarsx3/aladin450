@@ -1,24 +1,57 @@
-const https = require("https");
+/**
+ * Sports events sync — Priofy API → events.json
+ *
+ * API তে ঢুকতে অ্যাপের মতোই সাইন করা হেডার লাগে:
+ *   x-timestamp : বর্তমান সময় (milliseconds)
+ *   x-signature : Base64( HMAC-SHA256(timestamp, SECRET) )
+ *
+ * রেসপন্সের ফিল্ডগুলো AES-128-CBC দিয়ে এনক্রিপ্টেড থাকে (enc: true),
+ * সেগুলো ডিক্রিপ্ট করে আগের events.json এর হুবহু একই ফরম্যাটে সেভ হয়।
+ */
+const crypto = require("crypto");
 const fs = require("fs");
 const path = require("path");
 
-// ── Config ────────────────────────────────────────────────────────────────────
-const FIREBASE_URL =
-  "https://priofy-6b9b4-default-rtdb.firebaseio.com/sports_events.json" +
-  "?auth=iKRIASgG5Wqc16qhFeP2UslbW1u9Mb4mkuAdrnB0";
+// ── Config (GitHub Secrets / env দিয়ে বদলানো যায়, না দিলে ডিফল্ট) ──────────────
+const API_URL = process.env.API_URL || "https://priofyapi.shopnilofficial47.workers.dev/";
+const HMAC_SECRET = process.env.HMAC_SECRET || "PriofySecure2026_LiveApp";
+const AES_KEY = process.env.AES_KEY || "PriofySecure2026"; // 16 bytes
+const AES_IV = process.env.AES_IV || "PriofyAppIV_2026"; // 16 bytes
 
-const HEADERS = {
-  "User-Agent":
-    "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 " +
-    "(KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-  Accept: "application/json",
-};
+const USER_AGENT =
+  "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 " +
+  "(KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36";
 
 const OUTPUT_FILE = path.join(__dirname, "..", "events.json");
+const MAX_RETRIES = 3;
 
-// ── Helpers ───────────────────────────────────────────────────────────────────
-function b64(str) {
-  if (!str) return "";
+// ── Crypto helpers ────────────────────────────────────────────────────────────
+function sign(timestamp) {
+  return crypto.createHmac("sha256", HMAC_SECRET).update(timestamp).digest("base64");
+}
+
+/** AES-128-CBC ডিক্রিপ্ট; ব্যর্থ হলে null */
+function aesDecrypt(str) {
+  try {
+    const decipher = crypto.createDecipheriv(
+      "aes-128-cbc",
+      Buffer.from(AES_KEY, "utf8"),
+      Buffer.from(AES_IV, "utf8")
+    );
+    return Buffer.concat([
+      decipher.update(Buffer.from(str, "base64")),
+      decipher.final(),
+    ]).toString("utf8");
+  } catch {
+    return null;
+  }
+}
+
+/** AES → না হলে সাধারণ Base64 → না হলে যেমন আছে তেমনই */
+function dec(str) {
+  if (!str || typeof str !== "string") return "";
+  const viaAes = aesDecrypt(str);
+  if (viaAes !== null) return viaAes;
   try {
     return Buffer.from(str, "base64").toString("utf8");
   } catch {
@@ -26,90 +59,148 @@ function b64(str) {
   }
 }
 
-function decodeEvent(id, raw) {
-  // Decode streams array if present
+/**
+ * DRM: events.json এ আগে drm ছিল Base64 ফরম্যাটে ("kid:key" এর Base64)।
+ * ডিক্রিপ্ট করার পর যদি plain "kid:key" বা লাইসেন্স URL আসে, তাহলে আবার
+ * Base64 করে দেই যাতে ফরম্যাট আগের মতোই থাকে।
+ */
+function normalizeDrm(value) {
+  if (!value) return "";
+  const plain = dec(value);
+  if (!plain) return "";
+  const looksBase64 = /^[A-Za-z0-9+/]+={0,2}$/.test(plain) && plain.length % 4 === 0;
+  if (looksBase64 && !plain.includes(":")) return plain; // ইতিমধ্যে Base64
+  return Buffer.from(plain, "utf8").toString("base64");
+}
+
+// ── Event decoding ────────────────────────────────────────────────────────────
+function decodeEncrypted(id, raw) {
   const streams = Array.isArray(raw.s)
-    ? raw.s.map((s) => ({
-        name: b64(s.n),
-        url: b64(s.u),
-        referer: b64(s.ref),
-        userAgent: b64(s.ua),
-        drm: s.drm || "",
-      }))
+    ? raw.s
+        .filter((s) => s && typeof s === "object")
+        .map((s) => ({
+          name: dec(s.n),
+          url: dec(s.u),
+          referer: dec(s.ref),
+          userAgent: dec(s.ua),
+          drm: normalizeDrm(s.drm),
+        }))
     : [];
 
   return {
     id,
     date: raw.d || "",
     time: raw.t || "",
-    league: b64(raw.l),
-    team1: b64(raw.t1),
-    team2: b64(raw.t2),
-    logo1: b64(raw.lg1),
-    logo2: b64(raw.lg2),
-    leagueLogo: b64(raw.llg),
+    league: dec(raw.l),
+    team1: dec(raw.t1),
+    team2: dec(raw.t2),
+    logo1: dec(raw.lg1),
+    logo2: dec(raw.lg2),
+    leagueLogo: dec(raw.llg),
     isHot: raw.is_hot || false,
     visibility: raw.visibility || "",
     streams,
   };
 }
 
+/** enc নেই এমন প্লেইন ফরম্যাট (অ্যাপও এটা সাপোর্ট করে) */
+function decodePlain(id, raw) {
+  const list = Array.isArray(raw.link_live)
+    ? raw.link_live
+    : Array.isArray(raw.buttons)
+    ? raw.buttons
+    : [];
+  const streams = list
+    .filter((s) => s && typeof s === "object")
+    .map((s, i) => ({
+      name: s.display_name || s.name || `Server ${i + 1}`,
+      url: s.stream_link || s.videoURL || s.url || "",
+      referer: s.referer || raw.referer || s.headers?.Referer || "",
+      userAgent: s.userAgent || s.user_agent || s.headers?.["User-Agent"] || "",
+      drm: s.drmLicenseUrl ? Buffer.from(s.drmLicenseUrl, "utf8").toString("base64") : "",
+    }));
+
+  return {
+    id,
+    date: raw.d || raw.matchDate || "",
+    time: raw.t || raw.matchTime || "",
+    league: raw.league_name || raw.league || "",
+    team1: raw.localteam_name || raw.team1 || "",
+    team2: raw.visitorteam_name || raw.team2 || "",
+    logo1: raw.localteam_logo || raw.logo1 || "",
+    logo2: raw.visitorteam_logo || raw.logo2 || "",
+    leagueLogo: raw.league_logo || raw.leagueLogo || "",
+    isHot: raw.is_hot || false,
+    visibility: raw.visibility || "",
+    streams,
+  };
+}
+
+function decodeEvent(id, raw) {
+  return raw.enc === true ? decodeEncrypted(id, raw) : decodePlain(id, raw);
+}
+
 // ── Fetch ─────────────────────────────────────────────────────────────────────
-function fetchData() {
-  return new Promise((resolve, reject) => {
-    const url = new URL(FIREBASE_URL);
-    const options = {
-      hostname: url.hostname,
-      path: url.pathname + url.search,
-      method: "GET",
-      headers: HEADERS,
-    };
-
-    const req = https.request(options, (res) => {
-      let data = "";
-      res.on("data", (chunk) => (data += chunk));
-      res.on("end", () => {
-        if (res.statusCode !== 200) {
-          reject(new Error(`HTTP ${res.statusCode}: ${data}`));
-          return;
-        }
-        try {
-          resolve(JSON.parse(data));
-        } catch (e) {
-          reject(new Error("JSON parse failed: " + e.message));
-        }
-      });
-    });
-
-    req.on("error", reject);
-    req.setTimeout(15000, () => {
-      req.destroy(new Error("Request timeout"));
-    });
-    req.end();
+async function fetchOnce() {
+  const timestamp = String(Date.now());
+  const res = await fetch(API_URL, {
+    method: "GET",
+    headers: {
+      "x-timestamp": timestamp,
+      "x-signature": sign(timestamp),
+      "User-Agent": USER_AGENT,
+      Accept: "application/json",
+    },
+    signal: AbortSignal.timeout(20000),
   });
+
+  const text = await res.text();
+  if (!res.ok) throw new Error(`HTTP ${res.status}: ${text.slice(0, 200)}`);
+  if (text.includes("Access Denied")) throw new Error(`API: ${text.slice(0, 200)}`);
+
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    throw new Error("JSON parse failed: " + e.message);
+  }
+}
+
+async function fetchData() {
+  let lastErr;
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      return await fetchOnce();
+    } catch (err) {
+      lastErr = err;
+      console.warn(`⚠️  Attempt ${attempt}/${MAX_RETRIES} failed: ${err.message}`);
+      if (attempt < MAX_RETRIES) await new Promise((r) => setTimeout(r, 2000 * attempt));
+    }
+  }
+  throw lastErr;
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log(`[${new Date().toISOString()}] Fetching from Firebase...`);
+  console.log(`[${new Date().toISOString()}] Fetching from API...`);
 
   const raw = await fetchData();
+  if (!raw || typeof raw !== "object") throw new Error("Invalid response from API");
 
-  if (!raw || typeof raw !== "object") {
-    throw new Error("Invalid response from Firebase");
+  // অ্যাপের মতোই অ্যারে বা অবজেক্ট — দুটোই সাপোর্ট
+  const entries = Array.isArray(raw)
+    ? raw.map((e, i) => [String(e?.id ?? i), e])
+    : Object.entries(raw);
+
+  const events = entries
+    .filter(([, e]) => e && typeof e === "object")
+    .map(([id, e]) => decodeEvent(id, e));
+
+  if (events.length === 0) {
+    throw new Error("API returned 0 events — পুরনো events.json অক্ষত রাখা হলো");
   }
 
-  // Decode all events
-  const events = Object.entries(raw).map(([id, event]) =>
-    decodeEvent(id, event)
-  );
-
   // Sort by date then time
-  events.sort((a, b) => {
-    const da = new Date(`${a.date} ${a.time}`);
-    const db = new Date(`${b.date} ${b.time}`);
-    return da - db;
-  });
+  events.sort((a, b) => new Date(`${a.date} ${a.time}`) - new Date(`${b.date} ${b.time}`));
 
   const now = new Date();
 
@@ -117,26 +208,21 @@ async function main() {
   const bst = new Date(now.getTime() + 6 * 60 * 60 * 1000);
   const pad = (n) => String(n).padStart(2, "0");
   const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-  const hours24 = bst.getUTCHours();
-  const hours12 = hours24 % 12 === 0 ? 12 : hours24 % 12;
-  const ampm = hours24 < 12 ? "AM" : "PM";
-  const readableUTC =
+  const h24 = bst.getUTCHours();
+  const h12 = h24 % 12 === 0 ? 12 : h24 % 12;
+  const readable =
     `${pad(bst.getUTCDate())} ${months[bst.getUTCMonth()]} ${bst.getUTCFullYear()}, ` +
-    `${pad(hours12)}:${pad(bst.getUTCMinutes())}:${pad(bst.getUTCSeconds())} ${ampm} BST`;
+    `${pad(h12)}:${pad(bst.getUTCMinutes())}:${pad(bst.getUTCSeconds())} ${h24 < 12 ? "AM" : "PM"} BST`;
 
-  // Build output — last_updated is the very first key
   const output = {
-    last_updated: readableUTC,
+    last_updated: readable,
     last_updated_iso: now.toISOString(),
     total_events: events.length,
     events,
   };
 
-  // Write with last_updated guaranteed at top
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), "utf8");
-  console.log(
-    `[${now.toISOString()}] ✅ Saved ${events.length} events → last_updated: ${readableUTC}`
-  );
+  console.log(`[${now.toISOString()}] ✅ Saved ${events.length} events → last_updated: ${readable}`);
 }
 
 main().catch((err) => {
