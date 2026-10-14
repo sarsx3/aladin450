@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Oct 2026, 09:52:12 PM BST",
-  "last_updated_iso": "2026-10-14T15:52:12.601Z",
+  "last_updated": "14 Oct 2026, 09:53:12 PM BST",
+  "last_updated_iso": "2026-10-14T15:53:12.513Z",
   "total_events": 372,
   "events": [
     {
@@ -99,6 +99,13 @@
           "name": "Server - 1",
           "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.59/hls/T888AAAAQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
