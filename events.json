@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Oct 2026, 01:01:14 AM BST",
-  "last_updated_iso": "2026-10-15T19:01:14.282Z",
+  "last_updated": "16 Oct 2026, 01:02:13 AM BST",
+  "last_updated_iso": "2026-10-15T19:02:13.583Z",
   "total_events": 399,
   "events": [
     {
@@ -271,6 +271,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -379,7 +386,15 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "tapmad-aq",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1472",
