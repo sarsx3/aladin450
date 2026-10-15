@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 10:36:13 PM BST",
-  "last_updated_iso": "2026-10-15T16:36:13.581Z",
+  "last_updated": "15 Oct 2026, 10:37:13 PM BST",
+  "last_updated_iso": "2026-10-15T16:37:13.266Z",
   "total_events": 420,
   "events": [
     {
@@ -113,6 +113,27 @@
           "name": "tapmad-aq",
           "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792043944-0-0-74be8778fd434176868fb185bd0e8570",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1792069325-0-0-6c664b0a361fc49e1e48ba811abe1bb7",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=9271f99165bcf637ea240f159792e2c4&txTime=6ad11595",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
