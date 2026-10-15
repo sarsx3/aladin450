@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 03:33:14 PM BST",
-  "last_updated_iso": "2026-10-15T09:33:14.677Z",
+  "last_updated": "15 Oct 2026, 03:34:12 PM BST",
+  "last_updated_iso": "2026-10-15T09:34:12.358Z",
   "total_events": 348,
   "events": [
     {
@@ -51,7 +51,29 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792024585-0-0-b7aac387bb06613143cc9fd57f350079",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f8ada76a0d0bd0ef325f9999f514b882&txTime=6ad0ed81",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=cb538261baef07dcdc4c9c62ba94de43&txTime=6ad0f051",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1414",
