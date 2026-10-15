@@ -1,7 +1,7 @@
 {
-  "last_updated": "15 Oct 2026, 08:07:10 AM BST",
-  "last_updated_iso": "2026-10-15T02:07:10.862Z",
-  "total_events": 350,
+  "last_updated": "15 Oct 2026, 08:08:12 AM BST",
+  "last_updated_iso": "2026-10-15T02:08:12.320Z",
+  "total_events": 349,
   "events": [
     {
       "id": "1412",
@@ -380,49 +380,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1443",
-      "date": "15/10/2026",
-      "time": "5:30 AM",
-      "league": "Football | MLS",
-      "team1": "Inter Miami",
-      "team2": "New York City FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/337602/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187643/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": true,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001791950415-0-0-ff117ec7da0d817e905daa4972b4c1b0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1791986765-0-0-11fefa10135722d5fd484a90fcdd1b76",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6d56f94746a135f7c804aafc845bd395&txTime=6acfd29d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live4.dyrur1.com/live/13375469_d015d74d12c8089e9265524b76a6a210_540p.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1454",
