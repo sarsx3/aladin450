@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Oct 2026, 12:00:31 AM BST",
-  "last_updated_iso": "2026-10-15T18:00:31.791Z",
+  "last_updated": "16 Oct 2026, 12:01:12 AM BST",
+  "last_updated_iso": "2026-10-15T18:01:12.003Z",
   "total_events": 417,
   "events": [
     {
@@ -727,7 +727,22 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792044500-0-0-9f1f01757b630c12ee160199a5c6de62",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c06163d8276af1ed505228fef0c0c663&txTime=6ad11739",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1466",
