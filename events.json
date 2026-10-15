@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 10:49:15 PM BST",
-  "last_updated_iso": "2026-10-15T16:49:15.562Z",
+  "last_updated": "15 Oct 2026, 10:50:19 PM BST",
+  "last_updated_iso": "2026-10-15T16:50:19.216Z",
   "total_events": 420,
   "events": [
     {
@@ -375,7 +375,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.41/hls/ZKKKAAAAQAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/7fd2f092-0f11-4011-944d-e935a2d3648e.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1433",
