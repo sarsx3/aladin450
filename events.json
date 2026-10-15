@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 10:30:24 PM BST",
-  "last_updated_iso": "2026-10-15T16:30:24.174Z",
+  "last_updated": "15 Oct 2026, 10:31:13 PM BST",
+  "last_updated_iso": "2026-10-15T16:31:13.354Z",
   "total_events": 420,
   "events": [
     {
@@ -122,7 +122,15 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "tapmad-aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1429",
