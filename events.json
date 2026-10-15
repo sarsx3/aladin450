@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 10:43:13 PM BST",
-  "last_updated_iso": "2026-10-15T16:43:13.177Z",
+  "last_updated": "15 Oct 2026, 10:44:14 PM BST",
+  "last_updated_iso": "2026-10-15T16:44:14.081Z",
   "total_events": 420,
   "events": [
     {
@@ -149,6 +149,13 @@
           "name": "tapmad-aq",
           "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.55/hls/3HHHAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
