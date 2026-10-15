@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 06:36:13 PM BST",
-  "last_updated_iso": "2026-10-15T12:36:13.403Z",
+  "last_updated": "15 Oct 2026, 06:37:12 PM BST",
+  "last_updated_iso": "2026-10-15T12:37:12.447Z",
   "total_events": 346,
   "events": [
     {
@@ -69,6 +69,27 @@
         {
           "name": "Server - 3",
           "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=ba52cad53337ba1013dac9817e17146a&txTime=6ad1124d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792025544-0-0-2ee582a2adb7c9a8fa66dbbb45999d89",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1792060925-0-0-b1cc9b9448cce468c1a79ab8dfd32436",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1792068905-0-0-d9622f25f88afa4df0b7cf9fd2ceed9a",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
