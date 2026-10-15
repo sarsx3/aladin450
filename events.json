@@ -1,7 +1,7 @@
 {
-  "last_updated": "15 Oct 2026, 11:33:12 PM BST",
-  "last_updated_iso": "2026-10-15T17:33:12.663Z",
-  "total_events": 419,
+  "last_updated": "15 Oct 2026, 11:34:15 PM BST",
+  "last_updated_iso": "2026-10-15T17:34:15.573Z",
+  "total_events": 418,
   "events": [
     {
       "id": "1422",
@@ -597,42 +597,6 @@
           "name": "Server - 2",
           "url": "https://www.rtmpcdn.com/live/ccd0a3a6-f009-4200-9489-03fa4dce8619.m3u8",
           "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1442",
-      "date": "15/10/2026",
-      "time": "9:15 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Hazm",
-      "team2": "Al Fateh SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/168086/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/56023/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792043311-0-0-b19bf5913be4e6b98c97edaf18e818b2",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1792077905-0-0-301f23dc9dc3e7a8701da20c6b7e3fc9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3ffd9f8ab87fbe5239c5ba55b6ce9ea1&txTime=6ad136dd",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
