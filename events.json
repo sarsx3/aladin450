@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Oct 2026, 06:18:14 AM BST",
-  "last_updated_iso": "2026-10-15T00:18:14.614Z",
+  "last_updated": "15 Oct 2026, 06:19:12 AM BST",
+  "last_updated_iso": "2026-10-15T00:19:12.213Z",
   "total_events": 350,
   "events": [
     {
@@ -411,6 +411,13 @@
         {
           "name": "Server - 3",
           "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6d56f94746a135f7c804aafc845bd395&txTime=6acfd29d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live4.dyrur1.com/live/13375469_d015d74d12c8089e9265524b76a6a210_540p.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
