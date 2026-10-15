@@ -1,7 +1,7 @@
 {
-  "last_updated": "15 Oct 2026, 09:55:14 PM BST",
-  "last_updated_iso": "2026-10-15T15:55:14.790Z",
-  "total_events": 421,
+  "last_updated": "15 Oct 2026, 09:56:14 PM BST",
+  "last_updated_iso": "2026-10-15T15:56:14.023Z",
+  "total_events": 420,
   "events": [
     {
       "id": "1422",
@@ -254,42 +254,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1440",
-      "date": "15/10/2026",
-      "time": "7:40 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Faysaly",
-      "team2": "Al-Kholood",
-      "logo1": "https://img.sofascore.com/api/v1/team/56035/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/269199/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-23.m3u8?auth_key=3000001792025703-0-0-6e7e01de99e8c64f433371424571fcd3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792060265-0-0-7c46710d0c7ea826cbba510bc0a02b20",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792060505-0-0-a65dadd96f908e2aba0dc73d00eac0f8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1441",
