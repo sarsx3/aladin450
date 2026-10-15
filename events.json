@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Oct 2026, 01:19:14 AM BST",
-  "last_updated_iso": "2026-10-15T19:19:14.066Z",
+  "last_updated": "16 Oct 2026, 01:20:19 AM BST",
+  "last_updated_iso": "2026-10-15T19:20:19.567Z",
   "total_events": 399,
   "events": [
     {
@@ -155,6 +155,20 @@
           "name": "tapmad-aq",
           "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f05d22da3fe87758fb83d769f469fc12&txTime=6ad174bd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1792093865-0-0-03fe0a8951967f2aa075f90c5a34f691",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
