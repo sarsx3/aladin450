@@ -1,7 +1,7 @@
 {
-  "last_updated": "15 Oct 2026, 11:54:13 PM BST",
-  "last_updated_iso": "2026-10-15T17:54:13.030Z",
-  "total_events": 418,
+  "last_updated": "15 Oct 2026, 11:55:15 PM BST",
+  "last_updated_iso": "2026-10-15T17:55:15.110Z",
+  "total_events": 417,
   "events": [
     {
       "id": "1422",
@@ -642,20 +642,6 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
-    },
-    {
-      "id": "1460",
-      "date": "16/10/2026",
-      "time": "12:00 AM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ahli",
-      "team2": "Al Nassr",
-      "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/23400/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
       "streams": []
     },
     {
