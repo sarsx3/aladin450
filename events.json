@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Oct 2026, 12:52:13 PM BST",
-  "last_updated_iso": "2026-10-16T06:52:13.642Z",
+  "last_updated": "16 Oct 2026, 12:53:11 PM BST",
+  "last_updated_iso": "2026-10-16T06:53:11.506Z",
   "total_events": 379,
   "events": [
     {
@@ -111,7 +111,7 @@
       "logo1": "https://www.wclcricket.com/assets/team-logos/south-africa-20261008.png",
       "logo2": "https://www.wclcricket.com/assets/team-logos/england.png",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
-      "isHot": false,
+      "isHot": true,
       "visibility": "public",
       "streams": []
     },
@@ -125,7 +125,7 @@
       "logo1": "https://www.wclcricket.com/assets/team-logos/australia.png",
       "logo2": "https://www.wclcricket.com/assets/team-logos/west-indies.png",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
-      "isHot": false,
+      "isHot": true,
       "visibility": "public",
       "streams": []
     },
