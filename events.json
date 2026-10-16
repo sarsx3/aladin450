@@ -1,58 +1,8 @@
 {
-  "last_updated": "16 Oct 2026, 10:49:13 PM BST",
-  "last_updated_iso": "2026-10-16T16:49:13.369Z",
-  "total_events": 376,
+  "last_updated": "16 Oct 2026, 10:50:18 PM BST",
+  "last_updated_iso": "2026-10-16T16:50:18.363Z",
+  "total_events": 375,
   "events": [
-    {
-      "id": "1",
-      "date": "16/10/2026",
-      "time": "7:30 PM",
-      "league": "Cricket | Twenty20 International Women",
-      "team1": "India Women",
-      "team2": "Zimbabwe Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/213119/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/417062/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11222/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NjlhNWFhODM1YTA2MWNlNjRhNjMwZDEwNDY3MjdlNDA6ZDAyZmVhYzhhOTk5YmQwNmJmNDA1OWJmMzM0MTE3NDk="
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ph2jgurxyx/out/v1/cb0ea547f0234050bd7e3df9293ac03c/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YmZlYWYwYzc3ODIzMjdjYTU3NGYzMmIxNjI5MDgwYjY6YzAzYjIxNTU2YTRjZjk3MTMwMjI4MjU4ZGUzZmU0NWQ="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/oazcbevnl7/out/v1/bda05b242720469ca9fb9fabbde64cc2/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YmZlYWYwYzc3ODIzMjdjYTU3NGYzMmIxNjI5MDgwYjY6YzAzYjIxNTU2YTRjZjk3MTMwMjI4MjU4ZGUzZmU0NWQ="
-        },
-        {
-          "name": "willow sports-hd",
-          "url": "http://103.114.11.37:8081/Willow-TV/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1456",
       "date": "18/10/2026",
