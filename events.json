@@ -1,7 +1,7 @@
 {
-  "last_updated": "17 Oct 2026, 01:30:22 AM BST",
-  "last_updated_iso": "2026-10-16T19:30:22.903Z",
-  "total_events": 402,
+  "last_updated": "17 Oct 2026, 01:31:15 AM BST",
+  "last_updated_iso": "2026-10-16T19:31:15.060Z",
+  "total_events": 401,
   "events": [
     {
       "id": "1456",
@@ -30,42 +30,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1486",
-      "date": "16/10/2026",
-      "time": "9:30 PM",
-      "league": "Cricket | World Championship of Legends",
-      "team1": "Australia Champions",
-      "team2": "West Indies Champions",
-      "logo1": "https://www.wclcricket.com/assets/team-logos/australia.png",
-      "logo2": "https://www.wclcricket.com/assets/team-logos/west-indies.png",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
-      "isHot": true,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "fancode-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NWEwZTczZmE0YTBjMDU3MzQ3NmJmODNkMGU2NzdiMzc6ZGNkZGQwMzlmNDUxYjg1ZDg0NjNhMzU2MjRlNDJhYWY="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r9zqoeuhep/out/v1/89e5e23c78024726b5e755dc3189ca5b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NWEwZTczZmE0YTBjMDU3MzQ3NmJmODNkMGU2NzdiMzc6ZGNkZGQwMzlmNDUxYjg1ZDg0NjNhMzU2MjRlNDJhYWY="
-        }
-      ]
     },
     {
       "id": "1487",
