@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Oct 2026, 08:11:11 PM BST",
-  "last_updated_iso": "2026-10-16T14:11:11.992Z",
+  "last_updated": "16 Oct 2026, 08:12:13 PM BST",
+  "last_updated_iso": "2026-10-16T14:12:13.249Z",
   "total_events": 378,
   "events": [
     {
@@ -40,6 +40,13 @@
         {
           "name": "willow sports-hd",
           "url": "http://103.114.11.37:8081/Willow-TV/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow sports-aq",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
