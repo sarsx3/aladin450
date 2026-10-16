@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Oct 2026, 12:49:11 PM BST",
-  "last_updated_iso": "2026-10-16T06:49:11.459Z",
+  "last_updated": "16 Oct 2026, 12:50:20 PM BST",
+  "last_updated_iso": "2026-10-16T06:50:20.902Z",
   "total_events": 379,
   "events": [
     {
@@ -108,8 +108,8 @@
       "league": "Cricket | World Championship of Legends – Semi Final 1",
       "team1": "South Africa Champions",
       "team2": "England Champions",
-      "logo1": "",
-      "logo2": "",
+      "logo1": "https://www.wclcricket.com/assets/team-logos/south-africa-20261008.png",
+      "logo2": "https://www.wclcricket.com/assets/team-logos/england.png",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
       "isHot": false,
       "visibility": "public",
