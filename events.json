@@ -1,7 +1,7 @@
 {
-  "last_updated": "17 Oct 2026, 09:50:18 AM BST",
-  "last_updated_iso": "2026-10-17T03:50:18.472Z",
-  "total_events": 392,
+  "last_updated": "17 Oct 2026, 09:51:11 AM BST",
+  "last_updated_iso": "2026-10-17T03:51:11.257Z",
+  "total_events": 391,
   "events": [
     {
       "id": "1456",
@@ -30,28 +30,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1488",
-      "date": "17/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Boca Jrs.",
-      "team2": "Talleres de Cordoba",
-      "logo1": "https://img.sofascore.com/api/v1/team/3202/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3210/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server 1",
-          "url": "http://193.47.62.50/hls/Z333AAAAAQAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1490",
