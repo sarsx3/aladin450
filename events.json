@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Oct 2026, 07:48:13 PM BST",
-  "last_updated_iso": "2026-10-17T13:48:13.527Z",
+  "last_updated": "17 Oct 2026, 07:49:13 PM BST",
+  "last_updated_iso": "2026-10-17T13:49:13.493Z",
   "total_events": 383,
   "events": [
     {
@@ -155,6 +155,13 @@
           "name": "Server - 3",
           "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e7412cb13c61d278e13d29a8c3028155&txTime=6ad3b895",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
