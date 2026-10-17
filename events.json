@@ -1,7 +1,7 @@
 {
-  "last_updated": "17 Oct 2026, 06:29:10 AM BST",
-  "last_updated_iso": "2026-10-17T00:29:10.966Z",
-  "total_events": 401,
+  "last_updated": "17 Oct 2026, 06:30:22 AM BST",
+  "last_updated_iso": "2026-10-17T00:30:22.206Z",
+  "total_events": 393,
   "events": [
     {
       "id": "1456",
@@ -29,20 +29,6 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
-    },
-    {
-      "id": "1487",
-      "date": "17/10/2026",
-      "time": "4:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Defensa Y Justicia",
-      "team2": "Instituto AC Cordoba",
-      "logo1": "https://img.sofascore.com/api/v1/team/36839/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4937/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
       "streams": []
     },
     {
@@ -142,77 +128,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1495",
-      "date": "17/10/2026",
-      "time": "1:00 AM",
-      "league": "Football | Championship",
-      "team1": "Burnley",
-      "team2": "Wolverhampton Wanderers",
-      "logo1": "https://img.sofascore.com/api/v1/team/6/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "BEIN3 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "CBS SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "referer": "https://amazon.com",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://chatgpt.hereisman.net/playlist/58100/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "BD Server - 1",
-          "url": "https://bd-mc-flive.fancode.com/mumbai/4249594_english_hls_f9bd8b87a579413_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792263150~_GO=Generated~acl=/mumbai/4249594_english_hls_f9bd8b87a579413_1ta-di_h264/*~SessionID=1890000065807_fc-web_15dbf7b0-f0ad-49~Signature=AYG9sxFLiib_ewh9TAJQbgDNWuHjIjzrv_P_odiCqXBNZXwDAKWPM-yPvl1-kIqWnUl6oEPtq8yhhgGLl7blm8Oz4mkK",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "BD Server - 2",
-          "url": "https://bd-mc-flive.fancode.com/mumbai/4249594_english_hls_f9bd8b87a579413_1ta-di_h264/540p.m3u8?hdntl=Expires=1792263150~_GO=Generated~acl=/mumbai/4249594_english_hls_f9bd8b87a579413_1ta-di_h264/*~SessionID=1890000065807_fc-web_15dbf7b0-f0ad-49~Signature=AYG9sxFLiib_ewh9TAJQbgDNWuHjIjzrv_P_odiCqXBNZXwDAKWPM-yPvl1-kIqWnUl6oEPtq8yhhgGLl7blm8Oz4mkK",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792165574-0-0-e5a7e8c84224d24a7ff3d9ef5dee2087",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=6cc4bcde5199791feda7b772620beb81&txTime=6ad2a47d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=68c43d5ae982193f02108a5a2684b04f&txTime=6ad2a47d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1496",
@@ -523,49 +438,6 @@
       "streams": []
     },
     {
-      "id": "1518",
-      "date": "17/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Ligue 1",
-      "team1": "Le Mans",
-      "team2": "Toulouse",
-      "logo1": "https://img.sofascore.com/api/v1/team/1672/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1681/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792165915-0-0-29eaae539c190b01977e6c958a656621",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1792171685-0-0-80e7671cfe2f6e8a8da91bec31dfc38e",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792171685-0-0-f4ad62a1e24d098ee306008e0a74a800",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1519",
       "date": "17/10/2026",
       "time": "9:15 PM",
@@ -578,56 +450,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1520",
-      "date": "17/10/2026",
-      "time": "12:30 AM",
-      "league": "Football | Bundesliga",
-      "team1": "Eintracht",
-      "team2": "Köln",
-      "logo1": "https://img.sofascore.com/api/v1/team/2674/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2671/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "myco-aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SporTV BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792165160-0-0-adadd0391ca9abd2e1701824494435fa",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1792171745-0-0-f50154076c1267de429ea202ef1670cb",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1792171745-0-0-1561a78ddcb902a3d4c7baa1b7e363ee",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1521",
@@ -756,49 +578,6 @@
       "streams": []
     },
     {
-      "id": "1530",
-      "date": "17/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Serie A",
-      "team1": "Frosinone",
-      "team2": "Sassuolo",
-      "logo1": "https://img.sofascore.com/api/v1/team/2801/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2793/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "myco-aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001792165828-0-0-02e19eff73ea9c7148faa26b98531745",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=6967b789938588147e28d3535a2f9d04&txTime=6ad2a4f5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=074385bac5aa2d7f8b46684d25d223c8&txTime=6ad2a4f5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1531",
       "date": "17/10/2026",
       "time": "7:00 PM",
@@ -827,42 +606,6 @@
       "streams": []
     },
     {
-      "id": "1533",
-      "date": "17/10/2026",
-      "time": "12:00 AM",
-      "league": "Football | Eredivisie",
-      "team1": "Heerenveen",
-      "team2": "SBV Excelsior",
-      "logo1": "https://img.sofascore.com/api/v1/team/2964/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2967/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792164809-0-0-2267ba6cf5e7455f1f78d77a98196a5b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1792171746-0-0-7fefee535b84bedafd39c732594f57e2",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=44099162a618fb00f322d15f5c3cac92&txTime=6ad29fcd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1534",
       "date": "17/10/2026",
       "time": "8:30 PM",
@@ -889,70 +632,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1537",
-      "date": "17/10/2026",
-      "time": "1:00 AM",
-      "league": "Football | LaLiga",
-      "team1": "Deportivo",
-      "team2": "Levante",
-      "logo1": "https://img.sofascore.com/api/v1/team/2832/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2849/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "BeIN2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-aq",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792166006-0-0-acd6df20407b4286dbe25ced9d13916f",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1792171625-0-0-69cc6d0e9a29dc817844b20c3ed6cf8b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://edgestream5.pro/hls/377qj1h2727.m3u8",
-          "referer": "https://streame.center",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 6",
-          "url": "https://www.rtmpcdn.com/live/87930aa5-8315-4fa0-9cd1-b1b31944fe8c.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 7",
-          "url": "http://193.47.62.50/hls/8FFFFQQQQQAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1538",
@@ -995,28 +674,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1541",
-      "date": "17/10/2026",
-      "time": "12:30 AM",
-      "league": "Football | LaLiga 2",
-      "team1": "Leganés",
-      "team2": "Cordoba",
-      "logo1": "https://img.sofascore.com/api/v1/team/2845/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2850/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.59/hls/4HHHAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1542",
