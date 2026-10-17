@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Oct 2026, 05:31:12 AM BST",
-  "last_updated_iso": "2026-10-17T23:31:12.460Z",
+  "last_updated": "18 Oct 2026, 05:32:16 AM BST",
+  "last_updated_iso": "2026-10-17T23:32:16.066Z",
   "total_events": 363,
   "events": [
     {
@@ -135,6 +135,13 @@
         {
           "name": "Server - 1",
           "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792264914-0-0-330450ba7d5513e30c12a932932dde61",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://1cdn.syria-player.info/proxy.php?stream=apple/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
