@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Oct 2026, 06:51:12 PM BST",
-  "last_updated_iso": "2026-10-17T12:51:12.351Z",
+  "last_updated": "17 Oct 2026, 06:52:15 PM BST",
+  "last_updated_iso": "2026-10-17T12:52:15.008Z",
   "total_events": 391,
   "events": [
     {
@@ -715,6 +715,13 @@
           "name": "Server - 3",
           "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1792239665-0-0-a7e987c22c536be78f9abace15bbfc5d",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_01/hls/PKBD1.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
