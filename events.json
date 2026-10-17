@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Oct 2026, 08:20:17 PM BST",
-  "last_updated_iso": "2026-10-17T14:20:17.508Z",
+  "last_updated": "17 Oct 2026, 08:21:11 PM BST",
+  "last_updated_iso": "2026-10-17T14:21:11.343Z",
   "total_events": 380,
   "events": [
     {
@@ -112,6 +112,13 @@
           "name": "myco-aq",
           "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/910ed1c3-3d3c-43a7-bb08-0eb20ce5de14.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
