@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Oct 2026, 05:40:18 AM BST",
-  "last_updated_iso": "2026-10-17T23:40:18.371Z",
+  "last_updated": "18 Oct 2026, 05:41:13 AM BST",
+  "last_updated_iso": "2026-10-17T23:41:13.894Z",
   "total_events": 362,
   "events": [
     {
@@ -121,6 +121,13 @@
           "name": "Server - 2",
           "url": "https://1cdn.syria-player.info/proxy.php?stream=apple/master.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.50/hls/JJJJA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
