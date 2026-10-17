@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Oct 2026, 07:11:18 PM BST",
-  "last_updated_iso": "2026-10-17T13:11:18.321Z",
+  "last_updated": "17 Oct 2026, 07:12:16 PM BST",
+  "last_updated_iso": "2026-10-17T13:12:16.485Z",
   "total_events": 388,
   "events": [
     {
@@ -511,7 +511,36 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001792216911-0-0-28805ae753e47dd77f2976c3233a07d4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1792236305-0-0-dd325642517d114996214cb20058ced2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=0e107be842c8ea7ce11a67a26f432d05&txTime=6ad3a19d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1522",
