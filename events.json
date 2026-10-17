@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Oct 2026, 07:40:19 PM BST",
-  "last_updated_iso": "2026-10-17T13:40:19.068Z",
+  "last_updated": "17 Oct 2026, 07:41:14 PM BST",
+  "last_updated_iso": "2026-10-17T13:41:14.121Z",
   "total_events": 383,
   "events": [
     {
@@ -931,6 +931,13 @@
         {
           "name": "fancode-aq",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "cricbuzz-hd",
+          "url": "https://002.cdnplayer.eu/live/csstream4/chunklist.m3u8?vidictid=207433366724&id=1004&pk=11610a315ce224d69ccaa6eefe427320123ac668175cab4fa723a8d26c70079a7cd1e852e5e39946a92b0026f9c2a3f2929e954e05749f2bf1710e86d5ff4502",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
