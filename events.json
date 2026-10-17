@@ -1,7 +1,7 @@
 {
-  "last_updated": "17 Oct 2026, 10:26:12 PM BST",
-  "last_updated_iso": "2026-10-17T16:26:12.822Z",
-  "total_events": 356,
+  "last_updated": "17 Oct 2026, 10:27:11 PM BST",
+  "last_updated_iso": "2026-10-17T16:27:11.721Z",
+  "total_events": 351,
   "events": [
     {
       "id": "1456",
@@ -83,50 +83,6 @@
           "name": "Server - 3",
           "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1792253346-0-0-695f6d1ad1013fee0ad07921f62754dd",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1516",
-      "date": "17/10/2026",
-      "time": "8:00 PM",
-      "league": "Football | League One",
-      "team1": "Bradford",
-      "team2": "Stevenage",
-      "logo1": "https://img.sofascore.com/api/v1/team/22/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/133/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/L111AAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1517",
-      "date": "17/10/2026",
-      "time": "8:00 PM",
-      "league": "Football | League One",
-      "team1": "Barnsley",
-      "team2": "Cambridge",
-      "logo1": "https://img.sofascore.com/api/v1/team/23/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/63/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.59/hls/N777AAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -311,28 +267,6 @@
       ]
     },
     {
-      "id": "1534",
-      "date": "17/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Eredivisie",
-      "team1": "ADO Den Haag",
-      "team2": "PSV",
-      "logo1": "https://img.sofascore.com/api/v1/team/2966/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2952/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "SportDigital Fussball",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1536",
       "date": "17/10/2026",
       "time": "9:40 PM",
@@ -349,49 +283,6 @@
           "name": "Server - 1",
           "url": "http://193.47.62.55/hls/j444AAAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1539",
-      "date": "17/10/2026",
-      "time": "8:15 PM",
-      "league": "Football | LaLiga",
-      "team1": "Villarreal",
-      "team2": "Elche",
-      "logo1": "https://img.sofascore.com/api/v1/team/2819/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2846/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "tapmad-aq",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792215829-0-0-1174a965a2c4884423a69da210cfc2db",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1792243205-0-0-2746636b566d23ca020d6f7bfc35e9fe",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=e357a2df94ad244ed76e7c61c407d93a&txTime=6ad3cf8e",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -477,28 +368,6 @@
           "name": "Server - 3",
           "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1792257485-0-0-1602f8beb4cb9c13237377005078bf63",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1543",
-      "date": "17/10/2026",
-      "time": "8:15 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Eibar",
-      "team2": "Mallorca",
-      "logo1": "https://img.sofascore.com/api/v1/team/2839/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2826/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.55/hls/FUUUQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
