@@ -1,7 +1,7 @@
 {
-  "last_updated": "17 Oct 2026, 07:32:16 PM BST",
-  "last_updated_iso": "2026-10-17T13:32:16.626Z",
-  "total_events": 388,
+  "last_updated": "17 Oct 2026, 07:33:16 PM BST",
+  "last_updated_iso": "2026-10-17T13:33:16.123Z",
+  "total_events": 383,
   "events": [
     {
       "id": "1456",
@@ -138,72 +138,6 @@
       "streams": []
     },
     {
-      "id": "1496",
-      "date": "17/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | Championship",
-      "team1": "Watford",
-      "team2": "Charlton",
-      "logo1": "https://img.sofascore.com/api/v1/team/24/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/47/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQQQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1497",
-      "date": "17/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | Championship",
-      "team1": "Millwall",
-      "team2": "Lincoln",
-      "logo1": "https://img.sofascore.com/api/v1/team/25/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/92/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1498",
-      "date": "17/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | Championship",
-      "team1": "Middlesbrough",
-      "team2": "Cardiff City",
-      "logo1": "https://img.sofascore.com/api/v1/team/36/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/61/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1499",
       "date": "17/10/2026",
       "time": "8:00 PM",
@@ -314,50 +248,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1507",
-      "date": "17/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | League One",
-      "team1": "Peterborough",
-      "team2": "Burton",
-      "logo1": "https://img.sofascore.com/api/v1/team/54/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/134/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1508",
-      "date": "17/10/2026",
-      "time": "5:30 PM",
-      "league": "Football | League One",
-      "team1": "MK Dons",
-      "team2": "Luton",
-      "logo1": "https://img.sofascore.com/api/v1/team/4/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/72/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/4GGGQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1509",
