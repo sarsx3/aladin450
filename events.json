@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Oct 2026, 08:21:11 PM BST",
-  "last_updated_iso": "2026-10-17T14:21:11.343Z",
+  "last_updated": "17 Oct 2026, 08:22:12 PM BST",
+  "last_updated_iso": "2026-10-17T14:22:12.417Z",
   "total_events": 380,
   "events": [
     {
@@ -68,6 +68,13 @@
         {
           "name": "Server - 3",
           "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1792242426-0-0-b716c8f866a3beae4d92ce7df1ab9f33",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/d6f999ea-dc58-4d95-a707-dae77c6cb70f.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -161,6 +168,13 @@
         {
           "name": "Server - 3",
           "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792243146-0-0-0162aeb2cd8011bd3e219d2174e03bfe",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/91eba60d-514b-41a7-ba01-92b3d15aaa28.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
