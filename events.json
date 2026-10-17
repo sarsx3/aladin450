@@ -1,7 +1,7 @@
 {
-  "last_updated": "18 Oct 2026, 05:09:13 AM BST",
-  "last_updated_iso": "2026-10-17T23:09:13.108Z",
-  "total_events": 364,
+  "last_updated": "18 Oct 2026, 05:10:17 AM BST",
+  "last_updated_iso": "2026-10-17T23:10:17.536Z",
+  "total_events": 363,
   "events": [
     {
       "id": "1456",
@@ -30,28 +30,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1556",
-      "date": "18/10/2026",
-      "time": "3:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Botafogo",
-      "team2": "Chapecoense",
-      "logo1": "https://img.sofascore.com/api/v1/team/1958/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/21845/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1557",
@@ -153,7 +131,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001792264914-0-0-330450ba7d5513e30c12a932932dde61",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1562",
