@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Oct 2026, 06:31:11 AM BST",
-  "last_updated_iso": "2026-10-17T00:31:11.744Z",
+  "last_updated": "17 Oct 2026, 06:32:14 AM BST",
+  "last_updated_iso": "2026-10-17T00:32:14.062Z",
   "total_events": 393,
   "events": [
     {
@@ -65,7 +65,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "PREMIERER1 FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1490",
