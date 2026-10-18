@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Oct 2026, 09:22:14 PM BST",
-  "last_updated_iso": "2026-10-18T15:22:14.163Z",
+  "last_updated": "18 Oct 2026, 09:23:11 PM BST",
+  "last_updated_iso": "2026-10-18T15:23:11.913Z",
   "total_events": 342,
   "events": [
     {
@@ -288,7 +288,36 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO9/hls/index.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792300951-0-0-1724bb9841b46a62dd45c43357e5d740",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.fmp.live/live/live_58502_lud.m3u8?auth_key=1792348194-0-0-9a3b98e64f3cf17e62497dd83b0c5faa",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792338606-0-0-dc0b0e4b008d040777c8cd8dc0a351c3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1584",
