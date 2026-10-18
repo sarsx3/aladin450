@@ -1,7 +1,7 @@
 {
-  "last_updated": "18 Oct 2026, 08:39:10 AM BST",
-  "last_updated_iso": "2026-10-18T02:39:10.771Z",
-  "total_events": 358,
+  "last_updated": "18 Oct 2026, 08:40:18 AM BST",
+  "last_updated_iso": "2026-10-18T02:40:18.244Z",
+  "total_events": 357,
   "events": [
     {
       "id": "1456",
@@ -30,35 +30,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1562",
-      "date": "18/10/2026",
-      "time": "6:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "São Paulo",
-      "team2": "Vasco",
-      "logo1": "https://img.sofascore.com/api/v1/team/1981/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1974/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "SPORT TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PREMIERER3 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1563",
