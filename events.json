@@ -1,7 +1,7 @@
 {
-  "last_updated": "18 Oct 2026, 06:36:14 AM BST",
-  "last_updated_iso": "2026-10-18T00:36:14.582Z",
-  "total_events": 362,
+  "last_updated": "18 Oct 2026, 06:37:11 AM BST",
+  "last_updated_iso": "2026-10-18T00:37:11.329Z",
+  "total_events": 361,
   "events": [
     {
       "id": "1456",
@@ -30,28 +30,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1558",
-      "date": "18/10/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Athletico-PR",
-      "team2": "Palmeiras",
-      "logo1": "https://img.sofascore.com/api/v1/team/1967/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1963/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.41/hls/B666AAAQQQQAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1559",
