@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Oct 2026, 09:53:12 PM BST",
-  "last_updated_iso": "2026-10-18T15:53:12.817Z",
+  "last_updated": "18 Oct 2026, 09:54:13 PM BST",
+  "last_updated_iso": "2026-10-18T15:54:13.924Z",
   "total_events": 341,
   "events": [
     {
@@ -522,10 +522,10 @@
       "date": "18/10/2026",
       "time": "9:30 PM",
       "league": "Cricket | World Championship of Legends – Final",
-      "team1": "TBC",
-      "team2": "TBC",
-      "logo1": "",
-      "logo2": "",
+      "team1": "England Champions",
+      "team2": "West Indies Champions",
+      "logo1": "https://www.wclcricket.com/assets/team-logos/england.png",
+      "logo2": "https://www.wclcricket.com/assets/team-logos/west-indies.png",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
       "isHot": false,
       "visibility": "public",
