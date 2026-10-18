@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Oct 2026, 09:56:12 PM BST",
-  "last_updated_iso": "2026-10-18T15:56:12.067Z",
+  "last_updated": "18 Oct 2026, 09:57:15 PM BST",
+  "last_updated_iso": "2026-10-18T15:57:15.053Z",
   "total_events": 341,
   "events": [
     {
@@ -530,6 +530,13 @@
       "isHot": false,
       "visibility": "public",
       "streams": [
+        {
+          "name": "PrioFy TSports",
+          "url": "https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "userAgent": "",
+          "drm": ""
+        },
         {
           "name": "willow-aq",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
