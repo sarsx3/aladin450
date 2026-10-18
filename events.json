@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Oct 2026, 12:51:13 AM BST",
-  "last_updated_iso": "2026-10-18T18:51:13.620Z",
+  "last_updated": "19 Oct 2026, 12:52:12 AM BST",
+  "last_updated_iso": "2026-10-18T18:52:12.237Z",
   "total_events": 327,
   "events": [
     {
@@ -519,6 +519,13 @@
           "name": "Server - 3",
           "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1792340405-0-0-b1505d68008184e385d240ee49b264c6",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
