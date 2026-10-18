@@ -1,7 +1,7 @@
 {
-  "last_updated": "18 Oct 2026, 06:17:11 PM BST",
-  "last_updated_iso": "2026-10-18T12:17:11.616Z",
-  "total_events": 356,
+  "last_updated": "18 Oct 2026, 06:18:12 PM BST",
+  "last_updated_iso": "2026-10-18T12:18:12.482Z",
+  "total_events": 355,
   "events": [
     {
       "id": "1457",
@@ -16,35 +16,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1563",
-      "date": "18/10/2026",
-      "time": "4:15 PM",
-      "league": "Football | Eredivisie",
-      "team1": "PEC Zwolle",
-      "team2": "Go Ahead Eagles",
-      "logo1": "https://img.sofascore.com/api/v1/team/2971/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2979/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792299583-0-0-10bf345f309fe1faf028cd62df896a1e",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=e1eb73aa9231606f0b72fc518712f2b1&txTime=6ad4ebd9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1564",
