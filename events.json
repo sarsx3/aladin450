@@ -1,7 +1,7 @@
 {
-  "last_updated": "19 Oct 2026, 02:06:13 AM BST",
-  "last_updated_iso": "2026-10-18T20:06:13.062Z",
-  "total_events": 447,
+  "last_updated": "19 Oct 2026, 02:07:11 AM BST",
+  "last_updated_iso": "2026-10-18T20:07:11.099Z",
+  "total_events": 442,
   "events": [
     {
       "id": "1457",
@@ -16,106 +16,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1589",
-      "date": "18/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Liga Profesional",
-      "team1": "Racing Club",
-      "team2": "Independiente",
-      "logo1": "https://img.sofascore.com/api/v1/team/3215/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3209/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "FOX DEPORTES FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.44/hls/U999AA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1594",
-      "date": "18/10/2026",
-      "time": "9:30 PM",
-      "league": "Cricket | World Championship of Legends – Final",
-      "team1": "England Champions",
-      "team2": "West Indies Champions",
-      "logo1": "https://www.wclcricket.com/assets/team-logos/england.png",
-      "logo2": "https://www.wclcricket.com/assets/team-logos/west-indies.png",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PrioFy TSports",
-          "url": "https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzRlNmJkMzA2OThmOTFjMGQxZTk5ZTUwNWQ4ODU5Yzc6Y2VhOGJhNjFlNTMyYzcxNDNjNjMwZjBjOWJlY2Q3YTY="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzRlNmJkMzA2OThmOTFjMGQxZTk5ZTUwNWQ4ODU5Yzc6Y2VhOGJhNjFlNTMyYzcxNDNjNjMwZjBjOWJlY2Q3YTY="
-        },
-        {
-          "name": "STARZPLAY-aq",
-          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MGFlNGYxNjJlZWMzZTZmMmI1ODBhNWJmMGY0YTY0ZDQ6MDM0ODMzMzVkYjgxY2JhNWJiY2Y1MWI2ZDMxMTk2ZDk="
-        },
-        {
-          "name": "fancode-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ODJkZmNhMjM4ZThjNGI0MzBhMzI2OWRiNzE5NjVkYjk6YTAwYjI4Y2FmNGFjNjI4ZTc3YTU1M2Q0NDBjMGRkY2E="
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MjkwZTA5YzgzN2RhNzhkNWNkOTYxOTc4ZDM5MDUxNWM6Yjc0ODgzNmM3MWU2YTRjYTY4ZWY1YjU2NTJkYjYyNDc="
-        },
-        {
-          "name": "fancode-ind",
-          "url": "https://dai-fancode.pages.dev/mumbai/4249234_english_hls_a20c9caab64583_1ta-di_h264/index.m3u8",
-          "referer": "https://fancode.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzRlNmJkMzA2OThmOTFjMGQxZTk5ZTUwNWQ4ODU5Yzc6Y2VhOGJhNjFlNTMyYzcxNDNjNjMwZjBjOWJlY2Q3YTY="
-        }
-      ]
     },
     {
       "id": "1595",
@@ -316,100 +216,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1602",
-      "date": "19/10/2026",
-      "time": "12:00 AM",
-      "league": "Football | Eredivisie",
-      "team1": "Twente",
-      "team2": "Utrecht",
-      "logo1": "https://img.sofascore.com/api/v1/team/2955/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2948/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792304047-0-0-8fcf5de1cedcdc70c6c3952f73d175cd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792340286-0-0-4d85aba92f2a114c7054eb9782a60153",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1792340286-0-0-7a918cd13a489910f4ab0bc77f002cf5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1603",
-      "date": "19/10/2026",
-      "time": "12:00 AM",
-      "league": "Football | Eredivisie",
-      "team1": "N.E.C.",
-      "team2": "Fortuna Sittard",
-      "logo1": "https://img.sofascore.com/api/v1/team/2962/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2957/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792303889-0-0-a4f5075095f8d2e45fbc5ced2f3960f5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1792340286-0-0-a61ad42cc9e10117b0c99c90092d281f",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f1a91de08f481935cdf6fd3fe83f7117&txTime=6ad5378e",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1604",
-      "date": "19/10/2026",
-      "time": "12:00 AM",
-      "league": "Football | Saudi League",
-      "team1": "Al Fateh",
-      "team2": "Al Khaleej",
-      "logo1": "https://img.sofascore.com/api/v1/team/56023/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/167228/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.44/hls/FYYY.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1605",
