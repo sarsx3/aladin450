@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Oct 2026, 12:43:11 AM BST",
-  "last_updated_iso": "2026-10-18T18:43:11.526Z",
+  "last_updated": "19 Oct 2026, 12:44:12 AM BST",
+  "last_updated_iso": "2026-10-18T18:44:12.824Z",
   "total_events": 327,
   "events": [
     {
@@ -163,6 +163,13 @@
           "name": "PREMIERE2 BR FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/HH666AAAAQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
