@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Oct 2026, 05:14:13 PM BST",
-  "last_updated_iso": "2026-10-19T11:14:13.240Z",
+  "last_updated": "19 Oct 2026, 05:15:17 PM BST",
+  "last_updated_iso": "2026-10-19T11:15:17.171Z",
   "total_events": 434,
   "events": [
     {
@@ -71,6 +71,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "YjYzYmY5OTg2ZTYzZTRmOGNjMGQzYTNmZDlmYTNlMjE6NTQ3ODQ2NDIyNGI0NTkzZjA2NWRmOThhZDZlNDhkNmI="
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports-hd",
+          "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
