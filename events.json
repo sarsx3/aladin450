@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 12:57:14 AM BST",
-  "last_updated_iso": "2026-10-19T18:57:14.468Z",
+  "last_updated": "20 Oct 2026, 12:58:15 AM BST",
+  "last_updated_iso": "2026-10-19T18:58:15.572Z",
   "total_events": 430,
   "events": [
     {
@@ -153,6 +153,13 @@
         {
           "name": "Server - 3",
           "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=377c88434afcd93dfaa5eb642ffd474d&txTime=6ad68b65",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/f84105dd-326e-4236-a85d-e45e6570901e.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -424,6 +431,20 @@
           "name": "Server - 3",
           "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=046b97280273445f51379603ee0eb595&txTime=6ad67a0d",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://www.rtmpcdn.com/live/1a9a07e3-fd84-44d7-adb6-c2d00e525eb1.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 8",
+          "url": "http://193.47.62.50/hls/O555AA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
