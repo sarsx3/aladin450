@@ -1,7 +1,7 @@
 {
-  "last_updated": "20 Oct 2026, 02:36:13 AM BST",
-  "last_updated_iso": "2026-10-19T20:36:13.329Z",
-  "total_events": 427,
+  "last_updated": "20 Oct 2026, 02:37:11 AM BST",
+  "last_updated_iso": "2026-10-19T20:37:11.965Z",
+  "total_events": 426,
   "events": [
     {
       "id": "1610",
@@ -274,28 +274,6 @@
         {
           "name": "Server - 8",
           "url": "http://193.47.62.50/hls/O555AA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1620",
-      "date": "20/10/2026",
-      "time": "12:30 AM",
-      "league": "Football | LaLiga 2",
-      "team1": "Celta Vigo B",
-      "team2": "Tenerife",
-      "logo1": "https://img.sofascore.com/api/v1/team/24336/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2822/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.50/hls/6HHHAAAAQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
