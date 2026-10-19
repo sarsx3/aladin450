@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Oct 2026, 01:43:11 PM BST",
-  "last_updated_iso": "2026-10-19T07:43:11.260Z",
+  "last_updated": "19 Oct 2026, 01:44:16 PM BST",
+  "last_updated_iso": "2026-10-19T07:44:16.391Z",
   "total_events": 435,
   "events": [
     {
@@ -272,6 +272,13 @@
           "name": "SKY CRICKET FHD",
           "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
