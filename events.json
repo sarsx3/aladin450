@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 12:22:14 AM BST",
-  "last_updated_iso": "2026-10-19T18:22:14.280Z",
+  "last_updated": "20 Oct 2026, 12:23:13 AM BST",
+  "last_updated_iso": "2026-10-19T18:23:13.208Z",
   "total_events": 431,
   "events": [
     {
@@ -234,6 +234,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://www.rtmpcdn.com/live/3b9ca607-8fe8-4120-a841-9403e3247c4c.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "http://193.47.62.50/hls/6HHHAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -275,6 +289,20 @@
           "name": "tapmad-bd",
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://www.rtmpcdn.com/live/1fd369a4-cf4d-4246-ab42-d8d626e09215.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "http://193.47.62.50/hls/6HHHAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
