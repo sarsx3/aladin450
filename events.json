@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Oct 2026, 07:17:14 PM BST",
-  "last_updated_iso": "2026-10-19T13:17:14.435Z",
+  "last_updated": "19 Oct 2026, 07:18:14 PM BST",
+  "last_updated_iso": "2026-10-19T13:18:14.218Z",
   "total_events": 434,
   "events": [
     {
@@ -82,6 +82,13 @@
         {
           "name": "t sports-hd",
           "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
