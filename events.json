@@ -1,7 +1,7 @@
 {
-  "last_updated": "19 Oct 2026, 11:19:12 PM BST",
-  "last_updated_iso": "2026-10-19T17:19:12.787Z",
-  "total_events": 433,
+  "last_updated": "19 Oct 2026, 11:20:21 PM BST",
+  "last_updated_iso": "2026-10-19T17:20:21.791Z",
+  "total_events": 432,
   "events": [
     {
       "id": "1601",
@@ -54,49 +54,6 @@
         {
           "name": "Server - 4",
           "url": "http://193.47.62.41/hls/LFFFAAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1605",
-      "date": "19/10/2026",
-      "time": "9:05 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Feiha",
-      "team2": "Al Ahli",
-      "logo1": "https://img.sofascore.com/api/v1/team/168094/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34469/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792375076-0-0-27532d721686a92ab5d3b13be7f1f9cf",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1792408985-0-0-f335842234ff606f43e573aa4fb7d6a3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1792425125-0-0-ba3df049fe23f43fc86ea489395ca844",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 7",
-          "url": "http://193.47.62.59/hls/ZNNNAAAAQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
