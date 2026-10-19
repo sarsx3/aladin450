@@ -1,22 +1,8 @@
 {
-  "last_updated": "19 Oct 2026, 01:51:12 PM BST",
-  "last_updated_iso": "2026-10-19T07:51:12.308Z",
-  "total_events": 435,
+  "last_updated": "19 Oct 2026, 01:52:14 PM BST",
+  "last_updated_iso": "2026-10-19T07:52:14.939Z",
+  "total_events": 434,
   "events": [
-    {
-      "id": "1457",
-      "date": "19/10/2026",
-      "time": "3:00 PM",
-      "league": "Baseball | MLB Postseason",
-      "team1": "Los Angeles Dodgers",
-      "team2": "Milwaukee Brewers",
-      "logo1": "https://img.sofascore.com/api/v1/team/3638/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3630/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": []
-    },
     {
       "id": "1601",
       "date": "19/10/2026",
