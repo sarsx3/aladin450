@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Oct 2026, 05:11:11 PM BST",
-  "last_updated_iso": "2026-10-19T11:11:11.650Z",
+  "last_updated": "19 Oct 2026, 05:12:13 PM BST",
+  "last_updated_iso": "2026-10-19T11:12:13.301Z",
   "total_events": 434,
   "events": [
     {
@@ -57,7 +57,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjYzYmY5OTg2ZTYzZTRmOGNjMGQzYTNmZDlmYTNlMjE6NTQ3ODQ2NDIyNGI0NTkzZjA2NWRmOThhZDZlNDhkNmI="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjYzYmY5OTg2ZTYzZTRmOGNjMGQzYTNmZDlmYTNlMjE6NTQ3ODQ2NDIyNGI0NTkzZjA2NWRmOThhZDZlNDhkNmI="
+        }
+      ]
     },
     {
       "id": "1610",
