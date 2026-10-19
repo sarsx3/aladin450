@@ -1,7 +1,7 @@
 {
-  "last_updated": "19 Oct 2026, 09:25:15 PM BST",
-  "last_updated_iso": "2026-10-19T15:25:15.931Z",
-  "total_events": 434,
+  "last_updated": "19 Oct 2026, 09:27:36 PM BST",
+  "last_updated_iso": "2026-10-19T15:27:36.616Z",
+  "total_events": 433,
   "events": [
     {
       "id": "1601",
@@ -52,20 +52,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1606",
-      "date": "19/10/2026",
-      "time": "9:20 PM",
-      "league": "Football | Saudi League",
-      "team1": "Abha Club",
-      "team2": "Al-Kholood",
-      "logo1": "https://img.sofascore.com/api/v1/team/168090/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/269199/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1609",
