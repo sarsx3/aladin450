@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 04:53:13 AM BST",
-  "last_updated_iso": "2026-10-19T22:53:13.558Z",
+  "last_updated": "20 Oct 2026, 04:54:13 AM BST",
+  "last_updated_iso": "2026-10-19T22:54:13.143Z",
   "total_events": 422,
   "events": [
     {
@@ -49,6 +49,13 @@
           "name": "SPORT TV FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.50/hls/WAWAWAD.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
