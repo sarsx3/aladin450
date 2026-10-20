@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 10:49:15 PM BST",
-  "last_updated_iso": "2026-10-20T16:49:15.482Z",
+  "last_updated": "20 Oct 2026, 10:50:18 PM BST",
+  "last_updated_iso": "2026-10-20T16:50:18.094Z",
   "total_events": 418,
   "events": [
     {
@@ -170,6 +170,20 @@
           "name": "Server - 2",
           "url": "https://pull.gosh6.app/live/obs_17035264.m3u8?txSecret=59d2867b4f9befd336d0eb3e525dcd62&txTime=6adb7b98",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://1cdn.syria-player.info/proxy.php?stream=bein2/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://n11.ys.football/online/oAgw1Y9ZJLIa-jLb6Y9ZPQ/1792518510/tnt2_480.m3u8",
+          "referer": "https://stream0.org/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
