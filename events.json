@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 01:15:20 AM BST",
-  "last_updated_iso": "2026-10-20T19:15:20.798Z",
+  "last_updated": "21 Oct 2026, 01:16:18 AM BST",
+  "last_updated_iso": "2026-10-20T19:16:18.080Z",
   "total_events": 414,
   "events": [
     {
@@ -219,6 +219,27 @@
           "name": "tapmad-bd",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yadbrylpvo/out/v1/96e52e06546e4dd78db54375d4c4435b/21d84208-bb17-4717-9a0b-f6e239cf7105-cenc.mpd?aws_sessionId=ac339b4a-93cb-4367-a0e1-5578247d34fc?|drmScheme=clearkey&drmLicense=449ccf1954ef0a01197472717a5fa950:03b3265fadea745f577bf08b9d244d19",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 9",
+          "url": "https://edgestream4.pro/hls/eJmauBDCIf.m3u8",
+          "referer": "https://streame.center",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 10",
+          "url": "http://193.47.62.59/hls/G444AQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
