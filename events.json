@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 05:08:19 PM BST",
-  "last_updated_iso": "2026-10-20T11:08:19.759Z",
+  "last_updated": "20 Oct 2026, 05:09:12 PM BST",
+  "last_updated_iso": "2026-10-20T11:09:12.928Z",
   "total_events": 420,
   "events": [
     {
@@ -567,6 +567,13 @@
           "name": "willow2-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/BEEEEAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
