@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 01:38:12 PM BST",
-  "last_updated_iso": "2026-10-20T07:38:12.943Z",
+  "last_updated": "20 Oct 2026, 01:39:12 PM BST",
+  "last_updated_iso": "2026-10-20T07:39:12.029Z",
   "total_events": 420,
   "events": [
     {
@@ -76,6 +76,13 @@
           "name": "tapmad-bd",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow-hd",
+          "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
