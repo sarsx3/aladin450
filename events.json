@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 10:47:12 PM BST",
-  "last_updated_iso": "2026-10-20T16:47:12.429Z",
+  "last_updated": "20 Oct 2026, 10:48:14 PM BST",
+  "last_updated_iso": "2026-10-20T16:48:14.459Z",
   "total_events": 418,
   "events": [
     {
@@ -162,6 +162,13 @@
         {
           "name": "Server - 1",
           "url": "https://pull.gosh6.app/live/obs_17062564_live720.m3u8?txSecret=71b678eb374cafa742b1922b2e35e021&txTime=6adb85b6",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.gosh6.app/live/obs_17035264.m3u8?txSecret=59d2867b4f9befd336d0eb3e525dcd62&txTime=6adb7b98",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
