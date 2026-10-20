@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 11:26:15 PM BST",
-  "last_updated_iso": "2026-10-20T17:26:15.435Z",
+  "last_updated": "20 Oct 2026, 11:27:39 PM BST",
+  "last_updated_iso": "2026-10-20T17:27:39.582Z",
   "total_events": 416,
   "events": [
     {
@@ -121,6 +121,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZDk2MjM3NzRhYzVjOGMzNTFhYWZlOTdjNWZlNzAyNjc6NTE2NGU2ZDA1MTY0YTJkNjVmYThmY2M5NjJhYTQ4NjE="
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560037~acl=/*~id=86997383092927704888305701476784~hmac=5ee9f596a78657d58a81f0528e0ace9f9b790f5783c8e40333ee1b337da32a7f",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
