@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 12:43:12 AM BST",
-  "last_updated_iso": "2026-10-20T18:43:12.600Z",
+  "last_updated": "21 Oct 2026, 12:44:18 AM BST",
+  "last_updated_iso": "2026-10-20T18:44:18.696Z",
   "total_events": 416,
   "events": [
     {
@@ -340,6 +340,13 @@
           "name": "Server - 4",
           "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1792523766-0-0-65f769fa9c8a6816763dbdd28abf693a",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
