@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 12:57:15 AM BST",
-  "last_updated_iso": "2026-10-20T18:57:15.730Z",
+  "last_updated": "21 Oct 2026, 12:58:15 AM BST",
+  "last_updated_iso": "2026-10-20T18:58:15.824Z",
   "total_events": 414,
   "events": [
     {
@@ -150,6 +150,13 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565008~acl=/*~id=16944757923443282946297495228067~hmac=d7742f591bd18d43ce72a56399a96e03de34e5c0b0fb2a34f0f9007c7b17cfe2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -250,6 +257,13 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565008~acl=/*~id=16944757923443282946297495228067~hmac=d7742f591bd18d43ce72a56399a96e03de34e5c0b0fb2a34f0f9007c7b17cfe2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -348,6 +362,13 @@
           "name": "tapmad-bd",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565008~acl=/*~id=16944757923443282946297495228067~hmac=d7742f591bd18d43ce72a56399a96e03de34e5c0b0fb2a34f0f9007c7b17cfe2",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
