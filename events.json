@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 10:41:12 PM BST",
-  "last_updated_iso": "2026-10-20T16:41:12.903Z",
+  "last_updated": "20 Oct 2026, 10:42:14 PM BST",
+  "last_updated_iso": "2026-10-20T16:42:14.628Z",
   "total_events": 418,
   "events": [
     {
@@ -155,6 +155,13 @@
         {
           "name": "hd quality",
           "url": "https://www.rtmpcdn.com/live/c30f3a10-da23-4343-85d0-74148fd68066.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://pull.gosh6.app/live/obs_17062564_live720.m3u8?txSecret=71b678eb374cafa742b1922b2e35e021&txTime=6adb85b6",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
