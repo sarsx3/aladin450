@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 10:53:13 PM BST",
-  "last_updated_iso": "2026-10-20T16:53:13.953Z",
+  "last_updated": "20 Oct 2026, 10:54:14 PM BST",
+  "last_updated_iso": "2026-10-20T16:54:14.248Z",
   "total_events": 418,
   "events": [
     {
@@ -193,6 +193,13 @@
           "referer": "https://stream0.org/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "cbs sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZDk2MjM3NzRhYzVjOGMzNTFhYWZlOTdjNWZlNzAyNjc6NTE2NGU2ZDA1MTY0YTJkNjVmYThmY2M5NjJhYTQ4NjE="
         }
       ]
     },
