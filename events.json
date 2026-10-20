@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 12:33:15 AM BST",
-  "last_updated_iso": "2026-10-20T18:33:15.293Z",
+  "last_updated": "21 Oct 2026, 12:34:16 AM BST",
+  "last_updated_iso": "2026-10-20T18:34:16.481Z",
   "total_events": 416,
   "events": [
     {
@@ -221,7 +221,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001792501016-0-0-0496c192344eeefb737f4b7a5202ac68",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d59d9713e962853ea39d1489eceb8605&txTime=6ad803ce",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1792508046-0-0-737c6f4cc2d25b32af57bb75134d2d30",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1627",
