@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 01:52:14 PM BST",
-  "last_updated_iso": "2026-10-20T07:52:14.178Z",
+  "last_updated": "20 Oct 2026, 01:53:13 PM BST",
+  "last_updated_iso": "2026-10-20T07:53:13.115Z",
   "total_events": 420,
   "events": [
     {
@@ -99,6 +99,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NjlhNzM1ODgwYzliZDljNGIzMmU1YmJkYTZlN2QzMWY6NWM4MGFjNjUzOGQ5OWUyZmQwNWZjZWVlNmM1NDkxMzg="
+        },
+        {
+          "name": "cricbuzz-hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -468,6 +475,13 @@
         {
           "name": "SKY CRICKET FHD",
           "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "a sports-hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
