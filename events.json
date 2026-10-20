@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 01:43:47 AM BST",
-  "last_updated_iso": "2026-10-20T19:43:47.772Z",
+  "last_updated": "21 Oct 2026, 01:44:13 AM BST",
+  "last_updated_iso": "2026-10-20T19:44:13.141Z",
   "total_events": 414,
   "events": [
     {
@@ -247,6 +247,20 @@
           "name": "Server - 11",
           "url": "https://www.rtmpcdn.com/live/cc6e1810-55a8-4a5d-85a1-b660ee4125b8.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/elbaat95gq/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd?|drmScheme=clearkey&drmLicense=f7a854d5fdcf12cb47bc58298a6668a1:f28532cf4e9b88b72d1bcc751262cea1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY TV",
+          "url": "https://live.vivo155.com/live/hd-en-1-4628468.m3u8?txSecret=2553058b8ee16dbdc18579e3b3f86078&txTime=6AD7CA51",
+          "referer": "https://player.online878.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
