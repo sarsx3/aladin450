@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Oct 2026, 11:47:14 PM BST",
-  "last_updated_iso": "2026-10-20T17:47:14.882Z",
+  "last_updated": "20 Oct 2026, 11:48:15 PM BST",
+  "last_updated_iso": "2026-10-20T17:48:15.296Z",
   "total_events": 416,
   "events": [
     {
@@ -48,6 +48,27 @@
           "name": "Server - 1",
           "url": "https://n13.ys.football/online/Rd8dpM6ydKZJhnrJXkfAQA/1792518551/tnt3_480.m3u8",
           "referer": "https://stream0.org/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792518131-0-0-d4d1d8b13d0c83ecc65b48c219970513",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=dae93308bf8bdfa80dff4ebe4e1f8cf7&txTime=6ad7fc12",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1792521666-0-0-814233f4adf79c5074226c9f49ce63eb",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
