@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 12:17:11 AM BST",
-  "last_updated_iso": "2026-10-21T18:17:11.390Z",
+  "last_updated": "22 Oct 2026, 12:18:14 AM BST",
+  "last_updated_iso": "2026-10-21T18:18:14.901Z",
   "total_events": 396,
   "events": [
     {
@@ -455,7 +455,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "CBS SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://edgestream7.pro/hls/b0h5fNwDKH.m3u8",
+          "referer": "https://streame.center",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.m3u8?auth_key=3000001792555235-0-0-fcc6988e852ccfc694c4917fe551c5d2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1654",
