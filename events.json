@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 03:13:11 PM BST",
-  "last_updated_iso": "2026-10-21T09:13:11.105Z",
+  "last_updated": "21 Oct 2026, 03:14:13 PM BST",
+  "last_updated_iso": "2026-10-21T09:14:13.422Z",
   "total_events": 393,
   "events": [
     {
@@ -532,6 +532,13 @@
           "name": "a sports-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
