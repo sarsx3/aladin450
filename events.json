@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 11:19:15 PM BST",
-  "last_updated_iso": "2026-10-21T17:19:15.209Z",
+  "last_updated": "21 Oct 2026, 11:20:19 PM BST",
+  "last_updated_iso": "2026-10-21T17:20:19.258Z",
   "total_events": 396,
   "events": [
     {
@@ -258,6 +258,20 @@
         {
           "name": "PRIME VIDEO FHD",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azog1xv2tg/out/v1/9c9724aa4e1746d08bf29f326da55833/cenc.mpd?|drmScheme=clearkey&drmLicense=11161ed21917361e1ae8e9705cd87e03:1be5110a187629586632cc126840a5a3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-2",
+          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a790e27f3d25d7bd7c29aff05cd2ff32&txTime=6ad94036",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-3",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1792604646-0-0-84fa39663c88061d775cf11418820bf1",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
