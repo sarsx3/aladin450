@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 12:36:13 AM BST",
-  "last_updated_iso": "2026-10-21T18:36:13.205Z",
+  "last_updated": "22 Oct 2026, 12:37:14 AM BST",
+  "last_updated_iso": "2026-10-21T18:37:14.486Z",
   "total_events": 396,
   "events": [
     {
@@ -437,6 +437,41 @@
         {
           "name": "TNT4 SPORTS FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792554737-0-0-54226a3cc2798b4fae6218f5f1323446",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-2",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1792610646-0-0-57d3203ad4fdbc4ad8ea6585028e6f83",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-3",
+          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=274652cbfba66cadcc649abf344e3786&txTime=6ad957a6",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-4",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1792610706-0-0-5dc3a16e5934314ec2ee27f1745e59b0",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
