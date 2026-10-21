@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 10:51:12 PM BST",
-  "last_updated_iso": "2026-10-21T16:51:12.101Z",
+  "last_updated": "21 Oct 2026, 10:52:14 PM BST",
+  "last_updated_iso": "2026-10-21T16:52:14.163Z",
   "total_events": 396,
   "events": [
     {
@@ -175,6 +175,13 @@
           "name": "tapmad-bd",
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sony sports-bd",
+          "url": "https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8?edge-cache-token=Expires=1792603821~Starts=1792600221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=TmqxbAB8U1G_S73a-0DWyITUw5yEvF5N3h25FkGzAybmV3zrf0qC2QlHjOSEduvjABD4reWIbjlnqwjgkYsqCg",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
