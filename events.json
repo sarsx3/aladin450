@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 05:08:14 PM BST",
-  "last_updated_iso": "2026-10-21T11:08:14.789Z",
+  "last_updated": "21 Oct 2026, 05:09:16 PM BST",
+  "last_updated_iso": "2026-10-21T11:09:16.402Z",
   "total_events": 393,
   "events": [
     {
@@ -68,6 +68,27 @@
         {
           "name": "t sports-hd",
           "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YTAxNmJiZjg5OGMxNTIyNzU4YzEzZWMxOWMyODBkMmE6ZjdhNzBhZjQ5YzUxNjMwZTU0YTNlYzZkZmUyZGU1ODI="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YTAxNmJiZjg5OGMxNTIyNzU4YzEzZWMxOWMyODBkMmE6ZjdhNzBhZjQ5YzUxNjMwZTU0YTNlYzZkZmUyZGU1ODI="
+        },
+        {
+          "name": "Server-1",
+          "url": "https://scontent.fdac27-2.fna.fbcdn.net/hvideo-hil-pnb/_nc_cat-106/_nc_sr_t-4/v/rASfJUBzP5JhgDHZ5EZb5xDjSSMdR5RmnnJ2zjmFfTfcGUA/_nc_ohc-CfuQpj0n6RUQ7kNvwHsKNrQ/live-dash/dash-abr-ibr-audio/122140494675161822.mpd?_nc_eui2=AeG-VUlmDcaTHW74x7b5dk0SnhJy6jNxr7ueEnLqM3Gvu-fDhEgFBkIKeXi_2ZiGvfi5n4PGPKZ3EuJTtWVPUDfv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMHj5odV4BCfXvNhrf0XXPWvjSxfNa-nUs-gYs7zViM2Q&oe=6ADA6218",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
