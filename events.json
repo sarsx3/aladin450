@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 11:18:13 PM BST",
-  "last_updated_iso": "2026-10-21T17:18:13.972Z",
+  "last_updated": "21 Oct 2026, 11:19:15 PM BST",
+  "last_updated_iso": "2026-10-21T17:19:15.209Z",
   "total_events": 396,
   "events": [
     {
@@ -152,6 +152,27 @@
         {
           "name": "Server-1",
           "url": "https://www.rtmpcdn.com/live/d841dadd-b17d-4366-8806-3503f51593d0.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-2",
+          "url": "https://pull.fmp.live/live/live_58824_lud.m3u8?auth_key=1792611971-0-0-bc518987c9cd78aa1317300367fbad26",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-3",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1792604466-0-0-c5fb11578f7b4452d7e9cc1c835a68ea",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-4",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1792604466-0-0-05bf5baba0b1dc6999ec9bae45edd08f",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
