@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Oct 2026, 11:40:20 PM BST",
-  "last_updated_iso": "2026-10-21T17:40:20.939Z",
+  "last_updated": "21 Oct 2026, 11:41:12 PM BST",
+  "last_updated_iso": "2026-10-21T17:41:12.337Z",
   "total_events": 396,
   "events": [
     {
@@ -272,6 +272,13 @@
         {
           "name": "SportsHype cdn-3",
           "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1792604646-0-0-84fa39663c88061d775cf11418820bf1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sony sports-bd",
+          "url": "https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8?edge-cache-token=Expires=1792607422~Starts=1792603822~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=JCiZuSeNkUxAMm-wXoBuxOsTGXPexMAPaxZIb4Q7_UJ5EWtj9TLcbEf8irHb2uFFS97NfITHwpF4oVmm5KORAw",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
