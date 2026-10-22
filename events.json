@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 01:15:19 AM BST",
-  "last_updated_iso": "2026-10-22T19:15:19.635Z",
+  "last_updated": "23 Oct 2026, 01:16:13 AM BST",
+  "last_updated_iso": "2026-10-22T19:16:13.611Z",
   "total_events": 359,
   "events": [
     {
@@ -587,6 +587,20 @@
           "name": "sonyliv-aq",
           "url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738023~acl=/*~id=97524030392519826089992730251552~hmac=b11d30752208a09e54d732dad45c676316e15986da5fccafd8708fba8f11e1ec",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "https://chatgpt.hereisman.net/playlist/58408/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-8",
+          "url": "http://193.47.62.55/hls/D111AAAAQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
