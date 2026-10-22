@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Oct 2026, 11:51:11 PM BST",
-  "last_updated_iso": "2026-10-22T17:51:11.901Z",
-  "total_events": 378,
+  "last_updated": "22 Oct 2026, 11:52:12 PM BST",
+  "last_updated_iso": "2026-10-22T17:52:12.744Z",
+  "total_events": 377,
   "events": [
     {
       "id": "2",
@@ -878,20 +878,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2576/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2526/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1703",
-      "date": "23/10/2026",
-      "time": "12:00 AM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ahli Jeddah",
-      "team2": "Al Khaleej Club",
-      "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/167228/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
       "streams": []
