@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 01:27:11 AM BST",
-  "last_updated_iso": "2026-10-22T19:27:11.664Z",
+  "last_updated": "23 Oct 2026, 01:28:14 AM BST",
+  "last_updated_iso": "2026-10-22T19:28:14.233Z",
   "total_events": 359,
   "events": [
     {
@@ -57,7 +57,22 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://www.rtmpcdn.com/live/26607a7d-25ff-4c4d-b166-8676bf12b157.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "http://193.47.62.50/hls/V111AAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1684",
