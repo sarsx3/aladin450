@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 01:42:13 PM BST",
-  "last_updated_iso": "2026-10-22T07:42:13.959Z",
+  "last_updated": "22 Oct 2026, 01:43:12 PM BST",
+  "last_updated_iso": "2026-10-22T07:43:12.114Z",
   "total_events": 384,
   "events": [
     {
@@ -97,6 +97,13 @@
           "name": "a sports-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -451,7 +458,22 @@
       "leagueLogo": "https://www.sofascore.com/static/images/placeholders/tournament.svg",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjEzOGRhMTA0NzkzMmU0YzQzMjg0NDg0OTM1NTQ5MDE6NGU4ZTE5NzI4ZGEyMTU5YWM1NjRiZDViMDE4NDM2MjE="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjEzOGRhMTA0NzkzMmU0YzQzMjg0NDg0OTM1NTQ5MDE6NGU4ZTE5NzI4ZGEyMTU5YWM1NjRiZDViMDE4NDM2MjE="
+        }
+      ]
     },
     {
       "id": "1683",
