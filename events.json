@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 01:07:14 AM BST",
-  "last_updated_iso": "2026-10-22T19:07:14.159Z",
+  "last_updated": "23 Oct 2026, 01:08:14 AM BST",
+  "last_updated_iso": "2026-10-22T19:08:14.006Z",
   "total_events": 359,
   "events": [
     {
@@ -312,6 +312,20 @@
           "name": "Server-3",
           "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=8cd0854023f7b89896013d491349bea9&txTime=6adaa07a",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "https://www.rtmpcdn.com/live/10c08b25-9717-486e-83ea-a5404a7b0107.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-8",
+          "url": "http://193.47.62.59/hls/FAFAFAF.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
