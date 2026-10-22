@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 01:56:13 PM BST",
-  "last_updated_iso": "2026-10-22T07:56:13.120Z",
+  "last_updated": "22 Oct 2026, 01:57:19 PM BST",
+  "last_updated_iso": "2026-10-22T07:57:19.599Z",
   "total_events": 384,
   "events": [
     {
@@ -469,6 +469,13 @@
         {
           "name": "WILLOW HD",
           "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "cricbuzz-hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
