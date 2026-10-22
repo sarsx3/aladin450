@@ -1,7 +1,7 @@
 {
-  "last_updated": "23 Oct 2026, 01:31:12 AM BST",
-  "last_updated_iso": "2026-10-22T19:31:12.964Z",
-  "total_events": 359,
+  "last_updated": "23 Oct 2026, 01:32:18 AM BST",
+  "last_updated_iso": "2026-10-22T19:32:18.631Z",
+  "total_events": 356,
   "events": [
     {
       "id": "2",
@@ -1707,20 +1707,6 @@
       "streams": []
     },
     {
-      "id": "1777",
-      "date": "24/10/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | Namibia vs Ireland – 2nd ODI",
-      "team1": "Namibia",
-      "team2": "Ireland",
-      "logo1": "https://img.sofascore.com/api/v1/team/199275/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187766/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "1778",
       "date": "25/10/2026",
       "time": "2:00 AM",
@@ -3205,20 +3191,6 @@
       "streams": []
     },
     {
-      "id": "1884",
-      "date": "27/10/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | Namibia vs Ireland – 3rd ODI",
-      "team1": "Namibia",
-      "team2": "Ireland",
-      "logo1": "https://img.sofascore.com/api/v1/team/199275/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187766/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "1885",
       "date": "27/10/2026",
       "time": "2:30 PM",
@@ -4362,20 +4334,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1968",
-      "date": "30/10/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | Namibia vs Ireland – 4th ODI",
-      "team1": "Namibia",
-      "team2": "Ireland",
-      "logo1": "https://img.sofascore.com/api/v1/team/199275/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187766/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
