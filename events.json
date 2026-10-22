@@ -1,51 +1,8 @@
 {
-  "last_updated": "22 Oct 2026, 05:41:12 PM BST",
-  "last_updated_iso": "2026-10-22T11:41:12.535Z",
-  "total_events": 383,
+  "last_updated": "22 Oct 2026, 05:42:14 PM BST",
+  "last_updated_iso": "2026-10-22T11:42:14.125Z",
+  "total_events": 382,
   "events": [
-    {
-      "id": "1",
-      "date": "22/10/2026",
-      "time": "3:15 AM",
-      "league": "Cricket | Twenty20 International Women",
-      "team1": "Australia Women",
-      "team2": "New Zealand Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/213117/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213115/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11222/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "WILLOW SPORTS-AQ",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "EUROSPORT FHD",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd?|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7r9hazscyk/out/v1/78dae923350f474599687cc9fceca8ae/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTFkMDNjNzM2NDk0Y2ZmOGVmZjZjNmIyMDg3MTY3MTU6ZDQxYTk0NzljY2U3YzQzZmFmOGUyMTI3NjVmZDQyYzA="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7r9hazscyk/out/v1/78dae923350f474599687cc9fceca8ae/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTFkMDNjNzM2NDk0Y2ZmOGVmZjZjNmIyMDg3MTY3MTU6ZDQxYTk0NzljY2U3YzQzZmFmOGUyMTI3NjVmZDQyYzA="
-        }
-      ]
-    },
     {
       "id": "2",
       "date": "23/10/2026",
