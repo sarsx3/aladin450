@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 01:45:17 PM BST",
-  "last_updated_iso": "2026-10-22T07:45:17.357Z",
+  "last_updated": "22 Oct 2026, 01:46:12 PM BST",
+  "last_updated_iso": "2026-10-22T07:46:12.125Z",
   "total_events": 384,
   "events": [
     {
@@ -443,6 +443,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "WILLOW HD",
+          "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -472,6 +479,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NjEzOGRhMTA0NzkzMmU0YzQzMjg0NDg0OTM1NTQ5MDE6NGU4ZTE5NzI4ZGEyMTU5YWM1NjRiZDViMDE4NDM2MjE="
+        },
+        {
+          "name": "SKY CRICKET FHD",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
