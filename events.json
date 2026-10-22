@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Oct 2026, 10:44:19 PM BST",
-  "last_updated_iso": "2026-10-22T16:44:19.859Z",
-  "total_events": 380,
+  "last_updated": "22 Oct 2026, 10:45:23 PM BST",
+  "last_updated_iso": "2026-10-22T16:45:23.198Z",
+  "total_events": 379,
   "events": [
     {
       "id": "2",
@@ -285,28 +285,6 @@
       ]
     },
     {
-      "id": "1666",
-      "date": "22/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | UEFA Conference League",
-      "team1": "FC Kairat Almaty",
-      "team2": "Panathinaikos",
-      "logo1": "https://img.sofascore.com/api/v1/team/5172/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3248/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "http://193.47.62.41/hls/BEEE.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1667",
       "date": "22/10/2026",
       "time": "10:45 PM",
@@ -507,7 +485,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "http://193.47.62.55/hls/EEEEAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1675",
