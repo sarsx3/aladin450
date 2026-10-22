@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Oct 2026, 01:20:17 PM BST",
-  "last_updated_iso": "2026-10-22T07:20:17.976Z",
-  "total_events": 385,
+  "last_updated": "22 Oct 2026, 01:21:12 PM BST",
+  "last_updated_iso": "2026-10-22T07:21:12.519Z",
+  "total_events": 384,
   "events": [
     {
       "id": "1",
@@ -428,20 +428,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
       "leagueLogo": "https://www.sofascore.com/static/images/placeholders/tournament.svg",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1682",
-      "date": "22/10/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | Ireland tour of Namibia",
-      "team1": "Namibia",
-      "team2": "Ireland",
-      "logo1": "https://img.sofascore.com/api/v1/team/199275/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187766/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
