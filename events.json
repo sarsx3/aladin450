@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 02:00:31 PM BST",
-  "last_updated_iso": "2026-10-22T08:00:31.479Z",
+  "last_updated": "22 Oct 2026, 02:01:14 PM BST",
+  "last_updated_iso": "2026-10-22T08:01:14.015Z",
   "total_events": 384,
   "events": [
     {
@@ -140,6 +140,13 @@
           "name": "fox cricket-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/BEEEEAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -550,6 +557,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NjEzOGRhMTA0NzkzMmU0YzQzMjg0NDg0OTM1NTQ5MDE6NGU4ZTE5NzI4ZGEyMTU5YWM1NjRiZDViMDE4NDM2MjE="
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.55/hls/CCCCCC.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
