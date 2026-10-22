@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 01:59:12 PM BST",
-  "last_updated_iso": "2026-10-22T07:59:12.382Z",
+  "last_updated": "22 Oct 2026, 02:00:31 PM BST",
+  "last_updated_iso": "2026-10-22T08:00:31.479Z",
   "total_events": 384,
   "events": [
     {
@@ -491,6 +491,13 @@
           "name": "cricbuzz-hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.41/hls/KKKK.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
