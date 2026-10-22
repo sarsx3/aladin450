@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Oct 2026, 05:40:19 PM BST",
-  "last_updated_iso": "2026-10-22T11:40:19.245Z",
-  "total_events": 384,
+  "last_updated": "22 Oct 2026, 05:41:12 PM BST",
+  "last_updated_iso": "2026-10-22T11:41:12.535Z",
+  "total_events": 383,
   "events": [
     {
       "id": "1",
@@ -445,91 +445,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1679",
-      "date": "22/10/2026",
-      "time": "1:00 PM",
-      "league": "Cricket | International T20I Series",
-      "team1": "New Zealand",
-      "team2": "India",
-      "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M="
-        },
-        {
-          "name": "Tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tnt sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NjlhNWFhODM1YTA2MWNlNjRhNjMwZDEwNDY3MjdlNDA6ZDAyZmVhYzhhOTk5YmQwNmJmNDA1OWJmMzM0MTE3NDk="
-        },
-        {
-          "name": "sonyliv-aq",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792695826~acl=/*~id=67633810384148911320636062075469~hmac=00d3b54b9965708edc82a6da6605931f4c9fe64a5ae7966fcf6bcf163c4a9dfd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-nha-frc/_nc_cat-1/_nc_sr_t-4/v/rASfSqkdFLeECS_-F66781K_d_dZI02tAKLIrbTr0CYe9wg/_nc_ohc-1_t3yDZnO_cQ7kNvwHyaAZ9/live-dash/dash-abr-ibr-audio/122211468944399632.mpd?_nc_eui2=AeEvWXEPXYHo9QAg3LE-kBtW1gjuLEk6Cp7WCO4sSToKnj-LRUtP5ogKzd4e6T5ZEArbRAsNEDoX4uXeVEf8gh2r&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQNS828u74FlQy5LDsS9b7__--Xwq0L3KIk2TKBfnZmGdA&oe=6ADB84CB",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "WILLOW HD",
-          "url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "cricbuzz-hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.41/hls/KKKK.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bgbz26zmfn/out/v1/b89d7a705a56462e8c4eee6f4fcbc518/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzMxMjVkMzVjYzQ2YjM0MmEwNTM0YTljNWRkZDZkMzE6NDI2MjIxZDNmZmFlMTlhMDM3ZjVjNzU1NTA4ZGJmM2M="
-        }
-      ]
     },
     {
       "id": "1681",
