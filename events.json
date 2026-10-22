@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 08:33:12 PM BST",
-  "last_updated_iso": "2026-10-22T14:33:12.757Z",
+  "last_updated": "22 Oct 2026, 08:34:13 PM BST",
+  "last_updated_iso": "2026-10-22T14:34:13.988Z",
   "total_events": 381,
   "events": [
     {
@@ -353,7 +353,36 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792642293-0-0-878291b37c004ea0f90debe3f442b755",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1792672566-0-0-fdbb6fffc0efb6699241cc17080c2606",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1792672566-0-0-6f3da68b8bb3504f2b11f772c610bb7a",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "http://193.47.62.44/hls/BHBHBHA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1681",
