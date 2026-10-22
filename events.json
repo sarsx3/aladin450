@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Oct 2026, 02:05:17 PM BST",
-  "last_updated_iso": "2026-10-22T08:05:17.352Z",
+  "last_updated": "22 Oct 2026, 02:06:18 PM BST",
+  "last_updated_iso": "2026-10-22T08:06:18.062Z",
   "total_events": 384,
   "events": [
     {
@@ -562,6 +562,13 @@
           "name": "low quality",
           "url": "http://193.47.62.55/hls/CCCCCC.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow sports-aq",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
