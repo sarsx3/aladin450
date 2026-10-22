@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 01:13:27 AM BST",
-  "last_updated_iso": "2026-10-22T19:13:27.922Z",
+  "last_updated": "23 Oct 2026, 01:14:16 AM BST",
+  "last_updated_iso": "2026-10-22T19:14:16.150Z",
   "total_events": 359,
   "events": [
     {
@@ -149,6 +149,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NjlhNWFhODM1YTA2MWNlNjRhNjMwZDEwNDY3MjdlNDA6ZDAyZmVhYzhhOTk5YmQwNmJmNDA1OWJmMzM0MTE3NDk="
+        },
+        {
+          "name": "Server-9",
+          "url": "https://chatgpt.hereisman.net/playlist/58406/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
