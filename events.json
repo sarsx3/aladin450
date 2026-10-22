@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 02:11:11 AM BST",
-  "last_updated_iso": "2026-10-22T20:11:11.006Z",
+  "last_updated": "23 Oct 2026, 02:12:12 AM BST",
+  "last_updated_iso": "2026-10-22T20:12:12.882Z",
   "total_events": 356,
   "events": [
     {
@@ -404,6 +404,27 @@
           "name": "Server-8",
           "url": "http://193.47.62.59/hls/FAFAFAF.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/thuew7mmv7/out/v1/99fb6805ff3640da956dfff39390973e/cenc.mpd?|drmScheme=clearkey&drmLicense=6f1caf2a90a358ec66956d6387c2b27d:5d32dac2c9c6e2ebaaf1e1a427016036",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "STREAM TV + HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58409/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER TV+ HD",
+          "url": "https://live.vivo155.com/live/hd-en-1-4630623.m3u8?txSecret=56e3cf705eef8aa8c496a2b27db00781&txTime=6ADA6E3F",
+          "referer": "https://player.online878.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
