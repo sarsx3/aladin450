@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 05:10:20 PM BST",
-  "last_updated_iso": "2026-10-23T11:10:20.056Z",
+  "last_updated": "23 Oct 2026, 05:11:11 PM BST",
+  "last_updated_iso": "2026-10-23T11:11:11.571Z",
   "total_events": 338,
   "events": [
     {
@@ -170,6 +170,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZGJhZDQzMzI2NGFhNjQ1YWYzMWM3NjcwMWFlODNlMzg6ZjhmYjA3ZjViYzBhNTg3YmY0ZmFhNWNhNjQwYjFjMDA="
+        },
+        {
+          "name": "fancode-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "T SPORTS HD",
+          "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
