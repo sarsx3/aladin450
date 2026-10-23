@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 07:52:12 AM BST",
-  "last_updated_iso": "2026-10-23T01:52:12.501Z",
+  "last_updated": "23 Oct 2026, 07:53:12 AM BST",
+  "last_updated_iso": "2026-10-23T01:53:12.002Z",
   "total_events": 338,
   "events": [
     {
@@ -4720,10 +4720,10 @@
       "date": "31/10/2026",
       "time": "2:00 PM",
       "league": "Cricket | Pakistan ODI Tri-Series, 2026 - Final",
-      "team1": "TBC",
-      "team2": "TBC",
-      "logo1": "",
-      "logo2": "",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://www.dynomark.af/uploads/images/flags/01KTNV1RZSWACSSE6763NMCM6H.png",
+      "logo2": "https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Zimbabwe_-_Circle-1024.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
       "isHot": false,
       "visibility": "public",
