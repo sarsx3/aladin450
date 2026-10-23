@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 10:21:17 PM BST",
-  "last_updated_iso": "2026-10-23T16:21:17.382Z",
+  "last_updated": "23 Oct 2026, 10:22:18 PM BST",
+  "last_updated_iso": "2026-10-23T16:22:18.212Z",
   "total_events": 336,
   "events": [
     {
@@ -155,6 +155,20 @@
           "name": "Tapmad-bd",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "https://www.rtmpcdn.com/live/acbc11ca-495e-49bc-9d19-90a61c73a117.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-8",
+          "url": "http://193.47.62.44/hls/GGGGQQQQA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
