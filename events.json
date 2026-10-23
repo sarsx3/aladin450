@@ -1,7 +1,7 @@
 {
-  "last_updated": "23 Oct 2026, 11:46:23 PM BST",
-  "last_updated_iso": "2026-10-23T17:46:23.650Z",
-  "total_events": 336,
+  "last_updated": "23 Oct 2026, 11:47:11 PM BST",
+  "last_updated_iso": "2026-10-23T17:47:11.508Z",
+  "total_events": 335,
   "events": [
     {
       "id": "3",
@@ -139,70 +139,6 @@
         {
           "name": "Server-7",
           "url": "http://193.47.62.44/hls/UUU7AAAAAQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1705",
-      "date": "23/10/2026",
-      "time": "9:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ittihad",
-      "team2": "Diriyah",
-      "logo1": "https://img.sofascore.com/api/v1/team/34315/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "FOX DEPORTES FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792730458-0-0-4bc04c80afcc86d778b9b145d939096a",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1792759086-0-0-fe0a18ab3bac306081dd125361437d75",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1792759086-0-0-9c5baa2fa82bbba886512a22adbb90ab",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-7",
-          "url": "https://www.rtmpcdn.com/live/acbc11ca-495e-49bc-9d19-90a61c73a117.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-8",
-          "url": "http://193.47.62.44/hls/GGGGQQQQA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
