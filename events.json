@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 11:09:12 PM BST",
-  "last_updated_iso": "2026-10-23T17:09:12.460Z",
+  "last_updated": "23 Oct 2026, 11:10:21 PM BST",
+  "last_updated_iso": "2026-10-23T17:10:21.380Z",
   "total_events": 336,
   "events": [
     {
@@ -69,6 +69,20 @@
           "name": "bein SPORTS-aq",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://live.vivo155.com/live/sd-1-4566642.m3u8?txSecret=59c137c9098144320850696e9db1c67a&txTime=6ADB9F44",
+          "referer": "https://player.online878.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "http://193.47.62.44/hls/UUU7AAAAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
