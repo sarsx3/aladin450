@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 07:24:13 PM BST",
-  "last_updated_iso": "2026-10-23T13:24:13.520Z",
+  "last_updated": "23 Oct 2026, 07:25:15 PM BST",
+  "last_updated_iso": "2026-10-23T13:25:15.377Z",
   "total_events": 338,
   "events": [
     {
@@ -168,6 +168,13 @@
           "name": "Server-3",
           "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792765026-0-0-0606443deaee874e9abed66851946fb3",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "http://193.47.62.50/hls/ZKKKAAAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
