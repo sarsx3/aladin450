@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 07:56:14 AM BST",
-  "last_updated_iso": "2026-10-23T01:56:14.242Z",
+  "last_updated": "23 Oct 2026, 07:57:14 AM BST",
+  "last_updated_iso": "2026-10-23T01:57:14.146Z",
   "total_events": 338,
   "events": [
     {
@@ -106,11 +106,11 @@
       "date": "23/10/2026",
       "time": "6:00 PM",
       "league": "Cricket | ODI Tri-Nation Series in UAE, 2026 - Final",
-      "team1": "TBC",
-      "team2": "TBC",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://www.dynomark.af/uploads/images/flags/01KTNV1RZSWACSSE6763NMCM6H.png",
+      "logo2": "https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Zimbabwe_-_Circle-1024.png",
+      "leagueLogo": "https://icon2.cleanpng.com/20180407/ehw/avbpzm381.webp",
       "isHot": false,
       "visibility": "public",
       "streams": []
