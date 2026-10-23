@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 01:47:13 AM BST",
-  "last_updated_iso": "2026-10-23T19:47:13.846Z",
+  "last_updated": "24 Oct 2026, 01:48:13 AM BST",
+  "last_updated_iso": "2026-10-23T19:48:13.605Z",
   "total_events": 332,
   "events": [
     {
@@ -644,6 +644,13 @@
         {
           "name": "Server-3",
           "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=1db4e81677ee94b20c006c8dfc63bddc&txTime=6adba6fa",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "https://www.rtmpcdn.com/live/1ce41be4-63e8-4f5f-8dbe-bc7bf4b622d0.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
