@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 07:45:19 AM BST",
-  "last_updated_iso": "2026-10-23T01:45:19.466Z",
+  "last_updated": "23 Oct 2026, 07:46:14 AM BST",
+  "last_updated_iso": "2026-10-23T01:46:14.703Z",
   "total_events": 338,
   "events": [
     {
@@ -14,7 +14,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/417062/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     },
     {
@@ -28,7 +28,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/417062/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     },
     {
@@ -42,7 +42,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/417062/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     },
     {
