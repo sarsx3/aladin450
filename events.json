@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Oct 2026, 05:39:12 PM BST",
-  "last_updated_iso": "2026-10-23T11:39:12.538Z",
+  "last_updated": "23 Oct 2026, 05:40:18 PM BST",
+  "last_updated_iso": "2026-10-23T11:40:18.618Z",
   "total_events": 338,
   "events": [
     {
@@ -182,6 +182,13 @@
           "name": "T SPORTS HD",
           "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
