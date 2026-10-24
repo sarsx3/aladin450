@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 08:14:14 PM BST",
-  "last_updated_iso": "2026-10-24T14:14:14.050Z",
+  "last_updated": "24 Oct 2026, 08:15:24 PM BST",
+  "last_updated_iso": "2026-10-24T14:15:24.887Z",
   "total_events": 306,
   "events": [
     {
@@ -90,6 +90,27 @@
           "name": "Server-4",
           "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1792841946-0-0-365759281f189e4d312ac0b78688192c",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK TV HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58490/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8",
+          "referer": "https://streame.center",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.41/hls/VAVAVAq.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
