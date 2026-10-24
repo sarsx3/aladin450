@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 12:09:11 PM BST",
-  "last_updated_iso": "2026-10-24T06:09:11.321Z",
+  "last_updated": "24 Oct 2026, 12:10:20 PM BST",
+  "last_updated_iso": "2026-10-24T06:10:20.832Z",
   "total_events": 318,
   "events": [
     {
@@ -813,7 +813,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow-aq",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OGM4MDIwNWRjZDI0OTBlZjkzODZhMzIyYzQ2YWVmMTI6MGRiYTZiMmQ1MmI3NmU1ZGZmOTJmYWM1NzdlN2FjOGQ="
+        }
+      ]
     },
     {
       "id": "1778",
