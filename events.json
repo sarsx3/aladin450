@@ -1,7 +1,7 @@
 {
-  "last_updated": "25 Oct 2026, 01:49:12 AM BST",
-  "last_updated_iso": "2026-10-24T19:49:12.260Z",
-  "total_events": 265,
+  "last_updated": "25 Oct 2026, 01:50:20 AM BST",
+  "last_updated_iso": "2026-10-24T19:50:20.648Z",
+  "total_events": 263,
   "events": [
     {
       "id": "3",
@@ -32,28 +32,6 @@
       "streams": []
     },
     {
-      "id": "1710",
-      "date": "24/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Liga Profesional",
-      "team1": "Banfield",
-      "team2": "Lanus",
-      "logo1": "https://img.sofascore.com/api/v1/team/3219/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/869",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "http://193.47.62.55/hls/doooo.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1742",
       "date": "24/10/2026",
       "time": "9:15 PM",
@@ -66,35 +44,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1775",
-      "date": "24/10/2026",
-      "time": "11:30 PM",
-      "league": "Football | MLS",
-      "team1": "CF Montréal",
-      "team2": "Nashville SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/22006/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/337612/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "http://193.47.62.55/hls/WAWAWAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://chatgpt.hereisman.net/playlist/58518/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1778",
