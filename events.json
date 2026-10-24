@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 05:15:19 PM BST",
-  "last_updated_iso": "2026-10-24T11:15:19.997Z",
+  "last_updated": "24 Oct 2026, 05:16:12 PM BST",
+  "last_updated_iso": "2026-10-24T11:16:12.922Z",
   "total_events": 318,
   "events": [
     {
@@ -96,6 +96,27 @@
         {
           "name": "BD Server-2",
           "url": "https://prod-cdn01-live.toffeelive.com/live/EPL-26-27-CH-2/1/master_1800.m3u8?hdntl=Expires=1792926705~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AYYZkYwl6d4gTFu1U6BqmdPUipjkqb8S7rMOupPmscVNDM9bHuyxdrzf3YgjUTi1U5QAg6Kx9hYsB7kOdjAgYgL1KzAF&nocache=1792840316001",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792820681-0-0-8331327ba5cc613e44ce619b973432da",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=27b31fd1b9f1638e04141f72ab551750&txTime=6adcdd4a",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1792841466-0-0-ae5ca37920748cc9a594fcf18f402c6a",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
