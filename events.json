@@ -1,7 +1,7 @@
 {
-  "last_updated": "25 Oct 2026, 05:52:16 AM BST",
-  "last_updated_iso": "2026-10-24T23:52:16.163Z",
-  "total_events": 247,
+  "last_updated": "25 Oct 2026, 05:53:10 AM BST",
+  "last_updated_iso": "2026-10-24T23:53:10.948Z",
+  "total_events": 239,
   "events": [
     {
       "id": "3",
@@ -66,20 +66,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1780",
-      "date": "25/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Rosario Central",
-      "team2": "Huracan",
-      "logo1": "https://img.sofascore.com/api/v1/team/3217/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7629/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1781",
@@ -674,104 +660,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "1834",
-      "date": "25/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | MLS",
-      "team1": "Real Salt Lake",
-      "team2": "St. Louis City",
-      "logo1": "https://img.sofascore.com/api/v1/team/5133/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/407803/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1835",
-      "date": "25/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | MLS",
-      "team1": "Colorado Rapids",
-      "team2": "Vancouver Whitecaps",
-      "logo1": "https://img.sofascore.com/api/v1/team/2510/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/22010/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1836",
-      "date": "25/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | MLS",
-      "team1": "Sporting KC",
-      "team2": "Austin",
-      "logo1": "https://img.sofascore.com/api/v1/team/2509/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/377973/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1837",
-      "date": "25/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | MLS",
-      "team1": "Houston Dynamo",
-      "team2": "Minnesota United",
-      "logo1": "https://img.sofascore.com/api/v1/team/2508/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/41618/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1838",
-      "date": "25/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | MLS",
-      "team1": "FC Dallas",
-      "team2": "San Jose",
-      "logo1": "https://img.sofascore.com/api/v1/team/2512/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/21825/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1839",
-      "date": "25/10/2026",
-      "time": "8:30 AM",
-      "league": "Football | MLS",
-      "team1": "San Diego",
-      "team2": "Seattle Sounders",
-      "logo1": "https://img.sofascore.com/api/v1/team/1043961/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/22009/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1840",
-      "date": "25/10/2026",
-      "time": "8:30 AM",
-      "league": "Football | MLS",
-      "team1": "Portland",
-      "team2": "Charlotte FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/22007/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/404108/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "1841",
