@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 08:19:16 PM BST",
-  "last_updated_iso": "2026-10-24T14:19:16.295Z",
+  "last_updated": "24 Oct 2026, 08:20:19 PM BST",
+  "last_updated_iso": "2026-10-24T14:20:19.213Z",
   "total_events": 306,
   "events": [
     {
@@ -770,6 +770,34 @@
           "name": "Server-2",
           "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1792841826-0-0-e4dbbbb7ef057da7b9d9d7381110374f",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY + LIVE",
+          "url": "https://live.vivo155.com/live/hd-en-1-4566346.m3u8?txSecret=14796f9ec654cc52ec7f7947571db1d9&txTime=6ADCC5B3",
+          "referer": "https://player.online878.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/-6de7-4604-b3b1-4cd3c8adc26f.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality 2",
+          "url": "https://chatgpt.hereisman.net/playlist/58487/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.55/hls/QOOOQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
