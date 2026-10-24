@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 09:48:15 PM BST",
-  "last_updated_iso": "2026-10-24T15:48:15.617Z",
+  "last_updated": "24 Oct 2026, 09:49:13 PM BST",
+  "last_updated_iso": "2026-10-24T15:49:13.390Z",
   "total_events": 299,
   "events": [
     {
@@ -726,6 +726,20 @@
           "name": "myco-bd",
           "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001792832761-0-0-6b6f7c04f242b163443bdcc181da6492",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1792842366-0-0-effe0ca57c4dd3d2f1b04f82e51a290e",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
