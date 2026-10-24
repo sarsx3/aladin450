@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 09:14:13 PM BST",
-  "last_updated_iso": "2026-10-24T15:14:13.648Z",
+  "last_updated": "24 Oct 2026, 09:15:18 PM BST",
+  "last_updated_iso": "2026-10-24T15:15:18.345Z",
   "total_events": 304,
   "events": [
     {
@@ -1191,6 +1191,13 @@
           "name": "Server-1",
           "url": "http://193.47.62.55/hls/A888AAAQQQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://live.vivo155.com/live/sd-1-4567331.m3u8?txSecret=7f35a2d9244f2fbf7516aacf05dcc991&txTime=6ADCD464",
+          "referer": "https://player.online878.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
