@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 01:30:23 AM BST",
-  "last_updated_iso": "2026-10-24T19:30:23.235Z",
+  "last_updated": "25 Oct 2026, 01:31:10 AM BST",
+  "last_updated_iso": "2026-10-24T19:31:10.847Z",
   "total_events": 265,
   "events": [
     {
@@ -650,6 +650,41 @@
           "name": "Server-3",
           "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1792842546-0-0-2207a4d195669b9d5a5d6942b9fcd576",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/9gunc2f4ea/out/v1/aaaab12c95924d80a77f87f7c745782a/269b81e3-30a8-4565-a57d-69355b8c7be2-cenc.mpd?aws_sessionId=6cc6a4b4-ffc8-4058-940c-09694d523fee?|drmScheme=clearkey&drmLicense=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zqyzs5palc/out/v1/e21c2906f2174d459d39f3b178c0fbdd/908d79c0-5528-4f78-be1d-2994559bffbf-cenc.mpd?aws_sessionId=b57aea56-981c-4afa-9b45-dd6ed1440918?|drmScheme=clearkey&drmLicense=26834027d18b664f9e0ea1df9f8b64f1:e45dee62a3655d928403a4559119ca0b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58521/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://live.vivo155.com/live/hd-en-1-4549129.m3u8?txSecret=1d91bbdf50374717df45996af3263327&txTime=6ADD0FD3",
+          "referer": "https://player.online878.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.55/hls/K888AAAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
