@@ -1,7 +1,7 @@
 {
-  "last_updated": "24 Oct 2026, 11:30:22 PM BST",
-  "last_updated_iso": "2026-10-24T17:30:22.482Z",
-  "total_events": 274,
+  "last_updated": "24 Oct 2026, 11:31:12 PM BST",
+  "last_updated_iso": "2026-10-24T17:31:12.416Z",
+  "total_events": 273,
   "events": [
     {
       "id": "3",
@@ -307,28 +307,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1765",
-      "date": "24/10/2026",
-      "time": "9:05 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al-Kholood",
-      "team2": "Al Ettifaq",
-      "logo1": "https://img.sofascore.com/api/v1/team/269199/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34318/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "http://193.47.62.55/hls/btbtbtqqqqqqq.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1769",
