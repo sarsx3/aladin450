@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 05:37:12 PM BST",
-  "last_updated_iso": "2026-10-24T11:37:12.094Z",
+  "last_updated": "24 Oct 2026, 05:38:18 PM BST",
+  "last_updated_iso": "2026-10-24T11:38:18.792Z",
   "total_events": 317,
   "events": [
     {
@@ -118,6 +118,20 @@
           "name": "Server-3",
           "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1792841466-0-0-ae5ca37920748cc9a594fcf18f402c6a",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/0cfbfcaf-ae9f-44c6-b092-00475dde70a5.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "https://n220.ys.football/online/kHOZYfAx68sQs61Y7Bj4pw/1792845395/tnt1_480.m3u8",
+          "referer": "https://stream0.org/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
