@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 05:52:12 PM BST",
-  "last_updated_iso": "2026-10-24T11:52:12.127Z",
+  "last_updated": "24 Oct 2026, 05:53:11 PM BST",
+  "last_updated_iso": "2026-10-24T11:53:11.113Z",
   "total_events": 317,
   "events": [
     {
@@ -941,6 +941,34 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.55/hls/A888AAAQQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4f7443b7741e638885306985642dd806&txTime=6adcddfe",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792838113-0-0-554c5ac1653cb17041a7576d29b8fb28",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -984,7 +1012,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "http://193.47.62.55/hls/A888AAAQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1772",
