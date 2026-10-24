@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 08:17:11 PM BST",
-  "last_updated_iso": "2026-10-24T14:17:11.766Z",
+  "last_updated": "24 Oct 2026, 08:18:12 PM BST",
+  "last_updated_iso": "2026-10-24T14:18:12.681Z",
   "total_events": 306,
   "events": [
     {
@@ -656,6 +656,34 @@
           "name": "Server-1",
           "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792832184-0-0-a6bd0ab2b1c46eefc3b55fbc89af8525",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FHD STREAMING",
+          "url": "https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd?|drmScheme=clearkey&drmLicense=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY + LIVE",
+          "url": "https://live.vivo155.com/live/hd-en-1-4566351.m3u8?txSecret=02b4225dccd5639920a0ba83380b4d97&txTime=6ADCC62B",
+          "referer": "https://player.online878.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/d966ac82-7128-4ff9-b929-27927a6d5533.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.55/hls/QOOOQQA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
