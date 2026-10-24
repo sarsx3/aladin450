@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 06:23:11 PM BST",
-  "last_updated_iso": "2026-10-24T12:23:11.909Z",
+  "last_updated": "24 Oct 2026, 06:24:13 PM BST",
+  "last_updated_iso": "2026-10-24T12:24:13.386Z",
   "total_events": 317,
   "events": [
     {
@@ -836,7 +836,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "BeIN2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1755",
