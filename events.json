@@ -1,7 +1,7 @@
 {
-  "last_updated": "24 Oct 2026, 10:51:11 PM BST",
-  "last_updated_iso": "2026-10-24T16:51:11.682Z",
-  "total_events": 276,
+  "last_updated": "24 Oct 2026, 10:58:03 PM BST",
+  "last_updated_iso": "2026-10-24T16:58:03.852Z",
+  "total_events": 274,
   "events": [
     {
       "id": "3",
@@ -238,28 +238,6 @@
       ]
     },
     {
-      "id": "1758",
-      "date": "24/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Eredivisie",
-      "team1": "Utrecht",
-      "team2": "PEC Zwolle",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/698",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/710",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "http://193.47.62.55/hls/SSSSQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1759",
       "date": "24/10/2026",
       "time": "10:45 PM",
@@ -275,28 +253,6 @@
         {
           "name": "Server-1",
           "url": "http://193.47.62.55/hls/IPPPAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1761",
-      "date": "24/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Liga Portugal",
-      "team1": "Amadora",
-      "team2": "Casa Pia",
-      "logo1": "https://img.sofascore.com/api/v1/team/3035/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36365/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "http://193.47.62.55/hls/SSSS.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
