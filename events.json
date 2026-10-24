@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 06:10:18 PM BST",
-  "last_updated_iso": "2026-10-24T12:10:18.203Z",
+  "last_updated": "24 Oct 2026, 06:11:15 PM BST",
+  "last_updated_iso": "2026-10-24T12:11:15.852Z",
   "total_events": 317,
   "events": [
     {
@@ -153,6 +153,13 @@
           "name": "TNT SPORTS HD",
           "url": "https://hls.meth-streams-hd.cfd/live/espn-401879256/index.m3u8",
           "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dgpgbewozb/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/a4890a21-ab74-4418-b921-07825cac4745-cenc.mpd?aws_sessionId=59e6dafc-1abe-4f6c-bf76-ae4377146ed2?|drmScheme=clearkey&drmLicense=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
