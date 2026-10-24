@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 09:42:14 PM BST",
-  "last_updated_iso": "2026-10-24T15:42:14.169Z",
+  "last_updated": "24 Oct 2026, 09:43:13 PM BST",
+  "last_updated_iso": "2026-10-24T15:43:13.197Z",
   "total_events": 299,
   "events": [
     {
@@ -719,6 +719,13 @@
           "name": "CBS SPORTS FHD",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
           "referer": "https://amazon.com",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
