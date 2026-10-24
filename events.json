@@ -1,7 +1,7 @@
 {
-  "last_updated": "25 Oct 2026, 05:41:10 AM BST",
-  "last_updated_iso": "2026-10-24T23:41:10.947Z",
-  "total_events": 248,
+  "last_updated": "25 Oct 2026, 05:42:13 AM BST",
+  "last_updated_iso": "2026-10-24T23:42:13.673Z",
+  "total_events": 247,
   "events": [
     {
       "id": "3",
@@ -572,63 +572,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1829",
-      "date": "25/10/2026",
-      "time": "3:30 AM",
-      "league": "Football | MLS",
-      "team1": "New York RB",
-      "team2": "Inter Miami",
-      "logo1": "https://img.sofascore.com/api/v1/team/2506/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/337602/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.44/hls/KNNNAAQQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://proomagfgx.publicvm.com/my-hls/111/index.m3u8?expires=1792881225&token=240a0fdab3bb5d6bdb7fd97711c70ad4",
-          "referer": "https://proomagfgxx.publicvm.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/53d87021-8a6b-4acf-8c2f-df210c056263.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://proomagfgx.publicvm.com/my-hls/111/index.m3u8?expires=1792882128&token=656b0cc402edee4a38a75c11344a150a",
-          "referer": "https://proomagfgxx.publicvm.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-eag-frc/_nc_cat-104/_nc_sr_t-4/v/rAScG3I9Ebwt36JJsNYtjZ4pKlZ8WDDZSTh0ktuuPyVwBSg/_nc_ohc-slERW7ZyG2QQ7kNvwEuSpCf/live-dash/dash-abr-ibr-audio/122181693428957861.mpd?_nc_eui2=AeF1puQ9EfGuDJtXXDkU31T6eO9pxaCva81472nFoK9rzcuWso2mSFGhbnFWY4KSvFmTy9cwmNRBb8vho0DbcO8r&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQMnszULMUmdIOKYPB1TTqnPXevSsL1VOXaKssNnxEBftQ&oe=6ADF0BA6",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SportsHype cdn-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792832969-0-0-4ff7a4b57e401069305add2adcfc000c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1830",
