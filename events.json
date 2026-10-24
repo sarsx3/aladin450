@@ -1,7 +1,7 @@
 {
-  "last_updated": "24 Oct 2026, 07:04:17 PM BST",
-  "last_updated_iso": "2026-10-24T13:04:17.416Z",
-  "total_events": 317,
+  "last_updated": "24 Oct 2026, 07:05:15 PM BST",
+  "last_updated_iso": "2026-10-24T13:05:15.650Z",
+  "total_events": 314,
   "events": [
     {
       "id": "3",
@@ -722,107 +722,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1750",
-      "date": "24/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Magdeburg",
-      "team2": "Karlsruher",
-      "logo1": "https://img.sofascore.com/api/v1/team/2591/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2553/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001792833573-0-0-c4851bfc62ad6074311dd95ffad40773",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "http://193.47.62.55/hls/ITTTAAAAAQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1751",
-      "date": "24/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Hertha BSC",
-      "team2": "Arminia",
-      "logo1": "https://img.sofascore.com/api/v1/team/2528/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2540/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.m3u8?auth_key=3000001792833491-0-0-5e5281be9d1168ea8896eed0c1009428",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "http://193.47.62.55/hls/ITTTAAAAAQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1752",
-      "date": "24/10/2026",
-      "time": "5:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "FC Heidenheim",
-      "team2": "Energie Cottbus",
-      "logo1": "https://img.sofascore.com/api/v1/team/5885/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2532/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001792833370-0-0-a28aa7598433211833e5e42dc18d3ce9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1792841466-0-0-4159c09c40768f633e0d55ce69fec0bb",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1792841466-0-0-611237bdd82588322931bcf34b440a9e",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-7",
-          "url": "http://193.47.62.55/hls/ITTTAAAAAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1754",
