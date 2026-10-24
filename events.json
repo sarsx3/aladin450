@@ -1,7 +1,7 @@
 {
-  "last_updated": "24 Oct 2026, 07:53:10 AM BST",
-  "last_updated_iso": "2026-10-24T01:53:10.945Z",
-  "total_events": 321,
+  "last_updated": "24 Oct 2026, 07:54:13 AM BST",
+  "last_updated_iso": "2026-10-24T01:54:13.189Z",
+  "total_events": 319,
   "events": [
     {
       "id": "3",
@@ -30,28 +30,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1707",
-      "date": "24/10/2026",
-      "time": "3:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Gimnasia Mendoza",
-      "team2": "Platense",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/11915",
-      "logo2": "https://img.sofascore.com/api/v1/team/36837/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "http://193.47.62.50/hls/8888AAAAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1709",
@@ -88,28 +66,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1711",
-      "date": "24/10/2026",
-      "time": "5:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Cruzeiro",
-      "team2": "Remo",
-      "logo1": "https://img.sofascore.com/api/v1/team/1954/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2012/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "SPORT TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1713",
