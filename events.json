@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 07:06:15 PM BST",
-  "last_updated_iso": "2026-10-24T13:06:15.243Z",
+  "last_updated": "24 Oct 2026, 07:07:12 PM BST",
+  "last_updated_iso": "2026-10-24T13:07:12.850Z",
   "total_events": 314,
   "events": [
     {
@@ -761,6 +761,20 @@
           "name": "Server-2",
           "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1792841706-0-0-cac3f4574bcfe63845768518a78fe198",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58485/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://edgestream4.pro/hls/hflfkrtib42.m3u8",
+          "referer": "https://streame.center",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
