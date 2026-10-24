@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Oct 2026, 07:16:13 PM BST",
-  "last_updated_iso": "2026-10-24T13:16:13.609Z",
+  "last_updated": "24 Oct 2026, 07:17:15 PM BST",
+  "last_updated_iso": "2026-10-24T13:17:15.566Z",
   "total_events": 314,
   "events": [
     {
@@ -680,7 +680,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001792838183-0-0-5047609ce6a73c0a38d4e6151a207753",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1746",
