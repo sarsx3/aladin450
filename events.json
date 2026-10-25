@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 06:19:16 PM BST",
-  "last_updated_iso": "2026-10-25T12:19:16.087Z",
+  "last_updated": "25 Oct 2026, 06:20:20 PM BST",
+  "last_updated_iso": "2026-10-25T12:20:20.221Z",
   "total_events": 232,
   "events": [
     {
@@ -378,6 +378,13 @@
           "name": "PARAMOUNT HD",
           "url": "https://chatgpt.hereisman.net/playlist/58611/load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/d2c811fb-8bbd-4779-895c-552b850c0e05.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
