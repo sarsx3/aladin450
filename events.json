@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Oct 2026, 01:45:18 AM BST",
-  "last_updated_iso": "2026-10-25T19:45:18.917Z",
-  "total_events": 389,
+  "last_updated": "26 Oct 2026, 01:46:12 AM BST",
+  "last_updated_iso": "2026-10-25T19:46:12.978Z",
+  "total_events": 388,
   "events": [
     {
       "id": "4",
@@ -16,35 +16,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1781",
-      "date": "25/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Liga Profesional",
-      "team1": "Aldosivi",
-      "team2": "Belgrano",
-      "logo1": "https://img.sofascore.com/api/v1/team/36836/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3203/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=c04f12fb358d8b8953e4e2a2e094408a&wsABSTime=1792991945",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "http://193.47.62.55/hls/QYYYAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1842",
