@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Oct 2026, 01:13:12 AM BST",
-  "last_updated_iso": "2026-10-25T19:13:12.302Z",
-  "total_events": 392,
+  "last_updated": "26 Oct 2026, 01:14:13 AM BST",
+  "last_updated_iso": "2026-10-25T19:14:13.398Z",
+  "total_events": 391,
   "events": [
     {
       "id": "4",
@@ -41,98 +41,6 @@
           "name": "Server-2",
           "url": "http://193.47.62.55/hls/QYYYAA.m3u8",
           "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1810",
-      "date": "25/10/2026",
-      "time": "11:00 PM",
-      "league": "Football | Serie A",
-      "team1": "Lecce",
-      "team2": "Juventus",
-      "logo1": "https://img.sofascore.com/api/v1/team/2689/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2687/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "myco-bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "BeIN2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "CBS SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "referer": "https://amazon.com",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001792945757-0-0-0bfff7b76c2053981899208b92ca837c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792897650-0-0-5031a7854566f1998dd5b35a9e6f9b61",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792912686-0-0-6f07c9f4fcd4582c158cb00e05581965",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-5",
-          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=57241d505bb20f692e3e5cacb4ae6578&txTime=6addf46e",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PARAMOUNT+ FHD",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7dfhoajldz/out/v1/43edb751cd124d9abf12eb432736ce0c/cenc.mpd?|drmScheme=clearkey&drmLicense=bec2a2104f3aaf70702ffc887d9401b2:e35cd8ddd8616ab2290e138a4192ae8d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "DAZN DE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lkk71dfv6o/out/v1/e36cdf7a1db74811b774bca1e75f6a61/cenc.mpd?|drmScheme=clearkey&drmLicense=a2fa8eba927af971795222760f089e1e:e4ccc4844b48f34a262e2b68b775acdb",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
