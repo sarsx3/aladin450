@@ -1,7 +1,7 @@
 {
-  "last_updated": "25 Oct 2026, 07:18:14 PM BST",
-  "last_updated_iso": "2026-10-25T13:18:14.465Z",
-  "total_events": 232,
+  "last_updated": "25 Oct 2026, 07:19:12 PM BST",
+  "last_updated_iso": "2026-10-25T13:19:12.939Z",
+  "total_events": 231,
   "events": [
     {
       "id": "3",
@@ -499,35 +499,6 @@
       "streams": []
     },
     {
-      "id": "1812",
-      "date": "25/10/2026",
-      "time": "5:15 PM",
-      "league": "Football | Eredivisie",
-      "team1": "Fortuna Sittard",
-      "team2": "Excelsior",
-      "logo1": "https://img.sofascore.com/api/v1/team/2957/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2967/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792896930-0-0-788d4ef82c496e28b52a5908cc9e3ca9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "http://193.47.62.50/hls/D222AAAQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1813",
       "date": "25/10/2026",
       "time": "7:30 PM",
@@ -596,7 +567,29 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001792931078-0-0-122d1813ba23672f68e5a93940abacad",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "http://193.47.62.50/hls/FUUUAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1815",
