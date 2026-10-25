@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 07:32:14 PM BST",
-  "last_updated_iso": "2026-10-25T13:32:14.178Z",
+  "last_updated": "25 Oct 2026, 07:33:16 PM BST",
+  "last_updated_iso": "2026-10-25T13:33:16.351Z",
   "total_events": 231,
   "events": [
     {
@@ -320,7 +320,50 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=b975108747c185f934f5e6576de9cffe&wsABSTime=1792974033",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001792930840-0-0-600e5763ca70b1f736ad7afea9a6e304",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792897133-0-0-f30ac8180129c341f7cdbe1c3fc4a1b5",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-5",
+          "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=762865abd8362bf16d330e7580dd01ac&txTime=6addde66",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-6",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1792907346-0-0-b46958457ef0edc4fb5adadeb41c36c4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1793",
