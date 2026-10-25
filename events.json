@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Oct 2026, 04:29:12 AM BST",
-  "last_updated_iso": "2026-10-25T22:29:12.308Z",
+  "last_updated": "26 Oct 2026, 04:30:25 AM BST",
+  "last_updated_iso": "2026-10-25T22:30:25.069Z",
   "total_events": 381,
   "events": [
     {
@@ -65,7 +65,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001792966816-0-0-d0a50a21354c507d61b1efb00350c847",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1845",
