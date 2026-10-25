@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 10:02:14 PM BST",
-  "last_updated_iso": "2026-10-25T16:02:14.228Z",
+  "last_updated": "25 Oct 2026, 10:03:12 PM BST",
+  "last_updated_iso": "2026-10-25T16:03:12.596Z",
   "total_events": 223,
   "events": [
     {
@@ -672,6 +672,13 @@
           "name": "Server-5",
           "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=04627249a23e83525ee346cd4c37f873&txTime=6ade67fa",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
