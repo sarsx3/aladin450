@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Oct 2026, 01:41:14 AM BST",
-  "last_updated_iso": "2026-10-25T19:41:14.685Z",
+  "last_updated": "26 Oct 2026, 01:42:15 AM BST",
+  "last_updated_iso": "2026-10-25T19:42:15.257Z",
   "total_events": 389,
   "events": [
     {
@@ -269,6 +269,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NDJmNzJjMDI1ZGQ1MzAzOTI0NGFkYzEzYjdlMzFkYWQ6YTdiZDk0MWExOWY2ZGQxNGYzMDA0YTYyM2E2YWQzYTE="
+        },
+        {
+          "name": "beIN ENGLISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MGI0MmJlMjY2NGQ3ZTgxMWQwNGYzZTUwNGUwOTI0YzU6YWUyNDA5MDEyM2I4YzcyYWM1NDA0ZGMxNTI4NDdjYjg="
         }
       ]
     },
