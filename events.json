@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 06:43:13 PM BST",
-  "last_updated_iso": "2026-10-25T12:43:13.021Z",
+  "last_updated": "25 Oct 2026, 06:44:14 PM BST",
+  "last_updated_iso": "2026-10-25T12:44:14.746Z",
   "total_events": 232,
   "events": [
     {
@@ -301,6 +301,13 @@
         {
           "name": "Server-1",
           "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001792930872-0-0-be8740ce5c5d6fd8744c7fcb041fe6a9",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
