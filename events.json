@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Oct 2026, 03:10:20 AM BST",
-  "last_updated_iso": "2026-10-25T21:10:20.448Z",
-  "total_events": 386,
+  "last_updated": "26 Oct 2026, 03:11:14 AM BST",
+  "last_updated_iso": "2026-10-25T21:11:14.365Z",
+  "total_events": 385,
   "events": [
     {
       "id": "4",
@@ -254,35 +254,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "MGI0MmJlMjY2NGQ3ZTgxMWQwNGYzZTUwNGUwOTI0YzU6YWUyNDA5MDEyM2I4YzcyYWM1NDA0ZGMxNTI4NDdjYjg="
-        }
-      ]
-    },
-    {
-      "id": "1851",
-      "date": "26/10/2026",
-      "time": "1:00 AM",
-      "league": "Football | Eredivisie",
-      "team1": "AZ Alkmaar",
-      "team2": "FC Twente",
-      "logo1": "https://img.sofascore.com/api/v1/team/2950/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2955/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001792952443-0-0-806aea5a2e78f9b4d60f753651a69af7",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ]
     },
