@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 11:12:13 PM BST",
-  "last_updated_iso": "2026-10-25T17:12:13.334Z",
+  "last_updated": "25 Oct 2026, 11:13:11 PM BST",
+  "last_updated_iso": "2026-10-25T17:13:11.422Z",
   "total_events": 213,
   "events": [
     {
@@ -439,6 +439,13 @@
           "name": "Server-5",
           "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1792942446-0-0-082aa716a1a92647f8d70732fe6a908b",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://chatgpt.hereisman.net/playlist/58640/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
