@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 06:45:21 PM BST",
-  "last_updated_iso": "2026-10-25T12:45:21.629Z",
+  "last_updated": "25 Oct 2026, 06:46:13 PM BST",
+  "last_updated_iso": "2026-10-25T12:46:13.655Z",
   "total_events": 232,
   "events": [
     {
@@ -331,6 +331,20 @@
           "name": "Server-1",
           "url": "http://193.47.62.50/hls/K4444AA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001792930957-0-0-1ad88048a48cfcf4f05e139680f172e3",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
