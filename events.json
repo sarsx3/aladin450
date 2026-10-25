@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Oct 2026, 03:11:14 AM BST",
-  "last_updated_iso": "2026-10-25T21:11:14.365Z",
+  "last_updated": "26 Oct 2026, 03:12:13 AM BST",
+  "last_updated_iso": "2026-10-25T21:12:13.286Z",
   "total_events": 385,
   "events": [
     {
@@ -471,6 +471,13 @@
           "name": "CazéTV-aq",
           "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ESPN ENGLISH HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58669/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
