@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 07:49:11 PM BST",
-  "last_updated_iso": "2026-10-25T13:49:11.504Z",
+  "last_updated": "25 Oct 2026, 07:50:17 PM BST",
+  "last_updated_iso": "2026-10-25T13:50:17.846Z",
   "total_events": 230,
   "events": [
     {
@@ -942,6 +942,13 @@
         {
           "name": "Server-3",
           "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1792906986-0-0-6391078c29168698a7142cb3ed7d778e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FANCODE FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
