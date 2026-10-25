@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 08:38:12 PM BST",
-  "last_updated_iso": "2026-10-25T14:38:12.809Z",
+  "last_updated": "25 Oct 2026, 08:39:12 PM BST",
+  "last_updated_iso": "2026-10-25T14:39:12.768Z",
   "total_events": 227,
   "events": [
     {
@@ -635,6 +635,13 @@
           "name": "Server-3",
           "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1792939446-0-0-a09c3f52b3265de8f961070ba5bc09dc",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BUNDESLIGA + HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58629/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
