@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Oct 2026, 04:33:12 AM BST",
-  "last_updated_iso": "2026-10-25T22:33:12.290Z",
+  "last_updated": "26 Oct 2026, 04:34:16 AM BST",
+  "last_updated_iso": "2026-10-25T22:34:16.872Z",
   "total_events": 381,
   "events": [
     {
@@ -179,7 +179,29 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792940166-0-0-bf77c1d5b27dad61450831f44af97636",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792966956-0-0-3b1fd7cc44536c873aed03956460b171",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1857",
