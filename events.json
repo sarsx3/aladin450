@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 09:13:11 PM BST",
-  "last_updated_iso": "2026-10-25T15:13:11.700Z",
+  "last_updated": "25 Oct 2026, 09:14:13 PM BST",
+  "last_updated_iso": "2026-10-25T15:14:13.904Z",
   "total_events": 225,
   "events": [
     {
@@ -529,6 +529,27 @@
           "name": "tapmad-bd",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tbbsvbmgdx/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/8302588a-0170-4d05-b027-450cd56c8f48-cenc.mpd?aws_sessionId=da1acb53-940f-4a11-a430-8af7890b4256?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "CazéTV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd?|drmScheme=clearkey&drmLicense=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER TV HD",
+          "url": "https://live.vivo155.com/live/hd-en-1-4550910.m3u8?txSecret=6017082e7e54b7ac38f8e241c819ef97&txTime=6ADE1E53",
+          "referer": "https://player.online878.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
