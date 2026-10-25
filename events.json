@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 11:10:18 PM BST",
-  "last_updated_iso": "2026-10-25T17:10:18.756Z",
+  "last_updated": "25 Oct 2026, 11:11:11 PM BST",
+  "last_updated_iso": "2026-10-25T17:11:11.512Z",
   "total_events": 213,
   "events": [
     {
@@ -147,6 +147,13 @@
           "name": "PREMIER LEAGUE + HD",
           "url": "https://chatgpt.hereisman.net/playlist/58641/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/epdyreharz/out/v1/312cb5388cd94f7c9c257e86819368e0/e53c11a3-fcb9-41c0-ad04-005559cda42c-cenc.mpd?aws_sessionId=d4f4f95f-f2a7-49e9-874d-e11161f6ce55?|drmScheme=clearkey&drmLicense=8cec4d8714298c7793b26974e17c2d75:98f87caad4aacf9353e1c1afaad4eafb",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
