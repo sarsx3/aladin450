@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 02:18:15 AM BST",
-  "last_updated_iso": "2026-10-26T20:18:15.554Z",
+  "last_updated": "27 Oct 2026, 02:19:13 AM BST",
+  "last_updated_iso": "2026-10-26T20:19:13.532Z",
   "total_events": 402,
   "events": [
     {
@@ -54,6 +54,13 @@
         {
           "name": "Ballon d'Or (FR)",
           "url": "https://admin2.formaturamaxi.com.br/equipe.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-1/_nc_sr_t-4/v/rASf_uK7kF_g7Ljl2LwiQpfz01nA_zkX0t73uaJoUF0QGtw/_nc_ohc-LQQu1dDMkzAQ7kNvwEhq_QU/live-dash/dash-abr-ibr-audio/122119943091323743.mpd?_nc_eui2=AeFmFmef221hnkR5WX0Eg4NcfXcuWLwYM_19dy5YvBgz_STMy3q1bHL6tJBeQtULT5HJHSACHitRK5-7KNPayF7x&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQPgnuNDKxCKvVup4Oq_Ko9yR-2LzxLeUTpaCjnNpteMrw&oe=6AE1797A",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
