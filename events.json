@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Oct 2026, 10:03:13 PM BST",
-  "last_updated_iso": "2026-10-26T16:03:13.914Z",
-  "total_events": 406,
+  "last_updated": "26 Oct 2026, 10:04:14 PM BST",
+  "last_updated_iso": "2026-10-26T16:04:14.257Z",
+  "total_events": 405,
   "events": [
     {
       "id": "1",
@@ -3079,6 +3079,20 @@
       "streams": []
     },
     {
+      "id": "2249",
+      "date": "01/11/2026",
+      "time": "5:15 PM",
+      "league": "Cricket | NPL 2026 - 9th T20",
+      "team1": "Janakpur Bolts",
+      "team2": "Pokhara Avengers",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PV.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2060",
       "date": "01/11/2026",
       "time": "5:30 PM",
@@ -5403,63 +5417,6 @@
       "streams": []
     },
     {
-      "id": "2232",
-      "date": "26/10/2026",
-      "time": "8:00 PM",
-      "league": "Football | Indian Super League",
-      "team1": "Mohun Bagan",
-      "team2": "Chennaiyin",
-      "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/174590/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv-aq",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120303/Footlive2610/ENG/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "sonyliv-bangla",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120302/Footlive2610/BEN/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Global Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Global Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001793020865-0-0-bf93d53fd876df7a165b09dabe74fc67",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "sonyliv-hindi",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120304/Footlive2610/HIN/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "sonyliv-tamil",
-          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120300/Footlive2610/TAM/master.m3u8?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2233",
       "date": "28/10/2026",
       "time": "8:00 PM",
@@ -5608,20 +5565,6 @@
       "team2": "Biratnagar Kings",
       "logo1": "https://cricketvectors.akamaized.net/Teams/ZY.png",
       "logo2": "https://cricketvectors.akamaized.net/Teams/PU.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2249",
-      "date": "01/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 9th T20",
-      "team1": "Janakpur Bolts",
-      "team2": "Pokhara Avengers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
