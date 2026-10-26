@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Oct 2026, 11:43:13 PM BST",
-  "last_updated_iso": "2026-10-26T17:43:13.413Z",
-  "total_events": 405,
+  "last_updated": "26 Oct 2026, 11:44:14 PM BST",
+  "last_updated_iso": "2026-10-26T17:44:14.491Z",
+  "total_events": 404,
   "events": [
     {
       "id": "1",
@@ -204,20 +204,6 @@
       "team2": "Pakhtakor",
       "logo1": "https://img.sofascore.com/api/v1/team/213877/image",
       "logo2": "https://img.sofascore.com/api/v1/team/34310/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "1860",
-      "date": "27/10/2026",
-      "time": "12:15 AM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Al-Nassr",
-      "team2": "Al Wasl",
-      "logo1": "https://img.sofascore.com/api/v1/team/23400/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/47674/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
