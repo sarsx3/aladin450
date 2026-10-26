@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Oct 2026, 08:15:20 PM BST",
-  "last_updated_iso": "2026-10-26T14:15:20.872Z",
-  "total_events": 402,
+  "last_updated": "26 Oct 2026, 08:16:15 PM BST",
+  "last_updated_iso": "2026-10-26T14:16:15.307Z",
+  "total_events": 408,
   "events": [
     {
       "id": "1",
@@ -5719,6 +5719,20 @@
       "streams": []
     },
     {
+      "id": "2256",
+      "date": "05/11/2026",
+      "time": "3:30 PM",
+      "league": "Football | SAFF Championship - Group B",
+      "team1": "Pakistan",
+      "team2": "India",
+      "logo1": "https://img.sofascore.com/api/v1/team/6081/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4828/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2255",
       "date": "05/11/2026",
       "time": "5:15 PM",
@@ -5730,6 +5744,76 @@
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2257",
+      "date": "05/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | SAFF Championship - Group A",
+      "team1": "Bhutan",
+      "team2": "Bangladesh",
+      "logo1": "https://img.sofascore.com/api/v1/team/191564/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6080/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2258",
+      "date": "08/11/2026",
+      "time": "3:30 PM",
+      "league": "Football | SAFF Championship - Group B",
+      "team1": "Maldives",
+      "team2": "Pakistan",
+      "logo1": "https://img.sofascore.com/api/v1/team/6911/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2259",
+      "date": "08/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | SAFF Championship - Group A",
+      "team1": "Sri Lanka",
+      "team2": "Bhutan",
+      "logo1": "https://img.sofascore.com/api/v1/team/23487/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/191564/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2260",
+      "date": "11/11/2026",
+      "time": "3:30 PM",
+      "league": "Football | SAFF Championship - Group B",
+      "team1": "India",
+      "team2": "Maldives",
+      "logo1": "https://img.sofascore.com/api/v1/team/4828/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6911/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2261",
+      "date": "11/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | SAFF Championship - Group A",
+      "team1": "Bangladesh",
+      "team2": "Sri Lanka",
+      "logo1": "https://img.sofascore.com/api/v1/team/6080/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/23487/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
+      "isHot": false,
+      "visibility": "unpublic",
       "streams": []
     }
   ]
