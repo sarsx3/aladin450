@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 01:52:14 AM BST",
-  "last_updated_iso": "2026-10-26T19:52:14.189Z",
+  "last_updated": "27 Oct 2026, 01:53:13 AM BST",
+  "last_updated_iso": "2026-10-26T19:53:13.587Z",
   "total_events": 402,
   "events": [
     {
@@ -675,6 +675,55 @@
         {
           "name": "CazéTV-aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-1",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=d8a1a408a8f2de9dfcc08a08c33c222f&wsABSTime=1793085992",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793042798-0-0-67e711d93474d19f399466c0b1a92c19",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793042799-0-0-222a7cfa451859c71f023744cff6d5f9",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792977947-0-0-33e2f4451a03976f6c2a0ea08c416b55",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-6",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793041926-0-0-dcf0df1aa12d36d7f90b60df8e202a01",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-7",
+          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1793041926-0-0-5298f28b85832ba9381c9a910bcccb04",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
