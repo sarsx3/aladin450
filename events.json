@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Oct 2026, 07:05:18 PM BST",
-  "last_updated_iso": "2026-10-26T13:05:18.637Z",
+  "last_updated": "26 Oct 2026, 07:06:16 PM BST",
+  "last_updated_iso": "2026-10-26T13:06:16.624Z",
   "total_events": 402,
   "events": [
     {
@@ -5444,6 +5444,13 @@
         {
           "name": "FANCODE2 FHD",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "star sports  hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
