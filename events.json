@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Oct 2026, 01:02:13 PM BST",
-  "last_updated_iso": "2026-10-26T07:02:13.970Z",
-  "total_events": 381,
+  "last_updated": "26 Oct 2026, 01:03:13 PM BST",
+  "last_updated_iso": "2026-10-26T07:03:13.651Z",
+  "total_events": 377,
   "events": [
     {
       "id": "4",
@@ -16,100 +16,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1843",
-      "date": "26/10/2026",
-      "time": "4:15 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "River",
-      "team2": "Racing Club",
-      "logo1": "https://img.sofascore.com/api/v1/team/3211/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3215/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "SportDigital Fussball",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001792963530-0-0-aaa4be58b32e96b72da40febe853e1e6",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1844",
-      "date": "26/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Barracas",
-      "team2": "Estudiantes Río Cuarto",
-      "logo1": "https://img.sofascore.com/api/v1/team/65668/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/266694/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001792966816-0-0-d0a50a21354c507d61b1efb00350c847",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1845",
-      "date": "26/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Central Córdoba",
-      "team2": "Velez Sarsfield",
-      "logo1": "https://img.sofascore.com/api/v1/team/65676/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3208/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001792966823-0-0-49b8ac63a261f4a9329bee80851dff95",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1846",
@@ -166,42 +72,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "1856",
-      "date": "26/10/2026",
-      "time": "7:00 AM",
-      "league": "Football | MLS",
-      "team1": "Los Angeles FC",
-      "team2": "Los Angeles Galaxy",
-      "logo1": "https://img.sofascore.com/api/v1/team/274650/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2513/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1792940166-0-0-bf77c1d5b27dad61450831f44af97636",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792966956-0-0-3b1fd7cc44536c873aed03956460b171",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1857",
