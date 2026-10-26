@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 01:18:15 AM BST",
-  "last_updated_iso": "2026-10-26T19:18:15.007Z",
+  "last_updated": "27 Oct 2026, 01:19:13 AM BST",
+  "last_updated_iso": "2026-10-26T19:19:13.085Z",
   "total_events": 402,
   "events": [
     {
@@ -664,7 +664,29 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001793038800-0-0-4dcbaa79340cdccccef8521686f2cf41",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "http://193.47.62.44/hls/GGGGAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1882",
