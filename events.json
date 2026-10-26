@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 01:31:13 AM BST",
-  "last_updated_iso": "2026-10-26T19:31:13.470Z",
+  "last_updated": "27 Oct 2026, 01:32:14 AM BST",
+  "last_updated_iso": "2026-10-26T19:32:14.231Z",
   "total_events": 402,
   "events": [
     {
@@ -154,6 +154,13 @@
           "name": "Global Server-7",
           "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793039154-0-0-4cb26e1f5416e4056c96f10d0a5fa43d",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BD Server-aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
