@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 12:27:13 AM BST",
-  "last_updated_iso": "2026-10-26T18:27:13.388Z",
+  "last_updated": "27 Oct 2026, 12:28:18 AM BST",
+  "last_updated_iso": "2026-10-26T18:28:18.115Z",
   "total_events": 402,
   "events": [
     {
@@ -464,6 +464,13 @@
           "name": "Server-5",
           "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793035601-0-0-526f126b09f386c0318145b8423ac935",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/GGGGAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
