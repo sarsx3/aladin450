@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 12:57:13 AM BST",
-  "last_updated_iso": "2026-10-26T18:57:13.731Z",
+  "last_updated": "27 Oct 2026, 12:58:14 AM BST",
+  "last_updated_iso": "2026-10-26T18:58:14.274Z",
   "total_events": 402,
   "events": [
     {
@@ -97,6 +97,62 @@
         {
           "name": "CazéTV FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.41/hls/D444FQQQQQA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792977852-0-0-a1f87c80be8a42d1e38deedd2ea51df4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-2",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1793035686-0-0-73393858c3c31d0765f62035239e2b95",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-3",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1793035746-0-0-96a0876cdf9be1d458f837767c1a8dd3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793039153-0-0-a44407970b1adc44bddc355c0766e18b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-6",
+          "url": "https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=f051965b056c007b998d7b537778136d&wsABSTime=1793082354",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server-7",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793039154-0-0-4cb26e1f5416e4056c96f10d0a5fa43d",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
