@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Oct 2026, 11:07:11 AM BST",
-  "last_updated_iso": "2026-10-26T05:07:11.481Z",
+  "last_updated": "26 Oct 2026, 11:08:14 AM BST",
+  "last_updated_iso": "2026-10-26T05:08:14.358Z",
   "total_events": 381,
   "events": [
     {
@@ -28,7 +28,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3215/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "SportDigital Fussball",
@@ -64,7 +64,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/266694/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Server-1",
@@ -93,7 +93,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3208/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Server-1",
@@ -164,7 +164,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": []
     },
     {
@@ -178,7 +178,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/2513/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Server-1",
