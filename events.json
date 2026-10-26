@@ -1,7 +1,7 @@
 {
-  "last_updated": "27 Oct 2026, 02:53:13 AM BST",
-  "last_updated_iso": "2026-10-26T20:53:13.405Z",
-  "total_events": 409,
+  "last_updated": "27 Oct 2026, 02:54:13 AM BST",
+  "last_updated_iso": "2026-10-26T20:54:13.685Z",
+  "total_events": 408,
   "events": [
     {
       "id": "1",
@@ -424,84 +424,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1877",
-      "date": "27/10/2026",
-      "time": "12:45 AM",
-      "league": "Football | Liga Portugal",
-      "team1": "Santa Clara",
-      "team2": "SL Benfica FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/3011/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3006/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "SportDigital Fussball",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd??|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "D SPORTS + FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd?|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792977731-0-0-d308a529f5cab59058c212cf7b883677",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1793035746-0-0-ad7380ec7f88226401c6f9a948328db7",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793035746-0-0-27184ff4b0cf25946392adfacc65a98d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793035601-0-0-526f126b09f386c0318145b8423ac935",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.44/hls/GGGGAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://www.rtmpcdn.com/live/80fdefa3-a234-4c47-b43b-02eecbbadd68.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1878",
@@ -3915,20 +3837,6 @@
       "streams": []
     },
     {
-      "id": "2250",
-      "date": "02/11/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | NPL 2026 - 10th T20",
-      "team1": "Kathmandu Gorkhas",
-      "team2": "Karnali Yaks",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2120",
       "date": "02/11/2026",
       "time": "2:10 PM",
@@ -3938,20 +3846,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274890/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2251",
-      "date": "02/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 11th T20",
-      "team1": "Sudurpaschim Royals",
-      "team2": "Chitwan Rhinos",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4237,20 +4131,6 @@
       "streams": []
     },
     {
-      "id": "2252",
-      "date": "03/11/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | NPL 2026 - 12th T20",
-      "team1": "Biratnagar Kings",
-      "team2": "Janakpur Bolts",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PU.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2129",
       "date": "03/11/2026",
       "time": "1:45 PM",
@@ -4302,20 +4182,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/6908/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3327/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2253",
-      "date": "03/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 13th T20",
-      "team1": "Lumbini Lions",
-      "team2": "Pokhara Avengers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -5875,6 +5741,34 @@
       "streams": []
     },
     {
+      "id": "2250",
+      "date": "02/11/2026",
+      "time": "12:45 PM",
+      "league": "Cricket | NPL 2026 - 10th T20",
+      "team1": "Kathmandu Gorkhas",
+      "team2": "Karnali Yaks",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/ZW.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2251",
+      "date": "02/11/2026",
+      "time": "5:15 PM",
+      "league": "Cricket | NPL 2026 - 11th T20",
+      "team1": "Sudurpaschim Royals",
+      "team2": "Chitwan Rhinos",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2270",
       "date": "02/11/2026",
       "time": "11:00 PM",
@@ -5886,6 +5780,34 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2252",
+      "date": "03/11/2026",
+      "time": "12:45 PM",
+      "league": "Cricket | NPL 2026 - 12th T20",
+      "team1": "Biratnagar Kings",
+      "team2": "Janakpur Bolts",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PU.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/PV.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2253",
+      "date": "03/11/2026",
+      "time": "5:15 PM",
+      "league": "Cricket | NPL 2026 - 13th T20",
+      "team1": "Lumbini Lions",
+      "team2": "Pokhara Avengers",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
       "streams": []
     },
     {
