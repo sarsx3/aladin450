@@ -1,8 +1,22 @@
 {
-  "last_updated": "26 Oct 2026, 03:28:16 PM BST",
-  "last_updated_iso": "2026-10-26T09:28:16.829Z",
-  "total_events": 377,
+  "last_updated": "26 Oct 2026, 03:29:11 PM BST",
+  "last_updated_iso": "2026-10-26T09:29:11.789Z",
+  "total_events": 378,
   "events": [
+    {
+      "id": "1",
+      "date": "26/10/2026",
+      "time": "11:00 PM",
+      "league": "Football | Ballon Dor Show",
+      "team1": "Ballon dOR",
+      "team2": "Ballon dOR",
+      "logo1": "https://majedulofficial.xyz/sportshype/ballon.jpg",
+      "logo2": "https://majedulofficial.xyz/sportshype/ballon.jpg",
+      "leagueLogo": "https://majedulofficial.xyz/sportshype/ballon.jpg",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
     {
       "id": "4",
       "date": "28/10/2026",
