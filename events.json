@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 02:05:18 AM BST",
-  "last_updated_iso": "2026-10-26T20:05:18.948Z",
+  "last_updated": "27 Oct 2026, 02:06:14 AM BST",
+  "last_updated_iso": "2026-10-26T20:06:14.435Z",
   "total_events": 402,
   "events": [
     {
@@ -725,6 +725,20 @@
           "name": "Global Server-7",
           "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1793041926-0-0-5298f28b85832ba9381c9a910bcccb04",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BD Server-aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/GGGGAAAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
