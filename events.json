@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 12:10:23 AM BST",
-  "last_updated_iso": "2026-10-26T18:10:23.529Z",
+  "last_updated": "27 Oct 2026, 12:11:13 AM BST",
+  "last_updated_iso": "2026-10-26T18:11:13.512Z",
   "total_events": 402,
   "events": [
     {
@@ -141,6 +141,34 @@
           "name": "Server-3",
           "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e13a382d86f2f435f89e55c6b129d6d9&txTime=6adfd4aa",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BD Server-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793035161-0-0-1005a43e695b1aa60c129f215df2a912",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-6",
+          "url": "http://193.47.62.44/hls/GGGG.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
