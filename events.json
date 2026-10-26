@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 12:11:13 AM BST",
-  "last_updated_iso": "2026-10-26T18:11:13.512Z",
+  "last_updated": "27 Oct 2026, 12:12:17 AM BST",
+  "last_updated_iso": "2026-10-26T18:12:17.880Z",
   "total_events": 402,
   "events": [
     {
@@ -20,6 +20,13 @@
           "name": "CBS SPORTS FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.55/hls/AFFF.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -105,6 +112,13 @@
           "name": "Server-2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793035162-0-0-f8d613c26392ecd164d4a781dc4fceaf",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "http://193.47.62.44/hls/GGGGA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
