@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 12:36:14 AM BST",
-  "last_updated_iso": "2026-10-26T18:36:14.539Z",
+  "last_updated": "27 Oct 2026, 12:37:12 AM BST",
+  "last_updated_iso": "2026-10-26T18:37:12.161Z",
   "total_events": 402,
   "events": [
     {
@@ -27,6 +27,34 @@
           "name": "low quality",
           "url": "http://193.47.62.55/hls/AFFF.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Ballon d'Or + HD",
+          "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Ballon d'Or (ENG)",
+          "url": "https://tedesco.formaturamaxi.com.br/balon.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Ballon d'Or (ES)",
+          "url": "https://admin2.formaturamaxi.com.br/dazn.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Ballon d'Or (FR)",
+          "url": "https://admin2.formaturamaxi.com.br/equipe.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
