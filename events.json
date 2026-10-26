@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 12:18:15 AM BST",
-  "last_updated_iso": "2026-10-26T18:18:15.057Z",
+  "last_updated": "27 Oct 2026, 12:20:20 AM BST",
+  "last_updated_iso": "2026-10-26T18:20:20.789Z",
   "total_events": 402,
   "events": [
     {
@@ -5638,7 +5638,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4828/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     },
     {
@@ -5666,7 +5666,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6080/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     },
     {
@@ -5680,7 +5680,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     },
     {
@@ -5694,7 +5694,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/191564/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     },
     {
@@ -5708,7 +5708,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/6911/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     },
     {
@@ -5722,7 +5722,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/23487/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": []
     }
   ]
