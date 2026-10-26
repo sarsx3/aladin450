@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Oct 2026, 03:46:16 PM BST",
-  "last_updated_iso": "2026-10-26T09:46:16.407Z",
-  "total_events": 378,
+  "last_updated": "26 Oct 2026, 03:47:16 PM BST",
+  "last_updated_iso": "2026-10-26T09:47:16.384Z",
+  "total_events": 387,
   "events": [
     {
       "id": "1",
@@ -3042,6 +3042,20 @@
       "streams": []
     },
     {
+      "id": "2236",
+      "date": "01/11/2026",
+      "time": "5:30 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Mumbai City",
+      "team2": "SC Delhi",
+      "logo1": "https://img.sofascore.com/api/v1/team/174600/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/331840/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2056",
       "date": "01/11/2026",
       "time": "6:30 PM",
@@ -3191,6 +3205,20 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2801/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2696/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2237",
+      "date": "01/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Inter Kashi FC",
+      "team2": "Goa",
+      "logo1": "https://img.sofascore.com/api/v1/team/494686/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174594/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
@@ -4876,6 +4904,20 @@
       "streams": []
     },
     {
+      "id": "2238",
+      "date": "05/11/2026",
+      "time": "5:30 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Churchill Brothers",
+      "team2": "NorthEast Utd",
+      "logo1": "https://img.sofascore.com/api/v1/team/40078/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174602/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2199",
       "date": "05/11/2026",
       "time": "6:15 PM",
@@ -4913,6 +4955,20 @@
       "logo1": "https://img.sofascore.com/api/v1/team/35607/image",
       "logo2": "https://img.sofascore.com/api/v1/team/40662/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2239",
+      "date": "05/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Mohun Bagan",
+      "team2": "Odisha",
+      "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174592/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
@@ -5291,6 +5347,76 @@
       "logo1": "https://img.sofascore.com/api/v1/team/1291/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2999/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2232",
+      "date": "26/10/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Mohun Bagan",
+      "team2": "Chennaiyin",
+      "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174590/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2233",
+      "date": "28/10/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Goa",
+      "team2": "SC Delhi",
+      "logo1": "https://img.sofascore.com/api/v1/team/174594/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/331840/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2234",
+      "date": "31/10/2026",
+      "time": "5:30 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Chennaiyin",
+      "team2": "Kerala",
+      "logo1": "https://img.sofascore.com/api/v1/team/174590/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174598/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2235",
+      "date": "31/10/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Mohun Bagan",
+      "team2": "Punjab",
+      "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/230661/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2240",
+      "date": "30/10/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "NorthEast Utd",
+      "team2": "Bengaluru",
+      "logo1": "https://img.sofascore.com/api/v1/team/174602/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/118670/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
