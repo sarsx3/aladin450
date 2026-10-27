@@ -1,7 +1,7 @@
 {
-  "last_updated": "27 Oct 2026, 10:23:12 PM BST",
-  "last_updated_iso": "2026-10-27T16:23:12.866Z",
-  "total_events": 389,
+  "last_updated": "27 Oct 2026, 10:24:16 PM BST",
+  "last_updated_iso": "2026-10-27T16:24:16.158Z",
+  "total_events": 388,
   "events": [
     {
       "id": "4",
@@ -207,63 +207,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1885",
-      "date": "27/10/2026",
-      "time": "2:30 PM",
-      "league": "Cricket | South Africa vs Australia – 3rd Test, Day 1",
-      "team1": "South Africa",
-      "team2": "Australia",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mdzi0aespt/out/v1/ebc753f4d4af40e481e5506bad35eb42/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YmRjNTJiMzFkY2YyNWIwNTE1YTYxZmI5ZDBmNDQ0YTI6NDY4YWU0NWRhZWYxMDIxNzEzZTdlYTg2OWEzNDBmOTY="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mdzi0aespt/out/v1/ebc753f4d4af40e481e5506bad35eb42/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YmRjNTJiMzFkY2YyNWIwNTE1YTYxZmI5ZDBmNDQ0YTI6NDY4YWU0NWRhZWYxMDIxNzEzZTdlYTg2OWEzNDBmOTY="
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "fancode - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SKY CRICKET FHD",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "fancode (ind)",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780083137_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793173775~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780083137_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c4e_watcho_586cba68-53ee-46~Signature=ATFKiJvsjuNKmS39CEGJCbz7ufSXXXjr0NZqjqmaVkTXvB6FG0GniHiyTAobbPIg-DSZad66dtIgRGNswqK1vLHSBo4D",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1886",
