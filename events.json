@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 12:19:12 AM BST",
-  "last_updated_iso": "2026-10-27T18:19:12.541Z",
+  "last_updated": "28 Oct 2026, 12:20:21 AM BST",
+  "last_updated_iso": "2026-10-27T18:20:21.474Z",
   "total_events": 386,
   "events": [
     {
@@ -69,6 +69,13 @@
           "name": "Server-6",
           "url": "http://193.47.62.44/hls/K444AAQQAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BD Server-aq",
+          "url": "https://raselmia9.app1-01733661143.workers.dev?match=DFB_Pokal_2026_27_Rot_Weiss_Essen_RB_Leipzig.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
