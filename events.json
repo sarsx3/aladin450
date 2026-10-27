@@ -1,7 +1,7 @@
 {
-  "last_updated": "28 Oct 2026, 12:12:17 AM BST",
-  "last_updated_iso": "2026-10-27T18:12:17.101Z",
-  "total_events": 388,
+  "last_updated": "28 Oct 2026, 12:13:13 AM BST",
+  "last_updated_iso": "2026-10-27T18:13:13.239Z",
+  "total_events": 386,
   "events": [
     {
       "id": "4",
@@ -16,113 +16,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1868",
-      "date": "27/10/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Shabab Al Ahly",
-      "team2": "Esteghlal FC Tehran",
-      "logo1": "https://img.sofascore.com/api/v1/team/264111/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34316/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793073914-0-0-ec6ab4e9b5f7ca44b6bc41220e7958f5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793097486-0-0-b19f0392be091af29790e76249aec997",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=fd16c936b3c69260a6688892b6bd7689&txTime=6ae0c59a",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793111415-0-0-979dc40c0baecbb3494c4aaa943fd81e",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-6",
-          "url": "http://193.47.62.44/hls/rararaAAAAAQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "BD Server-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1869",
-      "date": "27/10/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Al Seeb SC",
-      "team2": "East Bengal",
-      "logo1": "https://img.sofascore.com/api/v1/team/71044/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/40655/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793110834-0-0-96a4cc027928318d06d4a9359044a9e8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "http://193.47.62.44/hls/rararaAAAAAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "BD Server-aq",
-          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1872",
