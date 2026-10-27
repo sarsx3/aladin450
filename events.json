@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 01:42:13 PM BST",
-  "last_updated_iso": "2026-10-27T07:42:13.883Z",
+  "last_updated": "27 Oct 2026, 01:43:13 PM BST",
+  "last_updated_iso": "2026-10-27T07:43:13.278Z",
   "total_events": 400,
   "events": [
     {
@@ -345,6 +345,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NzFjOTU4N2E0ODllMTRlNDQ2M2ZiMDFmMDk1MWJjNjk6MmU1ZmNkMGI0NTA2OTZmMTRjOWYwNjUzNjRiNjc4N2I="
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
