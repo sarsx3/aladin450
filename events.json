@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 01:21:14 AM BST",
-  "last_updated_iso": "2026-10-27T19:21:14.515Z",
+  "last_updated": "28 Oct 2026, 01:22:22 AM BST",
+  "last_updated_iso": "2026-10-27T19:22:22.630Z",
   "total_events": 405,
   "events": [
     {
@@ -397,7 +397,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v5/Competitions/light/9",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "CBS SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "referer": "https://amazon.com",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=a044da7b880926f1eda923ae904f6d7b&wsABSTime=1793168639",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1899",
