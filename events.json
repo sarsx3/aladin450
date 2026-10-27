@@ -1,7 +1,7 @@
 {
-  "last_updated": "28 Oct 2026, 01:10:22 AM BST",
-  "last_updated_iso": "2026-10-27T19:10:22.592Z",
-  "total_events": 385,
+  "last_updated": "28 Oct 2026, 01:11:15 AM BST",
+  "last_updated_iso": "2026-10-27T19:11:15.988Z",
+  "total_events": 381,
   "events": [
     {
       "id": "4",
@@ -16,248 +16,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1872",
-      "date": "27/10/2026",
-      "time": "11:00 PM",
-      "league": "Football | DFB-Pokal",
-      "team1": "Rot-Weiss Essen",
-      "team2": "RB Leipzig",
-      "logo1": "https://img.sofascore.com/api/v1/team/2562/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36360/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/217/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793075026-0-0-1b42b0cb5f5ef775a2278d1b3694ee32",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793113206-0-0-6d193227dcbffd7d1d20e7aa90e6078f",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793114944-0-0-41f98ddf11d5b67a916a1ab3d6c14505",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-5",
-          "url": "https://www.rtmpcdn.com/live/5d0bff51-7151-4cdb-89b1-4633cad493fc.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-6",
-          "url": "http://193.47.62.44/hls/K444AAQQAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "BD Server-aq",
-          "url": "https://raselmia9.app1-01733661143.workers.dev?match=DFB_Pokal_2026_27_Rot_Weiss_Essen_RB_Leipzig.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1873",
-      "date": "27/10/2026",
-      "time": "11:00 PM",
-      "league": "Football | DFB-Pokal",
-      "team1": "Hamburger SV",
-      "team2": "Eintracht Frankfurt",
-      "logo1": "https://img.sofascore.com/api/v1/team/2676/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2674/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/217/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793075106-0-0-b255a1d022a316b8c047bbb5ddbd82c2",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1793097967-0-0-bbce8ff194f36cc8ff8323042d4a20a1",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1793098026-0-0-8ea2b24f99bdd0401ca72ef2a9abc404",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793114681-0-0-c49819c0b0de7a9aa2d2a9d9781abca8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-6",
-          "url": "https://www.rtmpcdn.com/live/f6716f76-a33f-4816-8b6d-95f994648b63.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-7",
-          "url": "http://193.47.62.44/hls/K444AAQQAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1874",
-      "date": "27/10/2026",
-      "time": "11:00 PM",
-      "league": "Football | DFB-Pokal",
-      "team1": "Sonnenhof Großaspach",
-      "team2": "FC Augsburg",
-      "logo1": "https://img.sofascore.com/api/v1/team/5894/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2600/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/217/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001793075268-0-0-0b02a4bd1007a162d39eced5d516e743",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793107086-0-0-e5bdb2e68ec3010f6186b3c06b406fc2",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793114979-0-0-4b94bbb3a558b07220a7b8239833e9e4",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-5",
-          "url": "https://www.rtmpcdn.com/live/47af901c-1668-4c0f-b389-48a1bbf34b80.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-6",
-          "url": "http://193.47.62.44/hls/K444AAQQAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1875",
-      "date": "27/10/2026",
-      "time": "11:00 PM",
-      "league": "Football | DFB-Pokal",
-      "team1": "Bochum",
-      "team2": "Mainz",
-      "logo1": "https://img.sofascore.com/api/v1/team/2542/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2556/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/217/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001793074910-0-0-fbb92b63cbf38ae3091d023f40ae10c6",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793097906-0-0-4a29f5bf4d9139e198a955d12586247c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793118577-0-0-348095842ffaf807c83d6e8b38e11289",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-5",
-          "url": "https://www.rtmpcdn.com/live/df6c202d-0613-42f9-a81b-f71615bdef67.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-6",
-          "url": "http://193.47.62.44/hls/K444AAQQA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1876",
@@ -3190,20 +2948,6 @@
       "streams": []
     },
     {
-      "id": "2237",
-      "date": "01/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | Indian Super League",
-      "team1": "Inter Kashi FC",
-      "team2": "Goa",
-      "logo1": "https://img.sofascore.com/api/v1/team/494686/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/174594/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2053",
       "date": "01/11/2026",
       "time": "8:30 PM",
@@ -4892,20 +4636,6 @@
       "streams": []
     },
     {
-      "id": "2238",
-      "date": "05/11/2026",
-      "time": "5:30 PM",
-      "league": "Football | Indian Super League",
-      "team1": "Churchill Brothers",
-      "team2": "NorthEast Utd",
-      "logo1": "https://img.sofascore.com/api/v1/team/40078/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/174602/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2199",
       "date": "05/11/2026",
       "time": "6:15 PM",
@@ -4943,20 +4673,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/35607/image",
       "logo2": "https://img.sofascore.com/api/v1/team/40662/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2239",
-      "date": "05/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | Indian Super League",
-      "team1": "Mohun Bagan",
-      "team2": "Odisha",
-      "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/174592/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -5376,6 +5092,48 @@
       "team2": "Punjab",
       "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
       "logo2": "https://img.sofascore.com/api/v1/team/230661/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2237",
+      "date": "01/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Inter Kashi FC",
+      "team2": "Goa",
+      "logo1": "https://img.sofascore.com/api/v1/team/494686/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174594/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2238",
+      "date": "05/11/2026",
+      "time": "5:30 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Churchill Brothers",
+      "team2": "NorthEast Utd",
+      "logo1": "https://img.sofascore.com/api/v1/team/40078/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174602/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2239",
+      "date": "05/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Mohun Bagan",
+      "team2": "Odisha",
+      "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174592/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "public",
