@@ -1,79 +1,8 @@
 {
-  "last_updated": "27 Oct 2026, 11:21:14 AM BST",
-  "last_updated_iso": "2026-10-27T05:21:14.557Z",
-  "total_events": 405,
+  "last_updated": "27 Oct 2026, 11:22:14 AM BST",
+  "last_updated_iso": "2026-10-27T05:22:14.238Z",
+  "total_events": 400,
   "events": [
-    {
-      "id": "1",
-      "date": "26/10/2026",
-      "time": "11:00 PM",
-      "league": "Football | Ballon Dor Show",
-      "team1": "Ballon dOR",
-      "team2": "Ballon dOR",
-      "logo1": "https://majedulofficial.xyz/sportshype/ballon.jpg",
-      "logo2": "https://majedulofficial.xyz/sportshype/ballon.jpg",
-      "leagueLogo": "https://majedulofficial.xyz/sportshype/ballon.jpg",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "CBS SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.55/hls/AFFF.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Ballon d'Or + HD",
-          "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Ballon d'Or (ENG)",
-          "url": "https://tedesco.formaturamaxi.com.br/balon.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Ballon d'Or (ES)",
-          "url": "https://admin2.formaturamaxi.com.br/dazn.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Ballon d'Or (FR)",
-          "url": "https://admin2.formaturamaxi.com.br/equipe.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-1/_nc_sr_t-4/v/rASf_uK7kF_g7Ljl2LwiQpfz01nA_zkX0t73uaJoUF0QGtw/_nc_ohc-LQQu1dDMkzAQ7kNvwEhq_QU/live-dash/dash-abr-ibr-audio/122119943091323743.mpd?_nc_eui2=AeFmFmef221hnkR5WX0Eg4NcfXcuWLwYM_19dy5YvBgz_STMy3q1bHL6tJBeQtULT5HJHSACHitRK5-7KNPayF7x&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQPgnuNDKxCKvVup4Oq_Ko9yR-2LzxLeUTpaCjnNpteMrw&oe=6AE1797A",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793046194-0-0-016563cbb853695f94e24f65d11e2be6",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "4",
       "date": "28/10/2026",
@@ -87,71 +16,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1857",
-      "date": "27/10/2026",
-      "time": "4:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Union Santa Fe",
-      "team2": "Estudiantes",
-      "logo1": "https://img.sofascore.com/api/v1/team/3204/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3206/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001793050055-0-0-182b58925c0adb533fd03da2cb536ce9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "http://193.47.62.44/hls/D444FQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1858",
-      "date": "27/10/2026",
-      "time": "6:15 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Instituto Cordoba",
-      "team2": "Deportivo Riestra",
-      "logo1": "https://img.sofascore.com/api/v1/team/4937/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/189723/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001793049820-0-0-aaf300e5728181edc1b97124c5cab15e",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1862",
@@ -264,85 +128,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1870",
-      "date": "27/10/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Coritiba",
-      "team2": "Gremio",
-      "logo1": "https://img.sofascore.com/api/v1/team/1982/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5926/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "PREMIERE2 BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793049720-0-0-f7135033115367c1456af1cace81b922",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1871",
-      "date": "27/10/2026",
-      "time": "5:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Flamengo",
-      "team2": "Atlético Mineiro",
-      "logo1": "https://img.sofascore.com/api/v1/team/5981/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1977/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "SPORT TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PREMIERER1 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001793049798-0-0-f1125bddbdc2d85f718ee0c937ceee92",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1872",
@@ -3033,20 +2818,6 @@
       "streams": []
     },
     {
-      "id": "2249",
-      "date": "01/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 9th T20",
-      "team1": "Janakpur Bolts",
-      "team2": "Pokhara Avengers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2060",
       "date": "01/11/2026",
       "time": "5:30 PM",
@@ -5536,6 +5307,20 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2249",
+      "date": "01/11/2026",
+      "time": "5:15 PM",
+      "league": "Cricket | NPL 2026 - 9th T20",
+      "team1": "Janakpur Bolts",
+      "team2": "Pokhara Avengers",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PV.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/PW.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
       "streams": []
     },
     {
