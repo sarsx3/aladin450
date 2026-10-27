@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 11:34:14 PM BST",
-  "last_updated_iso": "2026-10-27T17:34:14.662Z",
+  "last_updated": "27 Oct 2026, 11:35:18 PM BST",
+  "last_updated_iso": "2026-10-27T17:35:18.923Z",
   "total_events": 388,
   "events": [
     {
@@ -355,6 +355,20 @@
           "name": "Server-4",
           "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793118481-0-0-1a3048f19739b322bbb69c6a4d78930c",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tdafezj5nn/out/v1/b0d6db796b544f988172f7ca8d9480f6/cenc.mpd?aws_sessionId=a9cce8e5-1747-4e8d-870d-44488ca5cb31?|drmScheme=clearkey&drmLicense=50e443948a57fe66c159348eae554b3b:8eda6b0e00eb21bd6de20c8e705062cc",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58737/load-playlist-multi?.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
