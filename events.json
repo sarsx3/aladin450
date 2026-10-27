@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 02:58:15 PM BST",
-  "last_updated_iso": "2026-10-27T08:58:15.970Z",
+  "last_updated": "27 Oct 2026, 02:59:12 PM BST",
+  "last_updated_iso": "2026-10-27T08:59:12.581Z",
   "total_events": 400,
   "events": [
     {
@@ -387,6 +387,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NzFjOTU4N2E0ODllMTRlNDQ2M2ZiMDFmMDk1MWJjNjk6MmU1ZmNkMGI0NTA2OTZmMTRjOWYwNjUzNjRiNjc4N2I="
+        },
+        {
+          "name": "PTV SPORTS -aq",
+          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
