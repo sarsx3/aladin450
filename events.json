@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 04:12:14 PM BST",
-  "last_updated_iso": "2026-10-27T10:12:14.259Z",
+  "last_updated": "27 Oct 2026, 04:13:13 PM BST",
+  "last_updated_iso": "2026-10-27T10:13:13.764Z",
   "total_events": 400,
   "events": [
     {
@@ -40,6 +40,48 @@
         {
           "name": "Server-2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793093015-0-0-14bf6e41a000c87ff2fce1182301788d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?",
+          "referer": "https://xoilac.domainkqt.cc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://www.rtmpcdn.com/live/0da418d9-1da7-41e0-a54c-31c6b4779fb5.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-5",
+          "url": "http://193.47.62.59/hls/O555A.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793072721-0-0-2907d43cd9eff399aabfede8d2fb3896",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1793095326-0-0-3f16bc0bc141ca5d84d5970f50dc0e56",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-8",
+          "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1793096646-0-0-10c66cb52077ac67d636562f4cfc4c0a",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
