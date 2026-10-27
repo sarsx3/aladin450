@@ -1,7 +1,7 @@
 {
-  "last_updated": "27 Oct 2026, 07:06:14 PM BST",
-  "last_updated_iso": "2026-10-27T13:06:14.539Z",
-  "total_events": 394,
+  "last_updated": "27 Oct 2026, 07:07:13 PM BST",
+  "last_updated_iso": "2026-10-27T13:07:13.225Z",
+  "total_events": 393,
   "events": [
     {
       "id": "4",
@@ -306,70 +306,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1883",
-      "date": "27/10/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | Pakistan vs Sri Lanka – 5th Match",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NzFjOTU4N2E0ODllMTRlNDQ2M2ZiMDFmMDk1MWJjNjk6MmU1ZmNkMGI0NTA2OTZmMTRjOWYwNjUzNjRiNjc4N2I="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NzFjOTU4N2E0ODllMTRlNDQ2M2ZiMDFmMDk1MWJjNjk6MmU1ZmNkMGI0NTA2OTZmMTRjOWYwNjUzNjRiNjc4N2I="
-        },
-        {
-          "name": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow2 hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "t sports hd",
-          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NzFjOTU4N2E0ODllMTRlNDQ2M2ZiMDFmMDk1MWJjNjk6MmU1ZmNkMGI0NTA2OTZmMTRjOWYwNjUzNjRiNjc4N2I="
-        },
-        {
-          "name": "PTV SPORTS -aq",
-          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1885",
