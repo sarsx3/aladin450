@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 06:23:12 PM BST",
-  "last_updated_iso": "2026-10-27T12:23:12.135Z",
+  "last_updated": "27 Oct 2026, 06:24:14 PM BST",
+  "last_updated_iso": "2026-10-27T12:24:14.876Z",
   "total_events": 394,
   "events": [
     {
@@ -140,6 +140,20 @@
           "name": "Server-6",
           "url": "http://193.47.62.50/hls/JYYY.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BD Server-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "https://www.rtmpcdn.com/live/1ffe3e29-2f34-4dba-8888-5d74943a64da.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
