@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 05:48:12 PM BST",
-  "last_updated_iso": "2026-10-27T11:48:12.924Z",
+  "last_updated": "27 Oct 2026, 05:49:12 PM BST",
+  "last_updated_iso": "2026-10-27T11:49:12.495Z",
   "total_events": 398,
   "events": [
     {
@@ -341,7 +341,50 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793074035-0-0-ca77d9b54b59c3c1c7d3253ddd33bfa0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793097246-0-0-e40fade029e2994901e6139d3de33236",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1793097366-0-0-f825afe529722cb03408db37798d10b1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793100493-0-0-4844b766b70f28e47e52c02b48756f3e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-6",
+          "url": "http://193.47.62.50/hls/JYYYA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1867",
