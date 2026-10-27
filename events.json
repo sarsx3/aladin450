@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 12:40:23 PM BST",
-  "last_updated_iso": "2026-10-27T06:40:23.515Z",
+  "last_updated": "27 Oct 2026, 12:41:11 PM BST",
+  "last_updated_iso": "2026-10-27T06:41:11.538Z",
   "total_events": 400,
   "events": [
     {
@@ -300,6 +300,13 @@
           "name": "CRICBUZZ HD",
           "url": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
