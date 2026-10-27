@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 04:58:14 PM BST",
-  "last_updated_iso": "2026-10-27T10:58:14.308Z",
+  "last_updated": "27 Oct 2026, 04:59:16 PM BST",
+  "last_updated_iso": "2026-10-27T10:59:16.896Z",
   "total_events": 398,
   "events": [
     {
@@ -496,13 +496,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": [
-        {
-          "name": "Server 1",
-          "url": "https://flussonic.defineatoz.com/btv/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
         {
           "name": "willow-aq",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd",
@@ -5564,6 +5557,13 @@
           "name": "Server-1",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FANCODE (IND)",
+          "url": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8",
+          "referer": "https://fancode.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
