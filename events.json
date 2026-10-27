@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 11:10:23 AM BST",
-  "last_updated_iso": "2026-10-27T05:10:23.539Z",
+  "last_updated": "27 Oct 2026, 11:11:11 AM BST",
+  "last_updated_iso": "2026-10-27T05:11:11.738Z",
   "total_events": 405,
   "events": [
     {
@@ -99,7 +99,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/3206/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Server-1",
@@ -135,7 +135,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/189723/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "Server-1",
@@ -276,7 +276,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/5926/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "PREMIERE2 BR FHD",
@@ -312,7 +312,7 @@
       "logo2": "https://img.sofascore.com/api/v1/team/1977/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "SPORT TV FHD",
