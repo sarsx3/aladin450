@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 10:03:13 PM BST",
-  "last_updated_iso": "2026-10-27T16:03:13.131Z",
+  "last_updated": "27 Oct 2026, 10:04:14 PM BST",
+  "last_updated_iso": "2026-10-27T16:04:14.870Z",
   "total_events": 389,
   "events": [
     {
@@ -112,6 +112,13 @@
           "name": "Server-3",
           "url": "http://193.47.62.44/hls/rararaAAAAAQ.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BD Server-aq",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
