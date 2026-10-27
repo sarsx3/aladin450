@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Oct 2026, 04:18:14 PM BST",
-  "last_updated_iso": "2026-10-27T10:18:14.021Z",
+  "last_updated": "27 Oct 2026, 04:19:12 PM BST",
+  "last_updated_iso": "2026-10-27T10:19:12.940Z",
   "total_events": 400,
   "events": [
     {
@@ -254,6 +254,48 @@
           "name": "Server-2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793093423-0-0-c21c551ffa79bd17f976bacee578433c",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8?",
+          "referer": "https://xoilac.domainkqt.cc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793073157-0-0-c8349206de931ba914c1fcdc2512df9b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-5",
+          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793096946-0-0-9854efb40a1df9021a4aaca58618a7e2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-6",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0cff348d947284e0b9ee39bd6348219b&txTime=6ae0c37e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-7",
+          "url": "https://www.rtmpcdn.com/live/c2d67731-3d41-47cf-b2f7-4fcb58b94a88.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-8",
+          "url": "http://193.47.62.59/hls/O555AAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
