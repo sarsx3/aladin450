@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 03:09:12 AM BST",
-  "last_updated_iso": "2026-10-27T21:09:12.494Z",
+  "last_updated": "28 Oct 2026, 03:10:21 AM BST",
+  "last_updated_iso": "2026-10-27T21:10:21.216Z",
   "total_events": 401,
   "events": [
     {
@@ -718,6 +718,13 @@
           "name": "low quality",
           "url": "http://193.47.62.59/hls/JBBBBA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tonqadxdng/out/v1/466fbcc3a08c42baa5882dc27ac826b3/cenc.mpd?aws_sessionId=2946c0ed-1219-434b-8446-7a9e3ff0714c?|drmScheme=clearkey&drmLicense=b024cff42877a9b83a5e805d4d03d676:37f31db6f27fdf62c77555765a74fbd6",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
