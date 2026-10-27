@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 03:13:13 AM BST",
-  "last_updated_iso": "2026-10-27T21:13:13.313Z",
+  "last_updated": "28 Oct 2026, 03:14:17 AM BST",
+  "last_updated_iso": "2026-10-27T21:14:17.949Z",
   "total_events": 401,
   "events": [
     {
@@ -259,6 +259,13 @@
         {
           "name": "hd quality",
           "url": "https://www.rtmpcdn.com/live/00322d73-6436-46aa-84c6-d48e0723d82b.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/breeqxluro/out/v1/2288f027b7e04791938fd3f72a0104be/cenc.mpd?aws_sessionId=9cdd2e61-9da4-4d66-8df5-61fcafa2d224?|drmScheme=clearkey&drmLicense=89e180f3a77c5faa64a36a412942d1ba:deb699210c75c34a0537526fedcd0e51",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
