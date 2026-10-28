@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 05:31:12 AM BST",
-  "last_updated_iso": "2026-10-28T23:31:12.918Z",
+  "last_updated": "29 Oct 2026, 05:32:12 AM BST",
+  "last_updated_iso": "2026-10-28T23:32:12.921Z",
   "total_events": 354,
   "events": [
     {
@@ -309,6 +309,13 @@
         {
           "name": "SportsHype cdn-3",
           "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1793206086-0-0-e707611f39d12139194d6469eb1d7f81",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-4",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793206146-0-0-694af41922c501c3e585f60f2869d742",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
