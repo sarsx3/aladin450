@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 01:39:13 PM BST",
-  "last_updated_iso": "2026-10-28T07:39:13.626Z",
+  "last_updated": "28 Oct 2026, 01:40:20 PM BST",
+  "last_updated_iso": "2026-10-28T07:40:20.574Z",
   "total_events": 387,
   "events": [
     {
@@ -310,6 +310,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NmQ4YThjZjYzZjJjYjE1MTkwMjEwMGIwZDllNjY4ZGQ6ZTc1MTI0YTcyNTY4YWVlMTliMDQ1NTgyNjNkMWQwNTA="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NmQ4YThjZjYzZjJjYjE1MTkwMjEwMGIwZDllNjY4ZGQ6ZTc1MTI0YTcyNTY4YWVlMTliMDQ1NTgyNjNkMWQwNTA="
         }
       ]
     },
