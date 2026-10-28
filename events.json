@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 05:59:14 PM BST",
-  "last_updated_iso": "2026-10-28T11:59:14.862Z",
+  "last_updated": "28 Oct 2026, 06:00:33 PM BST",
+  "last_updated_iso": "2026-10-28T12:00:33.821Z",
   "total_events": 384,
   "events": [
     {
@@ -3155,21 +3155,21 @@
           "drm": ""
         },
         {
-          "name": "Server 2",
+          "name": "PrioFy -2",
           "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "Server-2",
+          "name": "Server-1",
           "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "Server-4",
+          "name": "Server-2",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
