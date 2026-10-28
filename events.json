@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 01:41:14 AM BST",
-  "last_updated_iso": "2026-10-28T19:41:14.607Z",
+  "last_updated": "29 Oct 2026, 01:42:15 AM BST",
+  "last_updated_iso": "2026-10-28T19:42:15.103Z",
   "total_events": 367,
   "events": [
     {
@@ -754,6 +754,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_05/hls/PKBD5.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -809,6 +816,13 @@
           "name": "Server-5",
           "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793211754-0-0-cdb43292d2ddf3968f3016af31623250",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_04/hls/PKBD4.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
