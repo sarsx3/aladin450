@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 11:37:13 PM BST",
-  "last_updated_iso": "2026-10-28T17:37:13.240Z",
+  "last_updated": "28 Oct 2026, 11:38:16 PM BST",
+  "last_updated_iso": "2026-10-28T17:38:16.813Z",
   "total_events": 376,
   "events": [
     {
@@ -429,6 +429,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NjlhNWFhODM1YTA2MWNlNjRhNjMwZDEwNDY3MjdlNDA6ZDAyZmVhYzhhOTk5YmQwNmJmNDA1OWJmMzM0MTE3NDk="
+        },
+        {
+          "name": "SPORT2 TV CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
