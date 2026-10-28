@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 11:14:14 PM BST",
-  "last_updated_iso": "2026-10-28T17:14:14.531Z",
+  "last_updated": "28 Oct 2026, 11:15:21 PM BST",
+  "last_updated_iso": "2026-10-28T17:15:21.427Z",
   "total_events": 376,
   "events": [
     {
@@ -316,7 +316,43 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "myco-bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793158716-0-0-3b229eb52ba6219587a06797405c779a",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=b8074e190dd75694b77934458a4aa97b&txTime=6ae26e0e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793204724-0-0-b534f988b6a1247e33f7602779f8a413",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1917",
