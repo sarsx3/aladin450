@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 02:12:15 AM BST",
-  "last_updated_iso": "2026-10-28T20:12:15.426Z",
+  "last_updated": "29 Oct 2026, 02:13:13 AM BST",
+  "last_updated_iso": "2026-10-28T20:13:13.081Z",
   "total_events": 367,
   "events": [
     {
@@ -822,6 +822,34 @@
           "name": "myco-bd",
           "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_05/hls/PKBD5.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iwsgmipnbb/out/v1/29d2553067834c3c8dc248b63bee75c2/cenc.mpd?aws_sessionId=11c513fa-73ba-4dd6-91fb-a6f993652c36?|drmScheme=clearkey&drmLicense=b1ed682bc9d2552773f67ffcab4d5323:a255ae735bebd528f234626a5598bc89",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l7ncidnrej/out/v1/4da9b7d2b1414cb28afd976da2c3b840/cenc.mpd?aws_sessionId=40fed08b-9e1f-4b37-bfb3-380c1f18f402?|drmScheme=clearkey&drmLicense=0488e598b1b6ef24e2ef8264cd86e1ef:ef778c17e2b1798e2f15718967a81299",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://chatgpt.hereisman.net/playlist/58779/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER TV",
+          "url": "https://live.vivo155.com/live/hd-en-1-4549113.m3u8?txSecret=471719387da9c0387a9d800955211ab2&txTime=6AE262C4",
+          "referer": "https://player.on8on8.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
