@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 02:33:13 PM BST",
-  "last_updated_iso": "2026-10-28T08:33:13.858Z",
+  "last_updated": "28 Oct 2026, 02:34:12 PM BST",
+  "last_updated_iso": "2026-10-28T08:34:12.833Z",
   "total_events": 387,
   "events": [
     {
@@ -33,6 +33,13 @@
         {
           "name": "TNT2 SPORTS FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -346,6 +353,27 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NmQ4YThjZjYzZjJjYjE1MTkwMjEwMGIwZDllNjY4ZGQ6ZTc1MTI0YTcyNTY4YWVlMTliMDQ1NTgyNjNkMWQwNTA="
+        },
+        {
+          "name": "Tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8, https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "a sports hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "fancode hd (ind)",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780088071_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793261354~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780088071_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d93_watcho_031ec486-f210-49~Signature=ATFKiJuWTsdpNPTOBVJn-Wc9CRnMVgTuv1gJC1VtN5Cs6k8se3d6AaDyVjn5A24r_K8pbSKknajIFYd9MvXOCmX_KdwM",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
