@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 02:24:14 AM BST",
-  "last_updated_iso": "2026-10-28T20:24:14.450Z",
+  "last_updated": "29 Oct 2026, 02:25:17 AM BST",
+  "last_updated_iso": "2026-10-28T20:25:17.335Z",
   "total_events": 365,
   "events": [
     {
@@ -719,6 +719,20 @@
           "name": "Server-4",
           "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793211605-0-0-b88040131933c0fd042c0d22e96a3294",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llxpj5g9lr/out/v1/48e765feafdb4082a4b72dee3854f07f/cenc.mpd?|drmScheme=clearkey&drmLicense=3e4e7a49e6215369bb6d536a044e2969:d9c50b0f51950c1317951080d125e0f7",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER",
+          "url": "https://live.vivo155.com/live/sd-1-4641676.m3u8?txSecret=e8d6b5eb5aef41b324feb4ae0a08d8b9&txTime=6AE2638C",
+          "referer": "https://player.on8on8.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
