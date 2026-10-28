@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 06:07:15 PM BST",
-  "last_updated_iso": "2026-10-28T12:07:15.380Z",
+  "last_updated": "28 Oct 2026, 06:08:14 PM BST",
+  "last_updated_iso": "2026-10-28T12:08:14.225Z",
   "total_events": 384,
   "events": [
     {
@@ -3250,6 +3250,13 @@
         {
           "name": "Server-2",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://scontent.fdac27-2.fna.fbcdn.net/hvideo-ldc-ncg/_nc_cat-100/_nc_sr_t-4/v/rASeVMVmzSYukQGPuYrjKQnFrxZ9KNxRp6g87wwsmjyjRgQ/_nc_ohc-0H23Ze08hWoQ7kNvwEQ9UOd/live-dash/dash-abr-ibr-audio/122120254209323743.mpd?_nc_eui2=AeG0TZxvypusuzhoymvMDsSrvMO4060GQuG8w7jTrQZC4SDN2wvvVvPojLKZV2BNYb6x0pdywqNyNOBMdTmONpSQ&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQkJD8fiAkuzWaY09MTzX6ugjUu7Gh1K8dWgHjIvtB_Ag&oe=6AE3A913",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
