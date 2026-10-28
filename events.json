@@ -1,7 +1,7 @@
 {
-  "last_updated": "28 Oct 2026, 09:10:24 PM BST",
-  "last_updated_iso": "2026-10-28T15:10:24.580Z",
-  "total_events": 381,
+  "last_updated": "28 Oct 2026, 09:11:12 PM BST",
+  "last_updated_iso": "2026-10-28T15:11:12.335Z",
+  "total_events": 380,
   "events": [
     {
       "id": "1894",
@@ -3149,63 +3149,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2244",
-      "date": "28/10/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 4th T20",
-      "team1": "Pokhara Avengers",
-      "team2": "Sudurpaschim Royals",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PW.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PrioFy",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-dkl-atn/_nc_cat-1/_nc_sr_t-4/v/rASdm__UM09E_CXbey_DEB9SJlURv15e7PD_j-aZhSmCDxQ/_nc_ohc-89cLCSS86JwQ7kNvwHNnwUN/live-dash/dash-abr-ibr-audio/122208124400829836.mpd?_nc_eui2=AeHFja1yCsqGtOj8rKMmavLxc5DZvR7fB4JzkNm9Ht8HggPe5iwdANnHqKV40wrJCccjQKXPEJEhl4pkSQlcaTsM&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQT4Mro1iSQygvaAcQd4YzgE_nssBPlhyYr51SoIupSAcQ&oe=6AE3D578",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PrioFy -2",
-          "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://scontent.fdac27-2.fna.fbcdn.net/hvideo-ldc-ncg/_nc_cat-100/_nc_sr_t-4/v/rASeVMVmzSYukQGPuYrjKQnFrxZ9KNxRp6g87wwsmjyjRgQ/_nc_ohc-0H23Ze08hWoQ7kNvwEQ9UOd/live-dash/dash-abr-ibr-audio/122120254209323743.mpd?_nc_eui2=AeG0TZxvypusuzhoymvMDsSrvMO4060GQuG8w7jTrQZC4SDN2wvvVvPojLKZV2BNYb6x0pdywqNyNOBMdTmONpSQ&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQkJD8fiAkuzWaY09MTzX6ugjUu7Gh1K8dWgHjIvtB_Ag&oe=6AE3A913",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-hil-ftw/_nc_cat-1/_nc_sr_t-4/v/rASdJNlPawGsRbrI81kJuwGkccgbeueX3UJJ7FwOPI1o62A/_nc_ohc-uDet1KShQKEQ7kNvwF88q9_/live-dash/dash-abr-ibr-audio/1591081599727589.mpd?_nc_eui2=AeHobuQn2aLuAF427_TlwKGR7m1ghN9Cn2LubWCE30KfYiHkVTa4u2oTrQRmC6G21ZTs5YjLZDGyKZNJWtT_e0_M&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQaBIBBFBxlqwmgx4uMgNzj7zRjx4fEExa0NtYqRuA_vA&oe=6AE3B7E9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "2245",
