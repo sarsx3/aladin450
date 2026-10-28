@@ -1,7 +1,7 @@
 {
-  "last_updated": "28 Oct 2026, 08:28:15 AM BST",
-  "last_updated_iso": "2026-10-28T02:28:15.680Z",
-  "total_events": 388,
+  "last_updated": "28 Oct 2026, 08:29:11 AM BST",
+  "last_updated_iso": "2026-10-28T02:29:11.617Z",
+  "total_events": 387,
   "events": [
     {
       "id": "4",
@@ -16,42 +16,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1887",
-      "date": "28/10/2026",
-      "time": "4:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Argentinos Juniors",
-      "team2": "Independiente Rivadavia",
-      "logo1": "https://img.sofascore.com/api/v1/team/3216/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36842/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793132377-0-0-65bc4d2c0b4121327c30cd02565f0615",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "http://193.47.62.41/hls/GGGG.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1889",
