@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 01:19:13 AM BST",
-  "last_updated_iso": "2026-10-28T19:19:13.256Z",
+  "last_updated": "29 Oct 2026, 01:20:20 AM BST",
+  "last_updated_iso": "2026-10-28T19:20:20.709Z",
   "total_events": 370,
   "events": [
     {
@@ -949,6 +949,34 @@
         {
           "name": "SPORT1 CZ FHD",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.m3u8?auth_key=3000001793158603-0-0-85e02c0ac98ef90973e42044f7dbc24f",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1793205906-0-0-150cf146f73c3a44f35a06b8bff1df40",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001793211890-0-0-81628cbce3b3ecadf1df7e159b7140b8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
