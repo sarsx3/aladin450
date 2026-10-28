@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 02:14:14 AM BST",
-  "last_updated_iso": "2026-10-28T20:14:14.569Z",
+  "last_updated": "29 Oct 2026, 02:15:21 AM BST",
+  "last_updated_iso": "2026-10-28T20:15:21.016Z",
   "total_events": 367,
   "events": [
     {
@@ -487,6 +487,27 @@
           "name": "Server-5",
           "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793211558-0-0-cc0e51ac10c9a9ab184cd6d8a07e9a1d",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/srhjkloyvb/out/v1/97a9ca11e6bb43bf85ad2625dfa2ec88/cenc.mpd?aws_sessionId=79ef9a92-09bd-4041-a360-06d5c1a106be?|drmScheme=clearkey&drmLicense=7cd6cec6fa3cd8c1f514bc934376bce2:fc21f8fc483ed5c21d9b734ed3eff685",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://chatgpt.hereisman.net/playlist/58780/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER TV",
+          "url": "https://live.vivo155.com/live/sd-1-4646872.m3u8?txSecret=7c8c3c0f75f3b5f525110b58eb456092&txTime=6AE26161",
+          "referer": "https://player.on8on8.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
