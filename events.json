@@ -1,58 +1,8 @@
 {
-  "last_updated": "28 Oct 2026, 07:08:13 PM BST",
-  "last_updated_iso": "2026-10-28T13:08:13.621Z",
-  "total_events": 384,
+  "last_updated": "28 Oct 2026, 07:09:12 PM BST",
+  "last_updated_iso": "2026-10-28T13:09:12.519Z",
+  "total_events": 383,
   "events": [
-    {
-      "id": "4",
-      "date": "28/10/2026",
-      "time": "2:30 PM",
-      "league": "Cricket | ICC Women's Championship",
-      "team1": "India Women",
-      "team2": "Zimbabwe Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/213119/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/417062/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MjA1OGQ1MzM5NzA0ZjJlNzMxM2ZlZjMwY2IwZDUwNWQ6ZDI1ZTA0NDhmMGE3ZTcxZjljNDI2ZDBiMGE1MWNmY2Q="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MjA1OGQ1MzM5NzA0ZjJlNzMxM2ZlZjMwY2IwZDUwNWQ6ZDI1ZTA0NDhmMGE3ZTcxZjljNDI2ZDBiMGE1MWNmY2Q="
-        },
-        {
-          "name": "TNT2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow2 hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "1892",
       "date": "28/10/2026",
