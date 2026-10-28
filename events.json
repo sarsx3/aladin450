@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 08:27:16 PM BST",
-  "last_updated_iso": "2026-10-28T14:27:16.895Z",
+  "last_updated": "28 Oct 2026, 08:28:15 PM BST",
+  "last_updated_iso": "2026-10-28T14:28:15.389Z",
   "total_events": 381,
   "events": [
     {
@@ -33,6 +33,13 @@
         {
           "name": "Server-3",
           "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793190170-0-0-d9f208f0951ad13be424c303de9a4ee6",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793156795-0-0-449b0231e738ef4018f72bf8dad73a9f",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
