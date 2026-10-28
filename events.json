@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 11:23:15 PM BST",
-  "last_updated_iso": "2026-10-28T17:23:15.073Z",
+  "last_updated": "28 Oct 2026, 11:24:16 PM BST",
+  "last_updated_iso": "2026-10-28T17:24:16.146Z",
   "total_events": 376,
   "events": [
     {
@@ -308,6 +308,13 @@
           "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NDJmNzJjMDI1ZGQ1MzAzOTI0NGFkYzEzYjdlMzFkYWQ6YTdiZDk0MWExOWY2ZGQxNGYzMDA0YTYyM2E2YWQzYTE="
         }
       ]
     },
