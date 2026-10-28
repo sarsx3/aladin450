@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 05:02:17 AM BST",
-  "last_updated_iso": "2026-10-28T23:02:17.692Z",
+  "last_updated": "29 Oct 2026, 05:03:21 AM BST",
+  "last_updated_iso": "2026-10-28T23:03:21.701Z",
   "total_events": 354,
   "events": [
     {
@@ -277,7 +277,43 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": true,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793226226-0-0-1c3440f48f581975a0b5c8ec2a69d4d1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793159696-0-0-19cd91a2077cab19ff53841c07a55155",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-2",
+          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793206086-0-0-59a7e9a3a1c9a96f41cc81c7345fd876",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn-3",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1793206086-0-0-e707611f39d12139194d6469eb1d7f81",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1948",
