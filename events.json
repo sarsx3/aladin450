@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 02:16:16 AM BST",
-  "last_updated_iso": "2026-10-28T20:16:16.433Z",
+  "last_updated": "29 Oct 2026, 02:17:12 AM BST",
+  "last_updated_iso": "2026-10-28T20:17:12.611Z",
   "total_events": 367,
   "events": [
     {
@@ -778,6 +778,34 @@
         {
           "name": "Server-5",
           "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001793211607-0-0-5bc05506be908eeabfcf949c2c6d7530",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n6ydp4albq/out/v1/b0834541bd02489795e0fbaa9a685d40/cenc.mpd?|drmScheme=clearkey&drmLicense=c7f6aa5d6a00ae7bd9f7b9efc1eb77e5:b028ebfe0eac2597720e4d63733345e4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS ALT",
+          "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/n6ydp4albq/out/v1/b0834541bd02489795e0fbaa9a685d40/cenc.mpd?|drmScheme=clearkey&drmLicense=c7f6aa5d6a00ae7bd9f7b9efc1eb77e5:b028ebfe0eac2597720e4d63733345e4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FAST SERVER",
+          "url": "https://live.vivo155.com/live/sd-1-4641680.m3u8?txSecret=06cbd8bb70fd37393d77fd1b47edd81e&txTime=6AE26373",
+          "referer": "https://player.on8on8.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/dec93ea9-7c72-424b-bc9f-ea1f3ee27030.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
