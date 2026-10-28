@@ -1,7 +1,7 @@
 {
-  "last_updated": "28 Oct 2026, 04:59:12 PM BST",
-  "last_updated_iso": "2026-10-28T10:59:12.188Z",
-  "total_events": 387,
+  "last_updated": "28 Oct 2026, 05:00:32 PM BST",
+  "last_updated_iso": "2026-10-28T11:00:32.427Z",
+  "total_events": 386,
   "events": [
     {
       "id": "4",
@@ -362,56 +362,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1918",
-      "date": "28/10/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | West Indies tour of Bangladesh, 2026 - 1st Test, Day 1",
-      "team1": "Bangladesh",
-      "team2": "West Indies",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "t sports hd",
-          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "fancode (in)",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3086860_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793244241~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3086860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed9_watcho_c5c80ae9-615b-40~Signature=ATFKiJvUgkIq_d-E71T0pwDWM6wMFSLVgIfU4QeRyHySUq6znHhpggxZyrr6ELMRTKVVVC5xlK33u9O_A31H6Rzj7a4K",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-bd 2",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "FANCODE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1919",
