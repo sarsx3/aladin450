@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Oct 2026, 02:16:17 PM BST",
-  "last_updated_iso": "2026-10-28T08:16:17.163Z",
+  "last_updated": "28 Oct 2026, 02:17:12 PM BST",
+  "last_updated_iso": "2026-10-28T08:17:12.854Z",
   "total_events": 387,
   "events": [
     {
@@ -15,7 +15,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18793/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MjA1OGQ1MzM5NzA0ZjJlNzMxM2ZlZjMwY2IwZDUwNWQ6ZDI1ZTA0NDhmMGE3ZTcxZjljNDI2ZDBiMGE1MWNmY2Q="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MjA1OGQ1MzM5NzA0ZjJlNzMxM2ZlZjMwY2IwZDUwNWQ6ZDI1ZTA0NDhmMGE3ZTcxZjljNDI2ZDBiMGE1MWNmY2Q="
+        },
+        {
+          "name": "TNT2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1889",
