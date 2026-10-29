@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 03:11:13 PM BST",
-  "last_updated_iso": "2026-10-29T09:11:13.058Z",
+  "last_updated": "29 Oct 2026, 03:12:13 PM BST",
+  "last_updated_iso": "2026-10-29T09:12:13.845Z",
   "total_events": 347,
   "events": [
     {
@@ -366,6 +366,13 @@
         {
           "name": "willow2 hd",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
