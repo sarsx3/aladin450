@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 03:07:13 PM BST",
-  "last_updated_iso": "2026-10-29T09:07:13.099Z",
+  "last_updated": "29 Oct 2026, 03:08:13 PM BST",
+  "last_updated_iso": "2026-10-29T09:08:13.896Z",
   "total_events": 347,
   "events": [
     {
@@ -288,6 +288,13 @@
         {
           "name": "hd quality",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ptv sports - aq",
+          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
