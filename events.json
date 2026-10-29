@@ -1,7 +1,7 @@
 {
-  "last_updated": "29 Oct 2026, 10:20:21 PM BST",
-  "last_updated_iso": "2026-10-29T16:20:21.930Z",
-  "total_events": 453,
+  "last_updated": "29 Oct 2026, 10:21:12 PM BST",
+  "last_updated_iso": "2026-10-29T16:21:12.705Z",
+  "total_events": 451,
   "events": [
     {
       "id": "1945",
@@ -167,70 +167,6 @@
         {
           "name": "Server-1",
           "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-odn-lla/s1001/_nc_cat-1/_nc_sr_t-4/v/rASdtlJpk4snTVPMKMpMcOwHruqx7WyEseOg_f2BkfE47Bw/_nc_ohc-ewDCvE0X3OwQ7kNvwGOPCon/live-dash/dash-abr-ibr-audio/1012141011895518.mpd?_nc_eui2=AeEEqJNZQ_LUGvXdcgG-XbXiYcfSn8jfGC9hx9KfyN8YL0ZIKFTc_V0l-FVBylIhntV7piavRZfZr19ASVwkU1K0&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQS3GYXJ8aeftFbE4mlADrXmKVDEd_vsdLCwULXUYROpA&oe=6AE4FEE0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1952",
-      "date": "29/10/2026",
-      "time": "2:30 PM",
-      "league": "Cricket | Australia tour of South Africa, 2026 - 3rd Test, Day 3",
-      "team1": "South Africa",
-      "team2": "Australia",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "fancode - aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "Y2FkNzM2NTg1NWVhMGFjMDY1MzE0NDg4MmE0NmU5YTY6MGVlNDAzNTliMDEyNjRjY2U1YWFjMzE0MDA5NmM5Mjc="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "Y2FkNzM2NTg1NWVhMGFjMDY1MzE0NDg4MmE0NmU5YTY6MGVlNDAzNTliMDEyNjRjY2U1YWFjMzE0MDA5NmM5Mjc="
-        },
-        {
-          "name": "a sports hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow2 hd",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -4488,42 +4424,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2246",
-      "date": "29/10/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 6th T20",
-      "team1": "Karnali Yaks",
-      "team2": "Biratnagar Kings",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PU.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "net tv sports - aq",
-          "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-eag-ncg/_nc_cat-1/_nc_sr_t-4/v/rASfs3ZTUjgGH9AKIGcBfcoicmdXpWwxxtwENC1ccu19RoA/_nc_ohc-crcuv8SUfswQ7kNvwFHnLIf/live-dash/dash-abr-ibr-audio/122125647195118723.mpd?_nc_eui2=AeHB9ADqvE1IEcmUZ9KSmRSpeoohDyFkqvd6iiEPIWSq9-WGGbtXUovT2R9gAbxQg4nNNvAKP361URzgWgbqTYZt&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQNl51TWzBXvlsD_U1oZi2767xWBI3SJ5GeqRfvkTl25w&oe=6AE4EE6D",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://mini.allinonereborn.site/fcw/live222.php?url=https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_4250360_ENG%2Fenglish.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "2247",
