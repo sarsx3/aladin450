@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 09:11:30 PM BST",
-  "last_updated_iso": "2026-10-29T15:11:30.720Z",
+  "last_updated": "29 Oct 2026, 09:12:15 PM BST",
+  "last_updated_iso": "2026-10-29T15:12:15.614Z",
   "total_events": 453,
   "events": [
     {
@@ -281,6 +281,13 @@
         {
           "name": "fancode (ind)",
           "url": "https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
