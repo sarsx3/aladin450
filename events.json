@@ -1,7 +1,7 @@
 {
-  "last_updated": "29 Oct 2026, 10:21:14 AM BST",
-  "last_updated_iso": "2026-10-29T04:21:14.259Z",
-  "total_events": 351,
+  "last_updated": "29 Oct 2026, 10:22:15 AM BST",
+  "last_updated_iso": "2026-10-29T04:22:15.054Z",
+  "total_events": 348,
   "events": [
     {
       "id": "1923",
@@ -88,64 +88,6 @@
       "streams": []
     },
     {
-      "id": "1932",
-      "date": "29/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Remo",
-      "team2": "Botafogo",
-      "logo1": "https://img.sofascore.com/api/v1/team/2012/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1958/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERER3 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd?|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=1b7d0dacb4bcac56e5ce98d53c8aee95&wsABSTime=1793273272",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1933",
-      "date": "29/10/2026",
-      "time": "6:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Bahia",
-      "team2": "São Paulo",
-      "logo1": "https://img.sofascore.com/api/v1/team/1955/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1981/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERER5 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=0408d9b62750230625f87e6923bb711e&wsABSTime=1793272823",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "1945",
       "date": "29/10/2026",
       "time": "11:30 PM",
@@ -172,84 +114,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1947",
-      "date": "29/10/2026",
-      "time": "5:30 AM",
-      "league": "Football | MLS",
-      "team1": "Inter Miami",
-      "team2": "FC Cincinnati",
-      "logo1": "https://img.sofascore.com/api/v1/team/337602/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/215167/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": true,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793226226-0-0-1c3440f48f581975a0b5c8ec2a69d4d1",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PrioFy-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793159696-0-0-19cd91a2077cab19ff53841c07a55155",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PrioFy-2",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793206086-0-0-59a7e9a3a1c9a96f41cc81c7345fd876",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PrioFy-3",
-          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1793206086-0-0-e707611f39d12139194d6469eb1d7f81",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PrioFy-4",
-          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793206146-0-0-694af41922c501c3e585f60f2869d742",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://www.rtmpcdn.com/live/bb81d2b0-f0a6-46ca-8172-bc6e11214dbd.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "http://193.47.62.59/hls/SASASAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Global Server-1",
-          "url": "https://1cdn.syria-player.info/proxy.php?stream=YXBwbGUvNzIwcC9tYW5pZmVzdC5tM3U4",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1948",
