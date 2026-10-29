@@ -1,7 +1,7 @@
 {
-  "last_updated": "30 Oct 2026, 03:55:16 AM BST",
-  "last_updated_iso": "2026-10-29T21:55:16.186Z",
-  "total_events": 443,
+  "last_updated": "30 Oct 2026, 03:56:14 AM BST",
+  "last_updated_iso": "2026-10-29T21:56:14.423Z",
+  "total_events": 442,
   "events": [
     {
       "id": "1954",
@@ -1263,20 +1263,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/215167/image",
       "logo2": "https://img.sofascore.com/api/v1/team/39833/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2044",
-      "date": "01/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Coritiba",
-      "team2": "Vitoria",
-      "logo1": "https://img.sofascore.com/api/v1/team/1982/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1962/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
       "visibility": "public",
       "streams": []
