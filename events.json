@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 05:47:11 PM BST",
-  "last_updated_iso": "2026-10-29T11:47:11.716Z",
+  "last_updated": "29 Oct 2026, 05:48:13 PM BST",
+  "last_updated_iso": "2026-10-29T11:48:13.650Z",
   "total_events": 459,
   "events": [
     {
@@ -137,7 +137,43 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793240582-0-0-6ee66b63cb672ccaec0e46f1e7100dcc",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=685059849ddef3acb183ce38b0eab26d&txTime=6ae35346",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1793264886-0-0-f31732bd335769fa2008a341e3fb92ca",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793273320-0-0-9512e35d0e9628de9b66a6d0f29b0818",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1928",
