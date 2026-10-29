@@ -1,6 +1,6 @@
 {
-  "last_updated": "30 Oct 2026, 02:36:14 AM BST",
-  "last_updated_iso": "2026-10-29T20:36:14.221Z",
+  "last_updated": "30 Oct 2026, 02:37:14 AM BST",
+  "last_updated_iso": "2026-10-29T20:37:14.887Z",
   "total_events": 445,
   "events": [
     {
@@ -259,6 +259,13 @@
           "name": "Myco-aq",
           "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_02/hls/PKBD2.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cubrycsrq6/out/v1/81532072aecc4d529d7e674d011c551f/cenc.mpd?|drmScheme=clearkey&drmLicense=7d9cc90bbee73b7a4d1fc39033eb40d4:0da2db905ff7d59e9b87e603fe51e4d5",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
