@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 10:13:13 PM BST",
-  "last_updated_iso": "2026-10-29T16:13:13.104Z",
+  "last_updated": "29 Oct 2026, 10:14:16 PM BST",
+  "last_updated_iso": "2026-10-29T16:14:16.006Z",
   "total_events": 453,
   "events": [
     {
@@ -4503,15 +4503,15 @@
       "visibility": "public",
       "streams": [
         {
-          "name": "Server-1",
-          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-eag-ncg/_nc_cat-1/_nc_sr_t-4/v/rASfs3ZTUjgGH9AKIGcBfcoicmdXpWwxxtwENC1ccu19RoA/_nc_ohc-crcuv8SUfswQ7kNvwFHnLIf/live-dash/dash-abr-ibr-audio/122125647195118723.mpd?_nc_eui2=AeHB9ADqvE1IEcmUZ9KSmRSpeoohDyFkqvd6iiEPIWSq9-WGGbtXUovT2R9gAbxQg4nNNvAKP361URzgWgbqTYZt&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQNl51TWzBXvlsD_U1oZi2767xWBI3SJ5GeqRfvkTl25w&oe=6AE4EE6D",
+          "name": "net tv sports - aq",
+          "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "net tv sports - aq",
-          "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8",
+          "name": "Server-1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-eag-ncg/_nc_cat-1/_nc_sr_t-4/v/rASfs3ZTUjgGH9AKIGcBfcoicmdXpWwxxtwENC1ccu19RoA/_nc_ohc-crcuv8SUfswQ7kNvwFHnLIf/live-dash/dash-abr-ibr-audio/122125647195118723.mpd?_nc_eui2=AeHB9ADqvE1IEcmUZ9KSmRSpeoohDyFkqvd6iiEPIWSq9-WGGbtXUovT2R9gAbxQg4nNNvAKP361URzgWgbqTYZt&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQNl51TWzBXvlsD_U1oZi2767xWBI3SJ5GeqRfvkTl25w&oe=6AE4EE6D",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
