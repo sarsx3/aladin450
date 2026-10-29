@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 05:02:14 PM BST",
-  "last_updated_iso": "2026-10-29T11:02:14.316Z",
+  "last_updated": "29 Oct 2026, 05:03:12 PM BST",
+  "last_updated_iso": "2026-10-29T11:03:12.688Z",
   "total_events": 460,
   "events": [
     {
@@ -338,6 +338,13 @@
         {
           "name": "Cricbuzz hd",
           "url": "https://001.cdnplayer.eu/live/csstream2/chunklist.m3u8?vidictid=207552430550&id=1002&pk=bceb9bcabad01a0d44cb1b6be03cd6169d4f99f60d2a7938cdbac8bd373ee227dd59d49b286f6e7e3154bc31e3ab02403338b288606d5091223efc2a52504d74",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-odn-lla/s1001/_nc_cat-1/_nc_sr_t-4/v/rASdtlJpk4snTVPMKMpMcOwHruqx7WyEseOg_f2BkfE47Bw/_nc_ohc-ewDCvE0X3OwQ7kNvwGOPCon/live-dash/dash-abr-ibr-audio/1012141011895518.mpd?_nc_eui2=AeEEqJNZQ_LUGvXdcgG-XbXiYcfSn8jfGC9hx9KfyN8YL0ZIKFTc_V0l-FVBylIhntV7piavRZfZr19ASVwkU1K0&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQS3GYXJ8aeftFbE4mlADrXmKVDEd_vsdLCwULXUYROpA&oe=6AE4FEE0",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
