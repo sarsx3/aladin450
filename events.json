@@ -1,7 +1,7 @@
 {
-  "last_updated": "29 Oct 2026, 06:37:12 AM BST",
-  "last_updated_iso": "2026-10-29T00:37:12.330Z",
-  "total_events": 354,
+  "last_updated": "29 Oct 2026, 06:38:13 AM BST",
+  "last_updated_iso": "2026-10-29T00:38:13.799Z",
+  "total_events": 351,
   "events": [
     {
       "id": "1923",
@@ -86,128 +86,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1929",
-      "date": "29/10/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Bragantino",
-      "team2": "Chapecoense",
-      "logo1": "https://img.sofascore.com/api/v1/team/1999/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/21845/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERER4 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793222853-0-0-f858a00a13280427ebdd948f1316452b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1930",
-      "date": "29/10/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Santos",
-      "team2": "Palmeiras",
-      "logo1": "https://img.sofascore.com/api/v1/team/1968/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1963/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "SportDigital FussBall",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PREMIERER1 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793222865-0-0-d40cc1e1669aa22664bfdb2eb3f5554f",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1931",
-      "date": "29/10/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Fluminense",
-      "team2": "Internacional",
-      "logo1": "https://img.sofascore.com/api/v1/team/1961/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1966/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 BR FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001793222574-0-0-410a8f2926db52e4311d0814e2f311fd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1932",
@@ -2880,20 +2758,6 @@
       "streams": []
     },
     {
-      "id": "2270",
-      "date": "02/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Genclerbirligi",
-      "team2": "Alanyaspor",
-      "logo1": "https://img.sofascore.com/api/v1/team/7802/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6362/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2106",
       "date": "02/11/2026",
       "time": "11:30 PM",
@@ -3742,20 +3606,6 @@
       "streams": []
     },
     {
-      "id": "2153",
-      "date": "04/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Champions League",
-      "team1": "AEK",
-      "team2": "Real Madrid",
-      "logo1": "https://img.sofascore.com/api/v1/team/3250/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2829/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2194",
       "date": "05/11/2026",
       "time": "12:15 AM",
@@ -3821,6 +3671,20 @@
       "logo1": "https://img.sofascore.com/api/v1/team/95/image",
       "logo2": "https://img.sofascore.com/api/v1/team/28/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2178",
+      "date": "05/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Champions League",
+      "team1": "Porto",
+      "team2": "Napoli",
+      "logo1": "https://img.sofascore.com/api/v1/team/3002/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2714/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4185,6 +4049,20 @@
       "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
       "logo2": "https://img.sofascore.com/api/v1/team/174592/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2257",
+      "date": "05/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | SAFF Championship - Group A",
+      "team1": "Bhutan",
+      "team2": "Bangladesh",
+      "logo1": "https://img.sofascore.com/api/v1/team/191564/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6080/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4666,20 +4544,6 @@
       "streams": []
     },
     {
-      "id": "2257",
-      "date": "05/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | SAFF Championship - Group A",
-      "team1": "Bhutan",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/191564/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6080/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2258",
       "date": "08/11/2026",
       "time": "3:30 PM",
@@ -4786,6 +4650,20 @@
       "team2": "Goztepe SK",
       "logo1": "https://img.sofascore.com/api/v1/team/3052/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2270",
+      "date": "02/11/2026",
+      "time": "11:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Genclerbirligi",
+      "team2": "Alanyaspor",
+      "logo1": "https://img.sofascore.com/api/v1/team/7802/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6362/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
@@ -5128,14 +5006,14 @@
       "streams": []
     },
     {
-      "id": "2178",
-      "date": "05/11/2026",
-      "time": "2:00 AM",
+      "id": "2153",
+      "date": "04/11/2026",
+      "time": "11:45 PM",
       "league": "Football | UEFA Champions League",
-      "team1": "Porto",
-      "team2": "Napoli",
-      "logo1": "https://img.sofascore.com/api/v1/team/3002/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2714/image",
+      "team1": "AEK",
+      "team2": "Real Madrid",
+      "logo1": "https://img.sofascore.com/api/v1/team/3250/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2829/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
