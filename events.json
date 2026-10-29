@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 02:52:14 PM BST",
-  "last_updated_iso": "2026-10-29T08:52:14.371Z",
+  "last_updated": "29 Oct 2026, 02:53:12 PM BST",
+  "last_updated_iso": "2026-10-29T08:53:12.696Z",
   "total_events": 347,
   "events": [
     {
@@ -320,6 +320,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "Y2FkNzM2NTg1NWVhMGFjMDY1MzE0NDg4MmE0NmU5YTY6MGVlNDAzNTliMDEyNjRjY2U1YWFjMzE0MDA5NmM5Mjc="
+        },
+        {
+          "name": "a sports hd",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
