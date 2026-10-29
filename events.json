@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 02:24:14 PM BST",
-  "last_updated_iso": "2026-10-29T08:24:14.703Z",
+  "last_updated": "29 Oct 2026, 02:25:16 PM BST",
+  "last_updated_iso": "2026-10-29T08:25:16.935Z",
   "total_events": 347,
   "events": [
     {
@@ -257,7 +257,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "fancode - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1953",
