@@ -1,6 +1,6 @@
 {
-  "last_updated": "29 Oct 2026, 06:41:11 AM BST",
-  "last_updated_iso": "2026-10-29T00:41:11.709Z",
+  "last_updated": "29 Oct 2026, 06:42:20 AM BST",
+  "last_updated_iso": "2026-10-29T00:42:20.563Z",
   "total_events": 351,
   "events": [
     {
@@ -201,28 +201,28 @@
           "drm": ""
         },
         {
-          "name": "SportsHype cdn-1",
+          "name": "PrioFy-1",
           "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793159696-0-0-19cd91a2077cab19ff53841c07a55155",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "SportsHype cdn-2",
+          "name": "PrioFy-2",
           "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793206086-0-0-59a7e9a3a1c9a96f41cc81c7345fd876",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "SportsHype cdn-3",
+          "name": "PrioFy-3",
           "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1793206086-0-0-e707611f39d12139194d6469eb1d7f81",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "SportsHype cdn-4",
+          "name": "PrioFy-4",
           "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1793206146-0-0-694af41922c501c3e585f60f2869d742",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
