@@ -1,6 +1,6 @@
 {
-  "last_updated": "30 Oct 2026, 03:27:15 PM BST",
-  "last_updated_iso": "2026-10-30T09:27:15.212Z",
+  "last_updated": "30 Oct 2026, 03:28:14 PM BST",
+  "last_updated_iso": "2026-10-30T09:28:14.840Z",
   "total_events": 430,
   "events": [
     {
@@ -189,6 +189,13 @@
           "name": "tapmad-bd",
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793386870~acl=/*~id=70497179819891694545583603923983~hmac=4351aa39dd808cf22ffb6de66769aa5c54f0ef13f95c5b0463486aa64f5f6ea6",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
