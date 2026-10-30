@@ -1,7 +1,7 @@
 {
-  "last_updated": "30 Oct 2026, 11:22:14 PM BST",
-  "last_updated_iso": "2026-10-30T17:22:14.909Z",
-  "total_events": 426,
+  "last_updated": "30 Oct 2026, 11:23:13 PM BST",
+  "last_updated_iso": "2026-10-30T17:23:13.623Z",
+  "total_events": 424,
   "events": [
     {
       "id": "1954",
@@ -44,56 +44,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1965",
-      "date": "30/10/2026",
-      "time": "8:50 PM",
-      "league": "Football | Saudi League",
-      "team1": "Diriyah",
-      "team2": "NEOM SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/853574/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/530631/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793326888-0-0-594bb051bdca8a88e8150ed605bb31ca",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=9244c8611af374f019e999ccbe5fbac5&txTime=6ae4d7a2",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1793371446-0-0-18047edcc5b30bc300b816961ccba0a5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793370158-0-0-143b9209c16a4009a527c8a8dd857156",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "1966",
@@ -1526,20 +1476,6 @@
       "streams": []
     },
     {
-      "id": "2266",
-      "date": "01/11/2026",
-      "time": "4:30 PM",
-      "league": "Football | Super Lig",
-      "team1": "Amed SK",
-      "team2": "Eyupspor",
-      "logo1": "https://img.sofascore.com/api/v1/team/207011/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7040/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2066",
       "date": "01/11/2026",
       "time": "5:15 PM",
@@ -1661,34 +1597,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/47321/image",
       "logo2": "https://img.sofascore.com/api/v1/team/33779/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2267",
-      "date": "01/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Başakşehir",
-      "team2": "Samsunspor",
-      "logo1": "https://img.sofascore.com/api/v1/team/3086/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3053/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2268",
-      "date": "01/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Trabzonspor",
-      "team2": "Gaziantep F.K.",
-      "logo1": "https://img.sofascore.com/api/v1/team/3051/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5138/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4068,56 +3976,6 @@
       "streams": []
     },
     {
-      "id": "2240",
-      "date": "30/10/2026",
-      "time": "8:00 PM",
-      "league": "Football | Indian Super League",
-      "team1": "NorthEast Utd",
-      "team2": "Bengaluru",
-      "logo1": "https://img.sofascore.com/api/v1/team/174602/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/118670/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv-english",
-          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "sonyliv-hindi",
-          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001793366726-0-0-ec646b52308f45a3fd75a11005a4b2a7",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-3",
-          "url": "http://193.47.62.44/hls/RRRRQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2247",
       "date": "31/10/2026",
       "time": "12:45 PM",
@@ -4267,6 +4125,48 @@
       "team2": "Goztepe SK",
       "logo1": "https://img.sofascore.com/api/v1/team/3052/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2266",
+      "date": "01/11/2026",
+      "time": "4:30 PM",
+      "league": "Football | Super Lig",
+      "team1": "Amed SK",
+      "team2": "Eyupspor",
+      "logo1": "https://img.sofascore.com/api/v1/team/207011/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/7040/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2267",
+      "date": "01/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Başakşehir",
+      "team2": "Samsunspor",
+      "logo1": "https://img.sofascore.com/api/v1/team/3086/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3053/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2268",
+      "date": "01/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Trabzonspor",
+      "team2": "Gaziantep F.K.",
+      "logo1": "https://img.sofascore.com/api/v1/team/3051/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/5138/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
