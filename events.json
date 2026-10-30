@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 01:43:12 AM BST",
-  "last_updated_iso": "2026-10-30T19:43:12.247Z",
-  "total_events": 420,
+  "last_updated": "31 Oct 2026, 01:44:13 AM BST",
+  "last_updated_iso": "2026-10-30T19:44:13.632Z",
+  "total_events": 419,
   "events": [
     {
       "id": "1954",
@@ -709,20 +709,6 @@
       "team2": "Lens",
       "logo1": "https://img.sofascore.com/api/v1/team/1643/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1648/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2008",
-      "date": "31/10/2026",
-      "time": "10:15 PM",
-      "league": "Football | Ligue 1",
-      "team1": "OGC Nice",
-      "team2": "Rennes",
-      "logo1": "https://img.sofascore.com/api/v1/team/1661/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1658/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
       "visibility": "public",
