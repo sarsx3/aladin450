@@ -1,6 +1,6 @@
 {
-  "last_updated": "30 Oct 2026, 02:19:17 PM BST",
-  "last_updated_iso": "2026-10-30T08:19:17.842Z",
+  "last_updated": "30 Oct 2026, 02:20:23 PM BST",
+  "last_updated_iso": "2026-10-30T08:20:23.093Z",
   "total_events": 430,
   "events": [
     {
@@ -225,6 +225,13 @@
           "name": "tapmad-bd",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "EUROSPORTS-aq",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd?|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
