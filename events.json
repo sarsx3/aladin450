@@ -1,7 +1,7 @@
 {
-  "last_updated": "30 Oct 2026, 04:55:16 PM BST",
-  "last_updated_iso": "2026-10-30T10:55:16.089Z",
-  "total_events": 430,
+  "last_updated": "30 Oct 2026, 04:56:13 PM BST",
+  "last_updated_iso": "2026-10-30T10:56:13.671Z",
+  "total_events": 429,
   "events": [
     {
       "id": "1954",
@@ -1207,20 +1207,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/24336/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2850/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2036",
-      "date": "31/10/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | West Indies tour of Bangladesh, 2026 - 1st Test, Day 4",
-      "team1": "Bangladesh",
-      "team2": "West Indies",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
