@@ -1,6 +1,6 @@
 {
-  "last_updated": "30 Oct 2026, 09:21:13 AM BST",
-  "last_updated_iso": "2026-10-30T03:21:13.387Z",
+  "last_updated": "30 Oct 2026, 09:22:13 AM BST",
+  "last_updated_iso": "2026-10-30T03:22:13.977Z",
   "total_events": 440,
   "events": [
     {
@@ -4266,15 +4266,8 @@
       "logo2": "https://img.sofascore.com/api/v1/team/4765/image",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
-        {
-          "name": "PrioFy",
-          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
         {
           "name": "willow-aq",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd",
@@ -4332,7 +4325,15 @@
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "PrioFy TV",
+          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?",
+          "referer": "",
+          "userAgent": "",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2283",
