@@ -1,6 +1,6 @@
 {
-  "last_updated": "30 Oct 2026, 07:38:13 AM BST",
-  "last_updated_iso": "2026-10-30T01:38:13.546Z",
+  "last_updated": "30 Oct 2026, 07:39:13 AM BST",
+  "last_updated_iso": "2026-10-30T01:39:13.182Z",
   "total_events": 440,
   "events": [
     {
@@ -4267,7 +4267,22 @@
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZjcyNGNmMTNkMTM1YmVlNzVlMzU3NzgwZDE2MTAwNjA6N2NlOWQ0YzZkZjU2MzhiYmNiMTg5MjZiZjJhNmJiNGY="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZjcyNGNmMTNkMTM1YmVlNzVlMzU3NzgwZDE2MTAwNjA6N2NlOWQ0YzZkZjU2MzhiYmNiMTg5MjZiZjJhNmJiNGY="
+        }
+      ]
     },
     {
       "id": "2281",
