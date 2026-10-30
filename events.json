@@ -1,7 +1,7 @@
 {
-  "last_updated": "30 Oct 2026, 11:26:14 PM BST",
-  "last_updated_iso": "2026-10-30T17:26:14.123Z",
-  "total_events": 424,
+  "last_updated": "30 Oct 2026, 11:27:13 PM BST",
+  "last_updated_iso": "2026-10-30T17:27:13.464Z",
+  "total_events": 423,
   "events": [
     {
       "id": "1954",
@@ -1123,20 +1123,6 @@
       "logo1": "https://www.dynomark.af/uploads/images/flags/01KTNV1RZSWACSSE6763NMCM6H.png",
       "logo2": "https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Zimbabwe_-_Circle-1024.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2040",
-      "date": "31/10/2026",
-      "time": "2:30 PM",
-      "league": "Cricket | Australia tour of South Africa, 2026 - 3rd Test, Day 5",
-      "team1": "South Africa",
-      "team2": "Australia",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
