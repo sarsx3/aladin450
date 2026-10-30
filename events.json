@@ -1,7 +1,7 @@
 {
-  "last_updated": "30 Oct 2026, 09:54:13 AM BST",
-  "last_updated_iso": "2026-10-30T03:54:13.246Z",
-  "total_events": 439,
+  "last_updated": "30 Oct 2026, 09:55:20 AM BST",
+  "last_updated_iso": "2026-10-30T03:55:20.041Z",
+  "total_events": 435,
   "events": [
     {
       "id": "1954",
@@ -97,6 +97,13 @@
           "name": "t sports hd",
           "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -4222,114 +4229,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3052/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2280",
-      "date": "30/10/2026",
-      "time": "6:45 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 1st T10",
-      "team1": "Australia",
-      "team2": "Hong Kong",
-      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4765/image",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjcyNGNmMTNkMTM1YmVlNzVlMzU3NzgwZDE2MTAwNjA6N2NlOWQ0YzZkZjU2MzhiYmNiMTg5MjZiZjJhNmJiNGY="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjcyNGNmMTNkMTM1YmVlNzVlMzU3NzgwZDE2MTAwNjA6N2NlOWQ0YzZkZjU2MzhiYmNiMTg5MjZiZjJhNmJiNGY="
-        }
-      ]
-    },
-    {
-      "id": "2281",
-      "date": "30/10/2026",
-      "time": "7:40 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 2nd T10",
-      "team1": "Bangladesh",
-      "team2": "Scotland",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4695/image",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7dccsq19h/out/v1/f8eb3aaa7e954a01a9d0eefe0d988650/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZDgxYWZkMmNiYTk5NDgxMWI4NTIxYjBiMDJiMjZmYWU6ZDM5ZGY3M2M4OWIyMWFmMjliMjIyNGQyNmQ0NmI5YzA="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7dccsq19h/out/v1/f8eb3aaa7e954a01a9d0eefe0d988650/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZDgxYWZkMmNiYTk5NDgxMWI4NTIxYjBiMDJiMjZmYWU6ZDM5ZGY3M2M4OWIyMWFmMjliMjIyNGQyNmQ0NmI5YzA="
-        }
-      ]
-    },
-    {
-      "id": "2282",
-      "date": "30/10/2026",
-      "time": "8:35 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 3rd T10",
-      "team1": "Pakistan",
-      "team2": "United Arab Emirates",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4727/image",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PrioFy TV",
-          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZmJmYWIyYWU0ZjRlOGExNzA1YjRjZGM3ODAyZTkzMDQ6MjlkYjdhYTI1ODVmZGJjMWQ1ODkyZGI2ZDA0ZmUzNTE="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZmJmYWIyYWU0ZjRlOGExNzA1YjRjZGM3ODAyZTkzMDQ6MjlkYjdhYTI1ODVmZGJjMWQ1ODkyZGI2ZDA0ZmUzNTE="
-        }
-      ]
-    },
-    {
-      "id": "2283",
-      "date": "30/10/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 4th T10",
-      "team1": "South Africa",
-      "team2": "Oman",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4787/image",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
       "visibility": "public",
       "streams": []
