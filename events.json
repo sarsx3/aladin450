@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 12:43:11 AM BST",
-  "last_updated_iso": "2026-10-30T18:43:11.820Z",
+  "last_updated": "31 Oct 2026, 12:44:15 AM BST",
+  "last_updated_iso": "2026-10-30T18:44:15.526Z",
   "total_events": 423,
   "events": [
     {
@@ -709,6 +709,34 @@
         {
           "name": "Server-1",
           "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001793327438-0-0-2ad8f1727c73156d019b7cabdef4b552",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793384615-0-0-516a8cb02ece3798c88841d09f2b11b6",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server-5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793384616-0-0-4baf02ce09f60ef2b7925a815df4edff",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
