@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 11:39:11 PM BST",
-  "last_updated_iso": "2026-10-31T17:39:11.660Z",
+  "last_updated": "31 Oct 2026, 11:40:21 PM BST",
+  "last_updated_iso": "2026-10-31T17:40:21.964Z",
   "total_events": 343,
   "events": [
     {
@@ -111,6 +111,20 @@
           "name": "Server - 9",
           "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793463865-0-0-e23f28432dc50ddf6675518b7b0002de",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO7/hls/index.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PREMIER LEAGUE+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58944/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
