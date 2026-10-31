@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 06:18:13 PM BST",
-  "last_updated_iso": "2026-10-31T12:18:13.577Z",
+  "last_updated": "31 Oct 2026, 06:19:12 PM BST",
+  "last_updated_iso": "2026-10-31T12:19:12.482Z",
   "total_events": 396,
   "events": [
     {
@@ -224,6 +224,13 @@
           "name": "Server - 13",
           "url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=6de0c8a82fa6ded98a866f552344d80b&wsABSTime=1793488835",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
