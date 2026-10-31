@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 03:44:13 PM BST",
-  "last_updated_iso": "2026-10-31T09:44:13.341Z",
+  "last_updated": "31 Oct 2026, 03:45:23 PM BST",
+  "last_updated_iso": "2026-10-31T09:45:23.876Z",
   "total_events": 401,
   "events": [
     {
@@ -5908,7 +5908,7 @@
       "team2": "Australia",
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
-      "leagueLogo": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [
@@ -5920,7 +5920,7 @@
           "drm": ""
         },
         {
-          "name": "Server 2",
+          "name": "Sky Sports",
           "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8",
           "referer": "http://www.fawanews.sc",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
