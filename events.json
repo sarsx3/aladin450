@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 01:49:11 PM BST",
-  "last_updated_iso": "2026-10-31T07:49:11.346Z",
-  "total_events": 402,
+  "last_updated": "31 Oct 2026, 01:50:21 PM BST",
+  "last_updated_iso": "2026-10-31T07:50:21.854Z",
+  "total_events": 401,
   "events": [
     {
       "id": "1954",
@@ -3909,20 +3909,6 @@
       "streams": []
     },
     {
-      "id": "2334",
-      "date": "06/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | WBBL 2026 - 12th Match",
-      "team1": "Melbourne Stars Women",
-      "team2": "Sydney Sixers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2258",
       "date": "08/11/2026",
       "time": "3:30 PM",
@@ -4086,20 +4072,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/7802/image",
       "logo2": "https://img.sofascore.com/api/v1/team/6362/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2295",
-      "date": "31/10/2026",
-      "time": "12:15 PM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 16th T10",
-      "team1": "2nd in Group A",
-      "team2": "2nd in Group C",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4585,6 +4557,20 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2334",
+      "date": "06/11/2026",
+      "time": "2:10 PM",
+      "league": "Cricket | WBBL 2026 - 12th Match",
+      "team1": "Melbourne Stars Women",
+      "team2": "Sydney Sixers Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
