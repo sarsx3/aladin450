@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 06:05:26 PM BST",
-  "last_updated_iso": "2026-10-31T12:05:26.330Z",
-  "total_events": 397,
+  "last_updated": "31 Oct 2026, 06:06:14 PM BST",
+  "last_updated_iso": "2026-10-31T12:06:14.254Z",
+  "total_events": 396,
   "events": [
     {
       "id": "1954",
@@ -987,56 +987,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2038",
-      "date": "31/10/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 5th Match",
-      "team1": "Perth Scorchers Women",
-      "team2": "Melbourne Renegades Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ODJiODU0M2Y5ZWQ0MjE1MzgzNjNiYWNjNTBjNmNjOTM6YTFjN2YzNDAzMWFiMmYwNGEzM2FmN2YyZGYwNTMxNDY="
-        },
-        {
-          "name": "willow sports-aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "EURO SPORTS-AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd?|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ODJiODU0M2Y5ZWQ0MjE1MzgzNjNiYWNjNTBjNmNjOTM6YTFjN2YzNDAzMWFiMmYwNGEzM2FmN2YyZGYwNTMxNDY="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ODJiODU0M2Y5ZWQ0MjE1MzgzNjNiYWNjNTBjNmNjOTM6YTFjN2YzNDAzMWFiMmYwNGEzM2FmN2YyZGYwNTMxNDY="
-        }
-      ]
     },
     {
       "id": "2039",
