@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 03:04:14 AM BST",
-  "last_updated_iso": "2026-10-31T21:04:14.299Z",
+  "last_updated": "01 Nov 2026, 03:05:17 AM BST",
+  "last_updated_iso": "2026-10-31T21:05:17.730Z",
   "total_events": 325,
   "events": [
     {
@@ -665,7 +665,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.59/hls/NJJJA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2087",
@@ -691,6 +699,13 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001793478328-0-0-17bff507668dcca418a2efa96ff9c91f",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.59/hls/NJJJ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
