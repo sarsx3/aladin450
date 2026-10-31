@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 09:49:11 PM BST",
-  "last_updated_iso": "2026-10-31T15:49:11.512Z",
+  "last_updated": "31 Oct 2026, 09:50:23 PM BST",
+  "last_updated_iso": "2026-10-31T15:50:23.859Z",
   "total_events": 379,
   "events": [
     {
@@ -601,6 +601,27 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001793456954-0-0-f03832cba8b7acd7e7bc6401bed49d73",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Paramount - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t29tboavda/out/v1/7e212c61d83f473397d26abba8c3f943/cenc.mpd?aws_sessionId=4fda65c8-337d-4b45-a8f0-02bacf9dffa3?|drmScheme=clearkey&drmLicense=b522bb1eeb8e4a747e9264e1121b76d5:c68d40dab067fc57cdd8097fabf1835e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "cbs sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER QUALITY",
+          "url": "https://live.vivo155.com/live/sd-1-4563656.m3u8?txSecret=1cbc18daf12fdf59d73a27a9c3365b49&txTime=6AE6138B",
+          "referer": "https://player.on8on8.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
