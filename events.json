@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 09:48:13 PM BST",
-  "last_updated_iso": "2026-10-31T15:48:13.293Z",
+  "last_updated": "31 Oct 2026, 09:49:11 PM BST",
+  "last_updated_iso": "2026-10-31T15:49:11.512Z",
   "total_events": 379,
   "events": [
     {
@@ -558,6 +558,20 @@
           "name": "Server - 1",
           "url": "https://live1.quickscoreboardz.com/live/channel86.flv?wsSecret=6df0a1cd972e5535f43fd1fa0c49bc7b&wsABSTime=1793500151",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Paramount - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mc5w9pzoic/out/v1/455576d93cec4b58b42925ccc05886a1/cenc.mpd?aws_sessionId=114600ad-b997-4129-bd1e-30a4e3c1f862?|drmScheme=clearkey&drmLicense=608283d9a36b99aae91caa940250fbcf:eecf91a08626bc95141b55329da2aa2c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER QUALITY",
+          "url": "https://live.vivo155.com/live/sd-1-4563659.m3u8?txSecret=a81674a770f2a11bdaab1fe335859001&txTime=6AE613A9",
+          "referer": "https://player.on8on8.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
