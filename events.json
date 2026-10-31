@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 08:57:12 PM BST",
-  "last_updated_iso": "2026-10-31T14:57:12.484Z",
+  "last_updated": "31 Oct 2026, 08:58:17 PM BST",
+  "last_updated_iso": "2026-10-31T14:58:17.090Z",
   "total_events": 382,
   "events": [
     {
@@ -264,7 +264,50 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1793461687-0-0-834d6f1ca65a72606051a442b9e66614",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=5fbaa93b955fe7becbe3b58e1506e13b&txTime=6ae649b7",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=78434beda565f642bd195c45b0f50422&txTime=6ae64a2e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=f2f95426a35da98c3dfa69a0067e99c7&wsABSTime=1793499626",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793456433-0-0-fcda949750d23344c4dad6b1e6443414",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1981",
