@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 01:18:13 PM BST",
-  "last_updated_iso": "2026-10-31T07:18:13.579Z",
+  "last_updated": "31 Oct 2026, 01:19:12 PM BST",
+  "last_updated_iso": "2026-10-31T07:19:12.954Z",
   "total_events": 402,
   "events": [
     {
@@ -4073,6 +4073,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZTBhYjM1NTJjYTcwMWViMjkwNjlmNGU3MzE4ZmYxNDE6OWI5OTVkNjViYmRjY2Q3ZTdiZTllNjA0MzU3MzE2YmE="
+        },
+        {
+          "name": "SportsHype - aq",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-vll-ldc/_nc_cat-1/_nc_sr_t-4/v/rASe6rImn5Fh41SdhhyuJzfndOjHnUpD5RNsQCkZs7cs1Mw/_nc_ohc-a1vBZEN-vwAQ7kNvwHzbHKO/live-dash/dash-abr-ibr-audio/122376482234224342.mpd?_nc_eui2=AeH0_XeW1V7NDwp4n_OFPBm4YsSTsBDH6MRixJOwEMfoxPp_IIEHGnynkSSAGZI5-F5-c9siZCgM1iN6uRiPL_OK&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQS61tT2NoxnWZRPEzyw8I2SHOlt3dvdxNeVQKrdpRyMKQ&oe=6AE77730",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
