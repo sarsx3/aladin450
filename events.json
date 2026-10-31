@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 09:12:14 AM BST",
-  "last_updated_iso": "2026-10-31T03:12:14.596Z",
+  "last_updated": "31 Oct 2026, 09:13:11 AM BST",
+  "last_updated_iso": "2026-10-31T03:13:11.214Z",
   "total_events": 406,
   "events": [
     {
@@ -4045,7 +4045,15 @@
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2293",
@@ -4059,7 +4067,15 @@
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2294",
