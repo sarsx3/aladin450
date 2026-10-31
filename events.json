@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 03:58:18 PM BST",
-  "last_updated_iso": "2026-10-31T09:58:18.553Z",
-  "total_events": 399,
+  "last_updated": "31 Oct 2026, 03:59:12 PM BST",
+  "last_updated_iso": "2026-10-31T09:59:12.288Z",
+  "total_events": 398,
   "events": [
     {
       "id": "1954",
@@ -3278,6 +3278,20 @@
       "streams": []
     },
     {
+      "id": "2254",
+      "date": "05/11/2026",
+      "time": "12:45 PM",
+      "league": "Cricket | NPL 2026 - 14th T20",
+      "team1": "Lumbini Lions",
+      "team2": "Janakpur Bolts",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/PV.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2230",
       "date": "05/11/2026",
       "time": "2:10 PM",
@@ -3810,35 +3824,6 @@
       "streams": []
     },
     {
-      "id": "2247",
-      "date": "31/10/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | NPL 2026 - 7th T20",
-      "team1": "Lumbini Lions",
-      "team2": "Chitwan Rhinos",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "ntv sports hd",
-          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd 2",
-          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=45834266",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2248",
       "date": "31/10/2026",
       "time": "5:15 PM",
@@ -4002,20 +3987,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/7802/image",
       "logo2": "https://img.sofascore.com/api/v1/team/6362/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2254",
-      "date": "05/11/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | NPL 2026 - 14th T20",
-      "team1": "Lumbini Lions",
-      "team2": "Janakpur Bolts",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4371,6 +4342,20 @@
       "streams": []
     },
     {
+      "id": "2332",
+      "date": "06/11/2026",
+      "time": "9:30 AM",
+      "league": "Cricket | BAN vs WI - 2nd Test, Day 2",
+      "team1": "Bangladesh",
+      "team2": "West Indies",
+      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2326",
       "date": "06/11/2026",
       "time": "8:30 PM",
@@ -4548,20 +4533,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3052/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2332",
-      "date": "06/11/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | BAN vs WI - 2nd Test, Day 2",
-      "team1": "Bangladesh",
-      "team2": "West Indies",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
