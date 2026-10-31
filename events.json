@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 08:54:13 PM BST",
-  "last_updated_iso": "2026-10-31T14:54:13.651Z",
+  "last_updated": "31 Oct 2026, 08:55:16 PM BST",
+  "last_updated_iso": "2026-10-31T14:55:16.156Z",
   "total_events": 382,
   "events": [
     {
@@ -164,7 +164,43 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793413487-0-0-784ea408ef039dd7ba1d0a1307dacae2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793456594-0-0-ab372777ae608d7cca18f9dc4f70a095",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=9c8c4308678fa440ec71def459258a1d&wsABSTime=1793499794",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793456595-0-0-d86edf417a3586c5bfca5f879d9e8bb9",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "1979",
