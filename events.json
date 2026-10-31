@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 03:07:16 PM BST",
-  "last_updated_iso": "2026-10-31T09:07:16.926Z",
+  "last_updated": "31 Oct 2026, 03:08:13 PM BST",
+  "last_updated_iso": "2026-10-31T09:08:13.179Z",
   "total_events": 400,
   "events": [
     {
@@ -968,6 +968,13 @@
           "name": "Tapmad - bd",
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype cdn",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-hil-ftw/_nc_cat-1/_nc_sr_t-4/v/rASd4ffqQjAW72H45qrhF-alapgLLjV3YeQnpkY0Osz6jBg/_nc_ohc-Cz91DtkWXEYQ7kNvwHErcrI/live-dash/dash-abr-ibr-audio/122122645179320398.mpd?_nc_eui2=AeEdomtJdGxNgAN2uVQgmuF5MhNIDnZu-6cyE0gOdm77p5wYLqoTo94fqx46MvjlTPafmHl5Ghg2pf8CUB-TW1xu&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQ79UPDEu9hVnnopQ9GFNYjofJ6GVKWkOtBvnA1IkxbLA&oe=6AE78825",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
