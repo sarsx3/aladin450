@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 02:10:20 PM BST",
-  "last_updated_iso": "2026-10-31T08:10:20.249Z",
+  "last_updated": "31 Oct 2026, 02:11:13 PM BST",
+  "last_updated_iso": "2026-10-31T08:11:13.175Z",
   "total_events": 400,
   "events": [
     {
@@ -4523,6 +4523,20 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/022z245nkj/out/v1/09672c801ade4615a05f6210d67e0f4b/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OWQxMDQ0MWZhYmYzNWEzMTBkNmNjZjE3MTU4Y2Y2ZTU6MTA0NTJjMDYyYzE5OTA3ODhhN2Y4M2EyZGM2YjdlMDk="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/022z245nkj/out/v1/09672c801ade4615a05f6210d67e0f4b/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "OWQxMDQ0MWZhYmYzNWEzMTBkNmNjZjE3MTU4Y2Y2ZTU6MTA0NTJjMDYyYzE5OTA3ODhhN2Y4M2EyZGM2YjdlMDk="
         }
       ]
     },
