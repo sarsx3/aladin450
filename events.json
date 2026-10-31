@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 12:08:17 PM BST",
-  "last_updated_iso": "2026-10-31T06:08:17.277Z",
+  "last_updated": "31 Oct 2026, 12:09:17 PM BST",
+  "last_updated_iso": "2026-10-31T06:09:17.241Z",
   "total_events": 403,
   "events": [
     {
@@ -5762,14 +5762,7 @@
       "visibility": "public",
       "streams": [
         {
-          "name": "FANCODE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd||1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "TAPMAD 2 FH",
+          "name": "TAPMAD 2 FHD",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "referer": "https://tapmad.com/",
           "userAgent": "",
@@ -5787,6 +5780,13 @@
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "referer": "https://tapmad.com/",
           "userAgent": "",
+          "drm": ""
+        },
+        {
+          "name": "FANCODE FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd||1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm": ""
         },
         {
