@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 09:18:13 PM BST",
-  "last_updated_iso": "2026-10-31T15:18:13.758Z",
+  "last_updated": "31 Oct 2026, 09:19:12 PM BST",
+  "last_updated_iso": "2026-10-31T15:19:12.368Z",
   "total_events": 379,
   "events": [
     {
@@ -368,6 +368,13 @@
           "name": "Server - 7",
           "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793456361-0-0-c3e4cafac03aa71ed952844de35ed5f6",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO2/hls/index.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
