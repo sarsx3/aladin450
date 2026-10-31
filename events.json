@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 11:11:11 AM BST",
-  "last_updated_iso": "2026-10-31T05:11:11.825Z",
-  "total_events": 404,
+  "last_updated": "31 Oct 2026, 11:12:13 AM BST",
+  "last_updated_iso": "2026-10-31T05:12:13.962Z",
+  "total_events": 403,
   "events": [
     {
       "id": "1954",
@@ -3975,42 +3975,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2292",
-      "date": "31/10/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 13th T10",
-      "team1": "3rd in Group B",
-      "team2": "3rd in Group D",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/47j8dswule/out/v1/43a8e5f76a144fde9a2567cd12b321de/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NTNiZmQ4N2ZmOTg1OGIzMWQ1Zjk0YmQ4NDUxYWUwYTQ6NmE5YTExZDE2MzUzYjU4YTliNTE2MGM2MGQ3YzgyMmI="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/47j8dswule/out/v1/43a8e5f76a144fde9a2567cd12b321de/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NTNiZmQ4N2ZmOTg1OGIzMWQ1Zjk0YmQ4NDUxYWUwYTQ6NmE5YTExZDE2MzUzYjU4YTliNTE2MGM2MGQ3YzgyMmI="
-        }
-      ]
     },
     {
       "id": "2293",
