@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 11:19:11 AM BST",
-  "last_updated_iso": "2026-10-31T05:19:11.984Z",
+  "last_updated": "31 Oct 2026, 11:20:19 AM BST",
+  "last_updated_iso": "2026-10-31T05:20:19.865Z",
   "total_events": 403,
   "events": [
     {
@@ -4038,7 +4038,15 @@
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server-1",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2295",
