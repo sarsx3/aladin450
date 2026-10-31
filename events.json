@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 03:06:13 PM BST",
-  "last_updated_iso": "2026-10-31T09:06:13.050Z",
+  "last_updated": "31 Oct 2026, 03:07:16 PM BST",
+  "last_updated_iso": "2026-10-31T09:07:16.926Z",
   "total_events": 400,
   "events": [
     {
@@ -961,6 +961,13 @@
           "name": "ptv sports hd",
           "url": "https://live.msnetworks.net/ptv-sports/720p.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
