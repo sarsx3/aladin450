@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 08:01:13 PM BST",
-  "last_updated_iso": "2026-10-31T14:01:13.096Z",
+  "last_updated": "31 Oct 2026, 08:02:13 PM BST",
+  "last_updated_iso": "2026-10-31T14:02:13.173Z",
   "total_events": 392,
   "events": [
     {
@@ -929,6 +929,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -977,6 +984,13 @@
           "name": "Server - 5",
           "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793452787-0-0-49e28866289e4079a1f97dddb29d4a8f",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - bd",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
