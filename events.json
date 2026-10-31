@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 12:24:14 AM BST",
-  "last_updated_iso": "2026-10-31T18:24:14.222Z",
+  "last_updated": "01 Nov 2026, 12:25:15 AM BST",
+  "last_updated_iso": "2026-10-31T18:25:15.668Z",
   "total_events": 336,
   "events": [
     {
@@ -457,6 +457,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.59/hls/CACACAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -476,6 +483,13 @@
         {
           "name": "Server - 1",
           "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.59/hls/CACACA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
