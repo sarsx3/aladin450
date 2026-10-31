@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 10:27:12 PM BST",
-  "last_updated_iso": "2026-10-31T16:27:12.498Z",
-  "total_events": 373,
+  "last_updated": "31 Oct 2026, 10:28:15 PM BST",
+  "last_updated_iso": "2026-10-31T16:28:15.686Z",
+  "total_events": 368,
   "events": [
     {
       "id": "2072",
@@ -943,249 +943,6 @@
           "name": "Server - 1",
           "url": "http://193.47.62.59/hls/GLLLAAQ.m3u8",
           "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2010",
-      "date": "31/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Bundesliga",
-      "team1": "Schalke 04",
-      "team2": "RB Leipzig",
-      "logo1": "https://img.sofascore.com/api/v1/team/2530/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36360/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001793411521-0-0-12b019b1f21a17bee0ab1bec4ac01265",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793453213-0-0-6c8f9a86a3f5590f394dd11b1263a0cc",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga5/hls/PKBD5.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2011",
-      "date": "31/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Bundesliga",
-      "team1": "Werder Bremen",
-      "team2": "Hoffenheim",
-      "logo1": "https://img.sofascore.com/api/v1/team/2534/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2569/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.m3u8?auth_key=3000001793411930-0-0-bf282a9e16a20cffb4839a35e18918ac",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793453312-0-0-cb0f909fe66f96acf684bb64a69160a0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga4/hls/PKBD4.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2012",
-      "date": "31/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Bundesliga",
-      "team1": "Gladbach",
-      "team2": "SC Paderborn",
-      "logo1": "https://img.sofascore.com/api/v1/team/2527/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2561/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.m3u8?auth_key=3000001793411823-0-0-1d57c893fd5e55887badc13ffe3deffd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1793446566-0-0-ec6f35f96cdb3dde0f8a50e51435d0b3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001793452783-0-0-de0b292007a338c4b8f9232cc1c71daf",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga3/hls/PKBD3.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2013",
-      "date": "31/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Bundesliga",
-      "team1": "Augsburg",
-      "team2": "Freiburg",
-      "logo1": "https://img.sofascore.com/api/v1/team/2600/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2538/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.m3u8?auth_key=3000001793411402-0-0-8c45edb3f1eb4cc6d8b564d6c025ae39",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1793446386-0-0-76661d56166829117601254ca41351b1",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793452780-0-0-dc88026c7398056033d960facf8f32b0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2014",
-      "date": "31/10/2026",
-      "time": "8:30 PM",
-      "league": "Football | Bundesliga",
-      "team1": "Leverkusen",
-      "team2": "Stuttgart",
-      "logo1": "https://img.sofascore.com/api/v1/team/2681/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2677/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793411624-0-0-77008e811e102babd1aa2578ab911644",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793446446-0-0-a3b4825686bf9684422968f369ffb512",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1793446506-0-0-1b66419b2d3dc768d95625500aa5d584",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793452787-0-0-49e28866289e4079a1f97dddb29d4a8f",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -2284,20 +2041,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
       "logo2": "https://img.sofascore.com/api/v1/team/56021/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2192",
-      "date": "05/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Europa League",
-      "team1": "Anderlecht",
-      "team2": "Salzburg",
-      "logo1": "https://img.sofascore.com/api/v1/team/2900/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2046/image",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4434,6 +4177,20 @@
       "team2": "Lyon",
       "logo1": "https://img.sofascore.com/api/v1/team/2824/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2192",
+      "date": "05/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Europa League",
+      "team1": "Anderlecht",
+      "team2": "Salzburg",
+      "logo1": "https://img.sofascore.com/api/v1/team/2900/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2046/image",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
