@@ -1,22 +1,8 @@
 {
-  "last_updated": "01 Nov 2026, 12:20:22 AM BST",
-  "last_updated_iso": "2026-10-31T18:20:22.742Z",
-  "total_events": 341,
+  "last_updated": "01 Nov 2026, 12:21:12 AM BST",
+  "last_updated_iso": "2026-10-31T18:21:12.736Z",
+  "total_events": 336,
   "events": [
-    {
-      "id": "2298",
-      "date": "01/11/2026",
-      "time": "12:30 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 23rd T10",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
     {
       "id": "1954",
       "date": "01/11/2026",
@@ -547,20 +533,6 @@
       "streams": []
     },
     {
-      "id": "2299",
-      "date": "01/11/2026",
-      "time": "1:10 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - Final T10",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2055",
       "date": "01/11/2026",
       "time": "1:30 AM",
@@ -794,48 +766,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2510/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2505/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2300",
-      "date": "01/11/2026",
-      "time": "7:40 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 19th T10",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2301",
-      "date": "01/11/2026",
-      "time": "8:35 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 20th T10",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2302",
-      "date": "01/11/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 21st T10",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
       "isHot": false,
       "visibility": "public",
       "streams": []
