@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 12:21:12 PM BST",
-  "last_updated_iso": "2026-10-31T06:21:12.823Z",
+  "last_updated": "31 Oct 2026, 12:22:13 PM BST",
+  "last_updated_iso": "2026-10-31T06:22:13.727Z",
   "total_events": 403,
   "events": [
     {
@@ -5757,7 +5757,7 @@
       "team2": "West Indies",
       "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
-      "leagueLogo": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [
