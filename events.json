@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 11:42:18 AM BST",
-  "last_updated_iso": "2026-10-31T05:42:18.536Z",
-  "total_events": 403,
+  "last_updated": "31 Oct 2026, 11:43:12 AM BST",
+  "last_updated_iso": "2026-10-31T05:43:12.718Z",
+  "total_events": 402,
   "events": [
     {
       "id": "1954",
@@ -3809,14 +3809,14 @@
       "streams": []
     },
     {
-      "id": "2332",
+      "id": "2333",
       "date": "06/11/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | BAN vs WI - 2nd Test, Day 2",
-      "team1": "Bangladesh",
-      "team2": "West Indies",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
+      "time": "11:00 AM",
+      "league": "Cricket | AFG vs ZIM - 1st Test, Day 2",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
@@ -3991,42 +3991,6 @@
       "streams": []
     },
     {
-      "id": "2293",
-      "date": "31/10/2026",
-      "time": "10:25 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 14th T10",
-      "team1": "3rd in Group A",
-      "team2": "3rd in Group C",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MTUzMzM5MzMzMDQxNTRmOTdjMjBlYzdmZTg5MjE1MTc6YjAzZjhjNDJjYmRjN2NlM2ZmNGZmZTg4MmJjMmQ0N2Q="
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MTUzMzM5MzMzMDQxNTRmOTdjMjBlYzdmZTg5MjE1MTc6YjAzZjhjNDJjYmRjN2NlM2ZmNGZmZTg4MmJjMmQ0N2Q="
-        }
-      ]
-    },
-    {
       "id": "2294",
       "date": "31/10/2026",
       "time": "11:20 AM",
@@ -4045,6 +4009,20 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjQzYTY4ODEwNjkyNGI1NWU4NWExZGE4ZWI5ZWIyNGQ6MjliOGMxNDlkNTgzMTIyNTcwMDJhNjQ2MmJhMTg4MmE="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjQzYTY4ODEwNjkyNGI1NWU4NWExZGE4ZWI5ZWIyNGQ6MjliOGMxNDlkNTgzMTIyNTcwMDJhNjQ2MmJhMTg4MmE="
         }
       ]
     },
@@ -4483,14 +4461,14 @@
       "streams": []
     },
     {
-      "id": "2333",
+      "id": "2332",
       "date": "06/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | AFG vs ZIM - 1st Test, Day 2",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
+      "time": "9:30 AM",
+      "league": "Cricket | BAN vs WI - 2nd Test, Day 2",
+      "team1": "Bangladesh",
+      "team2": "West Indies",
+      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
