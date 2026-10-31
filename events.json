@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 09:45:19 PM BST",
-  "last_updated_iso": "2026-10-31T15:45:19.507Z",
+  "last_updated": "31 Oct 2026, 09:46:13 PM BST",
+  "last_updated_iso": "2026-10-31T15:46:13.168Z",
   "total_events": 379,
   "events": [
     {
@@ -402,6 +402,34 @@
           "name": "Myco - bd",
           "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO3/hls/index.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "fubo sports - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1xqidoiy1/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd?|drmScheme=clearkey&drmLicense=5892fecfff0a4d5a7eef925f2538c386:70bdd64f7dc30ba525abc5655f14b540",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER QUALITY",
+          "url": "https://live.vivo155.com/live/hd-en-1-4558654.m3u8?txSecret=b13ccdc38f5a428aca2dac9c5b693718&txTime=6AE614F9",
+          "referer": "https://player.on8on8.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "USA NETWORK HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58919/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PREMIER LEAGUE HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58919/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
