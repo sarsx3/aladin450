@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 10:14:13 PM BST",
-  "last_updated_iso": "2026-10-31T16:14:13.517Z",
+  "last_updated": "31 Oct 2026, 10:15:42 PM BST",
+  "last_updated_iso": "2026-10-31T16:15:42.750Z",
   "total_events": 375,
   "events": [
     {
@@ -196,6 +196,41 @@
           "name": "PREMIER LEAGUE HD",
           "url": "https://chatgpt.hereisman.net/playlist/58917/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1793461807-0-0-915a3106edf883dcecda104c7e5e7eb6",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.fmp.live/live/live_60408_lud.m3u8?auth_key=1793470019-0-0-093b32dfc84c0c6c4a4e96ec07c3d6eb",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3aa034ba7c5c0f9f54aaa83b8e49566f&txTime=6ae6547f",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1793461807-0-0-026e175d0d711e93b9249e8dfc4c6095",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
