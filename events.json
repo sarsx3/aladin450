@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 09:15:20 PM BST",
-  "last_updated_iso": "2026-10-31T15:15:20.108Z",
-  "total_events": 380,
+  "last_updated": "31 Oct 2026, 09:16:15 PM BST",
+  "last_updated_iso": "2026-10-31T15:16:15.330Z",
+  "total_events": 379,
   "events": [
     {
       "id": "1954",
@@ -1231,98 +1231,6 @@
       ]
     },
     {
-      "id": "2030",
-      "date": "31/10/2026",
-      "time": "7:00 PM",
-      "league": "Football | LaLiga",
-      "team1": "Levante",
-      "team2": "Atl. Madrid",
-      "logo1": "https://img.sofascore.com/api/v1/team/2849/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2836/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "BeIN2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "FANCODE FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "D SPORTS + FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd?|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001793411075-0-0-5d8e9af361131561d5db0b1a088f86ff",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1793438046-0-0-ff4ae58714edaa9b1d002437d781b78b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f6c58ee2a06723dac0cac8ad2e69d3ee&txTime=6ae636bb",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=00da24aaea13551c83eb404058393121&txTime=6ae63733",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 6",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793449421-0-0-e18340ed1ce73f56762101ab7b4c092c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2031",
       "date": "31/10/2026",
       "time": "9:15 PM",
@@ -1921,6 +1829,20 @@
       "streams": []
     },
     {
+      "id": "2250",
+      "date": "02/11/2026",
+      "time": "12:45 PM",
+      "league": "Cricket | NPL 2026 - 10th T20",
+      "team1": "Kathmandu Gorkhas",
+      "team2": "Karnali Yaks",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/ZW.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2194",
       "date": "05/11/2026",
       "time": "12:15 AM",
@@ -2350,20 +2272,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
       "logo2": "https://img.sofascore.com/api/v1/team/56021/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2191",
-      "date": "05/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Europa League",
-      "team1": "Real Sociedad",
-      "team2": "Lyon",
-      "logo1": "https://img.sofascore.com/api/v1/team/2824/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -3318,20 +3226,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/41618/image",
       "logo2": "https://img.sofascore.com/api/v1/team/22007/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2250",
-      "date": "02/11/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | NPL 2026 - 10th T20",
-      "team1": "Kathmandu Gorkhas",
-      "team2": "Karnali Yaks",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4549,6 +4443,20 @@
       "streams": []
     },
     {
+      "id": "2191",
+      "date": "05/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Europa League",
+      "team1": "Real Sociedad",
+      "team2": "Lyon",
+      "logo1": "https://img.sofascore.com/api/v1/team/2824/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2304",
       "date": "06/11/2026",
       "time": "2:00 AM",
@@ -4885,6 +4793,20 @@
       "streams": []
     },
     {
+      "id": "2328",
+      "date": "06/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | Saudi League",
+      "team1": "Al Ittihad",
+      "team2": "NEOM SC",
+      "logo1": "https://img.sofascore.com/api/v1/team/34315/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/530631/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2258",
       "date": "08/11/2026",
       "time": "3:30 PM",
@@ -5034,20 +4956,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/5138/image",
       "logo2": "https://img.sofascore.com/api/v1/team/6063/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2328",
-      "date": "06/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ittihad",
-      "team2": "NEOM SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/34315/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/530631/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
       "streams": []
