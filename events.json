@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 02:04:14 AM BST",
-  "last_updated_iso": "2026-10-31T20:04:14.710Z",
+  "last_updated": "01 Nov 2026, 02:05:17 AM BST",
+  "last_updated_iso": "2026-10-31T20:05:17.081Z",
   "total_events": 329,
   "events": [
     {
@@ -586,6 +586,13 @@
         {
           "name": "Server - 5",
           "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "CazéTV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
