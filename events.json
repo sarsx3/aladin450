@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 07:07:12 PM BST",
-  "last_updated_iso": "2026-10-31T13:07:12.813Z",
+  "last_updated": "31 Oct 2026, 07:08:14 PM BST",
+  "last_updated_iso": "2026-10-31T13:08:14.168Z",
   "total_events": 394,
   "events": [
     {
@@ -245,6 +245,20 @@
           "name": "PREMIER LEAGUE + HD",
           "url": "https://chatgpt.hereisman.net/playlist/58909/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER TV",
+          "url": "https://live.vivo155.com/live/hd-en-1-4558656.m3u8?txSecret=f57a86338435f2a19b4dd2049236d8d5&txTime=6AE5F04F",
+          "referer": "https://player.on8on8.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 14",
+          "url": "https://www.rtmpcdn.com/live/cbab0097-c9d6-49e8-be82-9530f64af720.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
