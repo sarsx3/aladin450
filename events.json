@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 10:54:14 PM BST",
-  "last_updated_iso": "2026-10-31T16:54:14.168Z",
-  "total_events": 368,
+  "last_updated": "31 Oct 2026, 10:55:16 PM BST",
+  "last_updated_iso": "2026-10-31T16:55:16.886Z",
+  "total_events": 367,
   "events": [
     {
       "id": "2072",
@@ -1106,35 +1106,6 @@
       ]
     },
     {
-      "id": "2028",
-      "date": "31/10/2026",
-      "time": "8:55 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Feiha",
-      "team2": "Al Faysaly",
-      "logo1": "https://img.sofascore.com/api/v1/team/168094/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/56035/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=2cf49e68fe95fae104fc85bf4e4272e7&wsABSTime=1793495946",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "http://193.47.62.44/hls/kkkkAAAAAQQQQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2031",
       "date": "31/10/2026",
       "time": "9:15 PM",
@@ -1662,6 +1633,20 @@
       "streams": []
     },
     {
+      "id": "2251",
+      "date": "02/11/2026",
+      "time": "5:15 PM",
+      "league": "Cricket | NPL 2026 - 11th T20",
+      "team1": "Sudurpaschim Royals",
+      "team2": "Chitwan Rhinos",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2194",
       "date": "05/11/2026",
       "time": "12:15 AM",
@@ -2091,20 +2076,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
       "logo2": "https://img.sofascore.com/api/v1/team/56021/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2193",
-      "date": "05/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Europa League",
-      "team1": "Rennes",
-      "team2": "Olympiacos",
-      "logo1": "https://img.sofascore.com/api/v1/team/1658/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3245/image",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -3016,20 +2987,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274890/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2251",
-      "date": "02/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 11th T20",
-      "team1": "Sudurpaschim Royals",
-      "team2": "Chitwan Rhinos",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4241,6 +4198,20 @@
       "team2": "Salzburg",
       "logo1": "https://img.sofascore.com/api/v1/team/2900/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2046/image",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2193",
+      "date": "05/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Europa League",
+      "team1": "Rennes",
+      "team2": "Olympiacos",
+      "logo1": "https://img.sofascore.com/api/v1/team/1658/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3245/image",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
