@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 08:05:17 PM BST",
-  "last_updated_iso": "2026-10-31T14:05:17.626Z",
+  "last_updated": "31 Oct 2026, 08:06:13 PM BST",
+  "last_updated_iso": "2026-10-31T14:06:13.122Z",
   "total_events": 389,
   "events": [
     {
@@ -4225,6 +4225,13 @@
           "name": "Server - 1",
           "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=df0ee9a25a960a84590d5430aeb2156d&wsABSTime=1793492374",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.44/hls/QHHHQQQQAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
