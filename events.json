@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 07:05:21 PM BST",
-  "last_updated_iso": "2026-10-31T13:05:21.319Z",
-  "total_events": 395,
+  "last_updated": "31 Oct 2026, 07:06:14 PM BST",
+  "last_updated_iso": "2026-10-31T13:06:14.429Z",
+  "total_events": 394,
   "events": [
     {
       "id": "1954",
@@ -4676,6 +4676,20 @@
       "streams": []
     },
     {
+      "id": "2333",
+      "date": "06/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | AFG vs ZIM - 1st Test, Day 2",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2326",
       "date": "06/11/2026",
       "time": "8:30 PM",
@@ -4816,42 +4830,6 @@
       "streams": []
     },
     {
-      "id": "2263",
-      "date": "31/10/2026",
-      "time": "4:30 PM",
-      "league": "Football | Super Lig",
-      "team1": "Erzurumspor FK",
-      "team2": "Corum Belediyespor",
-      "logo1": "https://img.sofascore.com/api/v1/team/55603/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/77629/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001793438507-0-0-2c2f3ea04a396c3f689a3099cacb9d3a",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.44/hls/wawawaa.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2264",
       "date": "31/10/2026",
       "time": "7:00 PM",
@@ -4890,20 +4868,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3052/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2333",
-      "date": "06/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | AFG vs ZIM - 1st Test, Day 2",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
