@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 12:51:13 PM BST",
-  "last_updated_iso": "2026-10-31T06:51:13.174Z",
+  "last_updated": "31 Oct 2026, 12:52:17 PM BST",
+  "last_updated_iso": "2026-10-31T06:52:17.045Z",
   "total_events": 403,
   "events": [
     {
@@ -3813,7 +3813,22 @@
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "ntv sports hd",
+          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd 2",
+          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=45834266",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2248",
