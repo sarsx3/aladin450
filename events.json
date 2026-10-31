@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 08:25:26 AM BST",
-  "last_updated_iso": "2026-10-31T02:25:26.835Z",
-  "total_events": 408,
+  "last_updated": "31 Oct 2026, 08:26:13 AM BST",
+  "last_updated_iso": "2026-10-31T02:26:13.673Z",
+  "total_events": 406,
   "events": [
     {
       "id": "1954",
@@ -97,64 +97,6 @@
         {
           "name": "SKY CRICKET FHD",
           "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1973",
-      "date": "31/10/2026",
-      "time": "6:15 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Sarmiento Junin",
-      "team2": "Rosario Central",
-      "logo1": "https://img.sofascore.com/api/v1/team/42338/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3217/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001793388406-0-0-3d960a5ce37505bda91f48a74edab8c0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "1974",
-      "date": "31/10/2026",
-      "time": "6:15 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Racing Club",
-      "team2": "Aldosivi",
-      "logo1": "https://img.sofascore.com/api/v1/team/3215/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36836/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server-2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793388377-0-0-df21e4700c7e36c4feb22dd8a36fec90",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
