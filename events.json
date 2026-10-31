@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 01:09:12 PM BST",
-  "last_updated_iso": "2026-10-31T07:09:12.604Z",
-  "total_events": 403,
+  "last_updated": "31 Oct 2026, 01:10:20 PM BST",
+  "last_updated_iso": "2026-10-31T07:10:20.195Z",
+  "total_events": 402,
   "events": [
     {
       "id": "1954",
@@ -3845,15 +3845,15 @@
       "streams": []
     },
     {
-      "id": "2333",
+      "id": "2334",
       "date": "06/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | AFG vs ZIM - 1st Test, Day 2",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "time": "2:10 PM",
+      "league": "Cricket | WBBL 2026 - 12th Match",
+      "team1": "Melbourne Stars Women",
+      "team2": "Sydney Sixers Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -4027,42 +4027,6 @@
       "streams": []
     },
     {
-      "id": "2294",
-      "date": "31/10/2026",
-      "time": "11:20 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 15th T10",
-      "team1": "2nd in Group B",
-      "team2": "2nd in Group D",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server-1",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NjQzYTY4ODEwNjkyNGI1NWU4NWExZGE4ZWI5ZWIyNGQ6MjliOGMxNDlkNTgzMTIyNTcwMDJhNjQ2MmJhMTg4MmE="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a3teruo6nj/out/v1/179b803602d2458d9be3dd044381a7a5/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NjQzYTY4ODEwNjkyNGI1NWU4NWExZGE4ZWI5ZWIyNGQ6MjliOGMxNDlkNTgzMTIyNTcwMDJhNjQ2MmJhMTg4MmE="
-        }
-      ]
-    },
-    {
       "id": "2295",
       "date": "31/10/2026",
       "time": "12:15 PM",
@@ -4095,6 +4059,20 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pieksa9i7w/out/v1/ff2052eed6594bdc9b98bee82f03dd24/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZTBhYjM1NTJjYTcwMWViMjkwNjlmNGU3MzE4ZmYxNDE6OWI5OTVkNjViYmRjY2Q3ZTdiZTllNjA0MzU3MzE2YmE="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pieksa9i7w/out/v1/ff2052eed6594bdc9b98bee82f03dd24/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZTBhYjM1NTJjYTcwMWViMjkwNjlmNGU3MzE4ZmYxNDE6OWI5OTVkNjViYmRjY2Q3ZTdiZTllNjA0MzU3MzE2YmE="
         }
       ]
     },
@@ -4527,15 +4505,15 @@
       "streams": []
     },
     {
-      "id": "2334",
+      "id": "2333",
       "date": "06/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | WBBL 2026 - 12th Match",
-      "team1": "Melbourne Stars Women",
-      "team2": "Sydney Sixers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "time": "11:00 AM",
+      "league": "Cricket | AFG vs ZIM - 1st Test, Day 2",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
