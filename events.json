@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 09:43:12 PM BST",
-  "last_updated_iso": "2026-10-31T15:43:12.405Z",
+  "last_updated": "31 Oct 2026, 09:44:14 PM BST",
+  "last_updated_iso": "2026-10-31T15:44:14.546Z",
   "total_events": 379,
   "events": [
     {
@@ -324,6 +324,20 @@
           "name": "Myco - bd",
           "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO4/hls/index.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "fubo sports - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8d0nsihnec/out/v1/4da9b7d2b1414cb28afd976da2c3b840/cenc.mpd?aws_sessionId=5e296bb2-8ebb-40c6-8801-8dd7200a925c?|drmScheme=clearkey&drmLicense=8c9e016364d1ec0c25dde02ab73a7dc0:94e71c7a2acb9fa7e73389de306c1f16",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK TV HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58918/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
