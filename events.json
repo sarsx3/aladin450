@@ -1,6 +1,6 @@
 {
-  "last_updated": "31 Oct 2026, 06:44:13 PM BST",
-  "last_updated_iso": "2026-10-31T12:44:13.089Z",
+  "last_updated": "31 Oct 2026, 06:45:19 PM BST",
+  "last_updated_iso": "2026-10-31T12:45:19.202Z",
   "total_events": 396,
   "events": [
     {
@@ -231,6 +231,20 @@
           "name": "Myco - bd",
           "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "beIN ARABIC FHD",
+          "url": "https://live-cdn.ryazanslah3.space/hls/bein1.m3u8?",
+          "referer": "https://212.107.14.181:3000/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PREMIER LEAGUE + HD",
+          "url": "https://chatgpt.hereisman.net/playlist/58909/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
