@@ -1,7 +1,7 @@
 {
-  "last_updated": "31 Oct 2026, 09:39:12 AM BST",
-  "last_updated_iso": "2026-10-31T03:39:12.652Z",
-  "total_events": 405,
+  "last_updated": "31 Oct 2026, 09:40:19 AM BST",
+  "last_updated_iso": "2026-10-31T03:40:19.426Z",
+  "total_events": 404,
   "events": [
     {
       "id": "1954",
@@ -3780,15 +3780,15 @@
       "streams": []
     },
     {
-      "id": "2330",
+      "id": "2332",
       "date": "06/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Copa del Rey",
-      "team1": "SD Amorebieta",
-      "team2": "UD Logrones",
-      "logo1": "https://img.sofascore.com/api/v1/team/54103/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/37057/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+      "time": "9:30 AM",
+      "league": "Cricket | BAN vs WI - 2nd Test, Day 2",
+      "team1": "Bangladesh",
+      "team2": "West Indies",
+      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -3962,42 +3962,6 @@
       "streams": []
     },
     {
-      "id": "2291",
-      "date": "31/10/2026",
-      "time": "8:35 AM",
-      "league": "Cricket | Hong Kong Sixes 2026 - 12th T10",
-      "team1": "United Arab Emirates",
-      "team2": "India",
-      "logo1": "https://img.sofascore.com/api/v1/team/4727/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahjbrf0moc/out/v1/f879245328274dce9cab868884c6fb37/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MTQxN2M1ZjFiZjNiZTIwZGJiYzA3YWMwMjg4MmVlNTg6ZDhiODYwMjExYzE5ZWNlZDFlNmI4MzI0OGY5ZGJmMWM="
-        },
-        {
-          "name": "willow-alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahjbrf0moc/out/v1/f879245328274dce9cab868884c6fb37/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MTQxN2M1ZjFiZjNiZTIwZGJiYzA3YWMwMjg4MmVlNTg6ZDhiODYwMjExYzE5ZWNlZDFlNmI4MzI0OGY5ZGJmMWM="
-        },
-        {
-          "name": "tapmad-bd",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2292",
       "date": "31/10/2026",
       "time": "9:30 AM",
@@ -4016,6 +3980,20 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/47j8dswule/out/v1/43a8e5f76a144fde9a2567cd12b321de/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NTNiZmQ4N2ZmOTg1OGIzMWQ1Zjk0YmQ4NDUxYWUwYTQ6NmE5YTExZDE2MzUzYjU4YTliNTE2MGM2MGQ3YzgyMmI="
+        },
+        {
+          "name": "willow-alt",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/47j8dswule/out/v1/43a8e5f76a144fde9a2567cd12b321de/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NTNiZmQ4N2ZmOTg1OGIzMWQ1Zjk0YmQ4NDUxYWUwYTQ6NmE5YTExZDE2MzUzYjU4YTliNTE2MGM2MGQ3YzgyMmI="
         }
       ]
     },
@@ -4190,6 +4168,20 @@
       "team2": "CD Leganés",
       "logo1": "https://img.sofascore.com/api/v1/team/167158/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2845/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2330",
+      "date": "06/11/2026",
+      "time": "1:00 AM",
+      "league": "Football | Copa del Rey",
+      "team1": "SD Amorebieta",
+      "team2": "UD Logrones",
+      "logo1": "https://img.sofascore.com/api/v1/team/54103/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/37057/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
       "visibility": "public",
@@ -4471,20 +4463,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/1954/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1955/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2332",
-      "date": "06/11/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | BAN vs WI - 2nd Test, Day 2",
-      "team1": "Bangladesh",
-      "team2": "West Indies",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
