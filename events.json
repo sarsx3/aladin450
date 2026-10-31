@@ -1,66 +1,8 @@
 {
-  "last_updated": "01 Nov 2026, 01:47:15 AM BST",
-  "last_updated_iso": "2026-10-31T19:47:15.204Z",
-  "total_events": 331,
+  "last_updated": "01 Nov 2026, 01:48:13 AM BST",
+  "last_updated_iso": "2026-10-31T19:48:13.692Z",
+  "total_events": 329,
   "events": [
-    {
-      "id": "2022",
-      "date": "31/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Eredivisie",
-      "team1": "Heerenveen",
-      "team2": "N.E.C.",
-      "logo1": "https://img.sofascore.com/api/v1/team/2964/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2962/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001793467382-0-0-97610843e1c18d2a19fcb376477590f7",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2023",
-      "date": "31/10/2026",
-      "time": "11:45 PM",
-      "league": "Football | Eredivisie",
-      "team1": "PSV",
-      "team2": "Willem II",
-      "logo1": "https://img.sofascore.com/api/v1/team/2952/image",
-      "logo2": "",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001793467357-0-0-38f4acfd7569dcf268bb7a4b1807f96c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2072",
       "date": "01/11/2026",
