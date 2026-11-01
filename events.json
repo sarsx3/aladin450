@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 09:49:13 PM BST",
-  "last_updated_iso": "2026-11-01T15:49:13.437Z",
+  "last_updated": "01 Nov 2026, 09:50:20 PM BST",
+  "last_updated_iso": "2026-11-01T15:50:20.075Z",
   "total_events": 288,
   "events": [
     {
@@ -578,7 +578,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793546609-0-0-3c8434c74b516efb5a0d7a66fa963922",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2269",
