@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 11:09:11 PM BST",
-  "last_updated_iso": "2026-11-01T17:09:11.837Z",
+  "last_updated": "01 Nov 2026, 11:10:22 PM BST",
+  "last_updated_iso": "2026-11-01T17:10:22.397Z",
   "total_events": 282,
   "events": [
     {
@@ -497,6 +497,34 @@
           "name": "Server - 8",
           "url": "https://wp.machedge.site/hein1.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK ENG FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4wn492fzje/out/v1/fda9936cc9c64529810d704dcb67951c/cenc.mpd?|drmScheme=clearkey&drmLicense=f2ea8d5893c5bb84b8c9f43c462add5f:95b1c6f710c81d239adb7cf45ad26d39",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "beIN ARABIC FHD",
+          "url": "https://live-cdn.ryazanslah3.space/hls/bein1.m3u8?",
+          "referer": "https://www.arena-koora.online/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PREMIER LEAGUE+ 1",
+          "url": "https://chatgpt.hereisman.net/playlist/59049/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PREMIER LEAGUE+ 2",
+          "url": "https://chatgpt.hereisman.net/playlist/59052/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
