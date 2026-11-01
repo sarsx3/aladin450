@@ -1,37 +1,8 @@
 {
-  "last_updated": "01 Nov 2026, 11:48:15 PM BST",
-  "last_updated_iso": "2026-11-01T17:48:15.836Z",
-  "total_events": 278,
+  "last_updated": "01 Nov 2026, 11:49:13 PM BST",
+  "last_updated_iso": "2026-11-01T17:49:13.042Z",
+  "total_events": 277,
   "events": [
-    {
-      "id": "2069",
-      "date": "01/11/2026",
-      "time": "9:45 PM",
-      "league": "Football | Eredivisie",
-      "team1": "Groningen",
-      "team2": "Sparta",
-      "logo1": "https://img.sofascore.com/api/v1/team/2951/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2218/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793546609-0-0-3c8434c74b516efb5a0d7a66fa963922",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2269",
       "date": "01/11/2026",
