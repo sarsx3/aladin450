@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 07:47:17 AM BST",
-  "last_updated_iso": "2026-11-01T01:47:17.216Z",
+  "last_updated": "01 Nov 2026, 07:48:13 AM BST",
+  "last_updated_iso": "2026-11-01T01:48:13.709Z",
   "total_events": 309,
   "events": [
     {
@@ -122,6 +122,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "OGE0NWFhOWY1ZmFjNGIxM2U5NDlhZDEwYjZlYzMyY2I6ZWQyYTM4ZWE5OTY1NzU1ODBhMDAzNjY0ZjRjOTk1Y2U="
+        },
+        {
+          "name": "Tapmad - bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow sports-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
