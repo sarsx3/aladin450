@@ -1,65 +1,8 @@
 {
-  "last_updated": "01 Nov 2026, 10:34:13 PM BST",
-  "last_updated_iso": "2026-11-01T16:34:13.753Z",
-  "total_events": 283,
+  "last_updated": "01 Nov 2026, 10:35:18 PM BST",
+  "last_updated_iso": "2026-11-01T16:35:18.013Z",
+  "total_events": 282,
   "events": [
-    {
-      "id": "2053",
-      "date": "01/11/2026",
-      "time": "8:30 PM",
-      "league": "Football | Bundesliga",
-      "team1": "Union Berlin",
-      "team2": "Köln",
-      "logo1": "https://img.sofascore.com/api/v1/team/2547/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2671/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Myco - bd",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga1/hls/PKBD1.m3u8",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=7590ba1208345548461f78dbade700a2&txTime=6ae77edb",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4b6b33fcf86867639166ea6e35384ddb&txTime=6ae77f53",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "DAZN SPORTS FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xl00zoj5d6/out/v1/61e522c484fc4c4c91edfc3079455477/cenc.mpd?|drmScheme=clearkey&drmLicense=9442939e77cef9646b9598b373ebffe4:1dc1b4dc6f97f9b5fefef1dee17a7cb2",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://www.rtmpcdn.com/live/7f25ea19-5ab7-4e0f-977d-c420c02b2000.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2093",
       "date": "01/11/2026",
