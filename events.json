@@ -1,36 +1,8 @@
 {
-  "last_updated": "01 Nov 2026, 08:43:11 AM BST",
-  "last_updated_iso": "2026-11-01T02:43:11.732Z",
-  "total_events": 309,
+  "last_updated": "01 Nov 2026, 08:44:13 AM BST",
+  "last_updated_iso": "2026-11-01T02:44:13.221Z",
+  "total_events": 306,
   "events": [
-    {
-      "id": "2049",
-      "date": "01/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | Ligue 1",
-      "team1": "Lyon",
-      "team2": "Angers",
-      "logo1": "https://img.sofascore.com/api/v1/team/1649/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1684/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2050",
-      "date": "01/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | Ligue 1",
-      "team1": "Lorient",
-      "team2": "Brest",
-      "logo1": "https://img.sofascore.com/api/v1/team/1656/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1715/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
     {
       "id": "2043",
       "date": "01/11/2026",
@@ -4374,35 +4346,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "1793439627489",
-      "date": "31/10/2026",
-      "time": "2:20 PM",
-      "league": "ICC World Test Championship",
-      "team1": "South Africa",
-      "team2": "Australia",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "A SPORTS HD",
-          "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
-          "referer": "",
-          "userAgent": "",
-          "drm": ""
-        },
-        {
-          "name": "Sky Sports",
-          "url": "http://193.47.62.44/hls/XAXAXAAX.m3u8",
-          "referer": "http://www.fawanews.sc",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-          "drm": ""
-        }
-      ]
     }
   ]
 }
