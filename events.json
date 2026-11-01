@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 07:57:13 PM BST",
-  "last_updated_iso": "2026-11-01T13:57:13.888Z",
+  "last_updated": "01 Nov 2026, 07:58:13 PM BST",
+  "last_updated_iso": "2026-11-01T13:58:13.892Z",
   "total_events": 297,
   "events": [
     {
@@ -546,7 +546,36 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sonyliv-english",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb1cbprod-PlaybackConfig/2018458/footlive0111/ENG/master.m3u8?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv-hindi",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb1cbprod-PlaybackConfig/2022316/footlive0111/HIN/master.m3u8?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=4a72731c5c455283b6ca05f97faaa451&wsABSTime=1793582737",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.41/hls/QHHHAAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2053",
