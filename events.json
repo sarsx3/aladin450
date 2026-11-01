@@ -1,6 +1,6 @@
 {
-  "last_updated": "02 Nov 2026, 02:11:12 AM BST",
-  "last_updated_iso": "2026-11-01T20:11:12.047Z",
+  "last_updated": "02 Nov 2026, 02:12:13 AM BST",
+  "last_updated_iso": "2026-11-01T20:12:13.245Z",
   "total_events": 266,
   "events": [
     {
@@ -303,6 +303,13 @@
           "name": "tapmad-bd",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ESPN DEPORTES+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/59068/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
