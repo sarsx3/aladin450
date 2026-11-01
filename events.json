@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 08:46:12 AM BST",
-  "last_updated_iso": "2026-11-01T02:46:12.766Z",
+  "last_updated": "01 Nov 2026, 08:47:11 AM BST",
+  "last_updated_iso": "2026-11-01T02:47:11.730Z",
   "total_events": 308,
   "events": [
     {
@@ -55,26 +55,12 @@
       ]
     },
     {
-      "id": "2090",
-      "date": "01/11/2026",
-      "time": "10:40 AM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Sydney Thunder Women",
-      "team2": "Brisbane Heat Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274889/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2303",
       "date": "01/11/2026",
-      "time": "11:20 AM",
+      "time": "9:00 AM",
       "league": "Cricket | Hong Kong Sixes 2026 - 22nd T10",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
+      "team1": "Hong kong Sixes",
+      "team2": "Hong kong Sixes",
       "logo1": "",
       "logo2": "",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2GV.png",
@@ -110,6 +96,20 @@
           "drm": ""
         }
       ]
+    },
+    {
+      "id": "2090",
+      "date": "01/11/2026",
+      "time": "10:40 AM",
+      "league": "Cricket | Womens Big Bash League",
+      "team1": "Sydney Thunder Women",
+      "team2": "Brisbane Heat Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274889/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
     },
     {
       "id": "2092",
