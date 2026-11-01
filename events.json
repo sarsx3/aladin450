@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 07:24:14 PM BST",
-  "last_updated_iso": "2026-11-01T13:24:14.919Z",
+  "last_updated": "01 Nov 2026, 07:25:16 PM BST",
+  "last_updated_iso": "2026-11-01T13:25:16.636Z",
   "total_events": 299,
   "events": [
     {
@@ -416,7 +416,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1793520427-0-0-c748b0ae419764c32ac6aa6021a8ed63",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2068",
