@@ -1,7 +1,7 @@
 {
-  "last_updated": "01 Nov 2026, 08:44:13 AM BST",
-  "last_updated_iso": "2026-11-01T02:44:13.221Z",
-  "total_events": 306,
+  "last_updated": "01 Nov 2026, 08:45:20 AM BST",
+  "last_updated_iso": "2026-11-01T02:45:20.187Z",
+  "total_events": 308,
   "events": [
     {
       "id": "2043",
@@ -501,6 +501,20 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2049",
+      "date": "01/11/2026",
+      "time": "10:15 PM",
+      "league": "Football | Ligue 1",
+      "team1": "Lyon",
+      "team2": "Angers",
+      "logo1": "https://img.sofascore.com/api/v1/team/1649/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1684/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+      "isHot": false,
+      "visibility": "unpublic",
       "streams": []
     },
     {
@@ -1033,6 +1047,20 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2050",
+      "date": "03/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | Ligue 1",
+      "team1": "Lorient",
+      "team2": "Brest",
+      "logo1": "https://img.sofascore.com/api/v1/team/1656/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1715/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+      "isHot": false,
+      "visibility": "unpublic",
       "streams": []
     },
     {
