@@ -1,6 +1,6 @@
 {
-  "last_updated": "01 Nov 2026, 07:40:20 PM BST",
-  "last_updated_iso": "2026-11-01T13:40:20.601Z",
+  "last_updated": "01 Nov 2026, 07:41:12 PM BST",
+  "last_updated_iso": "2026-11-01T13:41:12.416Z",
   "total_events": 297,
   "events": [
     {
@@ -177,6 +177,13 @@
           "name": "tapmad-bd",
           "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ESPN DEPORTES HD",
+          "url": "https://chatgpt.hereisman.net/playlist/59026/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
