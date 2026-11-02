@@ -1,30 +1,8 @@
 {
-  "last_updated": "02 Nov 2026, 10:29:13 AM BST",
-  "last_updated_iso": "2026-11-02T04:29:13.898Z",
-  "total_events": 251,
+  "last_updated": "02 Nov 2026, 10:30:28 AM BST",
+  "last_updated_iso": "2026-11-02T04:30:28.438Z",
+  "total_events": 250,
   "events": [
-    {
-      "id": "2118",
-      "date": "02/11/2026",
-      "time": "7:30 AM",
-      "league": "Football | MLS",
-      "team1": "Los Angeles FC",
-      "team2": "Orlando City Soccer Club",
-      "logo1": "https://img.sofascore.com/api/v1/team/274650/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/52237/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2250",
       "date": "02/11/2026",
