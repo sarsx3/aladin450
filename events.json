@@ -1,6 +1,6 @@
 {
-  "last_updated": "02 Nov 2026, 07:50:24 PM BST",
-  "last_updated_iso": "2026-11-02T13:50:24.702Z",
+  "last_updated": "02 Nov 2026, 07:51:14 PM BST",
+  "last_updated_iso": "2026-11-02T13:51:14.974Z",
   "total_events": 248,
   "events": [
     {
@@ -70,6 +70,13 @@
           "name": "Server - 4",
           "url": "https://live2.jorvakstreamcache.com/live/channel1.flv",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - bd",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
