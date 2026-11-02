@@ -1,108 +1,8 @@
 {
-  "last_updated": "03 Nov 2026, 12:07:14 AM BST",
-  "last_updated_iso": "2026-11-02T18:07:14.134Z",
-  "total_events": 245,
+  "last_updated": "03 Nov 2026, 12:08:14 AM BST",
+  "last_updated_iso": "2026-11-02T18:08:14.191Z",
+  "total_events": 243,
   "events": [
-    {
-      "id": "2099",
-      "date": "02/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Tractor FC",
-      "team2": "Neftchi Fargona",
-      "logo1": "https://img.sofascore.com/api/v1/team/53715/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36256/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793633730-0-0-aa406c109c9146f6c602b6d0ac20684c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "http://193.47.62.44/hls/TTTTAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - bd",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2100",
-      "date": "02/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Al Wasl",
-      "team2": "Quwa Al Jawiya",
-      "logo1": "https://img.sofascore.com/api/v1/team/47674/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213877/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1793619967-0-0-44666281990dc6a90458b3a26aa80bef",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "http://193.47.62.44/hls/TTTTA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - bd",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2101",
       "date": "02/11/2026",
@@ -336,6 +236,13 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -391,6 +298,13 @@
           "name": "Server - 6",
           "url": "http://193.47.62.41/hls/ylll.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
