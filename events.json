@@ -1,44 +1,8 @@
 {
-  "last_updated": "02 Nov 2026, 09:09:13 AM BST",
-  "last_updated_iso": "2026-11-02T03:09:13.585Z",
-  "total_events": 253,
+  "last_updated": "02 Nov 2026, 09:10:21 AM BST",
+  "last_updated_iso": "2026-11-02T03:10:21.314Z",
+  "total_events": 251,
   "events": [
-    {
-      "id": "2117",
-      "date": "02/11/2026",
-      "time": "6:00 AM",
-      "league": "Football | MLS",
-      "team1": "Revolution",
-      "team2": "Inter Miami",
-      "logo1": "https://img.sofascore.com/api/v1/team/2511/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/337602/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://www.rtmpcdn.com/live/97097ee6-d144-4ea2-b904-4f79069e3d57.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.41/hls/ROOOA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2118",
       "date": "02/11/2026",
@@ -60,20 +24,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2119",
-      "date": "02/11/2026",
-      "time": "8:45 AM",
-      "league": "Football | MLS",
-      "team1": "Minnesota United",
-      "team2": "Portland Timbers",
-      "logo1": "https://img.sofascore.com/api/v1/team/41618/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/22007/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2250",
