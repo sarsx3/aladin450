@@ -1,6 +1,6 @@
 {
-  "last_updated": "02 Nov 2026, 06:04:15 AM BST",
-  "last_updated_iso": "2026-11-02T00:04:15.184Z",
+  "last_updated": "02 Nov 2026, 06:05:20 AM BST",
+  "last_updated_iso": "2026-11-02T00:05:20.538Z",
   "total_events": 254,
   "events": [
     {
@@ -34,6 +34,20 @@
           "name": "Server - 1",
           "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://www.rtmpcdn.com/live/97097ee6-d144-4ea2-b904-4f79069e3d57.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/ROOOA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
