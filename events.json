@@ -1,37 +1,8 @@
 {
-  "last_updated": "02 Nov 2026, 09:24:24 PM BST",
-  "last_updated_iso": "2026-11-02T15:24:24.294Z",
-  "total_events": 248,
+  "last_updated": "02 Nov 2026, 09:25:20 PM BST",
+  "last_updated_iso": "2026-11-02T15:25:20.716Z",
+  "total_events": 247,
   "events": [
-    {
-      "id": "2251",
-      "date": "02/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 11th T20",
-      "team1": "Sudurpaschim Royals",
-      "team2": "Chitwan Rhinos",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "FANCODE - SD",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2098",
       "date": "02/11/2026",
