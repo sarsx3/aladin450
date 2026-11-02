@@ -1,6 +1,6 @@
 {
-  "last_updated": "02 Nov 2026, 12:05:16 PM BST",
-  "last_updated_iso": "2026-11-02T06:05:16.571Z",
+  "last_updated": "02 Nov 2026, 12:06:19 PM BST",
+  "last_updated_iso": "2026-11-02T06:06:19.926Z",
   "total_events": 250,
   "events": [
     {
@@ -15,7 +15,29 @@
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Himalaya sports hd",
+          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "net tv sports hd",
+          "url": "https://ott-int-nlive.nettvstreamz.com/npl/live_match6/playlist.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://ott-nettv-01.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=47289050",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2120",
