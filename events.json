@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 03:40:27 AM BST",
-  "last_updated_iso": "2026-11-03T21:40:27.076Z",
+  "last_updated": "04 Nov 2026, 03:41:19 AM BST",
+  "last_updated_iso": "2026-11-03T21:41:19.230Z",
   "total_events": 300,
   "events": [
     {
@@ -1106,7 +1106,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "TNT2 SPORTS - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2157",
