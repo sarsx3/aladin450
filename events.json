@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 02:47:22 AM BST",
-  "last_updated_iso": "2026-11-03T20:47:22.973Z",
+  "last_updated": "04 Nov 2026, 02:48:23 AM BST",
+  "last_updated_iso": "2026-11-03T20:48:23.883Z",
   "total_events": 300,
   "events": [
     {
@@ -422,6 +422,27 @@
           "name": "low quality",
           "url": "http://193.47.62.44/hls/HCCCaaaa.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS HD",
+          "url": "https://chatgpt.hereisman.net/playlist/59197/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER TV",
+          "url": "https://tg0o4gr4uqmtt8y41hcjzgezdrmmbqbh8c3toq73u1cjqxfozr5udctzy.100ycdn.com/apxvf0ws91.yarncdn.live/live/hd-en-6Mxj4xXS17s31kU9HS/playlist.m3u8?wsSession=e78e8c14fb9c8e485dcefff0-179373649354089&wsIPSercert=95393e5936bc899fb6501629a824abeb&wsBindIP=2&wsserid=1168309213681259573",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/928e646d-a70c-4c73-9c92-e9f53744c47f.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
