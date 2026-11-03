@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 01:45:30 AM BST",
-  "last_updated_iso": "2026-11-03T19:45:30.775Z",
+  "last_updated": "04 Nov 2026, 01:46:24 AM BST",
+  "last_updated_iso": "2026-11-03T19:46:24.693Z",
   "total_events": 303,
   "events": [
     {
@@ -898,6 +898,13 @@
         {
           "name": "sonyliv-aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793777439~acl=/*~id=91957571851180794847193414095428~hmac=42e9c995f41f541ce203ed7396252700512885333de2210cb695f70be703f9bd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD.",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0nsrdwyz6d/out/v1/1fb3f803330c4d56b7067eb32a2d7b5b/cenc.mpd?|drmScheme=clearkey&drmLicense=c42433b27c13a1ad99d32d2c027eeb59:2dad308a6387c9d4fc9b881d01b509d1",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
