@@ -1,6 +1,6 @@
 {
-  "last_updated": "03 Nov 2026, 04:26:13 PM BST",
-  "last_updated_iso": "2026-11-03T10:26:13.064Z",
+  "last_updated": "03 Nov 2026, 04:27:12 PM BST",
+  "last_updated_iso": "2026-11-03T10:27:12.632Z",
   "total_events": 224,
   "events": [
     {
@@ -177,6 +177,13 @@
           "name": "Server - 4",
           "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793694378-0-0-26ea75afd569436309280369e076904d",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
