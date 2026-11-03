@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 01:01:13 AM BST",
-  "last_updated_iso": "2026-11-03T19:01:13.769Z",
+  "last_updated": "04 Nov 2026, 01:02:41 AM BST",
+  "last_updated_iso": "2026-11-03T19:02:41.623Z",
   "total_events": 303,
   "events": [
     {
@@ -514,6 +514,41 @@
         {
           "name": "cbs sports - aq",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001793676832-0-0-b1622a83882daea50a6adc1fb92564c4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=9f509d9ef0ca65a81b6ae2022042630d&txTime=6aea4b1b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=ad310b327a767aaad84040902ec334f3&txTime=6aea4b57",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=1e19584e9ca9bdddb29e011f57725d8a&txTime=6aea4b57",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
