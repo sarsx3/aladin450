@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 02:45:26 AM BST",
-  "last_updated_iso": "2026-11-03T20:45:26.957Z",
+  "last_updated": "04 Nov 2026, 02:46:17 AM BST",
+  "last_updated_iso": "2026-11-03T20:46:17.904Z",
   "total_events": 300,
   "events": [
     {
@@ -783,6 +783,27 @@
           "name": "low quality",
           "url": "http://193.47.62.50/hls/HCCCa.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SonyLiv PRIME FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/62u3pe9jhe/out/v1/b16f920939bb40ec921f895197dcc8fe/cenc.mpd?|drmScheme=clearkey&drmLicense=8457e2ce4bab3e982f93d01d8531937c:e96b9115e2da4f4fd7fef362fe16b8c6",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER TV",
+          "url": "https://tg0o4gr4uqmtt8y41hcjzgezdrmmbqbh8c3toq73u1cjqxfozr5udctzy.100ycdn.com/apxvf0ws91.yarncdn.live/live/sd-6Mxj4xWg1mMLTMQ4EC/playlist.m3u8?wsSession=f463896762b990c184c91002-179373644505132&wsIPSercert=95393e5936bc899fb6501629a824abeb&wsBindIP=2&wsserid=1168309208178241479",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/ae26b0b9-fb6a-4a53-95c9-38057990df8e.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
