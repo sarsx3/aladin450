@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 12:13:22 AM BST",
-  "last_updated_iso": "2026-11-03T18:13:22.875Z",
+  "last_updated": "04 Nov 2026, 12:14:15 AM BST",
+  "last_updated_iso": "2026-11-03T18:14:15.958Z",
   "total_events": 303,
   "events": [
     {
@@ -224,6 +224,13 @@
           "name": "FASTER QUALITY",
           "url": "https://live.vivo155.com/live/hd-en-1-4628435.m3u8?txSecret=94ae11617a86f1e1f52d5b968c1bbe03&txTime=6AEA2E2C",
           "referer": "https://player.on8on8.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
