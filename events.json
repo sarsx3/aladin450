@@ -1,6 +1,6 @@
 {
-  "last_updated": "03 Nov 2026, 11:34:19 PM BST",
-  "last_updated_iso": "2026-11-03T17:34:19.276Z",
+  "last_updated": "03 Nov 2026, 11:35:18 PM BST",
+  "last_updated_iso": "2026-11-03T17:35:18.752Z",
   "total_events": 305,
   "events": [
     {
@@ -140,6 +140,13 @@
         {
           "name": "Server - 4",
           "url": "https://live2.jorvakstreamcache.com/live/channel4.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv-aq",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2120304/footlive0311/ENG/master.m3u8?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
