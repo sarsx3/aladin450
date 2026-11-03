@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 02:04:16 AM BST",
-  "last_updated_iso": "2026-11-03T20:04:16.743Z",
+  "last_updated": "04 Nov 2026, 02:05:18 AM BST",
+  "last_updated_iso": "2026-11-03T20:05:18.604Z",
   "total_events": 301,
   "events": [
     {
@@ -573,6 +573,34 @@
           "name": "sonyliv-aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793777439~acl=/*~id=91957571851180794847193414095428~hmac=42e9c995f41f541ce203ed7396252700512885333de2210cb695f70be703f9bd",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttfe3fwpqd/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd?|drmScheme=clearkey&drmLicense=e267cd32e665cacc817fa5d316d195aa:0a193efcd601e233f8a46bae9240f2b7",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ ALT",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vh0otvgsty/out/v1/bd515f9d353d436c8d9f7fad1a036eae/cenc.mpd?|drmScheme=clearkey&drmLicense=81e0ae17a7166c881b38468bee4d210d:be2dd777d1aa42adc54d090fcf886b29",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FOX SOCCER +",
+          "url": "https://chatgpt.hereisman.net/playlist/59198/load-playlist-multi?.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
