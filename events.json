@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 02:12:21 AM BST",
-  "last_updated_iso": "2026-11-03T20:12:21.946Z",
+  "last_updated": "04 Nov 2026, 02:13:24 AM BST",
+  "last_updated_iso": "2026-11-03T20:13:24.752Z",
   "total_events": 301,
   "events": [
     {
@@ -452,6 +452,34 @@
           "name": "low quality",
           "url": "http://193.47.62.44/hls/HCCCaa.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hknyjwcuzu/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd?|drmScheme=clearkey&drmLicense=1ba1ee8262e770b7d92759485de83fa6:eb42d4be46e10ae5e1c529efc451e3f5",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b722xitfbt/out/v1/64cda6be047340fc8eab0cfbd350848f/cenc.mpd?|drmScheme=clearkey&drmLicense=4ab1edbb78f4867a4e68821974ddc07f:c581c41a8e61fd0bc9ec0d4c23cfea86",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SonyLiv (Asia)",
+          "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
