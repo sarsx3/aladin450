@@ -1,6 +1,6 @@
 {
-  "last_updated": "03 Nov 2026, 01:56:13 PM BST",
-  "last_updated_iso": "2026-11-03T07:56:13.291Z",
+  "last_updated": "03 Nov 2026, 01:57:13 PM BST",
+  "last_updated_iso": "2026-11-03T07:57:13.337Z",
   "total_events": 225,
   "events": [
     {
@@ -63,6 +63,27 @@
           "name": "Server - 3",
           "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793687403-0-0-7b130868915d3c88d0c7a5ea1b306ae3",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "tapmad-bd",
+          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://www.rtmpcdn.com/live/97f72f19-df76-4cac-b162-f71b7f3bd04b.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "http://193.47.62.41/hls/CACACA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
