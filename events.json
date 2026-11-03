@@ -1,6 +1,6 @@
 {
-  "last_updated": "03 Nov 2026, 11:58:15 PM BST",
-  "last_updated_iso": "2026-11-03T17:58:15.824Z",
+  "last_updated": "03 Nov 2026, 11:59:17 PM BST",
+  "last_updated_iso": "2026-11-03T17:59:17.370Z",
   "total_events": 305,
   "events": [
     {
@@ -157,6 +157,13 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/d283ad68-9075-4a7c-9280-297a22a093c2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -218,6 +225,13 @@
         {
           "name": "sonyliv-aq",
           "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2120303/footlive0311/ENG/master.m3u8?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Hd quality",
+          "url": "https://www.rtmpcdn.com/live/289d4e5b-d051-4eab-b21f-2dbe45448b70.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
