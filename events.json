@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 02:39:17 AM BST",
-  "last_updated_iso": "2026-11-03T20:39:17.575Z",
+  "last_updated": "04 Nov 2026, 02:40:33 AM BST",
+  "last_updated_iso": "2026-11-03T20:40:33.386Z",
   "total_events": 300,
   "events": [
     {
@@ -684,6 +684,13 @@
           "name": "FOX SOCCER +",
           "url": "https://chatgpt.hereisman.net/playlist/59198/load-playlist-multi?.m3u8",
           "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SonyLiv (Asia)",
+          "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
