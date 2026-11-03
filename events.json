@@ -1,37 +1,8 @@
 {
-  "last_updated": "03 Nov 2026, 12:38:15 PM BST",
-  "last_updated_iso": "2026-11-03T06:38:15.198Z",
-  "total_events": 230,
+  "last_updated": "03 Nov 2026, 12:39:14 PM BST",
+  "last_updated_iso": "2026-11-03T06:39:14.752Z",
+  "total_events": 226,
   "events": [
-    {
-      "id": "2123",
-      "date": "03/11/2026",
-      "time": "4:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Platense",
-      "team2": "Central Córdoba",
-      "logo1": "https://img.sofascore.com/api/v1/team/36837/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/65676/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001793643659-0-0-0433390a144c79a10f96bf9cd4f17a35",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2124",
       "date": "03/11/2026",
@@ -55,93 +26,6 @@
         {
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001793643706-0-0-62344f551157cb1af664a449c7ca1354",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2138",
-      "date": "03/11/2026",
-      "time": "5:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Bragantino",
-      "team2": "Santos",
-      "logo1": "https://img.sofascore.com/api/v1/team/1999/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1968/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERER1 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SPORT TV FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2125",
-      "date": "03/11/2026",
-      "time": "6:15 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Independiente Riv.",
-      "team2": "Banfield",
-      "logo1": "https://img.sofascore.com/api/v1/team/36842/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3219/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001793647472-0-0-f35db7c31648404a628aa9362a76da77",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2126",
-      "date": "03/11/2026",
-      "time": "6:15 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Atletico Tucuman",
-      "team2": "AA Argentinos Juniors",
-      "logo1": "https://img.sofascore.com/api/v1/team/36833/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3216/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793647203-0-0-ecbd30778d0876f86ff22b44e180752c",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
