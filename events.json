@@ -1,58 +1,8 @@
 {
-  "last_updated": "04 Nov 2026, 08:36:16 PM BST",
-  "last_updated_iso": "2026-11-04T14:36:16.714Z",
-  "total_events": 275,
+  "last_updated": "04 Nov 2026, 08:37:34 PM BST",
+  "last_updated_iso": "2026-11-04T14:37:34.437Z",
+  "total_events": 274,
   "events": [
-    {
-      "id": "2156",
-      "date": "04/11/2026",
-      "time": "6:15 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Buriram United",
-      "team2": "Kashima Antlers",
-      "logo1": "https://img.sofascore.com/api/v1/team/34218/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3134/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1793796607-0-0-6d14878f5a5029f5be1c6ad5febee976",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live2.zktsva.app/live/301238.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "http://193.47.62.44/hls/HHHHAAQA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2159",
       "date": "04/11/2026",
