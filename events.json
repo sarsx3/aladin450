@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 04:04:23 PM BST",
-  "last_updated_iso": "2026-11-04T10:04:23.331Z",
+  "last_updated": "04 Nov 2026, 04:05:20 PM BST",
+  "last_updated_iso": "2026-11-04T10:05:20.233Z",
   "total_events": 279,
   "events": [
     {
@@ -218,6 +218,20 @@
         {
           "name": "Server - 2",
           "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1793773627-0-0-951cde9f16c915cb1e708366b340d348",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.zktsva.app/live/294335.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
