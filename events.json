@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 09:46:14 AM BST",
-  "last_updated_iso": "2026-11-04T03:46:14.954Z",
+  "last_updated": "04 Nov 2026, 09:47:13 AM BST",
+  "last_updated_iso": "2026-11-04T03:47:13.427Z",
   "total_events": 280,
   "events": [
     {
@@ -83,6 +83,13 @@
           "name": "Tapmad - bd",
           "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/4dwybz2taj/out/v1/c90ad7bb77af498083f47bf86b7999b7/cenc.mpd?|drmScheme=clearkey&drmLicense=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
