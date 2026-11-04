@@ -1,44 +1,8 @@
 {
-  "last_updated": "04 Nov 2026, 08:49:19 AM BST",
-  "last_updated_iso": "2026-11-04T02:49:19.245Z",
-  "total_events": 281,
+  "last_updated": "04 Nov 2026, 08:50:21 AM BST",
+  "last_updated_iso": "2026-11-04T02:50:21.132Z",
+  "total_events": 280,
   "events": [
-    {
-      "id": "2164",
-      "date": "04/11/2026",
-      "time": "6:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Internacional",
-      "team2": "Coritiba",
-      "logo1": "https://img.sofascore.com/api/v1/team/1966/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1982/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERER1 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel23.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001793741022-0-0-37887e568cc1449e8f57d29d28be199b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2176",
       "date": "04/11/2026",
