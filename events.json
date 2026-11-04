@@ -1,66 +1,8 @@
 {
-  "last_updated": "05 Nov 2026, 02:15:20 AM BST",
-  "last_updated_iso": "2026-11-04T20:15:20.943Z",
-  "total_events": 299,
+  "last_updated": "05 Nov 2026, 02:16:14 AM BST",
+  "last_updated_iso": "2026-11-04T20:16:14.169Z",
+  "total_events": 297,
   "events": [
-    {
-      "id": "2194",
-      "date": "05/11/2026",
-      "time": "12:15 AM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Al-Taawon",
-      "team2": "Al Faisaly",
-      "logo1": "https://img.sofascore.com/api/v1/team/56021/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/47482/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Low quality",
-          "url": "http://193.47.62.50/hls/hahahaaqq.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2195",
-      "date": "05/11/2026",
-      "time": "12:15 AM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Muharraq SC",
-      "team2": "Al-Jazira",
-      "logo1": "https://img.sofascore.com/api/v1/team/45474/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/8090/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.50/hls/hahahaaq.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2206",
       "date": "05/11/2026",
