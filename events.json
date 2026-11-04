@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 12:07:24 AM BST",
-  "last_updated_iso": "2026-11-04T18:07:24.908Z",
+  "last_updated": "05 Nov 2026, 12:08:14 AM BST",
+  "last_updated_iso": "2026-11-04T18:08:14.870Z",
   "total_events": 304,
   "events": [
     {
@@ -254,6 +254,20 @@
         {
           "name": "Server - 5",
           "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/failbdta50/out/v1/41a2b450ebe846d08a00e84663f9b324/cenc.mpd?|drmScheme=clearkey&drmLicense=3513dd3c560190e3d442208dd4dca9dd:108531e39fdc0a80f2f990776e7037f3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bvddkqdcbo/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd?|drmScheme=clearkey&drmLicense=8423baa4631c12837510e853dcad96d6:1032cc040f378fdcec68c45ccbdb7215",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
