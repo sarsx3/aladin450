@@ -1,6 +1,6 @@
 {
-  "last_updated": "04 Nov 2026, 01:49:16 PM BST",
-  "last_updated_iso": "2026-11-04T07:49:16.573Z",
+  "last_updated": "04 Nov 2026, 01:50:21 PM BST",
+  "last_updated_iso": "2026-11-04T07:50:21.643Z",
   "total_events": 280,
   "events": [
     {
@@ -171,7 +171,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sky cricket - aq",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2155",
