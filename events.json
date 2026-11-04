@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 12:27:13 AM BST",
-  "last_updated_iso": "2026-11-04T18:27:13.533Z",
+  "last_updated": "05 Nov 2026, 12:28:13 AM BST",
+  "last_updated_iso": "2026-11-04T18:28:13.860Z",
   "total_events": 301,
   "events": [
     {
@@ -261,6 +261,13 @@
           "name": "Server - 1",
           "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.50/hls/hahahaaq.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
