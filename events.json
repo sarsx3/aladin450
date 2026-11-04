@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 12:24:14 AM BST",
-  "last_updated_iso": "2026-11-04T18:24:14.948Z",
+  "last_updated": "05 Nov 2026, 12:25:16 AM BST",
+  "last_updated_iso": "2026-11-04T18:25:16.582Z",
   "total_events": 301,
   "events": [
     {
@@ -90,6 +90,13 @@
           "name": "SonyLiv (Asia)",
           "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8",
           "referer": "https://www.sonyliv.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/e7ccc407-251f-432b-a8c4-c5e352c045a1.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -188,6 +195,20 @@
         {
           "name": "DAZN DE FHD",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sgxlaurrkw/out/v1/c3f667057bc84a78b2df646b097fb1eb/cenc.mpd?|drmScheme=clearkey&drmLicense=104827754710be1bfac19b2433cf6846:9f57ccbf41f5cb5fdcf0deb2b41509b0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Hd quality",
+          "url": "https://pulltx.klmysrmyy.com/live/202_5737822_2.m3u8?txSecret=96382faf8ac31c1013eb44e2c02da6bb&txTime=6AF0B459",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Hd quality 2",
+          "url": "https://www.rtmpcdn.com/live/ab49663e-0171-4576-bfe0-f3ef3215b513.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
