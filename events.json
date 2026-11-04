@@ -1,51 +1,8 @@
 {
-  "last_updated": "04 Nov 2026, 05:49:12 PM BST",
-  "last_updated_iso": "2026-11-04T11:49:12.854Z",
-  "total_events": 278,
+  "last_updated": "04 Nov 2026, 05:50:24 PM BST",
+  "last_updated_iso": "2026-11-04T11:50:24.705Z",
+  "total_events": 277,
   "events": [
-    {
-      "id": "2177",
-      "date": "04/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Hobart Hurricanes Women",
-      "team2": "Melbourne Renegades Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274885/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sky cricket - aq",
-          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "tapmad-bd",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzNiYmViMTZjMThkODI1ZjA0YjUxYjE3YjY3YmFmNWE6Zjc0NDcyMmMwOGUzZDEzZmVjZmE1OWRlNTQzNmNjZTc="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzNiYmViMTZjMThkODI1ZjA0YjUxYjE3YjY3YmFmNWE6Zjc0NDcyMmMwOGUzZDEzZmVjZmE1OWRlNTQzNmNjZTc="
-        }
-      ]
-    },
     {
       "id": "2155",
       "date": "04/11/2026",
