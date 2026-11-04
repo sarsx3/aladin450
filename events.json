@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 02:07:12 AM BST",
-  "last_updated_iso": "2026-11-04T20:07:12.573Z",
+  "last_updated": "05 Nov 2026, 02:08:14 AM BST",
+  "last_updated_iso": "2026-11-04T20:08:14.481Z",
   "total_events": 299,
   "events": [
     {
@@ -484,6 +484,27 @@
           "name": "tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/shjayahvpp/out/v1/a971b8fc52b44a1398237689dc61930c/cenc.mpd?|drmScheme=clearkey&drmLicense=58434b280dc5da2a0c2a0dd1ea4f48c1:0367f18e8b0ea8fede8ee6cb3b82d33a",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p9e7ygthvj/out/v1/c6e578e510f340b29c16febf3c470572/cenc.mpd?|drmScheme=clearkey&drmLicense=874b7df0e3c0b86b0e056c8398d64f66:674ce96dacc3b24d099c9e0dfe179c70",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "STREAM TV + HD",
+          "url": "https://chatgpt.hereisman.net/playlist/59245/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
