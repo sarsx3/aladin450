@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 01:10:25 AM BST",
-  "last_updated_iso": "2026-11-04T19:10:25.137Z",
+  "last_updated": "05 Nov 2026, 01:11:13 AM BST",
+  "last_updated_iso": "2026-11-04T19:11:13.916Z",
   "total_events": 301,
   "events": [
     {
@@ -415,7 +415,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1793806747-0-0-3ef2e57dc8bff0792c42aa2dd14166d1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2180",
