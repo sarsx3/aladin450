@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 07:26:17 PM BST",
-  "last_updated_iso": "2026-11-05T13:26:17.321Z",
+  "last_updated": "05 Nov 2026, 07:27:13 PM BST",
+  "last_updated_iso": "2026-11-05T13:27:13.415Z",
   "total_events": 287,
   "events": [
     {
@@ -300,6 +300,13 @@
           "url": "https://live.bongobd.com/hls/v2.gkKry2Q4GaZ4OM99DC23ig/1793888276/SAFFmatch02.m3u8?token=eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJDVUtWUkdUMFp3VEp3VEFfMDVPVXBwV1NwTzN6bzE5aUphVHJwdk9MTkpjIn0.eyJleHAiOjE3OTM4ODQ5NzMsImlhdCI6MTc5Mzg4NDY3MywiYXV0aF90aW1lIjoxNzkzODc5NTg2LCJqdGkiOiJvbnJ0cnQ6ZWM3MTFmOGUtYjgzNC0yZWY5LTNlZTItYzZjNDMzYTFlMDg4IiwiaXNzIjoiaHR0cHM6Ly9hY2NvdW50cy5ib25nb2JkLmNvbS9yZWFsbXMvYm9uZ28iLCJzdWIiOiI1YTkzMjM4NS1hYzc5LTQ4YzktODhiOS05MzM0ZjY4NTZiN2IiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJvdHBsb2dpbiIsInNpZCI6IjNfQlZzVDJKN2dWSlhmWmI5NXp3TGFHYSIsInNjb3BlIjoib3BlbmlkIiwic2Fhc19tYXBwZXIiOiJzYWFzIiwiYm9uZ29faWQiOiIyYzAxYTczMy0zYmFlLTQyNTctODY5OS0zZTY4MjA0ZDRlNjkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJNYWplZHVsIElzbGFtIiwiY2xpZW50X2lkIjoiYWJmZWE0NjItZjY0ZC00OTFlLTljZDktNzVlZTAwMWY0NWIwIiwiaWRlbnRpdHlfcHJvdmlkZXIiOiJnb29nbGUiLCJ1c2VyX3R5cGUiOiJyZWd1bGFyIiwidmVyaWZpZWRfcGhvbmVfbnVtYmVyIjoiIiwicGxhdGZvcm1faWQiOiJhYmZlYTQ2Mi1mNjRkLTQ5MWUtOWNkOS03NWVlMDAxZjQ1YjAiLCJwaG9uZV9udW1iZXIiOiIiLCJzb2NpYWxfY29ubmVjdGlvbnMiOnsiZ29vZ2xlIjoiMTA1MjI3ODEyNTkxMTA2NzY3MjY5In0sImVtYWlsIjoibWFqZWR1bGlzbGFtODQ3OEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Im1hamVkdWxpc2xhbTg0NzhAZ21haWwuY29tIn0.hd53NZ8a6A2q62QEITKRKgWVQWaox3cxfcaNEpic4-OzdaaPVZ77Z0J8WjPivJQQwoZoPNYbQvCMnO9oGFypYQhTeFOGfRTp5T36AX5QOtz50IcGO3dd4n3w5RJK7q0NMgxS7xIX8pvU30k7EPzowMPUyXTKLTfViJt7zfFmNC_rX1VbBm_yqcT6zfzzQ5iAtxKI2EHkAnl0zriReifBZdMhqlMcOVYMJzRttWvRz31n0NJA_TBLpB7FEyaGk92B0yuCpumr2C0fzCKE0ciDG4Ojx5b6ofMYG0nQJiebb0YGDLs0uzSGrL65Kt-tpYnAQSu2VilowSu-92ilirFEAg-NNTNYQYNBG2m-8aD94B7SWmrln1Zr7A4gnI1I19pYl36zTPo2HVUpOiieewkzj2dhiFeJX99gSuwhQQAxmN3zJM_aqLFCK7ATUQKm9tEG1VmIwbya8w5UcyMxlx1xiMuQcuRsI3aQOGv7wXPe7rVxbPu0ZR9or2ShpUKZ82In6AlqhUMri1rauGHqO9U9SrxxHpOTmXW2jPbExnAwf22ja5tAseY2s5_f1d2CMrBo066MDh5vg3j4SFWZcclo8xEWG0su2--4CZydFxgWFalHS1dfMmTwZXadbvYbrU6TpVYnn9Pb7WVeL_ZsfsZOBQkQ8nxznzhjBxPLnyHaYbE",
           "referer": "https://bongobd.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
       ]
