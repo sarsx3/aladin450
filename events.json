@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 11:04:15 PM BST",
-  "last_updated_iso": "2026-11-05T17:04:15.631Z",
+  "last_updated": "05 Nov 2026, 11:05:18 PM BST",
+  "last_updated_iso": "2026-11-05T17:05:18.901Z",
   "total_events": 270,
   "events": [
     {
@@ -575,7 +575,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "t sports hd",
+          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2333",
