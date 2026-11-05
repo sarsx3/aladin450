@@ -1,6 +1,6 @@
 {
-  "last_updated": "06 Nov 2026, 12:38:19 AM BST",
-  "last_updated_iso": "2026-11-05T18:38:19.030Z",
+  "last_updated": "06 Nov 2026, 12:39:13 AM BST",
+  "last_updated_iso": "2026-11-05T18:39:13.710Z",
   "total_events": 267,
   "events": [
     {
@@ -290,6 +290,20 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4yyn48ljzo/out/v1/29dbc0ae10784ac0991aef8dbadb55d2/cenc.mpd?|drmScheme=clearkey&drmLicense=2981867a69057dec17b299840e94db61:2400cbe82c2ed5583d775088d36253c3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3snkagpqst/out/v1/22c3f3c1e99c4c38b8e543d375d80046/cenc.mpd?|drmScheme=clearkey&drmLicense=604c03f268a308e7aef347a1dbefc0bf:5e86c7e7ef4a3e1484eeda870e71cfad",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
