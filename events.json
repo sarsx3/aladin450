@@ -1,7 +1,7 @@
 {
-  "last_updated": "06 Nov 2026, 12:51:17 AM BST",
-  "last_updated_iso": "2026-11-05T18:51:17.486Z",
-  "total_events": 267,
+  "last_updated": "06 Nov 2026, 12:52:16 AM BST",
+  "last_updated_iso": "2026-11-05T18:52:16.372Z",
+  "total_events": 265,
   "events": [
     {
       "id": "2185",
@@ -838,34 +838,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2329",
-      "date": "06/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Copa del Rey",
-      "team1": "Trival Valderas",
-      "team2": "CD Leganés",
-      "logo1": "https://img.sofascore.com/api/v1/team/167158/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2845/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2330",
-      "date": "06/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Copa del Rey",
-      "team1": "SD Amorebieta",
-      "team2": "UD Logrones",
-      "logo1": "https://img.sofascore.com/api/v1/team/54103/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/37057/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2304",
