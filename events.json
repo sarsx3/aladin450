@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 11:43:15 PM BST",
-  "last_updated_iso": "2026-11-05T17:43:15.280Z",
+  "last_updated": "05 Nov 2026, 11:44:16 PM BST",
+  "last_updated_iso": "2026-11-05T17:44:16.106Z",
   "total_events": 269,
   "events": [
     {
@@ -104,6 +104,13 @@
         {
           "name": "Server - 4",
           "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1793883787-0-0-9bdf28727c08e7d7e6f7bd66653519b2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793943099~acl=/*~id=11851455675667223153211153093920~hmac=567ba224b4eb2b86d7ddbe67eeabac2927cbde6404d31b4850cbddb6178df264",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
