@@ -1,7 +1,7 @@
 {
-  "last_updated": "06 Nov 2026, 12:16:16 AM BST",
-  "last_updated_iso": "2026-11-05T18:16:16.982Z",
-  "total_events": 269,
+  "last_updated": "06 Nov 2026, 12:17:13 AM BST",
+  "last_updated_iso": "2026-11-05T18:17:13.961Z",
+  "total_events": 267,
   "events": [
     {
       "id": "2185",
@@ -1060,34 +1060,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2326",
-      "date": "06/11/2026",
-      "time": "8:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Fateh",
-      "team2": "Al Riyadh",
-      "logo1": "https://img.sofascore.com/api/v1/team/56023/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/168088/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2327",
-      "date": "06/11/2026",
-      "time": "8:55 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Hazm",
-      "team2": "Al Nassr",
-      "logo1": "https://img.sofascore.com/api/v1/team/168086/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/23400/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
       "streams": []
