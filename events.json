@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 04:16:18 PM BST",
-  "last_updated_iso": "2026-11-05T10:16:18.065Z",
+  "last_updated": "05 Nov 2026, 04:17:15 PM BST",
+  "last_updated_iso": "2026-11-05T10:17:15.894Z",
   "total_events": 296,
   "events": [
     {
@@ -254,6 +254,13 @@
         {
           "name": "Server - 3",
           "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c8d5416ab8b180d0a4934b9be8374de7&txTime=6aec9e6b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
