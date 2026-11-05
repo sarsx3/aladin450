@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 02:39:12 PM BST",
-  "last_updated_iso": "2026-11-05T08:39:12.530Z",
+  "last_updated": "05 Nov 2026, 02:40:22 PM BST",
+  "last_updated_iso": "2026-11-05T08:40:22.425Z",
   "total_events": 296,
   "events": [
     {
@@ -133,6 +133,13 @@
         {
           "name": "Server - 2",
           "url": "https://livetv.shamon-cable.net:8443/Star-select-2/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SportsHype live",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-1/_nc_sr_t-4/v/rASfDKj5u0Q2HyR6Wx2nZOpWN_KLi14yxAUQC6Dnjs7ZcUQ/_nc_ohc--AW-oVlXzXoQ7kNvwF6s2OT/live-dash/dash-abr-ibr-audio/122145863955195818.mpd?_nc_eui2=AeEa6b6uwrEOj7hWDdnQO8T5TxBW-VCQq-FPEFb5UJCr4biStptYLc5AOrpSC9NpxbsM_UlcU992vxFmJ76AKDYv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyN-WIT0LrFpCLdJdUK1oQABRv7Ynia8nqoYj8uHyVwg&oe=6AEE0FB5",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
