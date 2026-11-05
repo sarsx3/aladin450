@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 11:14:14 PM BST",
-  "last_updated_iso": "2026-11-05T17:14:14.868Z",
+  "last_updated": "05 Nov 2026, 11:15:30 PM BST",
+  "last_updated_iso": "2026-11-05T17:15:30.688Z",
   "total_events": 270,
   "events": [
     {
@@ -246,7 +246,36 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1793890507-0-0-49138b27524148813a164ff12e4ecb1b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.zktsva.app/live/741294.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2193",
