@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 10:29:14 PM BST",
-  "last_updated_iso": "2026-11-05T16:29:14.564Z",
+  "last_updated": "05 Nov 2026, 10:30:28 PM BST",
+  "last_updated_iso": "2026-11-05T16:30:28.891Z",
   "total_events": 271,
   "events": [
     {
@@ -97,6 +97,13 @@
           "name": "SERVER - 720P",
           "url": "https://prod-cdn01-live.toffeelive.com/live/SAFF-2026-4/1/master_1800.m3u8?hdntl=Expires=1793981189~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AX9h6jIHMk-IBybaw6fs62MN-M5N7DfaXBkEi0jbHlJZgVfjk4iClnt86ojip3_HlTZXGOjRLoaiVgIxkqxS45h8WVAM&nocache=1793894798679",
           "referer": "https://toffeelive.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server - 1",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+          "referer": "https://bongobd.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "drm": ""
         }
