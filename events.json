@@ -1,7 +1,7 @@
 {
-  "last_updated": "05 Nov 2026, 10:18:15 PM BST",
-  "last_updated_iso": "2026-11-05T16:18:15.123Z",
-  "total_events": 280,
+  "last_updated": "05 Nov 2026, 10:19:14 PM BST",
+  "last_updated_iso": "2026-11-05T16:19:14.075Z",
+  "total_events": 278,
   "events": [
     {
       "id": "2257",
@@ -131,20 +131,6 @@
       "streams": []
     },
     {
-      "id": "2221",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al-Kholood",
-      "team2": "Al Khaleej",
-      "logo1": "https://img.sofascore.com/api/v1/team/269199/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/167228/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2222",
       "date": "05/11/2026",
       "time": "11:00 PM",
@@ -195,20 +181,6 @@
       "team2": "Al Hilal",
       "logo1": "https://img.sofascore.com/api/v1/team/34318/image",
       "logo2": "https://img.sofascore.com/api/v1/team/21895/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2226",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Abha Club",
-      "team2": "Al Shabab",
-      "logo1": "https://img.sofascore.com/api/v1/team/168090/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34313/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
