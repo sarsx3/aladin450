@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 11:06:19 PM BST",
-  "last_updated_iso": "2026-11-05T17:06:19.060Z",
+  "last_updated": "05 Nov 2026, 11:07:14 PM BST",
+  "last_updated_iso": "2026-11-05T17:07:14.014Z",
   "total_events": 270,
   "events": [
     {
@@ -15,7 +15,15 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2186",
