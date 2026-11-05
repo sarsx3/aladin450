@@ -1,7 +1,7 @@
 {
-  "last_updated": "05 Nov 2026, 10:19:14 PM BST",
-  "last_updated_iso": "2026-11-05T16:19:14.075Z",
-  "total_events": 278,
+  "last_updated": "05 Nov 2026, 10:20:22 PM BST",
+  "last_updated_iso": "2026-11-05T16:20:22.925Z",
+  "total_events": 277,
   "events": [
     {
       "id": "2257",
@@ -101,20 +101,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2219",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Qadisiya",
-      "team2": "Al-Fayha FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/56027/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/168094/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2220",
