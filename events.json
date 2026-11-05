@@ -1,6 +1,6 @@
 {
-  "last_updated": "06 Nov 2026, 12:40:25 AM BST",
-  "last_updated_iso": "2026-11-05T18:40:25.395Z",
+  "last_updated": "06 Nov 2026, 12:41:14 AM BST",
+  "last_updated_iso": "2026-11-05T18:41:14.120Z",
   "total_events": 267,
   "events": [
     {
@@ -510,6 +510,20 @@
         {
           "name": "sonyliv - (bd)",
           "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2005444/footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xfueirxvtf/out/v1/8ea33ebd12a745339a2b65f8c25fcfec/cenc.mpd?|drmScheme=clearkey&drmLicense=06050120989b4c3d1502f6fd7509a405:c968ad7ed5be43a1e0dc0e32986f89f1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z6j0scbkoq/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd?|drmScheme=clearkey&drmLicense=da3ea3169aa7d833cde43d432f40e951:533b70550ed58f1ba55a71d5eb4b8d52",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
