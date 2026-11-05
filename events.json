@@ -1,6 +1,6 @@
 {
-  "last_updated": "06 Nov 2026, 12:36:16 AM BST",
-  "last_updated_iso": "2026-11-05T18:36:16.313Z",
+  "last_updated": "06 Nov 2026, 12:37:14 AM BST",
+  "last_updated_iso": "2026-11-05T18:37:14.130Z",
   "total_events": 267,
   "events": [
     {
@@ -111,6 +111,27 @@
         {
           "name": "sonyliv - (bd)",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793943099~acl=/*~id=11851455675667223153211153093920~hmac=567ba224b4eb2b86d7ddbe67eeabac2927cbde6404d31b4850cbddb6178df264",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tkzhoqblsr/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd?|drmScheme=clearkey&drmLicense=0edb8672085f6eebca8d9ad0bc6c0ae2:fbfb8f246782de88232996ccc0661f35",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjwox7cwln/out/v1/5fba5e319b6145be89f1aeed9809da67/cenc.mpd?|drmScheme=clearkey&drmLicense=32f0e8f183ded0094d5604e0ace91c7d:5a7b1b43bc5f22a0b6cebfbb37061d0d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY SPORT FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cckuiwhetl/out/v1/f1ada3a4d6464aa986a0167121f4ebc6/cenc.mpd?|drmScheme=clearkey&drmLicense=adcea552d3c8a4b0b0dbdca678515855:2e31fe3f9a810b2d2ad67e6b5bca051e",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
