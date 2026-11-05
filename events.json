@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 09:34:14 AM BST",
-  "last_updated_iso": "2026-11-05T03:34:14.666Z",
+  "last_updated": "05 Nov 2026, 09:35:16 AM BST",
+  "last_updated_iso": "2026-11-05T03:35:16.769Z",
   "total_events": 282,
   "events": [
     {
@@ -27,6 +27,13 @@
           "name": "t sports hd",
           "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8, https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
