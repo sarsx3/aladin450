@@ -1,7 +1,7 @@
 {
-  "last_updated": "05 Nov 2026, 10:25:19 PM BST",
-  "last_updated_iso": "2026-11-05T16:25:19.914Z",
-  "total_events": 277,
+  "last_updated": "05 Nov 2026, 10:26:19 PM BST",
+  "last_updated_iso": "2026-11-05T16:26:19.720Z",
+  "total_events": 271,
   "events": [
     {
       "id": "2257",
@@ -101,90 +101,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2220",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Faysaly",
-      "team2": "Diriyah",
-      "logo1": "https://img.sofascore.com/api/v1/team/56035/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2222",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ittihad",
-      "team2": "NEOM SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/34315/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/530631/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2223",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Hazm",
-      "team2": "Al Nassr",
-      "logo1": "https://img.sofascore.com/api/v1/team/168086/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/23400/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2224",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Fateh",
-      "team2": "Al Riyadh",
-      "logo1": "https://img.sofascore.com/api/v1/team/56023/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/168088/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2225",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ettifaq",
-      "team2": "Al Hilal",
-      "logo1": "https://img.sofascore.com/api/v1/team/34318/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/21895/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2227",
-      "date": "05/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ahli",
-      "team2": "Al Taawoun",
-      "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/56021/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2185",
