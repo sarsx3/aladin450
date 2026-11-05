@@ -1,7 +1,7 @@
 {
-  "last_updated": "05 Nov 2026, 12:15:22 PM BST",
-  "last_updated_iso": "2026-11-05T06:15:22.382Z",
-  "total_events": 282,
+  "last_updated": "05 Nov 2026, 12:16:14 PM BST",
+  "last_updated_iso": "2026-11-05T06:16:14.555Z",
+  "total_events": 297,
   "events": [
     {
       "id": "2228",
@@ -1050,6 +1050,34 @@
       "streams": []
     },
     {
+      "id": "2542",
+      "date": "06/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 3rd Youth ODI",
+      "team1": "Pakistan U19",
+      "team2": "United Arab Emirates U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213104/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/300266/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2543",
+      "date": "06/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 4th Youth ODI",
+      "team1": "India U19",
+      "team2": "Nepal U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213112/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213113/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2334",
       "date": "06/11/2026",
       "time": "2:10 PM",
@@ -1369,6 +1397,34 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2544",
+      "date": "07/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 5th Youth ODI",
+      "team1": "Afghanistan U19",
+      "team2": "Malaysia U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213103/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/505670/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2545",
+      "date": "07/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 6th Youth ODI",
+      "team1": "Sri Lanka U19",
+      "team2": "Bangladesh U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213106/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213099/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
       "streams": []
     },
     {
@@ -2800,6 +2856,34 @@
       "streams": []
     },
     {
+      "id": "2546",
+      "date": "08/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 7th Youth ODI",
+      "team1": "United Arab Emirates U19",
+      "team2": "Nepal U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/300266/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213113/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2547",
+      "date": "08/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 8th Youth ODI",
+      "team1": "India U19",
+      "team2": "Pakistan U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213112/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213104/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2489",
       "date": "08/11/2026",
       "time": "12:10 PM",
@@ -3570,6 +3654,34 @@
       "streams": []
     },
     {
+      "id": "2548",
+      "date": "09/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 9th Youth ODI",
+      "team1": "Bangladesh U19",
+      "team2": "Malaysia U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213099/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/505670/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2549",
+      "date": "09/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 10th Youth ODI",
+      "team1": "Sri Lanka U19",
+      "team2": "Afghanistan U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213106/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213103/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2506",
       "date": "09/11/2026",
       "time": "12:45 PM",
@@ -3749,6 +3861,34 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2550",
+      "date": "10/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 11th Youth ODI",
+      "team1": "India U19",
+      "team2": "United Arab Emirates U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213112/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/300266/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2551",
+      "date": "10/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 12th Youth ODI",
+      "team1": "Pakistan U19",
+      "team2": "Nepal U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213104/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213113/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
       "streams": []
     },
     {
@@ -4057,6 +4197,76 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
       "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2540",
+      "date": "05/11/2026",
+      "time": "Live",
+      "league": "Cricket | U19 Asia Cup 2026 - 1st Youth ODI",
+      "team1": "Sri Lanka U19",
+      "team2": "Malaysia U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213106/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/505670/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2541",
+      "date": "05/11/2026",
+      "time": "Live",
+      "league": "Cricket | U19 Asia Cup 2026 - 2nd Youth ODI",
+      "team1": "Bangladesh U19",
+      "team2": "Afghanistan U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213099/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213103/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2552",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
+      "team1": "1st in Group A",
+      "team2": "2nd in Group B",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2553",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
+      "team1": "1st in Group B",
+      "team2": "2nd in Group A",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2554",
+      "date": "14/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - Final",
+      "team1": "Team 1 (TBC)",
+      "team2": "Team 2 (TBC)",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "unpublic",
       "streams": []
     }
   ]
