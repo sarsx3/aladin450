@@ -1,7 +1,7 @@
 {
-  "last_updated": "05 Nov 2026, 11:23:17 PM BST",
-  "last_updated_iso": "2026-11-05T17:23:17.251Z",
-  "total_events": 270,
+  "last_updated": "05 Nov 2026, 11:24:16 PM BST",
+  "last_updated_iso": "2026-11-05T17:24:16.167Z",
+  "total_events": 269,
   "events": [
     {
       "id": "2185",
@@ -276,20 +276,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2193",
-      "date": "05/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Europa League",
-      "team1": "Rennes",
-      "team2": "Olympiacos",
-      "logo1": "https://img.sofascore.com/api/v1/team/1658/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3245/image",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2210",
