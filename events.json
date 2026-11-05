@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 05:11:16 PM BST",
-  "last_updated_iso": "2026-11-05T11:11:16.659Z",
+  "last_updated": "05 Nov 2026, 05:12:24 PM BST",
+  "last_updated_iso": "2026-11-05T11:12:24.426Z",
   "total_events": 293,
   "events": [
     {
@@ -331,7 +331,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sonyliv - (eng)",
+          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119931/cricodi_0511/ENG/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - (hin)",
+          "url": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119921/cricodi_0511/HIN/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Hd quality",
+          "url": "https://live2.jorvakstreamcache.com/live/channel9.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2199",
