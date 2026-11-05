@@ -1,8 +1,44 @@
 {
-  "last_updated": "05 Nov 2026, 04:57:12 PM BST",
-  "last_updated_iso": "2026-11-05T10:57:12.284Z",
+  "last_updated": "05 Nov 2026, 04:58:15 PM BST",
+  "last_updated_iso": "2026-11-05T10:58:15.015Z",
   "total_events": 294,
   "events": [
+    {
+      "id": "2541",
+      "date": "05/11/2026",
+      "time": "10:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 2nd Youth ODI",
+      "team1": "Bangladesh U19",
+      "team2": "Afghanistan U19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213099/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213103/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YTE2ZjQ4OTBlMWE5YTk1ZDAwOWY2NTdmOWQ2ODM3YmI6ZTZlNjZjODI3YzhhOGM3ZDIxMmRiMjVlZTQ5NjUyZTI="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YTE2ZjQ4OTBlMWE5YTk1ZDAwOWY2NTdmOWQ2ODM3YmI6ZTZlNjZjODI3YzhhOGM3ZDIxMmRiMjVlZTQ5NjUyZTI="
+        },
+        {
+          "name": "SonyLiv PRIME FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/asrhszykzd/out/v1/dc6cc8173af4474e8dcd393adb429278/cenc.mpd?|drmScheme=clearkey&drmLicense=74ea2277355a796a7b81fc5ae0850b8b:9e5fc3413f079d3624873bb524453396",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
+    },
     {
       "id": "2231",
       "date": "05/11/2026",
@@ -270,13 +306,6 @@
         {
           "name": "Server - 1",
           "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-prn-vll/_nc_cat-1/_nc_sr_t-4/v/rASfDKj5u0Q2HyR6Wx2nZOpWN_KLi14yxAUQC6Dnjs7ZcUQ/_nc_ohc--AW-oVlXzXoQ7kNvwF6s2OT/live-dash/dash-abr-ibr-audio/122145863955195818.mpd?_nc_eui2=AeEa6b6uwrEOj7hWDdnQO8T5TxBW-VCQq-FPEFb5UJCr4biStptYLc5AOrpSC9NpxbsM_UlcU992vxFmJ76AKDYv&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQQyN-WIT0LrFpCLdJdUK1oQABRv7Ynia8nqoYj8uHyVwg&oe=6AEE0FB5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -4261,42 +4290,6 @@
         {
           "name": "SonyLiv PRIME FHD",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd?|drmScheme=clearkey&drmLicense=5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2541",
-      "date": "05/11/2026",
-      "time": "Live",
-      "league": "Cricket | U19 Asia Cup 2026 - 2nd Youth ODI",
-      "team1": "Bangladesh U19",
-      "team2": "Afghanistan U19",
-      "logo1": "https://img.sofascore.com/api/v1/team/213099/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213103/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTE2ZjQ4OTBlMWE5YTk1ZDAwOWY2NTdmOWQ2ODM3YmI6ZTZlNjZjODI3YzhhOGM3ZDIxMmRiMjVlZTQ5NjUyZTI="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YTE2ZjQ4OTBlMWE5YTk1ZDAwOWY2NTdmOWQ2ODM3YmI6ZTZlNjZjODI3YzhhOGM3ZDIxMmRiMjVlZTQ5NjUyZTI="
-        },
-        {
-          "name": "SonyLiv PRIME FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/asrhszykzd/out/v1/dc6cc8173af4474e8dcd393adb429278/cenc.mpd?|drmScheme=clearkey&drmLicense=74ea2277355a796a7b81fc5ae0850b8b:9e5fc3413f079d3624873bb524453396",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
