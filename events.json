@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 11:37:17 PM BST",
-  "last_updated_iso": "2026-11-05T17:37:17.816Z",
+  "last_updated": "05 Nov 2026, 11:38:15 PM BST",
+  "last_updated_iso": "2026-11-05T17:38:15.496Z",
   "total_events": 269,
   "events": [
     {
@@ -359,6 +359,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "sonyliv - (bd)",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2005444/footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -575,6 +582,13 @@
           "name": "Low quality1",
           "url": "http://193.47.62.41/hls/KUUU.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - (bd)",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb6c9prod-PlaybackConfig/2018457/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
