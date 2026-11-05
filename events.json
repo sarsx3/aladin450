@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 03:45:23 PM BST",
-  "last_updated_iso": "2026-11-05T09:45:23.225Z",
+  "last_updated": "05 Nov 2026, 03:46:15 PM BST",
+  "last_updated_iso": "2026-11-05T09:46:15.439Z",
   "total_events": 296,
   "events": [
     {
@@ -247,6 +247,13 @@
         {
           "name": "Server - 2",
           "url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c8d5416ab8b180d0a4934b9be8374de7&txTime=6aec9e6b",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
