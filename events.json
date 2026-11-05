@@ -1,6 +1,6 @@
 {
-  "last_updated": "06 Nov 2026, 12:39:13 AM BST",
-  "last_updated_iso": "2026-11-05T18:39:13.710Z",
+  "last_updated": "06 Nov 2026, 12:40:25 AM BST",
+  "last_updated_iso": "2026-11-05T18:40:25.395Z",
   "total_events": 267,
   "events": [
     {
@@ -396,6 +396,27 @@
         {
           "name": "sonyliv - (bd)",
           "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120301/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6mo5bpd5n/out/v1/a4d434eece594688b12804ab3e1aea33/cenc.mpd?|drmScheme=clearkey&drmLicense=cd461b580b23b4c19ccbd9f3ceb9b617:a6561abc7565f87ee5251f7b2bb5b0b8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i8gxp4x0zo/out/v1/5b47785e66814ea59c06686245b2db19/cenc.mpd?|drmScheme=clearkey&drmLicense=6c68cf9c54f358cbc080ce329b786719:97eeda31acf438172e4c1b2f6d721330",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY SPORT FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1kw2e0yi13/out/v1/575f67f6b552422dba30742c7f965bcb/cenc.mpd?|drmScheme=clearkey&drmLicense=8cd50695fb14e27dfd8908637f1da467:2bbe80619ec5e303ef1b79781bf3b757",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
