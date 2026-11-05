@@ -1,7 +1,7 @@
 {
-  "last_updated": "05 Nov 2026, 08:08:31 PM BST",
-  "last_updated_iso": "2026-11-05T14:08:31.776Z",
-  "total_events": 284,
+  "last_updated": "05 Nov 2026, 08:09:13 PM BST",
+  "last_updated_iso": "2026-11-05T14:09:13.110Z",
+  "total_events": 283,
   "events": [
     {
       "id": "2199",
@@ -117,20 +117,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2239",
-      "date": "05/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | Indian Super League",
-      "team1": "Mohun Bagan",
-      "team2": "Odisha",
-      "logo1": "https://img.sofascore.com/api/v1/team/370834/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/174592/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2257",
