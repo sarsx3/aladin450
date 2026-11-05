@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 05:56:15 PM BST",
-  "last_updated_iso": "2026-11-05T11:56:15.898Z",
+  "last_updated": "05 Nov 2026, 05:57:15 PM BST",
+  "last_updated_iso": "2026-11-05T11:57:15.206Z",
   "total_events": 293,
   "events": [
     {
@@ -423,7 +423,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "t sports hd",
+          "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2219",
