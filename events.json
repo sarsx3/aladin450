@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 12:47:12 PM BST",
-  "last_updated_iso": "2026-11-05T06:47:12.453Z",
+  "last_updated": "05 Nov 2026, 12:48:14 PM BST",
+  "last_updated_iso": "2026-11-05T06:48:14.293Z",
   "total_events": 297,
   "events": [
     {
@@ -165,7 +165,22 @@
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2230",
