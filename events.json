@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 Nov 2026, 08:50:24 PM BST",
-  "last_updated_iso": "2026-11-05T14:50:24.121Z",
+  "last_updated": "05 Nov 2026, 08:51:13 PM BST",
+  "last_updated_iso": "2026-11-05T14:51:13.410Z",
   "total_events": 280,
   "events": [
     {
@@ -75,6 +75,13 @@
         {
           "name": "SERVER - 720P",
           "url": "https://live-sg-aws.bongobd.com/hls/v2.VRH_BWSkXLF-tEqej5GunA/1793890727/bongoiptv/SAFFmatch02_mid/chunks.m3u8",
+          "referer": "https://bongobd.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Global Server - 1",
+          "url": "https://scontent.fdac27-1.fna.fbcdn.net/hvideo-pnb-prn/_nc_cat-1/_nc_sr_t-4/v/rAScfq8t6mC_j7wHh2cDn6No2I3jl3rwsPzxKTfjtF50fCg/_nc_ohc-TU9kmxvAPfkQ7kNvwEepnN2/live-dash/dash-abr-ibr-audio/122119554417410089.mpd?_nc_eui2=AeFwxCmSuBndbA8__RTmgpcLsspCH6LS-XKyykIfotL5clADOUPei1mtn4NrHDDDfZrpwYM9cJgy3B0YtYJNvIWf&_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPA&replica=1&sc_t=1&oh=00_AQTFyMqd3pxQB-ibvKxJMVLk8LJXZBOxoX1_tuaBWePTyw&oe=6AEE6FE2",
           "referer": "https://bongobd.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
           "drm": ""
