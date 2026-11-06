@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 01:45:25 AM BST",
-  "last_updated_iso": "2026-11-06T19:45:25.290Z",
+  "last_updated": "07 Nov 2026, 01:46:15 AM BST",
+  "last_updated_iso": "2026-11-06T19:46:15.763Z",
   "total_events": 365,
   "events": [
     {
@@ -426,6 +426,13 @@
           "name": "Server - 9",
           "url": "https://live2.zktsva.app/live/301238.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - (bd)",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/EPLBONGO1/hls/index.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
