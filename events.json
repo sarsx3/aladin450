@@ -1,7 +1,7 @@
 {
-  "last_updated": "06 Nov 2026, 11:12:14 PM BST",
-  "last_updated_iso": "2026-11-06T17:12:14.785Z",
-  "total_events": 222,
+  "last_updated": "06 Nov 2026, 11:13:14 PM BST",
+  "last_updated_iso": "2026-11-06T17:13:14.057Z",
+  "total_events": 221,
   "events": [
     {
       "id": "2332",
@@ -113,20 +113,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2595/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2551/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2328",
-      "date": "06/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ittihad",
-      "team2": "NEOM SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/34315/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/530631/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
       "streams": []
