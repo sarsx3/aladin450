@@ -1,7 +1,7 @@
 {
-  "last_updated": "06 Nov 2026, 06:46:14 PM BST",
-  "last_updated_iso": "2026-11-06T12:46:14.618Z",
-  "total_events": 225,
+  "last_updated": "06 Nov 2026, 06:47:15 PM BST",
+  "last_updated_iso": "2026-11-06T12:47:15.927Z",
+  "total_events": 224,
   "events": [
     {
       "id": "2332",
@@ -70,42 +70,6 @@
           "name": "Tapmad - Aq",
           "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
           "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2542",
-      "date": "06/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 3rd Youth ODI",
-      "team1": "Pakistan U19",
-      "team2": "United Arab Emirates U19",
-      "logo1": "https://img.sofascore.com/api/v1/team/213104/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/300266/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MWRjZmFiYzZiNDQxOTA4ZDc4Y2M3MTA2ZTMwZTkwNmY6OGUwODY5MjlmNzk0OTFiOWEyMDc2ZDBkMDRlYjczMTc="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MWRjZmFiYzZiNDQxOTA4ZDc4Y2M3MTA2ZTMwZTkwNmY6OGUwODY5MjlmNzk0OTFiOWEyMDc2ZDBkMDRlYjczMTc="
-        },
-        {
-          "name": "SonyLiv PRIME FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fhmymymkrb/out/v1/63a3f37439d848cf828763d9a3104a61/cenc.mpd?|drmScheme=clearkey&drmLicense=894a711509fd4cd9f746368eb6c5fd38:d77f5b857e3e1f1d53900ed6d586cb78",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
