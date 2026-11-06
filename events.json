@@ -1,6 +1,6 @@
 {
-  "last_updated": "06 Nov 2026, 11:49:12 AM BST",
-  "last_updated_iso": "2026-11-06T05:49:12.425Z",
+  "last_updated": "06 Nov 2026, 11:50:21 AM BST",
+  "last_updated_iso": "2026-11-06T05:50:21.866Z",
   "total_events": 228,
   "events": [
     {
@@ -94,6 +94,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "MWRjZmFiYzZiNDQxOTA4ZDc4Y2M3MTA2ZTMwZTkwNmY6OGUwODY5MjlmNzk0OTFiOWEyMDc2ZDBkMDRlYjczMTc="
+        },
+        {
+          "name": "SonyLiv PRIME FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fhmymymkrb/out/v1/63a3f37439d848cf828763d9a3104a61/cenc.mpd?|drmScheme=clearkey&drmLicense=894a711509fd4cd9f746368eb6c5fd38:d77f5b857e3e1f1d53900ed6d586cb78",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -123,6 +130,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NWQ1MjUyOWI2ZmYxOWVjYTIzMTUwMTMyNDQ1MTNiNjg6YmE1YzdkZmFkMjg3YWFiNTM4NDYzZDlkYTY4MTFhOGM="
+        },
+        {
+          "name": "SonyLiv PRIME FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd?|drmScheme=clearkey&drmLicense=5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
