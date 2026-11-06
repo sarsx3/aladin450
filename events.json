@@ -1,7 +1,7 @@
 {
-  "last_updated": "06 Nov 2026, 09:37:13 PM BST",
-  "last_updated_iso": "2026-11-06T15:37:13.833Z",
-  "total_events": 223,
+  "last_updated": "06 Nov 2026, 09:38:15 PM BST",
+  "last_updated_iso": "2026-11-06T15:38:15.248Z",
+  "total_events": 222,
   "events": [
     {
       "id": "2332",
@@ -133,20 +133,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2676/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2527/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2405",
-      "date": "07/11/2026",
-      "time": "1:30 AM",
-      "league": "Football | LaLiga 2",
-      "team1": "Castellon",
-      "team2": "Eibar",
-      "logo1": "https://img.sofascore.com/api/v1/team/5067/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2839/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
       "streams": []
