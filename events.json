@@ -1,7 +1,7 @@
 {
-  "last_updated": "06 Nov 2026, 04:54:15 PM BST",
-  "last_updated_iso": "2026-11-06T10:54:15.019Z",
-  "total_events": 227,
+  "last_updated": "06 Nov 2026, 04:55:18 PM BST",
+  "last_updated_iso": "2026-11-06T10:55:18.837Z",
+  "total_events": 226,
   "events": [
     {
       "id": "2332",
@@ -381,20 +381,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2415",
-      "date": "07/11/2026",
-      "time": "9:30 AM",
-      "league": "Cricket | BAN vs WI - 2nd Test, Day 3",
-      "team1": "Bangladesh",
-      "team2": "West Indies",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
