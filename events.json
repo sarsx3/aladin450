@@ -1,7 +1,7 @@
 {
-  "last_updated": "06 Nov 2026, 05:40:22 PM BST",
-  "last_updated_iso": "2026-11-06T11:40:22.624Z",
-  "total_events": 226,
+  "last_updated": "06 Nov 2026, 05:41:13 PM BST",
+  "last_updated_iso": "2026-11-06T11:41:13.132Z",
+  "total_events": 225,
   "events": [
     {
       "id": "2332",
@@ -108,42 +108,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2334",
-      "date": "06/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | WBBL 2026 - 12th Match",
-      "team1": "Melbourne Stars Women",
-      "team2": "Sydney Sixers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274883/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eeoqajsbsl/out/v1/836e6b3d718349e7af279aed4d3fdae6/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MmZjYzRkYjBiNTNiZWEwYTI1ZGVmNzE3YzY3Y2ZlNTc6NzFiYTJlOGY1ZWE2Y2Q2YWQ5OTUyMDZiMzAwZjA1MWE="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eeoqajsbsl/out/v1/836e6b3d718349e7af279aed4d3fdae6/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MmZjYzRkYjBiNTNiZWEwYTI1ZGVmNzE3YzY3Y2ZlNTc6NzFiYTJlOGY1ZWE2Y2Q2YWQ5OTUyMDZiMzAwZjA1MWE="
         }
       ]
     },
