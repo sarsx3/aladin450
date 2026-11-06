@@ -1,7 +1,7 @@
 {
-  "last_updated": "06 Nov 2026, 04:53:13 PM BST",
-  "last_updated_iso": "2026-11-06T10:53:13.390Z",
-  "total_events": 228,
+  "last_updated": "06 Nov 2026, 04:54:15 PM BST",
+  "last_updated_iso": "2026-11-06T10:54:15.019Z",
+  "total_events": 227,
   "events": [
     {
       "id": "2332",
@@ -105,42 +105,6 @@
         {
           "name": "SonyLiv PRIME FHD",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fhmymymkrb/out/v1/63a3f37439d848cf828763d9a3104a61/cenc.mpd?|drmScheme=clearkey&drmLicense=894a711509fd4cd9f746368eb6c5fd38:d77f5b857e3e1f1d53900ed6d586cb78",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2543",
-      "date": "06/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 4th Youth ODI",
-      "team1": "India U19",
-      "team2": "Nepal U19",
-      "logo1": "https://img.sofascore.com/api/v1/team/213112/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213113/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qvpw810gz/out/v1/e4b320f9ef924fe59188752dcf9c7fbf/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NWQ1MjUyOWI2ZmYxOWVjYTIzMTUwMTMyNDQ1MTNiNjg6YmE1YzdkZmFkMjg3YWFiNTM4NDYzZDlkYTY4MTFhOGM="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qvpw810gz/out/v1/e4b320f9ef924fe59188752dcf9c7fbf/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NWQ1MjUyOWI2ZmYxOWVjYTIzMTUwMTMyNDQ1MTNiNjg6YmE1YzdkZmFkMjg3YWFiNTM4NDYzZDlkYTY4MTFhOGM="
-        },
-        {
-          "name": "SonyLiv PRIME FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd?|drmScheme=clearkey&drmLicense=5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
