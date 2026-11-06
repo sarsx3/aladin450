@@ -1,7 +1,7 @@
 {
-  "last_updated": "07 Nov 2026, 01:54:17 AM BST",
-  "last_updated_iso": "2026-11-06T19:54:17.407Z",
-  "total_events": 365,
+  "last_updated": "07 Nov 2026, 01:55:18 AM BST",
+  "last_updated_iso": "2026-11-06T19:55:18.820Z",
+  "total_events": 364,
   "events": [
     {
       "id": "2332",
@@ -62,28 +62,6 @@
         {
           "name": "low quality",
           "url": "http://193.47.62.50/hls/LSSSAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2341",
-      "date": "07/11/2026",
-      "time": "1:30 AM",
-      "league": "Football | FA Cup",
-      "team1": "Bristol Rovers",
-      "team2": "Cambridge",
-      "logo1": "https://img.sofascore.com/api/v1/team/76/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/63/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v3/Competitions/light/7856",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.41/hls/zoooAAAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -3451,6 +3429,20 @@
       "streams": []
     },
     {
+      "id": "2569",
+      "date": "12/11/2026",
+      "time": "10:30 AM",
+      "league": "Cricket | PAK vs SL - 1st Test, Day 4",
+      "team1": "Pakistan",
+      "team2": "Sri Lanka",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2552",
       "date": "12/11/2026",
       "time": "11:00 AM",
@@ -3502,20 +3494,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": []
-    },
-    {
-      "id": "2569",
-      "date": "12/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | PAK vs SL - 1st Test, Day 4",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
