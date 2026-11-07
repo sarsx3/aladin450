@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 11:45:23 PM BST",
-  "last_updated_iso": "2026-11-07T17:45:23.611Z",
+  "last_updated": "07 Nov 2026, 11:46:14 PM BST",
+  "last_updated_iso": "2026-11-07T17:46:14.245Z",
   "total_events": 287,
   "events": [
     {
@@ -431,6 +431,13 @@
         {
           "name": "Server - 5",
           "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794071378-0-0-d708a9e24a99e257335c92c6066e3e33",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/e9240041-7e57-4242-b245-b7b4b0ac8ab6.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
