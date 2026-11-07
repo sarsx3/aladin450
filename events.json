@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 07:11:12 PM BST",
-  "last_updated_iso": "2026-11-07T13:11:12.236Z",
+  "last_updated": "07 Nov 2026, 07:12:17 PM BST",
+  "last_updated_iso": "2026-11-07T13:12:17.424Z",
   "total_events": 348,
   "events": [
     {
@@ -2832,6 +2832,13 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://play.aarray.cn/rrty/sd-1-4563676_gqzm.m3u8?auth_key=1794057934-0-0-dd9d42e2b47eca8f8fb2f8122622a859",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -2852,6 +2859,13 @@
           "name": "Server - 1",
           "url": "http://193.47.62.44/hls/YOOO.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://play.aarray.cn/rrty/sd-1-4563673_gqzm.m3u8?auth_key=1794057956-0-0-1093c15255686360131244bba87f67ad",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -2943,6 +2957,13 @@
         {
           "name": "CazéTV FHD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/6afad128-bc12-4050-9106-f521241144a6.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
