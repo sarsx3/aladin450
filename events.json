@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 07:09:15 PM BST",
-  "last_updated_iso": "2026-11-07T13:09:15.217Z",
+  "last_updated": "07 Nov 2026, 07:10:21 PM BST",
+  "last_updated_iso": "2026-11-07T13:10:21.400Z",
   "total_events": 348,
   "events": [
     {
@@ -2936,6 +2936,13 @@
         {
           "name": "Server - 5",
           "url": "https://live2.zktsva.app/live/303098.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "CazéTV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
