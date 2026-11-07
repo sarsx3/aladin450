@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 02:06:15 AM BST",
-  "last_updated_iso": "2026-11-07T20:06:15.297Z",
+  "last_updated": "08 Nov 2026, 02:07:15 AM BST",
+  "last_updated_iso": "2026-11-07T20:07:15.680Z",
   "total_events": 273,
   "events": [
     {
@@ -176,6 +176,13 @@
           "name": "Server - 7",
           "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794079496-0-0-6928beae99f27ecda14cfa05675a6ebf",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "beIN Español FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd??|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
