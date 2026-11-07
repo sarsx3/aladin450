@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 11:54:15 PM BST",
-  "last_updated_iso": "2026-11-07T17:54:15.118Z",
+  "last_updated": "07 Nov 2026, 11:55:18 PM BST",
+  "last_updated_iso": "2026-11-07T17:55:18.233Z",
   "total_events": 287,
   "events": [
     {
@@ -375,6 +375,34 @@
           "name": "hd quality",
           "url": "https://www.rtmpcdn.com/live/cebea922-44a5-4cd8-89bb-8faeff015724.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001794072207-0-0-597247b05c4228d7905f8af7694ab595",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=6931e40abbcd127c4ed0f15a4f98fedb&wsABSTime=1794115407",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794072207-0-0-12af29ad051a917f3c15be06106d3860",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 9",
+          "url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=7ce733cae4618f2f62a02359d2db7e77&wsABSTime=1794115408",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
