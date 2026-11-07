@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 08:11:15 AM BST",
-  "last_updated_iso": "2026-11-07T02:11:15.919Z",
+  "last_updated": "07 Nov 2026, 08:12:14 AM BST",
+  "last_updated_iso": "2026-11-07T02:12:14.577Z",
   "total_events": 354,
   "events": [
     {
@@ -79,6 +79,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7zkj4db2yw/out/v1/77c224612a724b49a3eeef13c6d8de9a/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NTcxOGY0MGE0OTAxNTI2YTU5NzAxMmNjMjQyYjRjNGE6NmQ0N2UxOGEyNjI4N2ZhMmE0ZTY0MTkwMWYwN2U1MGY="
         }
       ]
     },
