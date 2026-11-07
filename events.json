@@ -1,7 +1,7 @@
 {
-  "last_updated": "07 Nov 2026, 10:43:12 PM BST",
-  "last_updated_iso": "2026-11-07T16:43:12.524Z",
-  "total_events": 303,
+  "last_updated": "07 Nov 2026, 10:44:14 PM BST",
+  "last_updated_iso": "2026-11-07T16:44:14.641Z",
+  "total_events": 302,
   "events": [
     {
       "id": "2332",
@@ -66,20 +66,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2399",
-      "date": "07/11/2026",
-      "time": "8:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ettifaq",
-      "team2": "Al Hilal",
-      "logo1": "https://img.sofascore.com/api/v1/team/34318/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/21895/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2338",
@@ -2853,6 +2839,20 @@
       "streams": []
     },
     {
+      "id": "2561",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Benfica (W)",
+      "team2": "Austria Wien (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2569",
       "date": "12/11/2026",
       "time": "10:30 AM",
@@ -2920,20 +2920,6 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2561",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Benfica (W)",
-      "team2": "Austria Wien (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "unpublic",
       "streams": []
     },
     {
