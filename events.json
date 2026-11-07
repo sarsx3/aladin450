@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 11:44:17 PM BST",
-  "last_updated_iso": "2026-11-07T17:44:17.892Z",
+  "last_updated": "07 Nov 2026, 11:45:23 PM BST",
+  "last_updated_iso": "2026-11-07T17:45:23.611Z",
   "total_events": 287,
   "events": [
     {
@@ -250,6 +250,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/8b98fab6-6519-4c32-a814-f722da7fd8e7.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -360,6 +367,13 @@
         {
           "name": "Server - 10",
           "url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=4fc071f0549d8f70d9266eac24288385&wsABSTime=1794114398",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/cebea922-44a5-4cd8-89bb-8faeff015724.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -488,6 +502,13 @@
         {
           "name": "Server - 5",
           "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001794071285-0-0-106a77c06f54b4f07f9cb2265091aab0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/e7798546-8e9b-4414-ae78-74f9711eec74.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
