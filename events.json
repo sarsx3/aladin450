@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 02:05:17 AM BST",
-  "last_updated_iso": "2026-11-07T20:05:17.808Z",
+  "last_updated": "08 Nov 2026, 02:06:15 AM BST",
+  "last_updated_iso": "2026-11-07T20:06:15.297Z",
   "total_events": 273,
   "events": [
     {
@@ -254,6 +254,20 @@
           "name": "Server - 6",
           "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001794075573-0-0-56f923f52733016ec3e08170ecce88cf",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/goikeune5k/out/v1/a0c12026e2684d55b4d6f2222f433973/cenc.mpd?|drmScheme=clearkey&drmLicense=c382483f8a379efb35b6277b17c6c347:f1942ce8cee7e5818800955ccb94aaca",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8vgigtbr2m/out/v1/5bcac64e2a9341a790a0299366963139/cenc.mpd?|drmScheme=clearkey&drmLicense=cd6ac6ee6298e4bb0da75673d2171bca:0c5e1f01ffb1a4134a1f2050d3e5be4f",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
