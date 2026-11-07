@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 10:42:14 PM BST",
-  "last_updated_iso": "2026-11-07T16:42:14.686Z",
+  "last_updated": "07 Nov 2026, 10:43:12 PM BST",
+  "last_updated_iso": "2026-11-07T16:43:12.524Z",
   "total_events": 303,
   "events": [
     {
@@ -876,6 +876,48 @@
         {
           "name": "SPORT1 CZ FHD",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - (bd)",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/seriea_03/hls/PKBD3.m3u8",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1794056767-0-0-3073309aa04739e6574391589b6ca049",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794056767-0-0-c0e119e532f9de38bc378afff9edc7e8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1794056767-0-0-118921b1ce39dcd3e4aee59538d91c02",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
