@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 02:46:14 AM BST",
-  "last_updated_iso": "2026-11-07T20:46:14.849Z",
+  "last_updated": "08 Nov 2026, 02:47:19 AM BST",
+  "last_updated_iso": "2026-11-07T20:47:19.197Z",
   "total_events": 273,
   "events": [
     {
@@ -743,6 +743,27 @@
         {
           "name": "Server - 2",
           "url": "https://live2.jorvakstreamcache.com/live/channel24.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.zktsva.app/live/796315.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794062827-0-0-dc8d09b7da4c535f7fbb5e572c625773",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794069487-0-0-380d328466d899560bd6368637d6c85e",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
