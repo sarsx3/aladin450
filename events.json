@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 03:20:22 AM BST",
-  "last_updated_iso": "2026-11-07T21:20:22.237Z",
+  "last_updated": "08 Nov 2026, 03:21:12 AM BST",
+  "last_updated_iso": "2026-11-07T21:21:12.186Z",
   "total_events": 273,
   "events": [
     {
@@ -764,6 +764,20 @@
         {
           "name": "Server - 5",
           "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1794069487-0-0-380d328466d899560bd6368637d6c85e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://www.rtmpcdn.com/live/99994e1d-5e85-4d48-9600-1831891db4e3.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "http://193.47.62.55/hls/KIKIKIAAAAQQ.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
