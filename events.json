@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 12:09:13 AM BST",
-  "last_updated_iso": "2026-11-07T18:09:13.493Z",
+  "last_updated": "08 Nov 2026, 12:10:21 AM BST",
+  "last_updated_iso": "2026-11-07T18:10:21.446Z",
   "total_events": 287,
   "events": [
     {
@@ -177,6 +177,13 @@
           "name": "Server - 4",
           "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001794071935-0-0-b565d657c7fe1b2bd7ee4d9908a6e7db",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "CazéTV FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd??|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
