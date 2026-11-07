@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 01:48:15 AM BST",
-  "last_updated_iso": "2026-11-07T19:48:15.575Z",
-  "total_events": 278,
+  "last_updated": "08 Nov 2026, 01:49:12 AM BST",
+  "last_updated_iso": "2026-11-07T19:49:12.723Z",
+  "total_events": 277,
   "events": [
     {
       "id": "2332",
@@ -139,42 +139,6 @@
       ]
     },
     {
-      "id": "2395",
-      "date": "07/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | Eredivisie",
-      "team1": "ADO Den Haag",
-      "team2": "Sparta",
-      "logo1": "https://img.sofascore.com/api/v1/team/2966/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2960/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001794071928-0-0-65d78f641cb50cd4760707621ac2c888",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.55/hls/LOOOAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2419",
       "date": "08/11/2026",
       "time": "12:00 AM",
@@ -300,6 +264,62 @@
           "name": "Bein Sports - aq",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1794056887-0-0-c51c545ec627e2e7d8c27a23e7be5ede",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1794056887-0-0-80b4c282851c3831e13aaeb0bd8ff874",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1794056947-0-0-744d17074e0687bbd8378b1bddc07675",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=e5b0cd1ba3de01cac05250102a6e6fa2&txTime=6aef6943",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001794079496-0-0-6928beae99f27ecda14cfa05675a6ebf",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -2246,48 +2266,6 @@
       "streams": []
     },
     {
-      "id": "2552",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
-      "team1": "1st in Group A",
-      "team2": "2nd in Group B",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2553",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
-      "team1": "1st in Group B",
-      "team2": "2nd in Group A",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2554",
-      "date": "14/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - Final",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2561",
       "date": "12/11/2026",
       "time": "2:00 AM",
@@ -2341,6 +2319,48 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2552",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
+      "team1": "1st in Group A",
+      "team2": "2nd in Group B",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2553",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
+      "team1": "1st in Group B",
+      "team2": "2nd in Group A",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2554",
+      "date": "14/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - Final",
+      "team1": "Team 1 (TBC)",
+      "team2": "Team 2 (TBC)",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
       "streams": []
     },
     {
@@ -2470,14 +2490,14 @@
       "streams": []
     },
     {
-      "id": "2560",
+      "id": "2559",
       "date": "12/11/2026",
       "time": "11:00 PM",
       "league": "Football | UEFA Nations League",
-      "team1": "Armenia",
-      "team2": "Cyprus",
-      "logo1": "https://img.sofascore.com/api/v1/team/4740/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4482/image",
+      "team1": "Turkey",
+      "team2": "Belgium",
+      "logo1": "https://img.sofascore.com/api/v1/team/4700/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4717/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
       "visibility": "unpublic",
@@ -4150,14 +4170,14 @@
       "streams": []
     },
     {
-      "id": "2559",
+      "id": "2560",
       "date": "12/11/2026",
       "time": "11:00 PM",
       "league": "Football | UEFA Nations League",
-      "team1": "Turkey",
-      "team2": "Belgium",
-      "logo1": "https://img.sofascore.com/api/v1/team/4700/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4717/image",
+      "team1": "Armenia",
+      "team2": "Cyprus",
+      "logo1": "https://img.sofascore.com/api/v1/team/4740/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4482/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
       "visibility": "unpublic",
