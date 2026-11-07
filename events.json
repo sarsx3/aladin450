@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 09:37:13 PM BST",
-  "last_updated_iso": "2026-11-07T15:37:13.499Z",
+  "last_updated": "07 Nov 2026, 09:38:14 PM BST",
+  "last_updated_iso": "2026-11-07T15:38:14.152Z",
   "total_events": 310,
   "events": [
     {
@@ -253,6 +253,20 @@
         {
           "name": "Server - 3",
           "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001794057906-0-0-ff2d590585dc5601cad6c7779433d383",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK ES FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqymjvhuld/out/v1/538614f3e2714dc0ad99ac7905570e97/cenc.mpd?|drmScheme=clearkey&drmLicense=b96213572690354511dd6dfd1401a8b2:4d35d3c8323c67efd107e3c11c70ed54",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY SPORT DE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd?|drmScheme=clearkey&drmLicense=f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
