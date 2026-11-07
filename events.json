@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 09:40:22 PM BST",
-  "last_updated_iso": "2026-11-07T15:40:22.136Z",
+  "last_updated": "07 Nov 2026, 09:41:12 PM BST",
+  "last_updated_iso": "2026-11-07T15:41:12.460Z",
   "total_events": 310,
   "events": [
     {
@@ -799,6 +799,20 @@
           "name": "Low quality",
           "url": "http://193.47.62.50/hls/FAFAFAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/69l2l4hgiy/out/v1/0fa831fdd02f46e7b827773416b15567/cenc.mpd?|drmScheme=clearkey&drmLicense=3421eae2b6fce89959fe13bf4b613f79:7ce195c737344a6cb9ee6a1260ffc11a",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://live.vivo155.com/live/sd-1-4563680.m3u8?txSecret=0466254bcee9d7afcfc1118f74d16298&txTime=6AEF4E46",
+          "referer": "https://player.on8on8.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
