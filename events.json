@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 07:12:17 PM BST",
-  "last_updated_iso": "2026-11-07T13:12:17.424Z",
+  "last_updated": "07 Nov 2026, 07:13:13 PM BST",
+  "last_updated_iso": "2026-11-07T13:13:13.976Z",
   "total_events": 348,
   "events": [
     {
@@ -2767,6 +2767,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/fd2cf07a-b56c-4aad-8d75-07ddea9cd48e.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -2807,6 +2814,13 @@
         {
           "name": "Server - 3",
           "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1794046687-0-0-d0495f793ebea2a340d75b9baae94113",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://play.aarray.cn/rrty/sd-1-4563683_gqzm.m3u8?auth_key=1794057871-0-0-d1794573eacf2d7dddb173e49ec4e7e3",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
