@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 09:59:12 PM BST",
-  "last_updated_iso": "2026-11-07T15:59:12.801Z",
+  "last_updated": "07 Nov 2026, 10:00:34 PM BST",
+  "last_updated_iso": "2026-11-07T16:00:34.624Z",
   "total_events": 310,
   "events": [
     {
@@ -1044,6 +1044,27 @@
           "name": "Low quality",
           "url": "http://193.47.62.41/hls/DADADAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "fancode - aq",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4250010_english_hls_c3f077e86624414_1ta-di_h264/index.m3u8?hdnea=exp=1794067109~acl=/mumbai/4250010_english_hls_c3f077e86624414_1ta-di_h264/*~SessionID=1890000065807_fc-web_72e593b9-31be-46~data=1890000065807~hmac=66470cafd12b02f3cd4ac441f6e434baa4569150682eb3d37be3097111acd471&deviceId=undefined&advertiserId=undefined",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "fancode - (1080p)",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4250010_english_hls_c3f077e86624414_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794153390~_GO=Generated~acl=/mumbai/4250010_english_hls_c3f077e86624414_1ta-di_h264/*~SessionID=1890000065807_fc-web_72e593b9-31be-46~Signature=Afuih4Jmb_0gWxmA2YF_BVA1XC_mi2EzsxLjz2IVJHQ-9Pe1Baj3ORQLkT3eonMC3ktF9k9mfFNpMdrD3NmlA281jn0C",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "fancode - (720p)",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4250010_english_hls_c3f077e86624414_1ta-di_h264/720p.m3u8?hdntl=Expires=1794153390~_GO=Generated~acl=/mumbai/4250010_english_hls_c3f077e86624414_1ta-di_h264/*~SessionID=1890000065807_fc-web_72e593b9-31be-46~Signature=Afuih4Jmb_0gWxmA2YF_BVA1XC_mi2EzsxLjz2IVJHQ-9Pe1Baj3ORQLkT3eonMC3ktF9k9mfFNpMdrD3NmlA281jn0C",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
