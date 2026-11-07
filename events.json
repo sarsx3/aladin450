@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 12:13:13 PM BST",
-  "last_updated_iso": "2026-11-07T06:13:13.315Z",
+  "last_updated": "07 Nov 2026, 12:14:13 PM BST",
+  "last_updated_iso": "2026-11-07T06:14:13.580Z",
   "total_events": 354,
   "events": [
     {
@@ -215,6 +215,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NjI4NTc4NGI5OTZhNDIwZjE2NzEwZGE5NGVkODM4NDY6OTRmMmY0ZDVkZmZiMjA5N2NlNTZhNDMyODlkNzY2NjI="
+        },
+        {
+          "name": "SonyLiv PRIME FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rqq44fkslo/out/v1/6a680b9da5b945198a352e8eabdef769/cenc.mpd?|drmScheme=clearkey&drmLicense=4d45a2704f4fed42bc2bb4efddeed7f9:1bf5276486e13685c9f654c0654c41a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
