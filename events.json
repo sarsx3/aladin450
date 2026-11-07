@@ -1,6 +1,6 @@
 {
-  "last_updated": "07 Nov 2026, 08:15:21 PM BST",
-  "last_updated_iso": "2026-11-07T14:15:21.969Z",
+  "last_updated": "07 Nov 2026, 08:16:14 PM BST",
+  "last_updated_iso": "2026-11-07T14:16:14.175Z",
   "total_events": 341,
   "events": [
     {
@@ -725,6 +725,48 @@
           "name": "myco - (bd)",
           "url": "https://ml-pull-rtmp-pk1.myco.io/Bundesliga2/hls/PKBD2.m3u8",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794056587-0-0-9900c16d120bff90d1511fc0866e8275",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=1656e7592200e55dad883c22755b340c&txTime=6aef67db",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=089b8dc45592eeb6bd0e571b5c3b92b5&txTime=6aef67db",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001794057956-0-0-22b34df84d5857c97ce8c86067352620",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
