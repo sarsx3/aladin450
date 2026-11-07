@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 12:49:13 AM BST",
-  "last_updated_iso": "2026-11-07T18:49:13.377Z",
-  "total_events": 285,
+  "last_updated": "08 Nov 2026, 12:50:22 AM BST",
+  "last_updated_iso": "2026-11-07T18:50:22.849Z",
+  "total_events": 284,
   "events": [
     {
       "id": "2332",
@@ -4301,49 +4301,6 @@
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
-    },
-    {
-      "id": "2682",
-      "date": "07/11/2026",
-      "time": "8:00 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 3rd Match",
-      "team1": "United Tigers",
-      "team2": "Arabian Aces",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": [
-        {
-          "name": "WILLOW FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhywkebli4/out/v1/b680bf867c374df2abef9ab2c55b0b65/cenc.mpd?|drmScheme=clearkey&drmLicense=14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "WILLOW ALT",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xhywkebli4/out/v1/b680bf867c374df2abef9ab2c55b0b65/cenc.mpd?|drmScheme=clearkey&drmLicense=14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "WILLOW FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzM2NTgwYjkxZDY1MzBjZWJhMTk2ZDcyNTRkNjdiOTQ6YWY5ZGE1YzcyZTFhYTk0NzJhM2I4ZWY4NTJjMGYzMzA="
-        },
-        {
-          "name": "WILLOW ALT",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "YzM2NTgwYjkxZDY1MzBjZWJhMTk2ZDcyNTRkNjdiOTQ6YWY5ZGE1YzcyZTFhYTk0NzJhM2I4ZWY4NTJjMGYzMzA="
-        }
-      ]
     },
     {
       "id": "2683",
