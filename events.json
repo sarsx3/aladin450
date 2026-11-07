@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 01:08:15 AM BST",
-  "last_updated_iso": "2026-11-07T19:08:15.720Z",
+  "last_updated": "08 Nov 2026, 01:09:14 AM BST",
+  "last_updated_iso": "2026-11-07T19:09:14.248Z",
   "total_events": 283,
   "events": [
     {
@@ -692,7 +692,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Bein Sports - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2446",
