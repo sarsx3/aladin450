@@ -1,7 +1,7 @@
 {
-  "last_updated": "07 Nov 2026, 11:21:12 PM BST",
-  "last_updated_iso": "2026-11-07T17:21:12.929Z",
-  "total_events": 292,
+  "last_updated": "07 Nov 2026, 11:22:16 PM BST",
+  "last_updated_iso": "2026-11-07T17:22:16.444Z",
+  "total_events": 291,
   "events": [
     {
       "id": "2332",
@@ -537,20 +537,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2400",
-      "date": "07/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ahli",
-      "team2": "Al Taawoun",
-      "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/56021/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2404",
@@ -2593,20 +2579,6 @@
       "streams": []
     },
     {
-      "id": "2555",
-      "date": "12/11/2026",
-      "time": "9:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Ghana",
-      "team2": "Somalia",
-      "logo1": "https://img.sofascore.com/api/v1/team/4764/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/23472/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": []
-    },
-    {
       "id": "2565",
       "date": "12/11/2026",
       "time": "9:00 PM",
@@ -4395,6 +4367,20 @@
       "logo1": "https://cricketvectors.akamaized.net/Teams/1LI.png",
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LH.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "2555",
+      "date": "12/11/2026",
+      "time": "9:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Ghana",
+      "team2": "Somalia",
+      "logo1": "https://img.sofascore.com/api/v1/team/4764/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/23472/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
