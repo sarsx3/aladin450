@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 12:10:21 AM BST",
-  "last_updated_iso": "2026-11-07T18:10:21.446Z",
-  "total_events": 287,
+  "last_updated": "08 Nov 2026, 12:11:12 AM BST",
+  "last_updated_iso": "2026-11-07T18:11:12.974Z",
+  "total_events": 285,
   "events": [
     {
       "id": "2332",
@@ -61,64 +61,6 @@
         {
           "name": "t sports (720p)",
           "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2412",
-      "date": "07/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Galatasaray",
-      "team2": "Amed SK",
-      "logo1": "https://img.sofascore.com/api/v1/team/3061/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/207011/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel13.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1794056707-0-0-c6882c97aee4c0bbc1f081d9769193f3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel27.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2413",
-      "date": "07/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Goztepe",
-      "team2": "İstanbul Başakşehir",
-      "logo1": "https://img.sofascore.com/api/v1/team/3054/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3086/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "hd quality",
-          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -2569,6 +2511,48 @@
       "streams": []
     },
     {
+      "id": "2552",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
+      "team1": "1st in Group A",
+      "team2": "2nd in Group B",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2553",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
+      "team1": "1st in Group B",
+      "team2": "2nd in Group A",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2554",
+      "date": "14/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - Final",
+      "team1": "Team 1 (TBC)",
+      "team2": "Team 2 (TBC)",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2561",
       "date": "12/11/2026",
       "time": "2:00 AM",
@@ -2622,48 +2606,6 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
-    },
-    {
-      "id": "2552",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
-      "team1": "1st in Group A",
-      "team2": "2nd in Group B",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2553",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
-      "team1": "1st in Group B",
-      "team2": "2nd in Group A",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2554",
-      "date": "14/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - Final",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
       "streams": []
     },
     {
@@ -2723,6 +2665,20 @@
       "streams": []
     },
     {
+      "id": "2555",
+      "date": "12/11/2026",
+      "time": "9:00 PM",
+      "league": "Football | Africa Cup of Nations Qualification",
+      "team1": "Ghana",
+      "team2": "Somalia",
+      "logo1": "https://img.sofascore.com/api/v1/team/4764/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/23472/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2565",
       "date": "12/11/2026",
       "time": "9:00 PM",
@@ -2745,20 +2701,6 @@
       "team2": "Eritrea",
       "logo1": "https://img.sofascore.com/api/v1/team/4826/image",
       "logo2": "https://img.sofascore.com/api/v1/team/8041/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "isHot": false,
-      "visibility": "unpublic",
-      "streams": []
-    },
-    {
-      "id": "2557",
-      "date": "12/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "DR Congo",
-      "team2": "Sierra Leone",
-      "logo1": "https://img.sofascore.com/api/v1/team/4823/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4737/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "unpublic",
@@ -4516,14 +4458,14 @@
       "streams": []
     },
     {
-      "id": "2555",
+      "id": "2557",
       "date": "12/11/2026",
-      "time": "9:00 PM",
+      "time": "10:00 PM",
       "league": "Football | Africa Cup of Nations Qualification",
-      "team1": "Ghana",
-      "team2": "Somalia",
-      "logo1": "https://img.sofascore.com/api/v1/team/4764/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/23472/image",
+      "team1": "DR Congo",
+      "team2": "Sierra Leone",
+      "logo1": "https://img.sofascore.com/api/v1/team/4823/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4737/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
       "isHot": false,
       "visibility": "unpublic",
