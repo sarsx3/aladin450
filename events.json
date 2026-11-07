@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 04:34:14 AM BST",
-  "last_updated_iso": "2026-11-07T22:34:14.319Z",
-  "total_events": 266,
+  "last_updated": "08 Nov 2026, 04:35:16 AM BST",
+  "last_updated_iso": "2026-11-07T22:35:16.740Z",
+  "total_events": 262,
   "events": [
     {
       "id": "2332",
@@ -62,108 +62,6 @@
           "name": "t sports (720p)",
           "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2421",
-      "date": "08/11/2026",
-      "time": "2:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Rosario Central",
-      "team2": "Estudiantes Río Cuarto",
-      "logo1": "https://img.sofascore.com/api/v1/team/3217/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/266694/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "ESPN2 SPORTS FHD",
-          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=6e21eebe910ad32eefc43c021ae43bd9&wsABSTime=1794122384",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel35/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2422",
-      "date": "08/11/2026",
-      "time": "2:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Argentinos Juniors",
-      "team2": "Huracan",
-      "logo1": "https://img.sofascore.com/api/v1/team/3216/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7629/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel37.flv?wsSecret=603a14a468c1df56a519001a856e818f&wsABSTime=1794122342",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel37/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2423",
-      "date": "08/11/2026",
-      "time": "2:30 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Boca Juniors",
-      "team2": "Defensa Y Justicia",
-      "logo1": "https://img.sofascore.com/api/v1/team/3202/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36839/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel38.flv?wsSecret=7334a736cbd8c5b6ce698334e5450ce6&wsABSTime=1794122378",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2457",
-      "date": "08/11/2026",
-      "time": "2:30 AM",
-      "league": "Football | Liga Portugal",
-      "team1": "Sporting",
-      "team2": "Moreirense",
-      "logo1": "https://img.sofascore.com/api/v1/team/3001/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3014/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel16.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794079526-0-0-0340a1cec3cd5535c0c27b8141acdfab",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1953,6 +1851,20 @@
       "streams": []
     },
     {
+      "id": "2561",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Benfica (W)",
+      "team2": "Austria Wien (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
       "id": "2552",
       "date": "12/11/2026",
       "time": "11:00 AM",
@@ -1992,20 +1904,6 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2561",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Benfica (W)",
-      "team2": "Austria Wien (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "unpublic",
       "streams": []
     },
     {
