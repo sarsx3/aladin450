@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 06:43:12 PM BST",
-  "last_updated_iso": "2026-11-08T12:43:12.488Z",
+  "last_updated": "08 Nov 2026, 06:44:14 PM BST",
+  "last_updated_iso": "2026-11-08T12:44:14.811Z",
   "total_events": 240,
   "events": [
     {
@@ -466,7 +466,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "LaLiga Hypermotion",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2471",
