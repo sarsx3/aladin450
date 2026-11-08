@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 12:40:23 AM BST",
-  "last_updated_iso": "2026-11-08T18:40:23.805Z",
+  "last_updated": "09 Nov 2026, 12:41:13 AM BST",
+  "last_updated_iso": "2026-11-08T18:41:13.249Z",
   "total_events": 263,
   "events": [
     {
@@ -226,6 +226,20 @@
           "name": "ESPN DEPORTES+ HD",
           "url": "https://chatgpt.hereisman.net/playlist/59583/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rspbiopioa/out/v1/f6ceb9c1a7154c7fac408d05fbc27225/cenc.mpd?|drmScheme=clearkey&drmLicense=8ed66891f115e691ab38143afdf198c7:b8c520a95b74dbbc9b915d89f2372fd5",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/ed1c16c7-4860-44ea-b3fa-9f876b52d032.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
