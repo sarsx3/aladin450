@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 06:17:11 PM BST",
-  "last_updated_iso": "2026-11-08T12:17:11.747Z",
-  "total_events": 241,
+  "last_updated": "08 Nov 2026, 06:18:15 PM BST",
+  "last_updated_iso": "2026-11-08T12:18:15.031Z",
+  "total_events": 240,
   "events": [
     {
       "id": "2332",
@@ -105,42 +105,6 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
           "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2546",
-      "date": "08/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 7th Youth ODI",
-      "team1": "United Arab Emirates U19",
-      "team2": "Nepal U19",
-      "logo1": "https://img.sofascore.com/api/v1/team/300266/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213113/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjYzOGYxMGU5YmVlNjVhNjk4OTI2YTUyNzcyMmUzMzI6YTlmNTE5MzY3Y2FmNDE5NjA3ZjY3MDVlM2Q3Njc5MzU="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjYzOGYxMGU5YmVlNjVhNjk4OTI2YTUyNzcyMmUzMzI6YTlmNTE5MzY3Y2FmNDE5NjA3ZjY3MDVlM2Q3Njc5MzU="
-        },
-        {
-          "name": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb",
-          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -402,7 +366,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/YOOOAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2461",
