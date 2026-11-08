@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 01:09:14 AM BST",
-  "last_updated_iso": "2026-11-08T19:09:14.241Z",
+  "last_updated": "09 Nov 2026, 01:10:23 AM BST",
+  "last_updated_iso": "2026-11-08T19:10:23.062Z",
   "total_events": 263,
   "events": [
     {
@@ -626,6 +626,41 @@
         {
           "name": "SPORT1 CZ FHD",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel15.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001794162097-0-0-93e690bb91754a4b44127078d1237054",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794141247-0-0-57090e6a1267662a7f985f94dcfdc728",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1794146527-0-0-ae38b3bddd4ff2bae57d24e9c9575352",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
