@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 06:23:16 PM BST",
-  "last_updated_iso": "2026-11-08T12:23:16.414Z",
+  "last_updated": "08 Nov 2026, 06:24:13 PM BST",
+  "last_updated_iso": "2026-11-08T12:24:13.999Z",
   "total_events": 240,
   "events": [
     {
@@ -304,6 +304,20 @@
         {
           "name": "hd quality",
           "url": "https://www.rtmpcdn.com/live/495935cb-0963-4a0f-b68c-2a320420dd1b.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3c139et4qh/out/v1/576c656ec7944cf6a7dcd38a93554c64/cenc.mpd?|drmScheme=clearkey&drmLicense=7a3612d07b988704b2f85e9d205d8155:97ed43a6bcf98ef345f3164e3dea7242",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sd0jrfrl6f/out/v1/ebfbbac143874943b3f946e8c1d303a1/cenc.mpd?|drmScheme=clearkey&drmLicense=da9a1f83b9894600230b08e846e6d912:8d6def9b7a51d059b06b55a97d7c67e5",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
