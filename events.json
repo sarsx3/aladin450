@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 10:03:13 PM BST",
-  "last_updated_iso": "2026-11-08T16:03:13.302Z",
+  "last_updated": "08 Nov 2026, 10:04:17 PM BST",
+  "last_updated_iso": "2026-11-08T16:04:17.468Z",
   "total_events": 278,
   "events": [
     {
@@ -3096,6 +3096,13 @@
           "name": "a sports - aq",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Myco - (bd)",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8",
+          "referer": "https://myco.io/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
