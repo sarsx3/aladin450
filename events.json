@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 08:36:18 PM BST",
-  "last_updated_iso": "2026-11-08T14:36:18.689Z",
-  "total_events": 235,
+  "last_updated": "08 Nov 2026, 08:37:11 PM BST",
+  "last_updated_iso": "2026-11-08T14:37:11.796Z",
+  "total_events": 232,
   "events": [
     {
       "id": "2332",
@@ -69,114 +69,6 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2443",
-      "date": "08/11/2026",
-      "time": "6:30 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Magdeburg",
-      "team2": "Bochum",
-      "logo1": "https://img.sofascore.com/api/v1/team/2591/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2542/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.44/hls/YOOO.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794140858-0-0-3dab3d8cf5daf5900be2203e97dc28b2",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2444",
-      "date": "08/11/2026",
-      "time": "6:30 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Karlsruher",
-      "team2": "Heidenheim",
-      "logo1": "https://img.sofascore.com/api/v1/team/2553/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5885/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.44/hls/YOOOAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel8.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001794140538-0-0-b7f765d127073833dc4b43180807e9b2",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2445",
-      "date": "08/11/2026",
-      "time": "6:30 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Hannover",
-      "team2": "St. Pauli",
-      "logo1": "https://img.sofascore.com/api/v1/team/2541/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2526/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.44/hls/YOOOAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001794140466-0-0-89cc7cc74c5a91a2dc41e5e8e57dfe03",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1828,6 +1720,20 @@
       "streams": []
     },
     {
+      "id": "2561",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Benfica (W)",
+      "team2": "Austria Wien (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
       "id": "2562",
       "date": "12/11/2026",
       "time": "2:00 AM",
@@ -1907,20 +1813,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2561",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Benfica (W)",
-      "team2": "Austria Wien (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
