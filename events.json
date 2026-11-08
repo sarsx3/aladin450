@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 08:25:19 PM BST",
-  "last_updated_iso": "2026-11-08T14:25:19.350Z",
+  "last_updated": "08 Nov 2026, 08:26:15 PM BST",
+  "last_updated_iso": "2026-11-08T14:26:15.270Z",
   "total_events": 235,
   "events": [
     {
@@ -727,6 +727,27 @@
         {
           "name": "SPORT1 CZ FHD",
           "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1794128827-0-0-96b921231075af60e6bbf962c6eb97ed",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=9af0654b0d10e684d771cb0dfe91bbed&txTime=6af08283",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
