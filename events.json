@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 08:44:16 PM BST",
-  "last_updated_iso": "2026-11-08T14:44:16.346Z",
+  "last_updated": "08 Nov 2026, 08:45:20 PM BST",
+  "last_updated_iso": "2026-11-08T14:45:20.992Z",
   "total_events": 232,
   "events": [
     {
@@ -632,6 +632,34 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001794144266-0-0-bd852abd1745469a4a61fac6703809a6",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1hlq3jbwjj/out/v1/854ccaa16ba846e2bfe783bd58a9b2b1/cenc.mpd?|drmScheme=clearkey&drmLicense=8d88d98b19a395092831e8339f251d72:28b12e8ecf00c3a641869adc452b69bd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FASTER QUALITY",
+          "url": "https://live.vivo155.com/live/hd-en-1-4550929.m3u8?txSecret=a6e6bebe20eeb57004418f22445619b3&txTime=6AF09312",
+          "referer": "https://player.on8on8.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/2ccaa0f1-f576-41f9-ad94-709356fc2130.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
