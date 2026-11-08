@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 08:01:13 PM BST",
-  "last_updated_iso": "2026-11-08T14:01:13.921Z",
+  "last_updated": "08 Nov 2026, 08:02:18 PM BST",
+  "last_updated_iso": "2026-11-08T14:02:18.933Z",
   "total_events": 238,
   "events": [
     {
@@ -515,7 +515,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "myco-aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2426",
