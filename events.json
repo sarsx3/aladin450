@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 12:41:13 AM BST",
-  "last_updated_iso": "2026-11-08T18:41:13.249Z",
+  "last_updated": "09 Nov 2026, 12:42:14 AM BST",
+  "last_updated_iso": "2026-11-08T18:42:14.950Z",
   "total_events": 263,
   "events": [
     {
@@ -285,6 +285,27 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pd1qqlhy9d/out/v1/e0481c1c73754d7999e2cbd58ef27028/cenc.mpd?|drmScheme=clearkey&drmLicense=127a995c1831eb46c0f3a7189fbf6983:c13e706ffa60998e55d8a5b95b21dca0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ESPN DEPORTES",
+          "url": "https://chatgpt.hereisman.net/playlist/59619/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/c505f0f3-15c2-4a52-bc96-24e0dd5f1b90.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -480,7 +501,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel17.flv",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001794162094-0-0-6f680dd7047f52cafa7f7c5d6cfd3fea",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2494",
