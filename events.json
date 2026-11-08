@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 07:37:13 PM BST",
-  "last_updated_iso": "2026-11-08T13:37:13.355Z",
+  "last_updated": "08 Nov 2026, 07:38:13 PM BST",
+  "last_updated_iso": "2026-11-08T13:38:13.253Z",
   "total_events": 238,
   "events": [
     {
@@ -3478,7 +3478,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd?|drmScheme=clearkey&drmLicense=bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2685",
