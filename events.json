@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 05:47:15 PM BST",
-  "last_updated_iso": "2026-11-08T11:47:15.077Z",
-  "total_events": 242,
+  "last_updated": "08 Nov 2026, 05:48:19 PM BST",
+  "last_updated_iso": "2026-11-08T11:48:19.804Z",
+  "total_events": 241,
   "events": [
     {
       "id": "2332",
@@ -172,70 +172,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "Y2I0MDJiNDBiMmFhMGNjZWViMzk5ZGM4YTNjZmI2ZjE6OGYwODlkNjk2NzcwNzBlODkzZGE3OGQ5YmE3YzM1YjY="
-        }
-      ]
-    },
-    {
-      "id": "2258",
-      "date": "08/11/2026",
-      "time": "3:30 PM",
-      "league": "Football | SAFF Championship - Group B",
-      "team1": "Maldives",
-      "team2": "Pakistan",
-      "logo1": "https://img.sofascore.com/api/v1/team/6911/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Myco - aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "bd - (1080p)",
-          "url": "https://prod-cdn01-live.toffeelive.com/live/SAFF-2026-3/0/master_2500.m3u8?hdntl=Expires=1794215176~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AX9h6jK9_yrncEdf8feIqNoL-T8ZRHQrkEQOs2gnlGedfLlZ4Xi_rgQZjy1sacZesJjjM0tJRF59cqUKbfhZsJtEtakN&nocache=1794128785040",
-          "referer": "https://toffeelive.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "bd - (720p)",
-          "url": "https://prod-cdn01-live.toffeelive.com/live/SAFF-2026-3/1/master_1800.m3u8?hdntl=Expires=1794215176~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AX9h6jK9_yrncEdf8feIqNoL-T8ZRHQrkEQOs2gnlGedfLlZ4Xi_rgQZjy1sacZesJjjM0tJRF59cqUKbfhZsJtEtakN&nocache=1794128878859",
-          "referer": "https://toffeelive.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=46aa7de9f5e44828e98b89c0e6cfff1b&wsABSTime=1794169359",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.zktsva.app/live/432017.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "t sports hd",
-          "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "btv hd",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ]
     },
