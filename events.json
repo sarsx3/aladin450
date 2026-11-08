@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 09:16:19 PM BST",
-  "last_updated_iso": "2026-11-08T15:16:19.081Z",
-  "total_events": 228,
+  "last_updated": "08 Nov 2026, 09:17:13 PM BST",
+  "last_updated_iso": "2026-11-08T15:17:13.533Z",
+  "total_events": 227,
   "events": [
     {
       "id": "2332",
@@ -863,20 +863,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2458",
-      "date": "08/11/2026",
-      "time": "9:30 PM",
-      "league": "Football | Liga Portugal",
-      "team1": "Estoril",
-      "team2": "Maritimo",
-      "logo1": "https://img.sofascore.com/api/v1/team/4500/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3007/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2459",
@@ -1867,15 +1853,15 @@
       "streams": []
     },
     {
-      "id": "2570",
+      "id": "2569",
       "date": "12/11/2026",
-      "time": "10:40 AM",
-      "league": "Cricket | WBBL 2026 - 19th Match",
-      "team1": "Melbourne Stars Women",
-      "team2": "Brisbane Heat Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "time": "10:30 AM",
+      "league": "Cricket | PAK vs SL - 1st Test, Day 4",
+      "team1": "Pakistan",
+      "team2": "Sri Lanka",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -1923,15 +1909,15 @@
       "streams": []
     },
     {
-      "id": "2569",
+      "id": "2570",
       "date": "12/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | PAK vs SL - 1st Test, Day 4",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "time": "10:40 AM",
+      "league": "Cricket | WBBL 2026 - 19th Match",
+      "team1": "Melbourne Stars Women",
+      "team2": "Brisbane Heat Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
