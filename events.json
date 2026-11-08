@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 08:46:15 PM BST",
-  "last_updated_iso": "2026-11-08T14:46:15.311Z",
+  "last_updated": "08 Nov 2026, 08:47:14 PM BST",
+  "last_updated_iso": "2026-11-08T14:47:14.111Z",
   "total_events": 232,
   "events": [
     {
@@ -787,6 +787,20 @@
         {
           "name": "Server - 3",
           "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=9af0654b0d10e684d771cb0dfe91bbed&txTime=6af08283",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkhi8wtlmy/out/v1/fdae499977c04957a358d7be53cdc4f0/cenc.mpd?|drmScheme=clearkey&drmLicense=285eaa3bb641a11c7190877e945ebabd:d253e08b2c3a3b148374814cb01b3bf0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmcoljvkzm/out/v1/959c0e797f864fd5a2acfbf924cca5c2/cenc.mpd?|drmScheme=clearkey&drmLicense=48fb7237ec9141e9190472a5480fd77f:cfcb31f3872784c0c76c271295b0bd01",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
