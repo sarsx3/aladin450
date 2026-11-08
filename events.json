@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 08:27:15 PM BST",
-  "last_updated_iso": "2026-11-08T14:27:15.422Z",
+  "last_updated": "08 Nov 2026, 08:28:14 PM BST",
+  "last_updated_iso": "2026-11-08T14:28:14.224Z",
   "total_events": 235,
   "events": [
     {
@@ -350,6 +350,20 @@
           "name": "myco-aq",
           "url": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/",
           "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd",
+          "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel69.flv?wsSecret=a682c7ff1a501eb452f1d9d772d78f21&wsABSTime=1794187487",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel69/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
