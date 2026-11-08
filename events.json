@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 02:13:12 AM BST",
-  "last_updated_iso": "2026-11-08T20:13:12.629Z",
+  "last_updated": "09 Nov 2026, 02:14:16 AM BST",
+  "last_updated_iso": "2026-11-08T20:14:16.551Z",
   "total_events": 255,
   "events": [
     {
@@ -298,7 +298,7 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2836/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2817/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-      "isHot": false,
+      "isHot": true,
       "visibility": "public",
       "streams": [
         {
