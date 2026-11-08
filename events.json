@@ -1,7 +1,7 @@
 {
-  "last_updated": "08 Nov 2026, 06:45:22 PM BST",
-  "last_updated_iso": "2026-11-08T12:45:22.742Z",
-  "total_events": 240,
+  "last_updated": "08 Nov 2026, 06:46:22 PM BST",
+  "last_updated_iso": "2026-11-08T12:46:22.206Z",
+  "total_events": 239,
   "events": [
     {
       "id": "2332",
@@ -136,42 +136,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "Y2I0MDJiNDBiMmFhMGNjZWViMzk5ZGM4YTNjZmI2ZjE6OGYwODlkNjk2NzcwNzBlODkzZGE3OGQ5YmE3YzM1YjY="
-        }
-      ]
-    },
-    {
-      "id": "2470",
-      "date": "08/11/2026",
-      "time": "4:30 PM",
-      "league": "Football | Super Lig",
-      "team1": "Rizespor",
-      "team2": "Erzurumspor FK",
-      "logo1": "https://img.sofascore.com/api/v1/team/3064/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/55603/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel23.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=c83dbb492aa997778fab8ba6d0aaf329&txTime=6af09fcf",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1794136447-0-0-a34364130d732695091c42b7a56e1574",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ]
     },
@@ -488,7 +452,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001794140429-0-0-e96e91b773a36078888d3f528cc8ab7b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2453",
@@ -1647,34 +1626,6 @@
       "streams": []
     },
     {
-      "id": "2561",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Benfica (W)",
-      "team2": "Austria Wien (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2562",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Juventus (W)",
-      "team2": "Olympique Lyonnais (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/2687/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2552",
       "date": "12/11/2026",
       "time": "11:00 AM",
@@ -1712,6 +1663,34 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2561",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Benfica (W)",
+      "team2": "Austria Wien (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2562",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Juventus (W)",
+      "team2": "Olympique Lyonnais (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/2687/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
