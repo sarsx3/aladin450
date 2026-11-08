@@ -1,6 +1,6 @@
 {
-  "last_updated": "08 Nov 2026, 11:56:15 PM BST",
-  "last_updated_iso": "2026-11-08T17:56:15.278Z",
+  "last_updated": "08 Nov 2026, 11:57:14 PM BST",
+  "last_updated_iso": "2026-11-08T17:57:14.212Z",
   "total_events": 277,
   "events": [
     {
@@ -970,7 +970,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "LaLiga Hypermotion2",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd?|drmScheme=clearkey&drmLicense=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=ca1e84aafe27160fadeaa08fdfce68cb&wsABSTime=1794201737",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2469",
