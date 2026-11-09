@@ -1,37 +1,8 @@
 {
-  "last_updated": "10 Nov 2026, 12:39:14 AM BST",
-  "last_updated_iso": "2026-11-09T18:39:14.530Z",
-  "total_events": 312,
+  "last_updated": "10 Nov 2026, 12:40:23 AM BST",
+  "last_updated_iso": "2026-11-09T18:40:23.671Z",
+  "total_events": 310,
   "events": [
-    {
-      "id": "2507",
-      "date": "09/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 20th Match",
-      "team1": "Chitwan Rhinos",
-      "team2": "Kathmandu Gorkhas",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "fancode - Aq",
-          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "star sports hd",
-          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2511",
       "date": "10/11/2026",
@@ -561,48 +532,6 @@
       "streams": []
     },
     {
-      "id": "2552",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
-      "team1": "1st in Group A",
-      "team2": "2nd in Group B",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2553",
-      "date": "12/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
-      "team1": "1st in Group B",
-      "team2": "2nd in Group A",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2554",
-      "date": "14/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - Final",
-      "team1": "Team 1 (TBC)",
-      "team2": "Team 2 (TBC)",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2561",
       "date": "12/11/2026",
       "time": "2:00 AM",
@@ -654,6 +583,48 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2552",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
+      "team1": "1st in Group A",
+      "team2": "2nd in Group B",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2553",
+      "date": "12/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
+      "team1": "1st in Group B",
+      "team2": "2nd in Group A",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2554",
+      "date": "14/11/2026",
+      "time": "11:00 AM",
+      "league": "Cricket | U19 Asia Cup 2026 - Final",
+      "team1": "Team 1 (TBC)",
+      "team2": "Team 2 (TBC)",
+      "logo1": "",
+      "logo2": "",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -2351,56 +2322,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2686",
-      "date": "09/11/2026",
-      "time": "7:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 7th Match",
-      "team1": "Emirates Eagles",
-      "team2": "Arabian Aces",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LK.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "myco - aq",
-          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
-          "referer": "https://myco.io/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nmb9bvhdpf/out/v1/c882f999012649858e1a486c778a51bc/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MmZjMTM1OTI0NTFhNGNhOGI1MDk5NDZjNmY5MDg4Mjk6ZWVlMWI1N2ZkMjI4YzMyOTM5Yzc2NDY1N2IwNGFiNjU="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nmb9bvhdpf/out/v1/c882f999012649858e1a486c778a51bc/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MmZjMTM1OTI0NTFhNGNhOGI1MDk5NDZjNmY5MDg4Mjk6ZWVlMWI1N2ZkMjI4YzMyOTM5Yzc2NDY1N2IwNGFiNjU="
-        },
-        {
-          "name": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "2688",
