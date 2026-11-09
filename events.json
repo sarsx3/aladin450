@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 11:26:15 AM BST",
-  "last_updated_iso": "2026-11-09T05:26:15.536Z",
+  "last_updated": "09 Nov 2026, 11:27:13 AM BST",
+  "last_updated_iso": "2026-11-09T05:27:13.367Z",
   "total_events": 246,
   "events": [
     {
@@ -118,20 +118,6 @@
       ]
     },
     {
-      "id": "2505",
-      "date": "09/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | AFG vs ZIM - 1st Test, Day 5",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2548",
       "date": "09/11/2026",
       "time": "11:00 AM",
@@ -202,6 +188,20 @@
           "drm": ""
         }
       ]
+    },
+    {
+      "id": "2505",
+      "date": "09/11/2026",
+      "time": "12:00 PM",
+      "league": "Cricket | AFG vs ZIM - 1st Test, Day 5",
+      "team1": "Afghanistan",
+      "team2": "Zimbabwe",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
     },
     {
       "id": "2506",
