@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 10:51:13 AM BST",
-  "last_updated_iso": "2026-11-09T04:51:13.742Z",
+  "last_updated": "09 Nov 2026, 10:52:13 AM BST",
+  "last_updated_iso": "2026-11-09T04:52:13.899Z",
   "total_events": 246,
   "events": [
     {
@@ -86,6 +86,27 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NzFkZTYzYjVjNTIzNmI0MWQzMjg5NDU4YTBkMzYxMmU6OTFlNWE1OWRhODZiMDU0ZmVmNmEwNmFiNmRhODI5MzU="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ptv sports - aq",
+          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ptv sports - hd",
+          "url": "https://live.msnetworks.net/ptv-sports/720p.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
