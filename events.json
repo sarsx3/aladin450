@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 10:38:16 AM BST",
-  "last_updated_iso": "2026-11-09T04:38:16.402Z",
+  "last_updated": "09 Nov 2026, 10:39:13 AM BST",
+  "last_updated_iso": "2026-11-09T04:39:13.064Z",
   "total_events": 246,
   "events": [
     {
@@ -100,7 +100,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NzNkZTEyODUyMjY5MTk2YmI0NzUwNDJiZTA3MGU2NTk6MmQzMGZlNWI2Zjc0M2FmYzBlNmIwYmFiYjg2YWM3MGQ="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NzNkZTEyODUyMjY5MTk2YmI0NzUwNDJiZTA3MGU2NTk6MmQzMGZlNWI2Zjc0M2FmYzBlNmIwYmFiYjg2YWM3MGQ="
+        }
+      ]
     },
     {
       "id": "2549",
