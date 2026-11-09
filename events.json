@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 07:01:14 PM BST",
-  "last_updated_iso": "2026-11-09T13:01:14.132Z",
+  "last_updated": "09 Nov 2026, 07:02:15 PM BST",
+  "last_updated_iso": "2026-11-09T13:02:15.111Z",
   "total_events": 244,
   "events": [
     {
@@ -176,7 +176,7 @@
       "streams": [
         {
           "name": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -2483,7 +2483,7 @@
     {
       "id": "2686",
       "date": "09/11/2026",
-      "time": "5:45 PM",
+      "time": "7:45 PM",
       "league": "Cricket | Abu Dhabi T10 League 2026 - 7th Match",
       "team1": "Emirates Eagles",
       "team2": "Arabian Aces",
@@ -2493,6 +2493,13 @@
       "isHot": false,
       "visibility": "public",
       "streams": [
+        {
+          "name": "a sports - aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
         {
           "name": "a sports - aq",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
@@ -2505,7 +2512,7 @@
     {
       "id": "2687",
       "date": "09/11/2026",
-      "time": "8:00 PM",
+      "time": "10:00 PM",
       "league": "Cricket | Abu Dhabi T10 League 2026 - 8th Match",
       "team1": "United Tigers",
       "team2": "Royal Desert Champions",
