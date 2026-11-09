@@ -1,6 +1,6 @@
 {
-  "last_updated": "09 Nov 2026, 11:03:13 PM BST",
-  "last_updated_iso": "2026-11-09T17:03:13.237Z",
+  "last_updated": "09 Nov 2026, 11:04:19 PM BST",
+  "last_updated_iso": "2026-11-09T17:04:19.185Z",
   "total_events": 240,
   "events": [
     {
@@ -14,7 +14,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/PT.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [
         {
           "name": "fancode - Aq",
@@ -2341,7 +2341,7 @@
       "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [
         {
           "name": "PREMIERE2 SPORTS FHD",
