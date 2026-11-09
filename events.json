@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Nov 2026, 02:10:23 AM BST",
-  "last_updated_iso": "2026-11-09T20:10:23.551Z",
+  "last_updated": "10 Nov 2026, 02:11:15 AM BST",
+  "last_updated_iso": "2026-11-09T20:11:15.256Z",
   "total_events": 310,
   "events": [
     {
@@ -120,6 +120,27 @@
           "name": "Server - 3",
           "url": "http://193.47.62.55/hls/Z777AAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1794229627-0-0-57419b7b9fa5764c3ac5808222031314",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794238627-0-0-7aa74acc4de65cc44e300542f95a750f",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
