@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Nov 2026, 11:31:11 AM BST",
-  "last_updated_iso": "2026-11-10T05:31:11.856Z",
+  "last_updated": "10 Nov 2026, 11:32:15 AM BST",
+  "last_updated_iso": "2026-11-10T05:32:15.195Z",
   "total_events": 301,
   "events": [
     {
@@ -178,6 +178,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NGM0YmQxYWE4Yzk1NTlhZTA0ZGRhNDg1YWRiNWEzYjE6Y2UyZjdlM2E2MGVmNTljZGMyMGE2NjZkNjRmMzU1MDY="
+        },
+        {
+          "name": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794330539~acl=/*~id=35509081107577973676727371651207~hmac=5b22584dcffabd7a0d78ee1b70989a785d49724f03408430adb3188c4faaa332",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -207,6 +214,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "N2ZlY2ZiNWJlZDdjY2UwY2RjNTlkMjk5NDg0NWM1NTA6ODg0Mzg2YjcxZTA4MDE2MzVmNGZhMjUxNzUxNDNjYTc="
+        },
+        {
+          "name": "sonyliv - (bd)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794330539~acl=/*~id=35509081107577973676727371651207~hmac=5b22584dcffabd7a0d78ee1b70989a785d49724f03408430adb3188c4faaa332",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
