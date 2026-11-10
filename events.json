@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Nov 2026, 11:03:12 AM BST",
-  "last_updated_iso": "2026-11-10T05:03:12.331Z",
+  "last_updated": "10 Nov 2026, 11:04:16 AM BST",
+  "last_updated_iso": "2026-11-10T05:04:16.071Z",
   "total_events": 301,
   "events": [
     {
@@ -132,6 +132,20 @@
         {
           "name": "t sports hd",
           "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ptv sports - aq",
+          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ptv sports hd",
+          "url": "https://live.msnetworks.net/ptv-sports/720p.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
