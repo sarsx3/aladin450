@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Nov 2026, 10:32:14 AM BST",
-  "last_updated_iso": "2026-11-10T04:32:14.948Z",
+  "last_updated": "10 Nov 2026, 10:33:13 AM BST",
+  "last_updated_iso": "2026-11-10T04:33:13.111Z",
   "total_events": 301,
   "events": [
     {
@@ -112,6 +112,13 @@
           "name": "Tapmad - (bd)",
           "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
