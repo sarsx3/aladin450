@@ -1,80 +1,8 @@
 {
-  "last_updated": "10 Nov 2026, 07:47:13 PM BST",
-  "last_updated_iso": "2026-11-10T13:47:13.273Z",
-  "total_events": 298,
+  "last_updated": "10 Nov 2026, 07:48:15 PM BST",
+  "last_updated_iso": "2026-11-10T13:48:15.577Z",
+  "total_events": 296,
   "events": [
-    {
-      "id": "2550",
-      "date": "10/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 11th Youth ODI",
-      "team1": "India U19",
-      "team2": "United Arab Emirates U19",
-      "logo1": "https://img.sofascore.com/api/v1/team/213112/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/300266/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NGM0YmQxYWE4Yzk1NTlhZTA0ZGRhNDg1YWRiNWEzYjE6Y2UyZjdlM2E2MGVmNTljZGMyMGE2NjZkNjRmMzU1MDY="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NGM0YmQxYWE4Yzk1NTlhZTA0ZGRhNDg1YWRiNWEzYjE6Y2UyZjdlM2E2MGVmNTljZGMyMGE2NjZkNjRmMzU1MDY="
-        },
-        {
-          "name": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794330539~acl=/*~id=35509081107577973676727371651207~hmac=5b22584dcffabd7a0d78ee1b70989a785d49724f03408430adb3188c4faaa332",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2551",
-      "date": "10/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | U19 Asia Cup 2026 - 12th Youth ODI",
-      "team1": "Pakistan U19",
-      "team2": "Nepal U19",
-      "logo1": "https://img.sofascore.com/api/v1/team/213104/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/213113/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "N2ZlY2ZiNWJlZDdjY2UwY2RjNTlkMjk5NDg0NWM1NTA6ODg0Mzg2YjcxZTA4MDE2MzVmNGZhMjUxNzUxNDNjYTc="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "N2ZlY2ZiNWJlZDdjY2UwY2RjNTlkMjk5NDg0NWM1NTA6ODg0Mzg2YjcxZTA4MDE2MzVmNGZhMjUxNzUxNDNjYTc="
-        },
-        {
-          "name": "sonyliv - (bd)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794330539~acl=/*~id=35509081107577973676727371651207~hmac=5b22584dcffabd7a0d78ee1b70989a785d49724f03408430adb3188c4faaa332",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2523",
       "date": "10/11/2026",
@@ -392,34 +320,6 @@
       "streams": []
     },
     {
-      "id": "2561",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Benfica (W)",
-      "team2": "Austria Wien (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2562",
-      "date": "12/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Women's Champions League",
-      "team1": "Juventus (W)",
-      "team2": "Olympique Lyonnais (W)",
-      "logo1": "https://img.sofascore.com/api/v1/team/2687/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
       "id": "2552",
       "date": "12/11/2026",
       "time": "11:00 AM",
@@ -457,6 +357,34 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2561",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Benfica (W)",
+      "team2": "Austria Wien (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2203/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": []
+    },
+    {
+      "id": "2562",
+      "date": "12/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Women's Champions League",
+      "team1": "Juventus (W)",
+      "team2": "Olympique Lyonnais (W)",
+      "logo1": "https://img.sofascore.com/api/v1/team/2687/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1649/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/696/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
@@ -2209,6 +2137,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iv5d90mbif/out/v1/46534ce74ed246389eb9909c8ee1cc2a/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MGUzNmIzYmU4ODQ1YzA2ODVjNmUxYTdjZThiM2EzZTA6ZDBhNjQ2OWE1OThlNzE1OWQyMjcxN2UyMjllOGMxOGQ="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iv5d90mbif/out/v1/46534ce74ed246389eb9909c8ee1cc2a/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MGUzNmIzYmU4ODQ1YzA2ODVjNmUxYTdjZThiM2EzZTA6ZDBhNjQ2OWE1OThlNzE1OWQyMjcxN2UyMjllOGMxOGQ="
         }
       ]
     },
