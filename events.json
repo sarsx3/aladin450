@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Nov 2026, 11:53:14 PM BST",
-  "last_updated_iso": "2026-11-10T17:53:14.322Z",
+  "last_updated": "10 Nov 2026, 11:54:16 PM BST",
+  "last_updated_iso": "2026-11-10T17:54:16.011Z",
   "total_events": 293,
   "events": [
     {
@@ -41,6 +41,13 @@
           "name": "Server - 4",
           "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794327853-0-0-44525c9caf423baf73ec0e0328662986",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4f07acda4f5130631c054d8ef93354cf&txTime=6af3a797",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -84,6 +91,27 @@
           "name": "Server - 4",
           "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794327823-0-0-f73bd24b6072b5c6694bf5322ab59417",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794314707-0-0-97f197ccade12738d63e18bb1404ba91",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1794335047-0-0-af3b5ee4dd32b961cc438a996210b72c",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
