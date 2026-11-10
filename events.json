@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Nov 2026, 04:52:16 PM BST",
-  "last_updated_iso": "2026-11-10T10:52:16.401Z",
+  "last_updated": "10 Nov 2026, 04:53:13 PM BST",
+  "last_updated_iso": "2026-11-10T10:53:13.036Z",
   "total_events": 300,
   "events": [
     {
@@ -191,6 +191,13 @@
         {
           "name": "star sports hd",
           "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
