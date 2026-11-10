@@ -1,37 +1,8 @@
 {
-  "last_updated": "10 Nov 2026, 11:07:16 PM BST",
-  "last_updated_iso": "2026-11-10T17:07:16.089Z",
-  "total_events": 294,
+  "last_updated": "10 Nov 2026, 11:08:18 PM BST",
+  "last_updated_iso": "2026-11-10T17:08:18.402Z",
+  "total_events": 293,
   "events": [
-    {
-      "id": "2513",
-      "date": "10/11/2026",
-      "time": "9:00 PM",
-      "league": "Football | Egypt Cup",
-      "team1": "Al Mokawloon Al Arab",
-      "team2": "Egypt Telecom",
-      "logo1": "https://img.sofascore.com/api/v1/team/42365/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/395100/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2305/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001794320384-0-0-ae68708a15b2bcd76a53439955ce450e",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
     {
       "id": "2515",
       "date": "10/11/2026",
