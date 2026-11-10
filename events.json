@@ -1,6 +1,6 @@
 {
-  "last_updated": "10 Nov 2026, 11:47:24 PM BST",
-  "last_updated_iso": "2026-11-10T17:47:24.132Z",
+  "last_updated": "10 Nov 2026, 11:48:14 PM BST",
+  "last_updated_iso": "2026-11-10T17:48:14.888Z",
   "total_events": 293,
   "events": [
     {
@@ -41,6 +41,13 @@
           "name": "Server - 4",
           "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794327853-0-0-44525c9caf423baf73ec0e0328662986",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4f07acda4f5130631c054d8ef93354cf&txTime=6af3a797",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
