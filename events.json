@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 06:44:13 PM BST",
-  "last_updated_iso": "2026-11-11T12:44:13.760Z",
+  "last_updated": "11 Nov 2026, 06:45:21 PM BST",
+  "last_updated_iso": "2026-11-11T12:45:21.242Z",
   "total_events": 276,
   "events": [
     {
@@ -165,10 +165,10 @@
       "date": "12/11/2026",
       "time": "11:00 AM",
       "league": "Cricket | U19 Asia Cup 2026 - 2nd Semi Final",
-      "team1": "1st in Group B",
-      "team2": "2nd in Group A",
-      "logo1": "",
-      "logo2": "",
+      "team1": "Afghanistan Under-19",
+      "team2": "India Under-19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213103/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213112/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
       "isHot": false,
       "visibility": "public",
