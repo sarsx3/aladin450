@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 03:13:14 PM BST",
-  "last_updated_iso": "2026-11-11T09:13:14.125Z",
+  "last_updated": "11 Nov 2026, 03:14:15 PM BST",
+  "last_updated_iso": "2026-11-11T09:14:15.973Z",
   "total_events": 279,
   "events": [
     {
@@ -147,6 +147,20 @@
         {
           "name": "Server - 4",
           "url": "https://live2.zktsva.app/live/289650.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794281371-0-0-634218b345f6b9cdd2dc4c60cd6e11c0",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
