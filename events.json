@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 06:42:14 PM BST",
-  "last_updated_iso": "2026-11-11T12:42:14.548Z",
+  "last_updated": "11 Nov 2026, 06:43:13 PM BST",
+  "last_updated_iso": "2026-11-11T12:43:13.282Z",
   "total_events": 276,
   "events": [
     {
@@ -151,10 +151,10 @@
       "date": "12/11/2026",
       "time": "11:00 AM",
       "league": "Cricket | U19 Asia Cup 2026 - 1st Semi Final",
-      "team1": "1st in Group A",
-      "team2": "2nd in Group B",
-      "logo1": "",
-      "logo2": "",
+      "team1": "Pakistan Under-19",
+      "team2": "Bangladesh Under-19",
+      "logo1": "https://img.sofascore.com/api/v1/team/213104/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/213099/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11486/image",
       "isHot": false,
       "visibility": "public",
