@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 05:39:13 PM BST",
-  "last_updated_iso": "2026-11-11T11:39:13.415Z",
+  "last_updated": "11 Nov 2026, 05:40:21 PM BST",
+  "last_updated_iso": "2026-11-11T11:40:21.218Z",
   "total_events": 278,
   "events": [
     {
@@ -151,7 +151,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "VETO - aq",
+          "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "T SPORTS HD",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2530",
