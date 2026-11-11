@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 09:26:15 PM BST",
-  "last_updated_iso": "2026-11-11T15:26:15.642Z",
+  "last_updated": "11 Nov 2026, 09:27:13 PM BST",
+  "last_updated_iso": "2026-11-11T15:27:13.094Z",
   "total_events": 275,
   "events": [
     {
@@ -16,13 +16,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": [
-        {
-          "name": "Somoy TV HD",
-          "url": "https://hmairmedia.ai.studio/api/play/Somoy%20TV.m3u8",
-          "referer": "https://toffeelive.com/",
-          "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-          "drm": ""
-        },
         {
           "name": "VETO - aq",
           "url": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
