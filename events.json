@@ -1,6 +1,6 @@
 {
-  "last_updated": "11 Nov 2026, 09:34:17 PM BST",
-  "last_updated_iso": "2026-11-11T15:34:17.354Z",
+  "last_updated": "11 Nov 2026, 09:35:19 PM BST",
+  "last_updated_iso": "2026-11-11T15:35:19.213Z",
   "total_events": 275,
   "events": [
     {
@@ -18,15 +18,8 @@
       "streams": [
         {
           "name": "T SPORTS HD",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "url": "http://103.16.24.4:8083/14.m3u8",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
