@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Nov 2026, 02:21:16 AM BST",
-  "last_updated_iso": "2026-11-12T20:21:16.562Z",
+  "last_updated": "13 Nov 2026, 02:22:18 AM BST",
+  "last_updated_iso": "2026-11-12T20:22:18.703Z",
   "total_events": 252,
   "events": [
     {
@@ -409,6 +409,13 @@
           "name": "Server - 6",
           "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001794511179-0-0-dd80563998ebef9a83a751675d15ce1f",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Bein Sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
