@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Nov 2026, 12:29:16 AM BST",
-  "last_updated_iso": "2026-11-12T18:29:16.552Z",
+  "last_updated": "13 Nov 2026, 12:30:30 AM BST",
+  "last_updated_iso": "2026-11-12T18:30:30.871Z",
   "total_events": 259,
   "events": [
     {
@@ -304,6 +304,13 @@
           "name": "Server - 2",
           "url": "http://193.47.62.55/hls/V333A.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g5l5tyyxyx/out/v1/6cc87968a1d5484c9beeb7041c3f9371/cenc.mpd?|drmScheme=clearkey&drmLicense=e433b72b04b06443f8f24794d88131e7:1dd12c46939c3027d9efd66a6330e3f3",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
