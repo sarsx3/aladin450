@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Nov 2026, 10:57:13 PM BST",
-  "last_updated_iso": "2026-11-12T16:57:13.311Z",
+  "last_updated": "12 Nov 2026, 10:58:14 PM BST",
+  "last_updated_iso": "2026-11-12T16:58:14.573Z",
   "total_events": 263,
   "events": [
     {
@@ -171,6 +171,13 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://www.rtmpcdn.com/live/f19479d7-0000-4b2b-8adf-3a39c47e4bee.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -212,6 +219,13 @@
           "name": "Server - 3",
           "url": "http://193.47.62.59/hls/GGGGAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://www.rtmpcdn.com/live/48188144-5399-4da3-ab38-99af6a1a06ed.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
