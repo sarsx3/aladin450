@@ -1,6 +1,6 @@
 {
-  "last_updated": "12 Nov 2026, 11:28:15 PM BST",
-  "last_updated_iso": "2026-11-12T17:28:15.394Z",
+  "last_updated": "12 Nov 2026, 11:29:13 PM BST",
+  "last_updated_iso": "2026-11-12T17:29:13.086Z",
   "total_events": 261,
   "events": [
     {
@@ -871,7 +871,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/329/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel14.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001794503984-0-0-ec8e91e216e26ead2b7057d9d9798639",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-14/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.55/hls/V333AAAAQQQQAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2601",
