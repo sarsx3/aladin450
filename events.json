@@ -1,7 +1,7 @@
 {
-  "last_updated": "12 Nov 2026, 04:54:14 PM BST",
-  "last_updated_iso": "2026-11-12T10:54:14.464Z",
-  "total_events": 267,
+  "last_updated": "12 Nov 2026, 04:55:17 PM BST",
+  "last_updated_iso": "2026-11-12T10:55:17.300Z",
+  "total_events": 266,
   "events": [
     {
       "id": "2553",
@@ -166,20 +166,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2573",
-      "date": "12/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 23rd Match",
-      "team1": "Karnali Yaks",
-      "team2": "Lumbini Lions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZW.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2555",
