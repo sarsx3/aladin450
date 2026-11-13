@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Nov 2026, 09:25:21 PM BST",
-  "last_updated_iso": "2026-11-13T15:25:21.986Z",
+  "last_updated": "13 Nov 2026, 09:26:15 PM BST",
+  "last_updated_iso": "2026-11-13T15:26:15.647Z",
   "total_events": 232,
   "events": [
     {
@@ -14,7 +14,7 @@
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5088",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [
         {
           "name": "Server - 1",
