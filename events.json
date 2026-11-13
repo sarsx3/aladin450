@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Nov 2026, 07:38:15 PM BST",
-  "last_updated_iso": "2026-11-13T13:38:15.787Z",
+  "last_updated": "13 Nov 2026, 07:39:19 PM BST",
+  "last_updated_iso": "2026-11-13T13:39:19.016Z",
   "total_events": 232,
   "events": [
     {
@@ -1426,6 +1426,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "Mjc2NDA0N2U4NDY0OWI2NjU0YmRkZTFiM2ExMWJhY2Y6ZGU2NzAxODlkZjM3MWM1YTg0NjUzMWRlNmM3MGI4ZDU="
+        },
+        {
+          "name": "Myco - aq",
+          "url": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/stablesportstv/",
+          "referer": "https://myco.io/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
