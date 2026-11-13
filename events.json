@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Nov 2026, 11:05:18 PM BST",
-  "last_updated_iso": "2026-11-13T17:05:18.564Z",
+  "last_updated": "13 Nov 2026, 11:06:15 PM BST",
+  "last_updated_iso": "2026-11-13T17:06:15.565Z",
   "total_events": 346,
   "events": [
     {
@@ -278,6 +278,20 @@
           "name": "Server - 6",
           "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1794586028-0-0-75b0269cc480d89f4b0e4f0af906dfec",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FOX SOCCER+ HD",
+          "url": "https://chatgpt.hereisman.net/playlist/59938/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
