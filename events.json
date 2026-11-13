@@ -1,6 +1,6 @@
 {
-  "last_updated": "13 Nov 2026, 09:20:22 AM BST",
-  "last_updated_iso": "2026-11-13T03:20:22.381Z",
+  "last_updated": "13 Nov 2026, 09:21:12 AM BST",
+  "last_updated_iso": "2026-11-13T03:21:12.667Z",
   "total_events": 240,
   "events": [
     {
@@ -317,7 +317,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/team/287712/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2604",
