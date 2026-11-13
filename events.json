@@ -1,7 +1,7 @@
 {
-  "last_updated": "13 Nov 2026, 12:53:13 PM BST",
-  "last_updated_iso": "2026-11-13T06:53:13.380Z",
-  "total_events": 240,
+  "last_updated": "13 Nov 2026, 12:54:14 PM BST",
+  "last_updated_iso": "2026-11-13T06:54:14.630Z",
+  "total_events": 238,
   "events": [
     {
       "id": "2554",
@@ -461,34 +461,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2606",
-      "date": "13/11/2026",
-      "time": "12:45 PM",
-      "league": "Cricket | NPL 2026 - 24th Match",
-      "team1": "Kathmandu Gorkhas",
-      "team2": "Sudur Paschim Royals",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2607",
-      "date": "13/11/2026",
-      "time": "5:15 PM",
-      "league": "Cricket | NPL 2026 - 25th Match",
-      "team1": "Chitwan Rhinos",
-      "team2": "Janakpur Bolts",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2608",
