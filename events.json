@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 01:39:14 AM BST",
-  "last_updated_iso": "2026-11-13T19:39:14.663Z",
+  "last_updated": "14 Nov 2026, 01:40:30 AM BST",
+  "last_updated_iso": "2026-11-13T19:40:30.456Z",
   "total_events": 337,
   "events": [
     {
@@ -375,6 +375,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0518prod-PlaybackConfig/2120307/Footlive1311/ENG/master.m3u8?hdnea=exp=1794640849~acl=/*~id=59279555303462469118366859482077~hmac=ce6b00c0febf706f37f2dbe729da2a9b7325f194c09c50057577b2371678e144",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -402,6 +409,13 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001794594155-0-0-c714c6f17fdf85cbc3107d59b86aedc2",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2120305/Footlive1311/ENG/master.m3u8?hdnea=exp=1794640849~acl=/*~id=59279555303462469118366859482077~hmac=ce6b00c0febf706f37f2dbe729da2a9b7325f194c09c50057577b2371678e144",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
