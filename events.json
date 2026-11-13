@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 01:41:16 AM BST",
-  "last_updated_iso": "2026-11-13T19:41:16.656Z",
+  "last_updated": "14 Nov 2026, 01:42:27 AM BST",
+  "last_updated_iso": "2026-11-13T19:42:27.195Z",
   "total_events": 337,
   "events": [
     {
@@ -493,6 +493,13 @@
         {
           "name": "Server - 8",
           "url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
