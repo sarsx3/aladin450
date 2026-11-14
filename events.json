@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 09:46:15 PM BST",
-  "last_updated_iso": "2026-11-14T15:46:15.270Z",
+  "last_updated": "14 Nov 2026, 09:47:13 PM BST",
+  "last_updated_iso": "2026-11-14T15:47:13.337Z",
   "total_events": 305,
   "events": [
     {
@@ -2845,9 +2845,9 @@
         },
         {
           "name": "Server 9",
-          "url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8",
-          "referer": "https://www.btvlive.gov.bd",
-          "userAgent": "Mozilla/5.0",
+          "url": "https://live-sg-aws.bongobd.com/hls/v2.R4kxz0aGfBqKUQ8fDBKHtg/1794669658/bongoiptv/SAFFmatch08_mid/chunks.m3u8",
+          "referer": "",
+          "userAgent": "iphone",
           "drm": ""
         },
         {
