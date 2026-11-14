@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 05:41:14 PM BST",
-  "last_updated_iso": "2026-11-14T11:41:14.428Z",
+  "last_updated": "14 Nov 2026, 05:42:14 PM BST",
+  "last_updated_iso": "2026-11-14T11:42:14.574Z",
   "total_events": 318,
   "events": [
     {
@@ -361,43 +361,7 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001794655615-0-0-cba3eb9a028fda94bd6ac3f3984de8d4",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f76e0e754c496bc23ddacfc989e85da4&txTime=6af82d2c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1794631448-0-0-0330254d5e227e09bb09d510640e2ab5",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
+      "streams": []
     },
     {
       "id": "2639",
