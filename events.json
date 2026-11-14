@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 03:19:12 PM BST",
-  "last_updated_iso": "2026-11-14T09:19:12.616Z",
+  "last_updated": "14 Nov 2026, 03:20:23 PM BST",
+  "last_updated_iso": "2026-11-14T09:20:23.018Z",
   "total_events": 317,
   "events": [
     {
@@ -849,7 +849,7 @@
     {
       "id": "2695",
       "date": "14/11/2026",
-      "time": "3:30 PM",
+      "time": "7:30 PM",
       "league": "Cricket | Abu Dhabi T10 League 2026 - 16th Match",
       "team1": "Royal Desert Champions",
       "team2": "United Tigers",
@@ -858,7 +858,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "a sports - aq",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2696",
