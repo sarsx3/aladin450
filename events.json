@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 06:59:11 PM BST",
-  "last_updated_iso": "2026-11-14T12:59:11.943Z",
+  "last_updated": "14 Nov 2026, 07:00:30 PM BST",
+  "last_updated_iso": "2026-11-14T13:00:30.022Z",
   "total_events": 318,
   "events": [
     {
@@ -14,7 +14,7 @@
       "logo2": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
       "isHot": false,
-      "visibility": "unpublic",
+      "visibility": "public",
       "streams": [
         {
           "name": "willow - aq",
