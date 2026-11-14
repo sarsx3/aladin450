@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 09:20:20 PM BST",
-  "last_updated_iso": "2026-11-14T15:20:20.387Z",
+  "last_updated": "14 Nov 2026, 09:21:13 PM BST",
+  "last_updated_iso": "2026-11-14T15:21:13.192Z",
   "total_events": 306,
   "events": [
     {
@@ -2802,7 +2802,7 @@
       "visibility": "public",
       "streams": [
         {
-          "name": "server - hd",
+          "name": "No Buffer- hd",
           "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
