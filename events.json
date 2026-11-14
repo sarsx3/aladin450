@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 05:07:17 PM BST",
-  "last_updated_iso": "2026-11-14T11:07:17.064Z",
+  "last_updated": "14 Nov 2026, 05:08:15 PM BST",
+  "last_updated_iso": "2026-11-14T11:08:15.099Z",
   "total_events": 317,
   "events": [
     {
@@ -2994,6 +2994,20 @@
         {
           "name": "server - hd",
           "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports - hd 1",
+          "url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports - hd 2",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
