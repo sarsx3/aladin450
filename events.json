@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 03:13:12 PM BST",
-  "last_updated_iso": "2026-11-14T09:13:12.231Z",
+  "last_updated": "14 Nov 2026, 03:14:18 PM BST",
+  "last_updated_iso": "2026-11-14T09:14:18.093Z",
   "total_events": 317,
   "events": [
     {
@@ -2865,6 +2865,27 @@
           "name": "server - hd",
           "url": "httpS://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794648731-0-0-741b0e8b1c7210e4978b7d68066e3237",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c5de382b151ac3ef909d43c2727671c3&txTime=6af870e8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
