@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 10:58:13 AM BST",
-  "last_updated_iso": "2026-11-14T04:58:13.818Z",
+  "last_updated": "14 Nov 2026, 10:59:22 AM BST",
+  "last_updated_iso": "2026-11-14T04:59:22.185Z",
   "total_events": 319,
   "events": [
     {
@@ -29,6 +29,34 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NmQ5ODk4YjkyMmM3MTVkZjIzOGI4MTAwMzJmOTllMDQ6MjRjZTJmZDY2ZDc3YzczNTQwZjEyOWFlODNjOTY3ZDc="
+        },
+        {
+          "name": "sonyliv - eng",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794674585~acl=/*~id=32098817877693136048092471544629~hmac=f70fcea0abc9e0dc04291f510785321d7641158e886dde2c446c7fe684ac14a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - hin",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794674585~acl=/*~id=32098817877693136048092471544629~hmac=f70fcea0abc9e0dc04291f510785321d7641158e886dde2c446c7fe684ac14a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - tam",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794674585~acl=/*~id=32098817877693136048092471544629~hmac=f70fcea0abc9e0dc04291f510785321d7641158e886dde2c446c7fe684ac14a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - kan",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794674585~acl=/*~id=32098817877693136048092471544629~hmac=f70fcea0abc9e0dc04291f510785321d7641158e886dde2c446c7fe684ac14a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
