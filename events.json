@@ -1,6 +1,6 @@
 {
-  "last_updated": "14 Nov 2026, 10:43:23 AM BST",
-  "last_updated_iso": "2026-11-14T04:43:23.673Z",
+  "last_updated": "14 Nov 2026, 10:44:22 AM BST",
+  "last_updated_iso": "2026-11-14T04:44:22.029Z",
   "total_events": 319,
   "events": [
     {
@@ -351,7 +351,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZjcwM2ZkMDkwNDRjY2E1MmUyNTc0YjM4ZmIzMGE2Zjk6MzU0OTQ5MDBhZmFkZTI1NmIwNmRjZTlmYmQ0ZTMwMTg="
+        },
+        {
+          "name": "cbs sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZjcwM2ZkMDkwNDRjY2E1MmUyNTc0YjM4ZmIzMGE2Zjk6MzU0OTQ5MDBhZmFkZTI1NmIwNmRjZTlmYmQ0ZTMwMTg="
+        }
+      ]
     },
     {
       "id": "2650",
