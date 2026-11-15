@@ -1,7 +1,7 @@
 {
-  "last_updated": "15 Nov 2026, 07:43:11 PM BST",
-  "last_updated_iso": "2026-11-15T13:43:11.905Z",
-  "total_events": 359,
+  "last_updated": "15 Nov 2026, 07:44:14 PM BST",
+  "last_updated_iso": "2026-11-15T13:44:14.065Z",
+  "total_events": 357,
   "events": [
     {
       "id": "2662",
@@ -145,42 +145,6 @@
       "streams": []
     },
     {
-      "id": "2676",
-      "date": "15/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | AFG vs ZIM in UAE, 2026 - 2nd Test, Day 3",
-      "team1": "Afghanistan",
-      "team2": "Zimbabwe",
-      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187745/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NWM1OGU4OWU1NWI2Y2E2YjcxNTVjYzc4YzhlMjMwMGQ6OTQ5YzJjNDViN2JiZmFiMWQwOWY3YzliYjk2ZTJlNGM="
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NWM1OGU4OWU1NWI2Y2E2YjcxNTVjYzc4YzhlMjMwMGQ6OTQ5YzJjNDViN2JiZmFiMWQwOWY3YzliYjk2ZTJlNGM="
-        }
-      ]
-    },
-    {
       "id": "2679",
       "date": "15/11/2026",
       "time": "2:00 PM",
@@ -241,49 +205,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2698",
-      "date": "15/11/2026",
-      "time": "3:30 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 19th Match",
-      "team1": "Royal Desert Champions",
-      "team2": "Arabian Aces",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LL.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LI.png",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "PREMIERE2 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "a sports - aq",
-          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MDc0NjU4OGNiZjhhYzAzYjY1MjA3ZmI0ODdkOGE2NWQ6MDFkYjIxZWYzNmVmMmMwMTBlZmM2YzMyYjljY2Y0MTI="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MDc0NjU4OGNiZjhhYzAzYjY1MjA3ZmI0ODdkOGE2NWQ6MDFkYjIxZWYzNmVmMmMwMTBlZmM2YzMyYjljY2Y0MTI="
         }
       ]
     },
