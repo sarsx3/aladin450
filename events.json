@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Nov 2026, 11:57:12 PM BST",
-  "last_updated_iso": "2026-11-15T17:57:12.164Z",
+  "last_updated": "15 Nov 2026, 11:58:16 PM BST",
+  "last_updated_iso": "2026-11-15T17:58:16.080Z",
   "total_events": 351,
   "events": [
     {
@@ -265,7 +265,7 @@
           "drm": ""
         },
         {
-          "name": "LaLiga Hypermotion2",
+          "name": "LaLiga Hypermotion",
           "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd?|drmScheme=clearkey&drmLicense=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
