@@ -1,6 +1,6 @@
 {
-  "last_updated": "15 Nov 2026, 01:52:13 PM BST",
-  "last_updated_iso": "2026-11-15T07:52:13.207Z",
+  "last_updated": "15 Nov 2026, 01:53:12 PM BST",
+  "last_updated_iso": "2026-11-15T07:53:12.608Z",
   "total_events": 363,
   "events": [
     {
@@ -355,7 +355,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "M2Q4NzIzNjdkM2ZmOTI3YzRhYmYwMTk4ZGZlYjAxZDI6NDc5NDUzOTM1ODhjZjQ3OWI3MjhkZjMyN2YzYmVmNTM="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "M2Q4NzIzNjdkM2ZmOTI3YzRhYmYwMTk4ZGZlYjAxZDI6NDc5NDUzOTM1ODhjZjQ3OWI3MjhkZjMyN2YzYmVmNTM="
+        },
+        {
+          "name": "t sports hd",
+          "url": "http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2698",
