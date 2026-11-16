@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Nov 2026, 02:41:12 PM BST",
-  "last_updated_iso": "2026-11-16T08:41:12.864Z",
+  "last_updated": "16 Nov 2026, 02:42:13 PM BST",
+  "last_updated_iso": "2026-11-16T08:42:13.222Z",
   "total_events": 342,
   "events": [
     {
@@ -275,7 +275,7 @@
       "id": "2719",
       "date": "16/11/2026",
       "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 24th Match",
+      "league": "Cricket | Womens Big Bash League",
       "team1": "Sydney Thunder Women",
       "team2": "Melbourne Stars Women",
       "logo1": "https://img.sofascore.com/api/v1/team/274889/image",
@@ -894,7 +894,7 @@
       "id": "2759",
       "date": "17/11/2026",
       "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 25th Match",
+      "league": "Cricket | Womens Big Bash League",
       "team1": "Adelaide Strikers Women",
       "team2": "Sydney Sixers Women",
       "logo1": "https://img.sofascore.com/api/v1/team/274888/image",
