@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Nov 2026, 02:44:15 PM BST",
-  "last_updated_iso": "2026-11-16T08:44:15.526Z",
+  "last_updated": "16 Nov 2026, 02:45:33 PM BST",
+  "last_updated_iso": "2026-11-16T08:45:33.209Z",
   "total_events": 342,
   "events": [
     {
@@ -1546,7 +1546,7 @@
       "id": "2805",
       "date": "19/11/2026",
       "time": "2:40 PM",
-      "league": "Cricket | Womens Big Bash League 2026 - 26th Match",
+      "league": "Cricket | Womens Big Bash League",
       "team1": "Hobart Hurricanes Women",
       "team2": "Perth Scorchers Women",
       "logo1": "https://img.sofascore.com/api/v1/team/274885/image",
