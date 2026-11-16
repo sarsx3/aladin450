@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Nov 2026, 08:14:14 PM BST",
-  "last_updated_iso": "2026-11-16T14:14:14.762Z",
+  "last_updated": "16 Nov 2026, 08:15:37 PM BST",
+  "last_updated_iso": "2026-11-16T14:15:37.198Z",
   "total_events": 416,
   "events": [
     {
@@ -399,7 +399,64 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=6941dae89efe4793dd17554940bc268a&wsABSTime=1794878474",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-116.flv?auth_key=3000001794835275-0-0-daf5c602720b0f5f2fc42d51d2de326b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-116/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001794835276-0-0-0d33835fb759c9a6c1d263d458c6a0b0",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1794835448-0-0-f412648a8082c185010a74e595d33f35",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1794835688-0-0-e6b9501765ce2f002468a78c40ee8a69",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live2.jorvakstreamcache.com/live/channel2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 8",
+          "url": "https://playback.livetl004.com/live/6a5b13ceb36a14387baeddaa.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2714",
