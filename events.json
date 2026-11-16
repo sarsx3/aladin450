@@ -1,6 +1,6 @@
 {
-  "last_updated": "16 Nov 2026, 11:35:19 AM BST",
-  "last_updated_iso": "2026-11-16T05:35:19.327Z",
+  "last_updated": "16 Nov 2026, 11:36:14 AM BST",
+  "last_updated_iso": "2026-11-16T05:36:14.071Z",
   "total_events": 342,
   "events": [
     {
@@ -233,7 +233,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjY3NDVjZjg2ODQ5OTkyMDE2YTE4ZmE3MDFiYmU0Yzc6MTg2ODA0OGY2YTk2NGM3NDlmMTRmYjJmYzI2Nzg4ZjQ="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "YjY3NDVjZjg2ODQ5OTkyMDE2YTE4ZmE3MDFiYmU0Yzc6MTg2ODA0OGY2YTk2NGM3NDlmMTRmYjJmYzI2Nzg4ZjQ="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2719",
