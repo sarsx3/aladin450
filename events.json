@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Nov 2026, 05:28:12 PM BST",
-  "last_updated_iso": "2026-11-17T11:28:12.755Z",
+  "last_updated": "17 Nov 2026, 05:29:15 PM BST",
+  "last_updated_iso": "2026-11-17T11:29:15.587Z",
   "total_events": 408,
   "events": [
     {
@@ -646,6 +646,13 @@
         {
           "name": "FANCODE - sd",
           "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "star sports 2",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
