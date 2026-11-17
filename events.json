@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Nov 2026, 10:02:14 PM BST",
-  "last_updated_iso": "2026-11-17T16:02:14.622Z",
+  "last_updated": "17 Nov 2026, 10:03:15 PM BST",
+  "last_updated_iso": "2026-11-17T16:03:15.608Z",
   "total_events": 392,
   "events": [
     {
@@ -572,7 +572,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001794928893-0-0-42088748e6a6da90a78930a09f87b454",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2752",
