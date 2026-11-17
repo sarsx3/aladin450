@@ -1,8 +1,22 @@
 {
-  "last_updated": "18 Nov 2026, 12:44:16 AM BST",
-  "last_updated_iso": "2026-11-17T18:44:16.002Z",
-  "total_events": 378,
+  "last_updated": "18 Nov 2026, 12:45:30 AM BST",
+  "last_updated_iso": "2026-11-17T18:45:30.555Z",
+  "total_events": 379,
   "events": [
+    {
+      "id": "10",
+      "date": "18/11/2026",
+      "time": "6:00 AM",
+      "league": "Football | CONCACAF Nations League",
+      "team1": "USA",
+      "team2": "Haiti",
+      "logo1": "https://img.sofascore.com/api/v1/team/4724/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/7229/image",
+      "leagueLogo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
     {
       "id": "2679",
       "date": "18/11/2026",
