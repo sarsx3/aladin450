@@ -1,7 +1,7 @@
 {
-  "last_updated": "17 Nov 2026, 02:06:14 PM BST",
-  "last_updated_iso": "2026-11-17T08:06:14.860Z",
-  "total_events": 410,
+  "last_updated": "17 Nov 2026, 02:07:12 PM BST",
+  "last_updated_iso": "2026-11-17T08:07:12.805Z",
+  "total_events": 409,
   "events": [
     {
       "id": "2679",
@@ -283,49 +283,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2741",
-      "date": "17/11/2026",
-      "time": "12:00 PM",
-      "league": "Football | Friendly International",
-      "team1": "Malaysia",
-      "team2": "Yemen",
-      "logo1": "https://img.sofascore.com/api/v1/team/6912/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001794893203-0-0-6b5528ec2a7b9afcd382c1b5e46fa3db",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1794884108-0-0-f16eef251718c0116005eb2b4f50f347",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "2742",
