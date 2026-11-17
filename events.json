@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Nov 2026, 06:30:28 PM BST",
-  "last_updated_iso": "2026-11-17T12:30:28.455Z",
+  "last_updated": "17 Nov 2026, 06:31:22 PM BST",
+  "last_updated_iso": "2026-11-17T12:31:22.708Z",
   "total_events": 409,
   "events": [
     {
@@ -6070,7 +6070,43 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/10416/image",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel39.flv?wsSecret=2f59c8d7b156fbd49d35e95cb890d753&wsABSTime=1794957905",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel39/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1794915248-0-0-919738d100ce984b9fd4ee2608d0bf95",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1794915248-0-0-7a3b83a74e24880d89f4532cacf7fc4e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794915248-0-0-1425bbecf8c9af14985a01507186f27c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.zktsva.app/live/289650.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     }
   ]
 }
