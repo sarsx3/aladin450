@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Nov 2026, 11:40:22 AM BST",
-  "last_updated_iso": "2026-11-17T05:40:22.091Z",
+  "last_updated": "17 Nov 2026, 11:41:16 AM BST",
+  "last_updated_iso": "2026-11-17T05:41:16.934Z",
   "total_events": 410,
   "events": [
     {
@@ -316,7 +316,7 @@
     {
       "id": "2742",
       "date": "17/11/2026",
-      "time": "12:00 PM",
+      "time": "6:00 PM",
       "league": "Football | Friendly International",
       "team1": "China",
       "team2": "Bahrain",
@@ -543,7 +543,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "referer": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "Zjc4MGMyZjFkNWE3OWRmMjVjYmY4NGMzMTAwYWU5ZGI6MTQ3YzRlNjc1ZTY5YTEyOGVkNzgzZmFmNjdhNWI3MmM="
+        }
+      ]
     },
     {
       "id": "2759",
