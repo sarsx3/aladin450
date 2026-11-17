@@ -1,6 +1,6 @@
 {
-  "last_updated": "17 Nov 2026, 07:21:13 PM BST",
-  "last_updated_iso": "2026-11-17T13:21:13.250Z",
+  "last_updated": "17 Nov 2026, 07:22:18 PM BST",
+  "last_updated_iso": "2026-11-17T13:22:18.174Z",
   "total_events": 407,
   "events": [
     {
@@ -4850,7 +4850,22 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/2354/image",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
+      "streams": [
+        {
+          "name": "t sports hd",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd 2",
+          "url": "http://116.204.149.16/T_SportsFHD/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3051",
