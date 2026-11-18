@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Nov 2026, 05:01:16 PM BST",
-  "last_updated_iso": "2026-11-18T11:01:16.935Z",
+  "last_updated": "18 Nov 2026, 05:02:14 PM BST",
+  "last_updated_iso": "2026-11-18T11:02:14.474Z",
   "total_events": 359,
   "events": [
     {
@@ -256,7 +256,15 @@
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Myco - (bd)1",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2785",
