@@ -1,6 +1,6 @@
 {
-  "last_updated": "18 Nov 2026, 06:01:14 PM BST",
-  "last_updated_iso": "2026-11-18T12:01:14.598Z",
+  "last_updated": "18 Nov 2026, 06:02:20 PM BST",
+  "last_updated_iso": "2026-11-18T12:02:20.856Z",
   "total_events": 358,
   "events": [
     {
@@ -486,8 +486,8 @@
     {
       "id": "2803",
       "date": "19/11/2026",
-      "time": "11:00 AM",
-      "league": "Cricket | India tour of New Zealand 2026 - 1st Test, Day 1",
+      "time": "4:00 AM",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 1",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -879,7 +879,7 @@
       "id": "2831",
       "date": "20/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | India tour of New Zealand 2026 - 1st Test, Day 2",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 2",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -1831,7 +1831,7 @@
       "id": "2901",
       "date": "21/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | India tour of New Zealand 2026 - 1st Test, Day 3",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 3",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -2615,7 +2615,7 @@
       "id": "2957",
       "date": "22/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | India tour of New Zealand 2026 - 1st Test, Day 4",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 4",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
