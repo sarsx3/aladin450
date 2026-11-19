@@ -1,6 +1,6 @@
 {
-  "last_updated": "19 Nov 2026, 09:44:16 PM BST",
-  "last_updated_iso": "2026-11-19T15:44:16.486Z",
+  "last_updated": "19 Nov 2026, 09:45:32 PM BST",
+  "last_updated_iso": "2026-11-19T15:45:32.454Z",
   "total_events": 327,
   "events": [
     {
@@ -117,17 +117,17 @@
       ]
     },
     {
-      "id": "2810",
+      "id": "2811",
       "date": "19/11/2026",
-      "time": "7:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - 29th Match",
-      "team1": "Yas Lions",
-      "team2": "Royal Desert Champions",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/1LH.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/1LL.png",
+      "time": "10:00 PM",
+      "league": "Cricket | Abu Dhabi T10 League 2026 - 30th Match",
+      "team1": "Emirates Eagles",
+      "team2": "United Tigers",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/1LK.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/1LJ.png",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
-      "visibility": "public",
+      "visibility": "unpublic",
       "streams": [
         {
           "name": "PREMIERE2 SPORTS FHD",
@@ -142,20 +142,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/onhhok4gqg/out/v1/b286f1b90a364e10976bcc541a8d99c2/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "OTlhNmI4ZmQwNjJkOWFlMmZlYWIzZjc1ZWYwMjc5ZDM6MWU2MjYwNWQ2OWQ1ZmQxYWEyYjM4Njg0NjQ0YTE0NmE="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t71pl7epzb/out/v1/5e43a94e688d4cd3b1255f2e8fd5a29d/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "OTlhNmI4ZmQwNjJkOWFlMmZlYWIzZjc1ZWYwMjc5ZDM6MWU2MjYwNWQ2OWQ1ZmQxYWEyYjM4Njg0NjQ0YTE0NmE="
         }
       ]
     },
