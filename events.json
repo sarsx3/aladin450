@@ -1,7 +1,7 @@
 {
-  "last_updated": "19 Nov 2026, 12:03:13 PM BST",
-  "last_updated_iso": "2026-11-19T06:03:13.854Z",
-  "total_events": 337,
+  "last_updated": "19 Nov 2026, 12:04:14 PM BST",
+  "last_updated_iso": "2026-11-19T06:04:14.328Z",
+  "total_events": 336,
   "events": [
     {
       "id": "2679",
@@ -153,9 +153,9 @@
     },
     {
       "id": "2803",
-      "date": "19/11/2026",
+      "date": "20/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 1",
+      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 2",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -618,20 +618,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/22009/image",
       "logo2": "https://img.sofascore.com/api/v1/team/5133/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2831",
-      "date": "20/11/2026",
-      "time": "4:00 AM",
-      "league": "Cricket | IND vs NZ, 2026 - 1st Test, Day 2",
-      "team1": "New Zealand",
-      "team2": "India",
-      "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
