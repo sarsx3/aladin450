@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Nov 2026, 02:57:12 PM BST",
-  "last_updated_iso": "2026-11-20T08:57:12.579Z",
+  "last_updated": "20 Nov 2026, 02:58:14 PM BST",
+  "last_updated_iso": "2026-11-20T08:58:14.321Z",
   "total_events": 314,
   "events": [
     {
@@ -4370,6 +4370,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "YzE4MGVkYWMwMDllYzJiM2RkYzk4MjJmM2FlODE0YzM6Yjk0ZDMyN2ZkODFkZDdhNWE0M2EwYTdiZDczN2RkOGE="
+        },
+        {
+          "name": "STARZPLAY FHD",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ten sports",
+          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
