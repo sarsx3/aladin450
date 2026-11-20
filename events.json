@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Nov 2026, 05:27:14 PM BST",
-  "last_updated_iso": "2026-11-20T11:27:14.188Z",
+  "last_updated": "20 Nov 2026, 05:28:15 PM BST",
+  "last_updated_iso": "2026-11-20T11:28:15.831Z",
   "total_events": 369,
   "events": [
     {
@@ -1283,11 +1283,11 @@
       "id": "2906",
       "date": "21/11/2026",
       "time": "5:15 PM",
-      "league": "Cricket | Nepal Premier League 2026 - Final",
-      "team1": "TBC",
-      "team2": "TBC",
-      "logo1": "",
-      "logo2": "",
+      "league": "Cricket | Nepal Premier League  - Final",
+      "team1": "Lumbini Lions",
+      "team2": "Sudurpaschim Royals",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/ZY.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "isHot": false,
       "visibility": "public",
