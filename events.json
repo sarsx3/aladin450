@@ -1,7 +1,7 @@
 {
-  "last_updated": "20 Nov 2026, 04:40:27 PM BST",
-  "last_updated_iso": "2026-11-20T10:40:27.569Z",
-  "total_events": 314,
+  "last_updated": "20 Nov 2026, 04:41:13 PM BST",
+  "last_updated_iso": "2026-11-20T10:41:13.184Z",
+  "total_events": 313,
   "events": [
     {
       "id": "2803",
@@ -308,26 +308,12 @@
     {
       "id": "2834",
       "date": "20/11/2026",
-      "time": "5:30 PM",
+      "time": "7:30 PM",
       "league": "Cricket | ABU DHABI T10 LEAGUE",
       "team1": "ABU DHABI T10 LEAGUE",
       "team2": "ABU DHABI T10 LEAGUE",
       "logo1": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
       "logo2": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "2835",
-      "date": "20/11/2026",
-      "time": "7:45 PM",
-      "league": "Cricket | Abu Dhabi T10 League 2026 - Final",
-      "team1": "TBC",
-      "team2": "TBC",
-      "logo1": "",
-      "logo2": "",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image",
       "isHot": false,
       "visibility": "public",
