@@ -1,6 +1,6 @@
 {
-  "last_updated": "20 Nov 2026, 04:42:14 PM BST",
-  "last_updated_iso": "2026-11-20T10:42:14.972Z",
+  "last_updated": "20 Nov 2026, 04:43:21 PM BST",
+  "last_updated_iso": "2026-11-20T10:43:21.852Z",
   "total_events": 313,
   "events": [
     {
@@ -294,7 +294,7 @@
     {
       "id": "2833",
       "date": "20/11/2026",
-      "time": "6:40 PM",
+      "time": "2:10 PM",
       "league": "Cricket | Womens Big Bash League 2026 - 28th Match",
       "team1": "Adelaide Strikers Women",
       "team2": "Melbourne Renegades Women",
@@ -303,7 +303,29 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NGRiMjYxMjA4NmVkOTg1YWUwMjlmZTcxYTNiNTY0Mzk6YTdlNDU5MzBiYTRmYmNmNTFjYjEyNTIyYWM0MzNjYTE="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fk6ka0whhr/out/v1/ef8739158e254282a97530153688db81/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NGRiMjYxMjA4NmVkOTg1YWUwMjlmZTcxYTNiNTY0Mzk6YTdlNDU5MzBiYTRmYmNmNTFjYjEyNTIyYWM0MzNjYTE="
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2834",
