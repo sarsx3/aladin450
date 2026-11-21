@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 09:38:13 PM BST",
-  "last_updated_iso": "2026-11-21T15:38:13.641Z",
+  "last_updated": "21 Nov 2026, 09:39:11 PM BST",
+  "last_updated_iso": "2026-11-21T15:39:11.410Z",
   "total_events": 322,
   "events": [
     {
@@ -428,6 +428,13 @@
         {
           "name": "Server - 9",
           "url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2vymmad2st/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/cenc.mpd?|drmScheme=clearkey&drmLicense=1790bcaba3ab56be928ab458f11bac7e:6c2b33413d2847d4e1408639b44558cf",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
