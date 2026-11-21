@@ -1,7 +1,7 @@
 {
-  "last_updated": "21 Nov 2026, 10:14:14 AM BST",
-  "last_updated_iso": "2026-11-21T04:14:14.678Z",
-  "total_events": 345,
+  "last_updated": "21 Nov 2026, 10:15:21 AM BST",
+  "last_updated_iso": "2026-11-21T04:15:21.118Z",
+  "total_events": 344,
   "events": [
     {
       "id": "2803",
@@ -998,20 +998,6 @@
           "drm": "NjAxMmNlNGFmNGNhZDUyNmI3MzBhN2RjODMwYmIzNWQ6ODAyODAxNjNjYzZhYWQzOTg1YTIyZWJmMmYwODJlNzY="
         }
       ]
-    },
-    {
-      "id": "2904",
-      "date": "21/11/2026",
-      "time": "10:30 AM",
-      "league": "Cricket | SL vs PAK, 2026 - 2nd Test, Day 5",
-      "team1": "Pakistan",
-      "team2": "Sri Lanka",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2905",
