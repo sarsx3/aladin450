@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 07:47:17 PM BST",
-  "last_updated_iso": "2026-11-21T13:47:17.429Z",
+  "last_updated": "21 Nov 2026, 07:48:14 PM BST",
+  "last_updated_iso": "2026-11-21T13:48:14.590Z",
   "total_events": 340,
   "events": [
     {
@@ -314,6 +314,20 @@
         {
           "name": "Server - 10",
           "url": "https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://live.vivo155.com/live/hd-en-1-4558489.m3u8?txSecret=4b178d5136886b00aeb93effe05b134c&txTime=6B01A1F1",
+          "referer": "https://player.on8on8.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Hd quality 2",
+          "url": "https://www.rtmpcdn.com/live/c146aa6b-a552-4a21-8781-aa878a63c43b.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
