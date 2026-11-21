@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 09:22:14 PM BST",
-  "last_updated_iso": "2026-11-21T15:22:14.198Z",
+  "last_updated": "21 Nov 2026, 09:23:11 PM BST",
+  "last_updated_iso": "2026-11-21T15:23:11.798Z",
   "total_events": 322,
   "events": [
     {
@@ -258,6 +258,34 @@
         {
           "name": "Server - 8",
           "url": "https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY SPORT DE FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd??|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FHD STREAMING",
+          "url": "http://p-cdn1-602-cg15-linear-cbd46b77.movetv.com/clipslist/633/20261121T000000Z/20261122T000000Z/spanning_ads.mpd?|drmScheme=clearkey&drmLicense=118eb1dcaf864f4cbf8a400fbb873c76:0fa46e88821485b021fed97d97cc72d0",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Hd quality",
+          "url": "https://chatgpt.hereisman.net/playlist/60602/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality 2",
+          "url": "https://www.rtmpcdn.com/live/bb53c010-aa9e-4eaf-8c8d-d93f39f33707.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -579,6 +607,20 @@
           "name": "hd quality",
           "url": "https://live1.quickscoreboardz.com/live/channel69.flv?wsSecret=c62103e13b17ebc0464ecc22497a103f&wsABSTime=1795314353",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel69/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BD Server - 1080p",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4250012_english_hls_93ef3e7cb074932_1ta-di_h264/1080p.m3u8?hdntl=Expires=1795360679~_GO=Generated~acl=/mumbai/4250012_english_hls_93ef3e7cb074932_1ta-di_h264/*~SessionID=1890000065807_fc-web_6015eeee-2143-44~Signature=AQYPRu_PfpupvvNGmkPLj1GbNF2aMZzY1YKVJeqBx3BLWSXHsyRr3POH4jBZ4Sc5spPDMgqQuNiav55NYe2m-PEMlWUA",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BD Server - 720p",
+          "url": "https://bd-mc-flive.fancode.com/mumbai/4250012_english_hls_93ef3e7cb074932_1ta-di_h264/720p.m3u8?hdntl=Expires=1795360679~_GO=Generated~acl=/mumbai/4250012_english_hls_93ef3e7cb074932_1ta-di_h264/*~SessionID=1890000065807_fc-web_6015eeee-2143-44~Signature=AQYPRu_PfpupvvNGmkPLj1GbNF2aMZzY1YKVJeqBx3BLWSXHsyRr3POH4jBZ4Sc5spPDMgqQuNiav55NYe2m-PEMlWUA",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
