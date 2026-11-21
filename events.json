@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 08:16:22 PM BST",
-  "last_updated_iso": "2026-11-21T14:16:22.386Z",
+  "last_updated": "21 Nov 2026, 08:17:13 PM BST",
+  "last_updated_iso": "2026-11-21T14:17:13.670Z",
   "total_events": 337,
   "events": [
     {
@@ -5423,7 +5423,22 @@
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjE0MDNiYTEzZTAwMzIxMDhiODZlYzMwNzgzMTRlYzk6ZWMyYWM1M2QzNzk1NGQ1MWRkNGQ5ZWIxMWVjZjMyMmI="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjE0MDNiYTEzZTAwMzIxMDhiODZlYzMwNzgzMTRlYzk6ZWMyYWM1M2QzNzk1NGQ1MWRkNGQ5ZWIxMWVjZjMyMmI="
+        }
+      ]
     },
     {
       "id": "3199",
