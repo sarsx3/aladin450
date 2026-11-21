@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 08:19:21 PM BST",
-  "last_updated_iso": "2026-11-21T14:19:21.828Z",
+  "last_updated": "21 Nov 2026, 08:20:20 PM BST",
+  "last_updated_iso": "2026-11-21T14:20:20.898Z",
   "total_events": 337,
   "events": [
     {
@@ -1119,6 +1119,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "CBS NETWORK HD",
+          "url": "https://chatgpt.hereisman.net/playlist/60594/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -1160,6 +1167,13 @@
           "name": "Server - 4",
           "url": "https://playback.livetl004.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "CBS NETWORK HD",
+          "url": "https://chatgpt.hereisman.net/playlist/60595/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
