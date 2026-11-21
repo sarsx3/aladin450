@@ -1,7 +1,7 @@
 {
-  "last_updated": "21 Nov 2026, 11:44:15 PM BST",
-  "last_updated_iso": "2026-11-21T17:44:15.737Z",
-  "total_events": 285,
+  "last_updated": "21 Nov 2026, 11:45:20 PM BST",
+  "last_updated_iso": "2026-11-21T17:45:20.172Z",
+  "total_events": 284,
   "events": [
     {
       "id": "2803",
@@ -3751,42 +3751,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "3132",
-      "date": "21/11/2026",
-      "time": "4:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Bangladesh A",
-      "team2": "Afghanistan A",
-      "logo1": "https://img.sofascore.com/api/v1/team/187744/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187575/image",
-      "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv - aq",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795296284~acl=/*~id=84323317474479880796257696539958~hmac=15092a6740dcc2466afd0e9ce6219ab83b36c7dda50482e6d1e7b8f06c6e8a59",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NDZiYmY2NDUxMjJkZTBkZjBjZDBiMTlkNDQ4N2UyY2U6NDVlODQ5NTcyNjhjZTU2ZDUzYWU2ZDBmYWRlYzU5NjQ="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NDZiYmY2NDUxMjJkZTBkZjBjZDBiMTlkNDQ4N2UyY2U6NDVlODQ5NTcyNjhjZTU2ZDUzYWU2ZDBmYWRlYzU5NjQ="
-        }
-      ]
     },
     {
       "id": "3133",
