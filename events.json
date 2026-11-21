@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Nov 2026, 12:05:16 AM BST",
-  "last_updated_iso": "2026-11-21T18:05:16.175Z",
-  "total_events": 284,
+  "last_updated": "22 Nov 2026, 12:06:15 AM BST",
+  "last_updated_iso": "2026-11-21T18:06:15.335Z",
+  "total_events": 283,
   "events": [
     {
       "id": "2803",
@@ -307,6 +307,13 @@
         {
           "name": "Server - 11",
           "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795275789-0-0-2def2c2a50f7de6f92cbb483d8c98455",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality 2",
+          "url": "https://www.rtmpcdn.com/live/0a80573d-0eab-44e1-b4f2-2cc2f5e6b1b2.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -728,28 +735,6 @@
           "name": "Hd quality",
           "url": "https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=5ed60c245aa8046a24e7f96c05e885af&wsABSTime=1795321204",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2900",
-      "date": "21/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Kocaelispor",
-      "team2": "Fenerbahce",
-      "logo1": "https://img.sofascore.com/api/v1/team/3065/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3052/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=92c94e95db79e88739e36883f9479b08&wsABSTime=1795314110",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
