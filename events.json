@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 11:57:13 PM BST",
-  "last_updated_iso": "2026-11-21T17:57:13.170Z",
+  "last_updated": "21 Nov 2026, 11:58:13 PM BST",
+  "last_updated_iso": "2026-11-21T17:58:13.714Z",
   "total_events": 284,
   "events": [
     {
@@ -593,6 +593,13 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795278076-0-0-d81b138cc2c5196c14a442d64dbce616",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/73fd3ada-f607-44df-ba64-4099b0bc1b2d.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
