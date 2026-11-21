@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 11:43:18 PM BST",
-  "last_updated_iso": "2026-11-21T17:43:18.412Z",
+  "last_updated": "21 Nov 2026, 11:44:15 PM BST",
+  "last_updated_iso": "2026-11-21T17:44:15.737Z",
   "total_events": 285,
   "events": [
     {
@@ -718,7 +718,15 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=84abde62de47e6af94e28fda4b11a2e6&wsABSTime=1795321249",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2908",
