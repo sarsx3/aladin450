@@ -1,6 +1,6 @@
 {
-  "last_updated": "21 Nov 2026, 08:47:11 PM BST",
-  "last_updated_iso": "2026-11-21T14:47:11.858Z",
+  "last_updated": "21 Nov 2026, 08:48:14 PM BST",
+  "last_updated_iso": "2026-11-21T14:48:14.323Z",
   "total_events": 336,
   "events": [
     {
@@ -853,7 +853,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel33.flv?wsSecret=7b210109d170c845c1c95acbf6371e35&wsABSTime=1795314310",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel33/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2852",
@@ -867,7 +875,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel34.flv?wsSecret=4c6e85396ccb1629307724e075392540&wsABSTime=1795314300",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel34/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2853",
@@ -881,7 +897,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel25.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001795271088-0-0-619beffafdd9fd83076f0f7b19fd1be8",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2854",
@@ -895,7 +926,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel32.flv?wsSecret=d6b74638179e3ac071e7c6ac6e605fe3&wsABSTime=1795314140",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel32/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2855",
@@ -909,7 +948,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=747567ff4c87ddbb913f1d84d5ce8c38&wsABSTime=1795314117",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2856",
