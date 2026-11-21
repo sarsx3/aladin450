@@ -1,7 +1,7 @@
 {
-  "last_updated": "21 Nov 2026, 10:19:12 PM BST",
-  "last_updated_iso": "2026-11-21T16:19:12.707Z",
-  "total_events": 320,
+  "last_updated": "21 Nov 2026, 10:20:21 PM BST",
+  "last_updated_iso": "2026-11-21T16:20:21.501Z",
+  "total_events": 318,
   "events": [
     {
       "id": "2803",
@@ -1305,113 +1305,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2881",
-      "date": "21/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | Serie A",
-      "team1": "Lazio",
-      "team2": "Lecce",
-      "logo1": "https://img.sofascore.com/api/v1/team/2699/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2689/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "SPORT1 CZ FHD",
-          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd?|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795263728-0-0-906930782e5b665300900a43f6397bbb",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel22.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "CBS NETWORK HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60594/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2882",
-      "date": "21/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | Serie A",
-      "team1": "Como",
-      "team2": "Cagliari",
-      "logo1": "https://img.sofascore.com/api/v1/team/2704/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2719/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795263639-0-0-6c099bbc92ce97f1d49029f64556668b",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel10.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://playback.livetl004.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "CBS NETWORK HD",
-          "url": "https://chatgpt.hereisman.net/playlist/60595/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "2883",
