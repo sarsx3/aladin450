@@ -1,7 +1,7 @@
 {
-  "last_updated": "21 Nov 2026, 10:01:11 PM BST",
-  "last_updated_iso": "2026-11-21T16:01:11.744Z",
-  "total_events": 322,
+  "last_updated": "21 Nov 2026, 10:02:22 PM BST",
+  "last_updated_iso": "2026-11-21T16:02:22.149Z",
+  "total_events": 320,
   "events": [
     {
       "id": "2803",
@@ -4823,42 +4823,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "3153",
-      "date": "21/11/2026",
-      "time": "7:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Cameroon U17",
-      "team2": "Venezuela U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4751/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "D SPORTS ++ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd?|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "3154",
-      "date": "21/11/2026",
-      "time": "8:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Dom Rep U20",
-      "team2": "Montenegro U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/21813/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7139/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
