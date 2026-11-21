@@ -1,7 +1,7 @@
 {
-  "last_updated": "21 Nov 2026, 10:13:15 AM BST",
-  "last_updated_iso": "2026-11-21T04:13:15.696Z",
-  "total_events": 346,
+  "last_updated": "21 Nov 2026, 10:14:14 AM BST",
+  "last_updated_iso": "2026-11-21T04:14:14.678Z",
+  "total_events": 345,
   "events": [
     {
       "id": "2803",
@@ -962,49 +962,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2902",
-      "date": "21/11/2026",
-      "time": "7:00 AM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Hobart Hurricanes Women",
-      "team2": "Sydney Thunder Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274885/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274889/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/suaftkmidi/out/v1/f2b9479cc026404b986f0362efa396f3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ODUxMDA3OGVkYzY3MjAyMmViNmQ2NjVkMWU1MjQ4OTA6YWIxN2IyOTRjODc1YmEyZWRhNmVjOGU1YTg1NDVjNWI="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/suaftkmidi/out/v1/f2b9479cc026404b986f0362efa396f3/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ODUxMDA3OGVkYzY3MjAyMmViNmQ2NjVkMWU1MjQ4OTA6YWIxN2IyOTRjODc1YmEyZWRhNmVjOGU1YTg1NDVjNWI="
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "2903",
