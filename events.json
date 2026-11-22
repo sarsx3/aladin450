@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Nov 2026, 02:09:15 PM BST",
-  "last_updated_iso": "2026-11-22T08:09:15.441Z",
-  "total_events": 253,
+  "last_updated": "22 Nov 2026, 02:10:29 PM BST",
+  "last_updated_iso": "2026-11-22T08:10:29.970Z",
+  "total_events": 252,
   "events": [
     {
       "id": "2803",
@@ -663,14 +663,14 @@
       "streams": []
     },
     {
-      "id": "2958",
+      "id": "2959",
       "date": "22/11/2026",
-      "time": "10:40 AM",
+      "time": "2:10 PM",
       "league": "Cricket | Womens Big Bash League",
-      "team1": "Brisbane Heat Women",
-      "team2": "Adelaide Strikers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274884/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274888/image",
+      "team1": "Melbourne Stars Women",
+      "team2": "Melbourne Renegades Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
@@ -691,39 +691,17 @@
         },
         {
           "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjkxYjhiZjA2ZjNlNzkxZTQxMjM4YjQxOTAzMTFjOWU6ZWZmNWI4ZmFmZWYxZjhiM2Q5ODhiZTM4ZmY3ZTUzOWU="
+          "drm": "ZTkyOWZmYmYwMTkwMDk4YzUyZmEyYzY4OWRkMjMxMWU6YjQ5OWVhN2ExYzg1NGVhZGRiZjMwMjFhN2IzZDQwYmM="
         },
         {
           "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZjkxYjhiZjA2ZjNlNzkxZTQxMjM4YjQxOTAzMTFjOWU6ZWZmNWI4ZmFmZWYxZjhiM2Q5ODhiZTM4ZmY3ZTUzOWU="
-        }
-      ]
-    },
-    {
-      "id": "2959",
-      "date": "22/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Melbourne Stars Women",
-      "team2": "Melbourne Renegades Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
+          "drm": "ZTkyOWZmYmYwMTkwMDk4YzUyZmEyYzY4OWRkMjMxMWU6YjQ5OWVhN2ExYzg1NGVhZGRiZjMwMjFhN2IzZDQwYmM="
         }
       ]
     },
