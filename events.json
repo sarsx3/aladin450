@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Nov 2026, 10:19:11 PM BST",
-  "last_updated_iso": "2026-11-22T16:19:11.449Z",
-  "total_events": 229,
+  "last_updated": "22 Nov 2026, 10:20:23 PM BST",
+  "last_updated_iso": "2026-11-22T16:20:23.627Z",
+  "total_events": 228,
   "events": [
     {
       "id": "2803",
@@ -241,20 +241,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "2914",
-      "date": "22/11/2026",
-      "time": "10:30 PM",
-      "league": "Football | Liga Pro",
-      "team1": "Manta",
-      "team2": "Dep. Macara",
-      "logo1": "https://img.sofascore.com/api/v1/team/33561/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/9143",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "2916",
