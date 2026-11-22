@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 08:44:13 PM BST",
-  "last_updated_iso": "2026-11-22T14:44:13.987Z",
+  "last_updated": "22 Nov 2026, 08:45:20 PM BST",
+  "last_updated_iso": "2026-11-22T14:45:20.847Z",
   "total_events": 240,
   "events": [
     {
@@ -682,6 +682,34 @@
         {
           "name": "Server - 6",
           "url": "https://playback.livetl004.com/live/6acdcf4a1ba0f2f86b254fe9.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxxah1myjm/out/v1/9b0c7bbcc99a4539b6eb2ffe77048ca6/cenc.mpd?|drmScheme=clearkey&drmLicense=a3905df77a0f4f5409bfbf901345bb69:1a6bc6e46e0339630faca2ed34b71513",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/potbuhlawn/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd?|drmScheme=clearkey&drmLicense=fcd4a3d9f5fe24e9c3eb323458680c59:2b21cb04e30e401ebd07bf64dfeb066e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN ITALIA FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/opusseeono/out/v1/6fecb0e242fa414487a3a2103a171cf1/cenc.mpd?|drmScheme=clearkey&drmLicense=a40dac702f4fa560f92dee486609b84a:f17ad4671c9a0922c70c0287f55d4d18",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK ES FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yg44jjaxhj/out/v1/3bc7702a193b4af3a3c8d0f0871e4aea/cenc.mpd?|drmScheme=clearkey&drmLicense=d2a1fa2605dbc918565d79a807fe0945:cfbcb59890e7f0e65a51f1ebff38c2b8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
