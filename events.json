@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 11:40:21 PM BST",
-  "last_updated_iso": "2026-11-22T17:40:21.123Z",
+  "last_updated": "22 Nov 2026, 11:41:12 PM BST",
+  "last_updated_iso": "2026-11-22T17:41:12.213Z",
   "total_events": 219,
   "events": [
     {
@@ -419,6 +419,13 @@
         {
           "name": "hd quality 2",
           "url": "https://www.rtmpcdn.com/live/c9af7ae1-65c7-4a0a-ae40-ab2f4d1655d7.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "BEIN SPORTS ARABIC HD",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/33.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
