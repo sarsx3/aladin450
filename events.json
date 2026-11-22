@@ -1,7 +1,7 @@
 {
-  "last_updated": "23 Nov 2026, 05:09:13 AM BST",
-  "last_updated_iso": "2026-11-22T23:09:13.707Z",
-  "total_events": 201,
+  "last_updated": "23 Nov 2026, 05:10:20 AM BST",
+  "last_updated_iso": "2026-11-22T23:10:20.006Z",
+  "total_events": 200,
   "events": [
     {
       "id": "2803",
@@ -563,35 +563,6 @@
         {
           "name": "low quality",
           "url": "http://193.47.62.44/hls/ZIIIAAAqQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2975",
-      "date": "23/11/2026",
-      "time": "3:00 AM",
-      "league": "Football | Copa de Primera",
-      "team1": "Olimpia",
-      "team2": "Sportivo Trinidense",
-      "logo1": "https://img.sofascore.com/api/v1/team/5997/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/39722/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=b02dd245104172a0594de429010a6663&wsABSTime=1795411362",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Low quality",
-          "url": "http://193.47.62.44/hls/ZIIIAA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
