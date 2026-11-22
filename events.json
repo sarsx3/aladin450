@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 01:56:13 AM BST",
-  "last_updated_iso": "2026-11-22T19:56:13.721Z",
+  "last_updated": "23 Nov 2026, 01:57:11 AM BST",
+  "last_updated_iso": "2026-11-22T19:57:11.724Z",
   "total_events": 209,
   "events": [
     {
@@ -548,6 +548,13 @@
         {
           "name": "BEIN SPORTS 2 HD",
           "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "STAR SPORTS SELECT 2 HD",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/8.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
