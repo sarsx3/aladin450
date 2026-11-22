@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Nov 2026, 10:21:11 PM BST",
-  "last_updated_iso": "2026-11-22T16:21:11.323Z",
-  "total_events": 228,
+  "last_updated": "22 Nov 2026, 10:22:21 PM BST",
+  "last_updated_iso": "2026-11-22T16:22:21.169Z",
+  "total_events": 227,
   "events": [
     {
       "id": "2803",
@@ -491,6 +491,13 @@
           "name": "Server - 6",
           "url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -3416,20 +3423,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "3164",
-      "date": "22/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Ecuador U17",
-      "team2": "Mozambique U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4757/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4783/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "3165",
