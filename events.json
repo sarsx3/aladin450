@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 11:56:16 AM BST",
-  "last_updated_iso": "2026-11-22T05:56:16.307Z",
+  "last_updated": "22 Nov 2026, 11:57:15 AM BST",
+  "last_updated_iso": "2026-11-22T05:57:15.176Z",
   "total_events": 254,
   "events": [
     {
@@ -3055,6 +3055,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "starzplay - aq",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MGFlNGYxNjJlZWMzZTZmMmI1ODBhNWJmMGY0YTY0ZDQ6MDM0ODMzMzVkYjgxY2JhNWJiY2Y1MWI2ZDMxMTk2ZDk="
         }
       ]
     },
