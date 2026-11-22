@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 08:49:21 PM BST",
-  "last_updated_iso": "2026-11-22T14:49:21.108Z",
+  "last_updated": "22 Nov 2026, 08:50:21 PM BST",
+  "last_updated_iso": "2026-11-22T14:50:21.408Z",
   "total_events": 240,
   "events": [
     {
@@ -3833,16 +3833,38 @@
     {
       "id": "3165",
       "date": "22/11/2026",
-      "time": "11:00 PM",
+      "time": "9:30 PM",
       "league": "Football | U17 World Championship",
       "team1": "Argentina U17",
-      "team2": "Uganda U17",
+      "team2": "Mozambique U17",
       "logo1": "https://img.sofascore.com/api/v1/team/4819/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4726/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1126751/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "TUDN MEXICO FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd?|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "CANAL5 MX+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd?|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=6d7d62e964889cc36dcdf7a0ca5d6931&wsABSTime=1795400357",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3166",
