@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 02:54:14 AM BST",
-  "last_updated_iso": "2026-11-22T20:54:14.610Z",
+  "last_updated": "23 Nov 2026, 02:55:19 AM BST",
+  "last_updated_iso": "2026-11-22T20:55:19.592Z",
   "total_events": 209,
   "events": [
     {
@@ -665,6 +665,13 @@
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/ZIIIAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -682,9 +689,16 @@
       "visibility": "public",
       "streams": [
         {
-          "name": "Server - 1",
+          "name": "hd quality",
           "url": "https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=b02dd245104172a0594de429010a6663&wsABSTime=1795411362",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Low quality",
+          "url": "http://193.47.62.44/hls/ZIIIAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
