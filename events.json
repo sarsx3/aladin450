@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 09:24:14 PM BST",
-  "last_updated_iso": "2026-11-22T15:24:14.331Z",
+  "last_updated": "22 Nov 2026, 09:25:17 PM BST",
+  "last_updated_iso": "2026-11-22T15:25:17.039Z",
   "total_events": 236,
   "events": [
     {
@@ -938,6 +938,13 @@
           "name": "Tapmad - (bd)",
           "url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "CANAL5 MX+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd?|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
