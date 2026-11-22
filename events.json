@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Nov 2026, 06:07:13 PM BST",
-  "last_updated_iso": "2026-11-22T12:07:13.023Z",
-  "total_events": 252,
+  "last_updated": "22 Nov 2026, 06:08:20 PM BST",
+  "last_updated_iso": "2026-11-22T12:08:20.286Z",
+  "total_events": 250,
   "events": [
     {
       "id": "2803",
@@ -777,49 +777,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2959",
-      "date": "22/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Melbourne Stars Women",
-      "team2": "Melbourne Renegades Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "willow sports - aq",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZTkyOWZmYmYwMTkwMDk4YzUyZmEyYzY4OWRkMjMxMWU6YjQ5OWVhN2ExYzg1NGVhZGRiZjMwMjFhN2IzZDQwYmM="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "ZTkyOWZmYmYwMTkwMDk4YzUyZmEyYzY4OWRkMjMxMWU6YjQ5OWVhN2ExYzg1NGVhZGRiZjMwMjFhN2IzZDQwYmM="
-        }
-      ]
     },
     {
       "id": "2960",
@@ -3116,56 +3073,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "3133",
-      "date": "22/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "United Arab Emirates",
-      "team2": "Nepal",
-      "logo1": "https://img.sofascore.com/api/v1/team/4727/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187772/image",
-      "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv - aq",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795369765~acl=/*~id=66135959852873016590239154379660~hmac=0aedb9ac3457175d10c8bef8868cf21c994db2e4df99f8eb3144e778cb04ff06",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "starzplay - aq",
-          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "starzplay - aq",
-          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "MGFlNGYxNjJlZWMzZTZmMmI1ODBhNWJmMGY0YTY0ZDQ6MDM0ODMzMzVkYjgxY2JhNWJiY2Y1MWI2ZDMxMTk2ZDk="
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NzM0MWYxNjA4MWVjYjkyZWQxNzJlZjlkZjZmNDQzY2U6NTY2YjhjZjBhMzEyNTVkNTU3ODViMjRhZGUwYTk5OWM="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NzM0MWYxNjA4MWVjYjkyZWQxNzJlZjlkZjZmNDQzY2U6NTY2YjhjZjBhMzEyNTVkNTU3ODViMjRhZGUwYTk5OWM="
-        }
-      ]
     },
     {
       "id": "3134",
