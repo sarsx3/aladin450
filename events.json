@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 10:08:13 PM BST",
-  "last_updated_iso": "2026-11-22T16:08:13.810Z",
+  "last_updated": "22 Nov 2026, 10:09:13 PM BST",
+  "last_updated_iso": "2026-11-22T16:09:13.881Z",
   "total_events": 233,
   "events": [
     {
@@ -3589,6 +3589,20 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001795353923-0-0-87adf9ffa99d02d6d69faf03acfb0839",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "D SPORTS + FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd?|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/DUUUV.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
