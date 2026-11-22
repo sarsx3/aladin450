@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 07:03:12 PM BST",
-  "last_updated_iso": "2026-11-22T13:03:12.281Z",
+  "last_updated": "22 Nov 2026, 07:04:25 PM BST",
+  "last_updated_iso": "2026-11-22T13:04:25.334Z",
   "total_events": 249,
   "events": [
     {
@@ -855,6 +855,13 @@
           "name": "Server - 8",
           "url": "https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
