@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 07:31:15 PM BST",
-  "last_updated_iso": "2026-11-22T13:31:15.054Z",
+  "last_updated": "22 Nov 2026, 07:32:13 PM BST",
+  "last_updated_iso": "2026-11-22T13:32:13.644Z",
   "total_events": 249,
   "events": [
     {
@@ -862,6 +862,41 @@
           "name": "Tapmad - (bd)",
           "url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN fhd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/at5ay8ceup/out/v1/a494c8de4aad410a9feef3d2892f1484/cenc.mpd?|drmScheme=clearkey&drmLicense=63659c752b5df41f277460df8f246225:4f2376463fcdb6a10d2a863e8bfd2902",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "D SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd?|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u8ummoryxo/out/v1/34c6b6d4f2e340fcb56e3eb5a0d9726c/cenc.mpd?|drmScheme=clearkey&drmLicense=010dc235ab05b5db4436db71e6b118e5:91a2d52f1e744d5b45f8000b379303d6",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ESPN DEPORTES+HD",
+          "url": "https://chatgpt.hereisman.net/playlist/60725/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/8b610bde-4b1e-4242-b997-274b9e6c7943.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
