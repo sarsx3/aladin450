@@ -1,7 +1,7 @@
 {
-  "last_updated": "22 Nov 2026, 09:07:20 PM BST",
-  "last_updated_iso": "2026-11-22T15:07:20.127Z",
-  "total_events": 240,
+  "last_updated": "22 Nov 2026, 09:08:14 PM BST",
+  "last_updated_iso": "2026-11-22T15:08:14.121Z",
+  "total_events": 237,
   "events": [
     {
       "id": "2803",
@@ -1099,35 +1099,6 @@
       "streams": []
     },
     {
-      "id": "2946",
-      "date": "22/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Cordoba",
-      "team2": "Real Oviedo",
-      "logo1": "https://img.sofascore.com/api/v1/team/2850/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2851/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "LaLiga Hypermotion",
-          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd?|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel38.flv?wsSecret=28016ebf2fd5ba3521b83711e44411bc&wsABSTime=1795392095",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "2947",
       "date": "22/11/2026",
       "time": "9:15 PM",
@@ -1183,71 +1154,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2951",
-      "date": "22/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Konyaspor",
-      "team2": "Besiktas",
-      "logo1": "https://img.sofascore.com/api/v1/team/3085/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3050/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "BeIN SPORTS - FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live2.tanrixstreamorigin.com/live/channel22.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795349016-0-0-eb83937b8ab6bbd0ce1b247ae228ae35",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2952",
-      "date": "22/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Kasimpasa",
-      "team2": "Alanyaspor",
-      "logo1": "https://img.sofascore.com/api/v1/team/6063/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6362/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.tanrixstreamorigin.com/live/channel28.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795349015-0-0-01a3192fb8c94a6741e8d515024eba93",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "2953",
