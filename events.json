@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 08:43:23 PM BST",
-  "last_updated_iso": "2026-11-22T14:43:23.767Z",
+  "last_updated": "22 Nov 2026, 08:44:13 PM BST",
+  "last_updated_iso": "2026-11-22T14:44:13.987Z",
   "total_events": 240,
   "events": [
     {
@@ -576,6 +576,34 @@
         {
           "name": "Server - 6",
           "url": "https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utp0jaxcpq/out/v1/8846b7e7b68b437d9a06647cafb901c8/cenc.mpd?|drmScheme=clearkey&drmLicense=a727e03a101df463348104481170974b:9fa7a8421ef51fc71568c47b7adba99c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/abhcvjycnc/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd?|drmScheme=clearkey&drmLicense=3080a1d03f04e372d158546582b0be02:fc33d5bbe9ddec8d0d6ac827f05baff1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK ES FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/290wmncnul/out/v1/fc7113b902eb464cafc016fe9f5377e3/cenc.mpd?|drmScheme=clearkey&drmLicense=ba667f22657e9bb6e8a1ad4f5ceb9bff:8ded2861914e3b51712bedf5d6e8671c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/00a39311-1247-43e3-844e-6b5ce0ed7453.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
