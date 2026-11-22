@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 08:51:13 PM BST",
-  "last_updated_iso": "2026-11-22T14:51:13.450Z",
+  "last_updated": "22 Nov 2026, 08:52:19 PM BST",
+  "last_updated_iso": "2026-11-22T14:52:19.057Z",
   "total_events": 240,
   "events": [
     {
@@ -430,6 +430,20 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhqcelugnp/out/v1/89d3d1dbde1e441cb379751432bc1688/cenc.mpd?|drmScheme=clearkey&drmLicense=fa3ffd09de83afc48fbe36b18d6dfd7e:9710da0f81d23a80c483ca133ee3074d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/7617d0d0-4bc2-4de7-a350-4df2209730e3.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -498,6 +512,20 @@
         {
           "name": "Server - 6",
           "url": "https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK ES FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/so7lluhsj7/out/v1/f912950b3bac41afbc1f7a73e7505a77/cenc.mpd?|drmScheme=clearkey&drmLicense=bb2ec4f8284af42054a53b6866602904:1b690d7a8f93757f32273dfd14ff44c7",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v6kda6u1j5/out/v1/68192f286df44105a49ac8effb9ee9c3/cenc.mpd?|drmScheme=clearkey&drmLicense=c218e76a0722e3d206b8130fdd433406:3bbeed52573d04bc4e58499d0c463a38",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
