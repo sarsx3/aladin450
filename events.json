@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 10:15:19 PM BST",
-  "last_updated_iso": "2026-11-22T16:15:19.745Z",
+  "last_updated": "22 Nov 2026, 10:16:13 PM BST",
+  "last_updated_iso": "2026-11-22T16:16:13.438Z",
   "total_events": 229,
   "events": [
     {
@@ -268,7 +268,169 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "FUBO SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd?|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd??|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY SPORTS EPL - FHD",
+          "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY SPORTS ACTION - FHD",
+          "url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://chatgpt.hereisman.net/playlist/60748/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.59/hls/E777.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795360946-0-0-fe7cc4001c2f732f7bc4645f7a2e467f",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=a13c74b75bcc0a5b390dbf292854a22e&wsABSTime=1795404147",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795360948-0-0-6b1eabf3f499734c1b32562df0f96956",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795360949-0-0-1d2642f4c6a1c69584ab25ec9532f463",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 8",
+          "url": "https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=2921e82ec1f3978eaf5fffdbf68d751b&wsABSTime=1795404151",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 9",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 10",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795360953-0-0-dd9d36b7a7803b91e4d49de4b6277524",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 11",
+          "url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=a4ed4e8861c16f51edd271cd12a59a89&wsABSTime=1795404154",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 12",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795360954-0-0-92a1578eb5ba41ef9bd9d4707f95d88a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 13",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795357749-0-0-5366d0268ba79013b1f256d07f4c6984",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 14",
+          "url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1795341429-0-0-3a8ed1716b55bcb2821e33d8bae40d21",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 15",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel1.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 16",
+          "url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 17",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795357749-0-0-8aa69a01895e053232b1027287e1f07e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2923",
