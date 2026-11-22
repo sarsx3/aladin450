@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 11:54:13 AM BST",
-  "last_updated_iso": "2026-11-22T05:54:13.075Z",
+  "last_updated": "22 Nov 2026, 11:55:18 AM BST",
+  "last_updated_iso": "2026-11-22T05:55:18.163Z",
   "total_events": 254,
   "events": [
     {
@@ -3041,7 +3041,22 @@
       "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795369765~acl=/*~id=66135959852873016590239154379660~hmac=0aedb9ac3457175d10c8bef8868cf21c994db2e4df99f8eb3144e778cb04ff06",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "starzplay - aq",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?|drmScheme=clearkey&drmLicense=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3134",
