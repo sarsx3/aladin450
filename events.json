@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 09:25:17 PM BST",
-  "last_updated_iso": "2026-11-22T15:25:17.039Z",
+  "last_updated": "22 Nov 2026, 09:26:19 PM BST",
+  "last_updated_iso": "2026-11-22T15:26:19.500Z",
   "total_events": 236,
   "events": [
     {
@@ -3661,6 +3661,13 @@
           "name": "hd quality",
           "url": "https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=6d7d62e964889cc36dcdf7a0ca5d6931&wsABSTime=1795400357",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/DUUU.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
