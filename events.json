@@ -1,7 +1,7 @@
 {
-  "last_updated": "23 Nov 2026, 05:08:14 AM BST",
-  "last_updated_iso": "2026-11-22T23:08:14.195Z",
-  "total_events": 202,
+  "last_updated": "23 Nov 2026, 05:09:13 AM BST",
+  "last_updated_iso": "2026-11-22T23:09:13.707Z",
+  "total_events": 201,
   "events": [
     {
       "id": "2803",
@@ -563,35 +563,6 @@
         {
           "name": "low quality",
           "url": "http://193.47.62.44/hls/ZIIIAAAqQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2974",
-      "date": "23/11/2026",
-      "time": "3:00 AM",
-      "league": "Football | Copa de Primera",
-      "team1": "Rubio Ñu",
-      "team2": "Libertad PY",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774",
-      "logo2": "https://img.sofascore.com/api/v1/team/5996/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "hd quality",
-          "url": "https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=7dc69273e60628ac950dcba174a8b148&wsABSTime=1795411396",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "low quality",
-          "url": "http://193.47.62.44/hls/ZIIIAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
