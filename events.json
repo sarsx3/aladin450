@@ -1,6 +1,6 @@
 {
-  "last_updated": "22 Nov 2026, 10:34:14 PM BST",
-  "last_updated_iso": "2026-11-22T16:34:14.238Z",
+  "last_updated": "22 Nov 2026, 10:35:21 PM BST",
+  "last_updated_iso": "2026-11-22T16:35:21.976Z",
   "total_events": 227,
   "events": [
     {
@@ -618,6 +618,13 @@
         {
           "name": "Server - 4",
           "url": "https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality 2",
+          "url": "https://www.rtmpcdn.com/live/2e7292fd-9c50-4fa9-b810-fb3875f439c2.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
