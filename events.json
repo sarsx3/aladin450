@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 06:59:13 AM BST",
-  "last_updated_iso": "2026-11-23T00:59:13.213Z",
+  "last_updated": "23 Nov 2026, 07:00:30 AM BST",
+  "last_updated_iso": "2026-11-23T01:00:30.637Z",
   "total_events": 196,
   "events": [
     {
@@ -343,6 +343,13 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795368065-0-0-b80e80b4eaac0a777493b80e4fbd456f",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/KIKIKIAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
