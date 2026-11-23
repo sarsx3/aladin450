@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 12:38:14 PM BST",
-  "last_updated_iso": "2026-11-23T06:38:14.305Z",
+  "last_updated": "23 Nov 2026, 12:39:12 PM BST",
+  "last_updated_iso": "2026-11-23T06:39:12.050Z",
   "total_events": 193,
   "events": [
     {
@@ -2136,6 +2136,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "Mzk2ODU0MDEzMmEyNWRmZjExYTdhYTlkMWQyNWI4MmM6ZGY5Njc2MjUzNzFlNDkxOTUyNDU2NzI3NDBlMTUyZDg="
+        },
+        {
+          "name": "ten sports - aq",
+          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "ten sports hd",
+          "url": "https://live.msnetworks.net/ten-sports/720p.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
