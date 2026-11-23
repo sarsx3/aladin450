@@ -1,7 +1,7 @@
 {
-  "last_updated": "24 Nov 2026, 02:39:12 AM BST",
-  "last_updated_iso": "2026-11-23T20:39:12.957Z",
-  "total_events": 174,
+  "last_updated": "24 Nov 2026, 02:40:21 AM BST",
+  "last_updated_iso": "2026-11-23T20:40:21.736Z",
+  "total_events": 173,
   "events": [
     {
       "id": "2981",
@@ -291,7 +291,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel28.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795465212-0-0-3809a2ed9ec66969c61e89cf3054c27a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "2998",
@@ -484,20 +499,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "3002",
-      "date": "24/11/2026",
-      "time": "5:15 AM",
-      "league": "Football | Copa de Primera",
-      "team1": "Club Nacional",
-      "team2": "Cerro Porteño",
-      "logo1": "https://img.sofascore.com/api/v1/team/33001/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5991/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "3003",
