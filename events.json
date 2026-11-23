@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 11:39:11 AM BST",
-  "last_updated_iso": "2026-11-23T05:39:11.981Z",
+  "last_updated": "23 Nov 2026, 11:40:21 AM BST",
+  "last_updated_iso": "2026-11-23T05:40:21.371Z",
   "total_events": 194,
   "events": [
     {
@@ -2417,7 +2417,15 @@
       "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795454934~acl=/*~id=76755225779277299177814812002485~hmac=01f44d32c7a132290a9fb1b19b65b7c4c9f0a76cff1c28f48fb9084734211cbd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3136",
