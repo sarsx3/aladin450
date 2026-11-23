@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 03:38:14 PM BST",
-  "last_updated_iso": "2026-11-23T09:38:14.048Z",
+  "last_updated": "23 Nov 2026, 03:39:11 PM BST",
+  "last_updated_iso": "2026-11-23T09:39:11.783Z",
   "total_events": 193,
   "events": [
     {
@@ -2215,7 +2215,29 @@
       "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795468884~acl=/*~id=86279924503218796704553197637627~hmac=d36f425cb9289b87393c274eca4572ea25d06883243219a1f8710f42f9882331",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MWY1ZmNiMWVlMGViY2RmODA3ZDQ4MDc3NjdlZTY2YTA6ZGFjN2VlOGM5OTliOTUxNmEwNGYwYzBiZGQzYWVmMzQ="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MWY1ZmNiMWVlMGViY2RmODA3ZDQ4MDc3NjdlZTY2YTA6ZGFjN2VlOGM5OTliOTUxNmEwNGYwYzBiZGQzYWVmMzQ="
+        }
+      ]
     },
     {
       "id": "3137",
