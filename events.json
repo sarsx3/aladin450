@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 06:00:34 PM BST",
-  "last_updated_iso": "2026-11-23T12:00:34.344Z",
+  "last_updated": "23 Nov 2026, 06:01:21 PM BST",
+  "last_updated_iso": "2026-11-23T12:01:21.356Z",
   "total_events": 193,
   "events": [
     {
@@ -2236,6 +2236,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "MWY1ZmNiMWVlMGViY2RmODA3ZDQ4MDc3NjdlZTY2YTA6ZGFjN2VlOGM5OTliOTUxNmEwNGYwYzBiZGQzYWVmMzQ="
+        },
+        {
+          "name": "SONY SPORTS TEN 1 HD",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
