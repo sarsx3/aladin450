@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 10:33:24 PM BST",
-  "last_updated_iso": "2026-11-23T16:33:24.635Z",
+  "last_updated": "23 Nov 2026, 10:34:15 PM BST",
+  "last_updated_iso": "2026-11-23T16:34:15.192Z",
   "total_events": 186,
   "events": [
     {
@@ -190,9 +190,9 @@
     },
     {
       "id": "2981",
-      "date": "23/11/2026",
+      "date": "24/11/2026",
       "time": "2:00 PM",
-      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 1",
+      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 2",
       "team1": "South Africa",
       "team2": "Bangladesh",
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
