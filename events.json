@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 01:47:13 PM BST",
-  "last_updated_iso": "2026-11-23T07:47:13.840Z",
+  "last_updated": "23 Nov 2026, 01:48:13 PM BST",
+  "last_updated_iso": "2026-11-23T07:48:13.462Z",
   "total_events": 193,
   "events": [
     {
@@ -101,7 +101,7 @@
           "drm": ""
         },
         {
-          "name": "t sports hd",
+          "name": "t sports hd 2",
           "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/10.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
@@ -110,6 +110,13 @@
         {
           "name": "a sports hd",
           "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/17.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd",
+          "url": "https://tvvd.mirpur.cloud/cloudtv/m3u8playlist?ch=1",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
