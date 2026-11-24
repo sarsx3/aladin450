@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 02:38:17 PM BST",
-  "last_updated_iso": "2026-11-24T08:38:17.070Z",
+  "last_updated": "24 Nov 2026, 02:39:20 PM BST",
+  "last_updated_iso": "2026-11-24T08:39:20.171Z",
   "total_events": 163,
   "events": [
     {
@@ -89,6 +89,13 @@
         {
           "name": "FANCODE - SD",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd??|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "A SPORTS - AQ",
+          "url": "https://live.msnetworks.net/a-sports/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
