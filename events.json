@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 10:54:20 PM BST",
-  "last_updated_iso": "2026-11-24T16:54:20.960Z",
+  "last_updated": "24 Nov 2026, 10:55:18 PM BST",
+  "last_updated_iso": "2026-11-24T16:55:18.392Z",
   "total_events": 147,
   "events": [
     {
@@ -1886,12 +1886,12 @@
       "id": "3141",
       "date": "29/11/2026",
       "time": "4:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
+      "league": "Cricket | ACC Emerging Teams Asia Cup (Final)",
       "team1": "TBC",
       "team2": "TBC",
       "logo1": "",
       "logo2": "",
-      "leagueLogo": "",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": []
