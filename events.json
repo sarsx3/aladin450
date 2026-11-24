@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 06:35:19 PM BST",
-  "last_updated_iso": "2026-11-24T12:35:19.726Z",
+  "last_updated": "24 Nov 2026, 06:36:14 PM BST",
+  "last_updated_iso": "2026-11-24T12:36:14.659Z",
   "total_events": 159,
   "events": [
     {
@@ -2182,6 +2182,20 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001795522870-0-0-26cc483e5d83497ffb9453298bcc3ac4",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel23.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.zktsva.app/live/303098.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
