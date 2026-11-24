@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 01:39:14 AM BST",
-  "last_updated_iso": "2026-11-24T19:39:14.209Z",
+  "last_updated": "25 Nov 2026, 01:40:29 AM BST",
+  "last_updated_iso": "2026-11-24T19:40:29.585Z",
   "total_events": 141,
   "events": [
     {
@@ -941,6 +941,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795592002~acl=/*~id=31875406217133968563424600535433~hmac=64baac2cafa3ebbf221a603bf0dc6c14af00737167ece20b798147201e6bbd90",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -1378,6 +1385,20 @@
           "name": "Server - 1",
           "url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=c06b5c828f890313f4c380165f95b271&wsABSTime=1795587772",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://admin2.formaturamaxi.com.br/norwich.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/GTGTGTQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
