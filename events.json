@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 02:41:15 PM BST",
-  "last_updated_iso": "2026-11-24T08:41:15.781Z",
+  "last_updated": "24 Nov 2026, 02:42:18 PM BST",
+  "last_updated_iso": "2026-11-24T08:42:18.286Z",
   "total_events": 163,
   "events": [
     {
@@ -367,6 +367,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NTg4NGYwMjQzOTJhMGFjNTEyZGI0MDBjNDk3OGRiMzc6YTk5YTE1YmEzZTdlMDQ5NGU4NTQ0YjFjZDA4ZDlhNzM="
+        },
+        {
+          "name": "TEN SPORTS - aq",
+          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
