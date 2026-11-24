@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 06:41:14 PM BST",
-  "last_updated_iso": "2026-11-24T12:41:14.814Z",
+  "last_updated": "24 Nov 2026, 06:42:15 PM BST",
+  "last_updated_iso": "2026-11-24T12:42:15.507Z",
   "total_events": 159,
   "events": [
     {
@@ -2186,7 +2186,7 @@
           "drm": ""
         },
         {
-          "name": "Server - 3",
+          "name": "Server - 7",
           "url": "https://live200.kravonstreamdelivery.com/live/channel23.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
@@ -2195,6 +2195,20 @@
         {
           "name": "Server - 4",
           "url": "https://live2.zktsva.app/live/303098.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1795526109-0-0-544b5703fcfa9243ac54abec716e04bd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1795526109-0-0-30c06b031268d0483a6fa573d88b92b6",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
