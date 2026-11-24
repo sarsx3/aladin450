@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 07:28:14 PM BST",
-  "last_updated_iso": "2026-11-24T13:28:14.966Z",
+  "last_updated": "24 Nov 2026, 07:29:18 PM BST",
+  "last_updated_iso": "2026-11-24T13:29:18.821Z",
   "total_events": 158,
   "events": [
     {
@@ -2203,6 +2203,13 @@
         {
           "name": "Server - 6",
           "url": "https://live200.kravonstreamdelivery.com/live/channel13.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "D SPORTS",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd?|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
