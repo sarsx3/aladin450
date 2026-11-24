@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 12:47:13 AM BST",
-  "last_updated_iso": "2026-11-24T18:47:13.084Z",
+  "last_updated": "25 Nov 2026, 12:48:14 AM BST",
+  "last_updated_iso": "2026-11-24T18:48:14.116Z",
   "total_events": 141,
   "events": [
     {
@@ -956,7 +956,15 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=8768796f4b4acd7bed5fc61cd05621fd&wsABSTime=1795587603",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3036",
