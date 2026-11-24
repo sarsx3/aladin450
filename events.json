@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 06:38:17 PM BST",
-  "last_updated_iso": "2026-11-24T12:38:17.303Z",
+  "last_updated": "24 Nov 2026, 06:39:15 PM BST",
+  "last_updated_iso": "2026-11-24T12:39:15.062Z",
   "total_events": 159,
   "events": [
     {
@@ -2225,6 +2225,34 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795523132-0-0-5284ef11bc339d5be6e9dc5cc821f8c8",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.zktsva.app/live/301263.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d2fb3df1e979292f197454c1f1fb76d0&txTime=6b05d42d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=48c5ff8760637d6f086fead11ea9ff8e&txTime=6b05accd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel13.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
