@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 02:37:23 AM BST",
-  "last_updated_iso": "2026-11-24T20:37:23.653Z",
+  "last_updated": "25 Nov 2026, 02:38:15 AM BST",
+  "last_updated_iso": "2026-11-24T20:38:15.630Z",
   "total_events": 138,
   "events": [
     {
@@ -739,6 +739,20 @@
         {
           "name": "BeIN Arabic HD",
           "url": "https://ec.koooracity.press/venta1.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/caoenres0r/out/v1/a599fe0abd74438e85a3e02f58ef0580/cenc.mpd?|drmScheme=clearkey&drmLicense=0958c135d276e5172aae3abcee8ac59e:8ad286875e71daa285f25b9096d78bd5",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/phtt5mrfi5/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd?|drmScheme=clearkey&drmLicense=0ddfb373646c342db2b98ce7a49d809f:f6cc546957d8c96fb5c041b3b3ff4a3a",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
