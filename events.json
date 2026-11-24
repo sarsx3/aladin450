@@ -1,13 +1,13 @@
 {
-  "last_updated": "24 Nov 2026, 10:18:15 PM BST",
-  "last_updated_iso": "2026-11-24T16:18:15.167Z",
-  "total_events": 149,
+  "last_updated": "24 Nov 2026, 10:19:23 PM BST",
+  "last_updated_iso": "2026-11-24T16:19:23.860Z",
+  "total_events": 148,
   "events": [
     {
       "id": "2981",
-      "date": "24/11/2026",
+      "date": "25/11/2026",
       "time": "2:00 PM",
-      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 2",
+      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 3",
       "team1": "South Africa",
       "team2": "Bangladesh",
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
@@ -800,20 +800,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274887/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "3049",
-      "date": "25/11/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 3",
-      "team1": "South Africa",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": []
