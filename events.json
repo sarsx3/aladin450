@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 10:50:21 PM BST",
-  "last_updated_iso": "2026-11-24T16:50:21.601Z",
+  "last_updated": "24 Nov 2026, 10:51:12 PM BST",
+  "last_updated_iso": "2026-11-24T16:51:12.535Z",
   "total_events": 147,
   "events": [
     {
@@ -1873,11 +1873,11 @@
       "date": "27/11/2026",
       "time": "4:00 PM",
       "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "TBC",
-      "team2": "TBC",
-      "logo1": "",
-      "logo2": "",
-      "leagueLogo": "",
+      "team1": "Pakistan A",
+      "team2": "Bangladesh A",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": []
