@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 01:34:13 PM BST",
-  "last_updated_iso": "2026-11-24T07:34:13.543Z",
+  "last_updated": "24 Nov 2026, 01:35:17 PM BST",
+  "last_updated_iso": "2026-11-24T07:35:17.966Z",
   "total_events": 163,
   "events": [
     {
@@ -140,6 +140,13 @@
           "name": "Server - 5",
           "url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
