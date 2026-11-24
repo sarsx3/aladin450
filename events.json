@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 12:06:16 AM BST",
-  "last_updated_iso": "2026-11-24T18:06:16.597Z",
+  "last_updated": "25 Nov 2026, 12:07:13 AM BST",
+  "last_updated_iso": "2026-11-24T18:07:13.017Z",
   "total_events": 144,
   "events": [
     {
@@ -189,6 +189,48 @@
           "name": "Tapmad - (bd)",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ygundphgss/out/v1/148913821ef94326a0badc185fd9e695/cenc.mpd?|drmScheme=clearkey&drmLicense=02c201cae3279e572e7b4329c1b82191:3e5202799487332390e72649d335450c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hlwwhvp5xi/out/v1/6efea8351ab84ac2b773d73076edc2d2/cenc.mpd?|drmScheme=clearkey&drmLicense=ccfcb2bb28e67fcf5ec4487aa95e3def:bf47582fbb2754109c4ed3cfda000bde",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ze6ljlfh3p/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd?|drmScheme=clearkey&drmLicense=7a0c8b0f02a47fcfaf1a1ef22658ea05:e1e2e7ecb44d0e640f402141f6e2bd0b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PRIME VIDEO - AQ",
+          "url": "https://ABKZLCWAAAAAAAAMG2VD4L57RSHHG.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGYKfBhprBbwfA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZTY2LWRhOWUtNzY5Ni1iMDMxLTVjNmM0ZjUwMzZjYhkBOKEFoQJ4My90aWlwNTRleWhiL291dC92MS8xNDg5MTM4MjFlZjk0MzI2YTBiYWRjMTg1ZmQ5ZTY5NVggsKImcr0_SOFPRJZ00VBo5XLTk-oa37b9tPrGA_fWT-E/IAD/149e804df0ba43a0a9f9d6f6b0fadcb4/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_ba31cd4d-45ee-4e0c-8102-813d4559ee23_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/tiip54eyhb/out/v1/148913821ef94326a0badc185fd9e695/5cfe0f4f-993a-4e3c-b801-99030341809d-cenc.mpd?aws.sessionId=6cc61caa-e331-4497-8f3d-07f38af47a78?|drmScheme=clearkey&drmLicense=02c201cae3279e572e7b4329c1b82191:3e5202799487332390e72649d335450c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vpng0vu98t/out/v1/93c2ab57454d4e03b185817166955043/cenc.mpd?|drmScheme=clearkey&drmLicense=b7e261c5e3d6b4ce5ff9a7f51faebcfb:7794d2b05c99697cc0c8dd1fb19596bb",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/4a9995714e1c7ef93cd4a02232017997b9f71e6acb6f743c8632dbc70fc62f82.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
