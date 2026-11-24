@@ -1,7 +1,7 @@
 {
-  "last_updated": "24 Nov 2026, 07:49:13 AM BST",
-  "last_updated_iso": "2026-11-24T01:49:13.347Z",
-  "total_events": 167,
+  "last_updated": "24 Nov 2026, 07:50:28 AM BST",
+  "last_updated_iso": "2026-11-24T01:50:28.904Z",
+  "total_events": 165,
   "events": [
     {
       "id": "2981",
@@ -220,64 +220,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "2996",
-      "date": "24/11/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Internacional",
-      "team2": "Vitoria",
-      "logo1": "https://img.sofascore.com/api/v1/team/1966/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1962/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel8.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795465318-0-0-dd9761408ae9ebe59836d38dad940c87",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "2997",
-      "date": "24/11/2026",
-      "time": "5:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Botafogo",
-      "team2": "São Paulo",
-      "logo1": "https://img.sofascore.com/api/v1/team/1958/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1981/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel28.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795465212-0-0-3809a2ed9ec66969c61e89cf3054c27a",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "2998",
