@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 02:42:14 AM BST",
-  "last_updated_iso": "2026-11-24T20:42:14.437Z",
+  "last_updated": "25 Nov 2026, 02:43:13 AM BST",
+  "last_updated_iso": "2026-11-24T20:43:13.809Z",
   "total_events": 138,
   "events": [
     {
@@ -527,6 +527,27 @@
         {
           "name": "PARAMOUNT - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hojjlmvlou/out/v1/6540c7701ea94286b4045a7417a32775/cenc.mpd?|drmScheme=clearkey&drmLicense=c4dbf5356b8e894e8a26a331a95471cc:4e22ee930b1895e79d4bbd5217ab423e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gik4pobitx/out/v1/a6e1d6f920a34ef49cdab53eb20bb22c/cenc.mpd?|drmScheme=clearkey&drmLicense=9ac1496dda1c7d2c6fcdc62460637522:8884748a8df4a11e631141ab2b90e331",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gflhvok5yf/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd?|drmScheme=clearkey&drmLicense=300c393f79ee86f623539484485015e3:07b69251ddc247d07e38b3d7863acbd3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7j2ggxaixn/out/v1/9899c0bf5ea24fc39220402ac748234b/cenc.mpd?|drmScheme=clearkey&drmLicense=c9c9765a54458360d5bf0ceaac280752:00edb69fc3ffcedf03cb046d70a53fe7",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
