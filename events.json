@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 02:43:13 AM BST",
-  "last_updated_iso": "2026-11-24T20:43:13.809Z",
+  "last_updated": "25 Nov 2026, 02:44:27 AM BST",
+  "last_updated_iso": "2026-11-24T20:44:27.341Z",
   "total_events": 138,
   "events": [
     {
@@ -901,6 +901,20 @@
         {
           "name": "Server - 6",
           "url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ewntw4zduo/out/v1/106b6c08a85a47cd82cd6db508616662/cenc.mpd?|drmScheme=clearkey&drmLicense=aaf954648ab632b6fdf36f5a8d7d4dc4:7b6a930b0cbc16cabc5fb62952a93a3b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s6kgv80npk/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd?|drmScheme=clearkey&drmLicense=471bf26e769aea44e5c6ec47f83ed436:a7e14a33491101a789e10474f073d3f8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
