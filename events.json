@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Nov 2026, 01:45:22 AM BST",
-  "last_updated_iso": "2026-11-25T19:45:22.310Z",
+  "last_updated": "26 Nov 2026, 01:46:14 AM BST",
+  "last_updated_iso": "2026-11-25T19:46:14.811Z",
   "total_events": 159,
   "events": [
     {
@@ -551,6 +551,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2118669/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678100~acl=/*~id=52616742814523162763668479338238~hmac=20492d49a30cb56005596f82cf24fb1e49302538dcfe8f97f49e1d46889d46a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -622,6 +629,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2118670/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678100~acl=/*~id=52616742814523162763668479338238~hmac=20492d49a30cb56005596f82cf24fb1e49302538dcfe8f97f49e1d46889d46a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -669,6 +683,13 @@
         {
           "name": "Server - 6",
           "url": "https://playback.livetl004.com/live/6a9a5525864ea536c2577392.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2118668/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678100~acl=/*~id=52616742814523162763668479338238~hmac=20492d49a30cb56005596f82cf24fb1e49302538dcfe8f97f49e1d46889d46a4",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
