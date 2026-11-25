@@ -1,7 +1,7 @@
 {
-  "last_updated": "25 Nov 2026, 10:34:14 PM BST",
-  "last_updated_iso": "2026-11-25T16:34:14.246Z",
-  "total_events": 106,
+  "last_updated": "25 Nov 2026, 10:35:28 PM BST",
+  "last_updated_iso": "2026-11-25T16:35:28.029Z",
+  "total_events": 99,
   "events": [
     {
       "id": "3015",
@@ -216,104 +216,6 @@
           "drm": ""
         }
       ]
-    },
-    {
-      "id": "3028",
-      "date": "25/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Liga Pro",
-      "team1": "Barcelona SC",
-      "team2": "Independiente del Valle",
-      "logo1": "https://img.sofascore.com/api/v1/team/5250/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/39723/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "3041",
-      "date": "25/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Primera Division, Clausura",
-      "team1": "Cerro Porteño",
-      "team2": "Club Guarani",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/1294",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/7739",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "3042",
-      "date": "25/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Primera Division, Clausura",
-      "team1": "Sportivo Luqueño",
-      "team2": "Olimpia",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8548",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "3043",
-      "date": "25/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Primera Division, Clausura",
-      "team1": "Sportivo Trinidense",
-      "team2": "Recoleta FC",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14640",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/53209",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "3044",
-      "date": "25/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Primera Division, Clausura",
-      "team1": "CS San Lorenzo",
-      "team2": "Sportivo Ameliano",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/56588",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "3045",
-      "date": "25/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Primera Division, Clausura",
-      "team1": "Libertad",
-      "team2": "2 de Mayo",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1286",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
-    },
-    {
-      "id": "3046",
-      "date": "25/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Primera Division, Clausura",
-      "team1": "Club Nacional",
-      "team2": "Rubio Ñu",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1280",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": []
     },
     {
       "id": "3051",
