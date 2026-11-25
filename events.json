@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Nov 2026, 02:08:14 AM BST",
-  "last_updated_iso": "2026-11-25T20:08:14.885Z",
+  "last_updated": "26 Nov 2026, 02:09:14 AM BST",
+  "last_updated_iso": "2026-11-25T20:09:14.852Z",
   "total_events": 157,
   "events": [
     {
@@ -82,6 +82,34 @@
         {
           "name": "sonyliv - aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678100~acl=/*~id=52616742814523162763668479338238~hmac=20492d49a30cb56005596f82cf24fb1e49302538dcfe8f97f49e1d46889d46a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyphmrggok/out/v1/bccc02717c1243f3bf640c3a873d2a39/cenc.mpd?|drmScheme=clearkey&drmLicense=22d870b4fe3b99e70f7862db29f51861:0848c89bd5e80b385fe60fe3b92a49ce",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzlpejwcoa/out/v1/54d8dad65f6445c5924e0a62ebdf07ce/cenc.mpd?|drmScheme=clearkey&drmLicense=8935a50ac72a858fbce8ba9a618711e1:72f92171d06fff3ef718408ff9eac969",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FOX SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
