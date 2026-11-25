@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 08:25:19 PM BST",
-  "last_updated_iso": "2026-11-25T14:25:19.516Z",
+  "last_updated": "25 Nov 2026, 08:26:14 PM BST",
+  "last_updated_iso": "2026-11-25T14:26:14.690Z",
   "total_events": 111,
   "events": [
     {
@@ -1863,6 +1863,13 @@
         {
           "name": "UNITE8 HIN HD",
           "url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "t sports hd",
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
