@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 02:09:14 PM BST",
-  "last_updated_iso": "2026-11-25T08:09:14.936Z",
+  "last_updated": "25 Nov 2026, 02:10:22 PM BST",
+  "last_updated_iso": "2026-11-25T08:10:22.142Z",
   "total_events": 117,
   "events": [
     {
@@ -446,7 +446,7 @@
           "drm": ""
         },
         {
-          "name": "willow sports - aq",
+          "name": "willow - alt",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd?|drmScheme=clearkey&drmLicense=26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
@@ -456,6 +456,13 @@
           "name": "willow - aq",
           "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd?|drmScheme=clearkey&drmLicense=26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
