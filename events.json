@@ -1,7 +1,7 @@
 {
-  "last_updated": "25 Nov 2026, 12:31:12 PM BST",
-  "last_updated_iso": "2026-11-25T06:31:12.024Z",
-  "total_events": 118,
+  "last_updated": "25 Nov 2026, 12:32:14 PM BST",
+  "last_updated_iso": "2026-11-25T06:32:14.283Z",
+  "total_events": 117,
   "events": [
     {
       "id": "2981",
@@ -353,42 +353,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "3047",
-      "date": "25/11/2026",
-      "time": "9:00 AM",
-      "league": "Football | MLS",
-      "team1": "San Jose",
-      "team2": "Houston Dynamo FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/21825/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2508/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel21.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795555512-0-0-b1f872dfd6f760a48b59c3cc785a6903",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.55/hls/TCCCAAAq.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "3048",
