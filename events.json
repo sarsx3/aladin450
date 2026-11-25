@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Nov 2026, 02:09:14 AM BST",
-  "last_updated_iso": "2026-11-25T20:09:14.852Z",
+  "last_updated": "26 Nov 2026, 02:10:21 AM BST",
+  "last_updated_iso": "2026-11-25T20:10:21.369Z",
   "total_events": 157,
   "events": [
     {
@@ -188,6 +188,20 @@
         {
           "name": "sonyliv - aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037143/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678100~acl=/*~id=52616742814523162763668479338238~hmac=20492d49a30cb56005596f82cf24fb1e49302538dcfe8f97f49e1d46889d46a4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd?|drmScheme=clearkey&drmLicense=49f5f90163d652763fcf3c386233c945:a48bdc10a063f0fb7902b6367011f83b",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
