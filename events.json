@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 11:59:15 PM BST",
-  "last_updated_iso": "2026-11-25T17:59:15.452Z",
+  "last_updated": "26 Nov 2026, 12:00:32 AM BST",
+  "last_updated_iso": "2026-11-25T18:00:32.355Z",
   "total_events": 95,
   "events": [
     {
@@ -89,6 +89,13 @@
         {
           "name": "SONY SPORTS TEN 1 HD",
           "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/b0dd652d-e7c9-43fb-b031-1af82a49174f.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -182,6 +189,13 @@
           "name": "Tapmad - Aq",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/7ecadbda-bab9-44f6-b37e-58f5c51f77e7.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
