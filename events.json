@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Nov 2026, 02:40:20 AM BST",
-  "last_updated_iso": "2026-11-25T20:40:20.942Z",
+  "last_updated": "26 Nov 2026, 02:41:15 AM BST",
+  "last_updated_iso": "2026-11-25T20:41:15.208Z",
   "total_events": 154,
   "events": [
     {
@@ -202,6 +202,27 @@
         {
           "name": "PARAMOUNT+ - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd?|drmScheme=clearkey&drmLicense=49f5f90163d652763fcf3c386233c945:a48bdc10a063f0fb7902b6367011f83b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ouonsgcxy3/out/v1/1ab520659b25461c8e4cfa048d11be18/cenc.mpd?|drmScheme=clearkey&drmLicense=5f0b77cd292b2ad94b8dd6b9f7e1e3f0:dc7094e467373756724e877561e03eec",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rbtsptukz/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd?|drmScheme=clearkey&drmLicense=c39deef0515b23c37241b464f71122f4:b89fa132cf2c17e457e7474b26405d59",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnsff1rdjx/out/v1/db6933e3850e45ddae720b499cb8a04b/cenc.mpd?|drmScheme=clearkey&drmLicense=ab435b88901feb9cc88b82c6de6760e0:bbbca45fc3a000f2a4c87b2692a6e091",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -407,6 +428,20 @@
         {
           "name": "PARAMOUNT+ - AQ",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jt8139h35n/out/v1/fa8bec2a768c4c7786095b7face05932/cenc.mpd?|drmScheme=clearkey&drmLicense=21c0e2ace56362f19b65b3b0e6e5b66f:ea52a1be65a13ddd7c358028a0854866",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vhccgbv7ye/out/v1/9935c884df8b48afaf8ec4adf387e174/cenc.mpd?|drmScheme=clearkey&drmLicense=ef466cf774697ba79d625e21877524cb:2b711d2524ebcdd69b4eeca040b52cf7",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN DE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btxthrhwoe/out/v1/b53cf2b282b04cf19496c511561b3bcc/cenc.mpd?|drmScheme=clearkey&drmLicense=ed324c8fc2afd6face6b080ad45f3cff:e1b34750882683921f14fea30b408a1f",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
