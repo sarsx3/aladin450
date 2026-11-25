@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 11:31:13 PM BST",
-  "last_updated_iso": "2026-11-25T17:31:13.637Z",
+  "last_updated": "25 Nov 2026, 11:32:17 PM BST",
+  "last_updated_iso": "2026-11-25T17:32:17.917Z",
   "total_events": 97,
   "events": [
     {
@@ -68,6 +68,13 @@
         {
           "name": "Server - 8",
           "url": "https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive2511/ENG/master.m3u8?hdnea=exp=1795677230~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3d6f000d641e2b69abfd882f03a6a5f6e79034aa9ed04a4bea8a534965e2cb0d",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -146,6 +153,13 @@
         {
           "name": "Server - 8",
           "url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2511/ENG/master.m3u8?hdnea=exp=1795677231~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=20698e44b67022168896ca3a7562df84da14c5680997d4258925b784be61704d",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
