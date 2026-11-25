@@ -1,7 +1,7 @@
 {
-  "last_updated": "25 Nov 2026, 08:38:15 PM BST",
-  "last_updated_iso": "2026-11-25T14:38:15.108Z",
-  "total_events": 111,
+  "last_updated": "25 Nov 2026, 08:39:24 PM BST",
+  "last_updated_iso": "2026-11-25T14:39:24.559Z",
+  "total_events": 109,
   "events": [
     {
       "id": "3015",
@@ -1380,56 +1380,6 @@
       "streams": []
     },
     {
-      "id": "3182",
-      "date": "25/11/2026",
-      "time": "6:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Ecuador U17",
-      "team2": "South Korea U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4757/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2383",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795602030-0-0-c2396a96a9700eddfe936ad5f6a5f6a1",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel11.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "D SPORTS - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "3183",
       "date": "25/11/2026",
       "time": "7:30 PM",
@@ -1680,49 +1630,6 @@
       ]
     },
     {
-      "id": "3188",
-      "date": "25/11/2026",
-      "time": "6:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Uganda U17",
-      "team2": "New Caledonia U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/1077159/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/265146/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795605930-0-0-55f99a196104e5f17d04d4a83ea3d04d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel28.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
       "id": "3189",
       "date": "25/11/2026",
       "time": "9:30 PM",
@@ -1888,6 +1795,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZDcwNzA1ODdjNGE3ZDhkYjMyNWRiNDU0MGRhNDc3N2M6YzQ3NGJjMjcyYzczZmRjZTEyOTg1MTFhYzk1YmZkY2U="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "ZDcwNzA1ODdjNGE3ZDhkYjMyNWRiNDU0MGRhNDc3N2M6YzQ3NGJjMjcyYzczZmRjZTEyOTg1MTFhYzk1YmZkY2U="
         }
       ]
     },
