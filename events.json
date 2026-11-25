@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Nov 2026, 06:09:15 PM BST",
-  "last_updated_iso": "2026-11-25T12:09:15.514Z",
+  "last_updated": "25 Nov 2026, 06:10:21 PM BST",
+  "last_updated_iso": "2026-11-25T12:10:21.044Z",
   "total_events": 113,
   "events": [
     {
@@ -1615,12 +1615,12 @@
     {
       "id": "3189",
       "date": "25/11/2026",
-      "time": "11:00 PM",
+      "time": "9:30 PM",
       "league": "Football | U17 World Championship",
-      "team1": "Mozambique U17",
-      "team2": "New Caledonia U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4783/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/8045/image",
+      "team1": "Australia U17",
+      "team2": "Mozambique U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/22578/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1126751/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
