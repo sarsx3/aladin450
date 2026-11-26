@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Nov 2026, 11:43:12 PM BST",
-  "last_updated_iso": "2026-11-26T17:43:12.613Z",
+  "last_updated": "26 Nov 2026, 11:44:20 PM BST",
+  "last_updated_iso": "2026-11-26T17:44:20.635Z",
   "total_events": 124,
   "events": [
     {
@@ -354,6 +354,13 @@
           "name": "Tapmad - Aq",
           "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -800,6 +807,20 @@
           "name": "Server - 2",
           "url": "https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795709966-0-0-a917f0a149aa77403f2ffb30815d77e3",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://www.rtmpcdn.com/live/e01b51ff-b04a-4f37-97aa-34105ee718dc.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "http://193.47.62.50/hls/HJJJAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
