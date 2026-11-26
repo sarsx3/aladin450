@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 12:35:16 AM BST",
-  "last_updated_iso": "2026-11-26T18:35:16.719Z",
+  "last_updated": "27 Nov 2026, 12:36:14 AM BST",
+  "last_updated_iso": "2026-11-26T18:36:14.925Z",
   "total_events": 121,
   "events": [
     {
@@ -1164,7 +1164,22 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795713882-0-0-32a5f4d6b99c9963ca0f6767eb8db329",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3100",
@@ -1178,7 +1193,43 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795713925-0-0-3326c5f75881b08112734a88c7cfae5c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795706469-0-0-ba82e03a3747b3e4fd4968776b3dd141",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3101",
@@ -1192,7 +1243,15 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=fe7dd2ba07a29a8a1c048e39c6c63500&wsABSTime=1795756854",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3102",
@@ -1206,7 +1265,22 @@
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=6118b2ac2406d6fb419410df06138a22&wsABSTime=1795757019",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795713825-0-0-cb1d97fe5c621e79cd618f7a9ba3992c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3103",
