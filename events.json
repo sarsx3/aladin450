@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Nov 2026, 11:40:30 PM BST",
-  "last_updated_iso": "2026-11-26T17:40:30.384Z",
+  "last_updated": "26 Nov 2026, 11:41:12 PM BST",
+  "last_updated_iso": "2026-11-26T17:41:12.927Z",
   "total_events": 124,
   "events": [
     {
@@ -198,6 +198,13 @@
           "name": "Server - 2",
           "url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795710332-0-0-44dc9f4809aa226240049f577e5333d0",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
