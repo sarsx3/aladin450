@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 05:17:13 AM BST",
-  "last_updated_iso": "2026-11-26T23:17:13.096Z",
+  "last_updated": "27 Nov 2026, 05:18:21 AM BST",
+  "last_updated_iso": "2026-11-26T23:18:21.692Z",
   "total_events": 138,
   "events": [
     {
@@ -158,7 +158,7 @@
           "drm": ""
         },
         {
-          "name": "TEN SPORTS HD",
+          "name": "TEN SPORTS - aq",
           "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
