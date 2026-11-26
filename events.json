@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 01:26:16 AM BST",
-  "last_updated_iso": "2026-11-26T19:26:16.180Z",
+  "last_updated": "27 Nov 2026, 01:27:22 AM BST",
+  "last_updated_iso": "2026-11-26T19:27:22.746Z",
   "total_events": 176,
   "events": [
     {
@@ -1896,9 +1896,9 @@
       "date": "29/11/2026",
       "time": "4:00 PM",
       "league": "Cricket | Men's Asia Cup Rising Stars (Final)",
-      "team1": "TBC",
+      "team1": "Sri Lanka A",
       "team2": "TBC",
-      "logo1": "",
+      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
       "logo2": "",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
       "isHot": false,
