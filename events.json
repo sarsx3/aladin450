@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 02:08:14 AM BST",
-  "last_updated_iso": "2026-11-26T20:08:14.115Z",
+  "last_updated": "27 Nov 2026, 02:09:12 AM BST",
+  "last_updated_iso": "2026-11-26T20:09:12.760Z",
   "total_events": 157,
   "events": [
     {
@@ -162,6 +162,13 @@
           "name": "sonyliv - aq",
           "url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive2611/ENG/master.m3u8?hdnea=exp=1795772629~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=b21715f37055b46fdce3799c05facffccd0c3fed6ab14419938e8b151e6e55eb",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
