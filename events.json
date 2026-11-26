@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 05:23:11 AM BST",
-  "last_updated_iso": "2026-11-26T23:23:11.408Z",
+  "last_updated": "27 Nov 2026, 05:24:14 AM BST",
+  "last_updated_iso": "2026-11-26T23:24:14.354Z",
   "total_events": 138,
   "events": [
     {
@@ -261,7 +261,7 @@
       "id": "3125",
       "date": "27/11/2026",
       "time": "2:15 PM",
-      "league": "Cricket | AUS vs ENG in AUS, 2026 - 3rd T20I",
+      "league": "Cricket | T20 International",
       "team1": "Australia",
       "team2": "England",
       "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
