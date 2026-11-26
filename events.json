@@ -1,7 +1,7 @@
 {
-  "last_updated": "27 Nov 2026, 12:12:14 AM BST",
-  "last_updated_iso": "2026-11-26T18:12:14.419Z",
-  "total_events": 123,
+  "last_updated": "27 Nov 2026, 12:13:13 AM BST",
+  "last_updated_iso": "2026-11-26T18:13:13.183Z",
+  "total_events": 121,
   "events": [
     {
       "id": "3058",
@@ -778,6 +778,20 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gcb5rbslm8/out/v1/70ac129125a04d14af8b1aec0e50f6af/cenc.mpd?|drmScheme=clearkey&drmLicense=7269ae64ddfc36229be992d244b4b3bc:9d61ba9d2b7042608c09e744632ef62d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qct42syoex/out/v1/c22699bcc6df411098d4969c11e9c388/cenc.mpd?|drmScheme=clearkey&drmLicense=5aa0c86d77284f235e97c5d7e801f492:50cc7b4c45c75abc80d92753c44d2741",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ]
     },
@@ -825,6 +839,27 @@
         {
           "name": "Server - 5",
           "url": "https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=e915f41ee51f30d0097b56b8fe74c1eb&wsABSTime=1795710112",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qycrirlalb/out/v1/db7ad08f01264e2f950df87e016a98ce/cenc.mpd?|drmScheme=clearkey&drmLicense=2b7d9db97af06830013ca2f6cdceff65:4d5bb464c3f2306b52f620ce89b854b4",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/df2fcpxsh6/out/v1/89d38bf488cb449483ffdeb27fc7cb9c/cenc.mpd?|drmScheme=clearkey&drmLicense=9aa0ec2310e086cbb8d9366778754d9b:7671f4366e1830f5cf813b3743487235",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zdwmdb6lxx/out/v1/5c4455c571ae467ca76c6b6ca0ad80f1/cenc.mpd?|drmScheme=clearkey&drmLicense=5660dbb05d107ec88dcb4a39c881b072:01e8fad169fe68a2ea4986befb802396",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -1372,106 +1407,6 @@
       "isHot": false,
       "visibility": "public",
       "streams": []
-    },
-    {
-      "id": "3196",
-      "date": "26/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Tajikistan U17",
-      "team2": "Senegal U17",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
-      "logo2": "https://img.sofascore.com/api/v1/team/4739/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795699579-0-0-2fd61d044e7f4d68c8b767d15888cebd",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1795705210-0-0-117a4d3a2a2f953fc15df0bbddd2ea93",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1795705089-0-0-9dab3187a41bfa984a63338f38b2d7a3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
-    },
-    {
-      "id": "3197",
-      "date": "26/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Croatia U17",
-      "team2": "Cuba U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4715/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4824/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-20.flv?auth_key=3000001795699247-0-0-7fb5e1803fd2f10e8361ad8171930856",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795705029-0-0-ed04c77d0ee6730b4f0e5d079d8bcfc3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=983acaac3b31eaaadf3433c7eb798d94&txTime=6b088e61",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ]
     },
     {
       "id": "3204",
