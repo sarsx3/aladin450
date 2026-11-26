@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 12:09:14 AM BST",
-  "last_updated_iso": "2026-11-26T18:09:14.025Z",
+  "last_updated": "27 Nov 2026, 12:10:25 AM BST",
+  "last_updated_iso": "2026-11-26T18:10:25.477Z",
   "total_events": 123,
   "events": [
     {
@@ -119,6 +119,27 @@
           "name": "Tapmad - Aq",
           "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PARAMOUNT+ - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiwzmgrzda/out/v1/d3d853014ac141c089619db5cf273760/cenc.mpd?|drmScheme=clearkey&drmLicense=28520e80027415f8ecd362d277c610cc:7f1fd3cc8ea5e77b69fc1bc36bdfb862",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "VIX SPANISH - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jknhbwks4q/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd?|drmScheme=clearkey&drmLicense=8202c517fe7618979c1c85605cc50c0b:8aa9fd9c3fc239df4f89b8791b7471bf",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vf01n9e6ic/out/v1/c8437f4ea7204ea5b49cb70f9833292f/cenc.mpd?|drmScheme=clearkey&drmLicense=c2d330cf5b6ba71b8262cabbe31cdbf4:a1ddee66807bed11723f69e83a55b2d1",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
