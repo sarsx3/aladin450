@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Nov 2026, 11:34:15 PM BST",
-  "last_updated_iso": "2026-11-26T17:34:15.100Z",
+  "last_updated": "26 Nov 2026, 11:35:24 PM BST",
+  "last_updated_iso": "2026-11-26T17:35:24.914Z",
   "total_events": 128,
   "events": [
     {
@@ -687,6 +687,20 @@
           "name": "Server - 3",
           "url": "http://193.47.62.44/hls/krrrAAAAAQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1795706469-0-0-affc02aa2ecdab4df62855488c46f026",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=e915f41ee51f30d0097b56b8fe74c1eb&wsABSTime=1795710112",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
