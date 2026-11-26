@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 Nov 2026, 03:38:14 PM BST",
-  "last_updated_iso": "2026-11-26T09:38:14.513Z",
+  "last_updated": "26 Nov 2026, 03:39:22 PM BST",
+  "last_updated_iso": "2026-11-26T09:39:22.101Z",
   "total_events": 140,
   "events": [
     {
@@ -955,6 +955,41 @@
         {
           "name": "PTV SPORTS - aq",
           "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - eng",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - hin",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - tam",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - tel",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - kan",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795728410~acl=/*~id=39357828164591386393245846354652~hmac=cfb509783e8cf3fe9015367b0aaee379bb1be4e302693188d9a467f5001d0596",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
