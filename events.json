@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 05:22:21 AM BST",
-  "last_updated_iso": "2026-11-26T23:22:21.253Z",
+  "last_updated": "27 Nov 2026, 05:23:11 AM BST",
+  "last_updated_iso": "2026-11-26T23:23:11.408Z",
   "total_events": 138,
   "events": [
     {
@@ -141,7 +141,7 @@
       "id": "3123",
       "date": "27/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | NZ vs IND in NZ, 2026 - 2nd Test, Day 1",
+      "league": "Cricket | ICC Test Championship",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -244,6 +244,13 @@
         {
           "name": "TEN CRICKET hd",
           "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/19.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "TNT sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -1235,7 +1242,7 @@
       "id": "3270",
       "date": "28/11/2026",
       "time": "4:00 AM",
-      "league": "Cricket | International",
+      "league": "Cricket | ICC Test Championship",
       "team1": "New Zealand",
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
