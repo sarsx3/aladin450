@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 05:37:12 AM BST",
-  "last_updated_iso": "2026-11-27T23:37:12.718Z",
+  "last_updated": "28 Nov 2026, 05:38:14 AM BST",
+  "last_updated_iso": "2026-11-27T23:38:14.680Z",
   "total_events": 116,
   "events": [
     {
@@ -1022,6 +1022,13 @@
         {
           "name": "Server - 7",
           "url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "TSN1 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
