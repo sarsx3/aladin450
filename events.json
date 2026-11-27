@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 02:01:15 PM BST",
-  "last_updated_iso": "2026-11-27T08:01:15.497Z",
+  "last_updated": "27 Nov 2026, 02:02:15 PM BST",
+  "last_updated_iso": "2026-11-27T08:02:15.944Z",
   "total_events": 136,
   "events": [
     {
@@ -252,6 +252,13 @@
           "name": "TEN SPORTS HD",
           "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
