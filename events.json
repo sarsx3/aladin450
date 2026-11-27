@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 03:37:12 PM BST",
-  "last_updated_iso": "2026-11-27T09:37:12.469Z",
+  "last_updated": "27 Nov 2026, 03:38:15 PM BST",
+  "last_updated_iso": "2026-11-27T09:38:15.209Z",
   "total_events": 136,
   "events": [
     {
@@ -303,7 +303,7 @@
       "id": "3126",
       "date": "27/11/2026",
       "time": "4:10 PM",
-      "league": "Cricket | WBBL 2026 - 36th Match",
+      "league": "Cricket | WBBL 2026",
       "team1": "Perth Scorchers Women",
       "team2": "Hobart Hurricanes Women",
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
@@ -351,6 +351,13 @@
         {
           "name": "SONY SPORTS TEN 1 HD",
           "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
