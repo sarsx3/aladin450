@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 03:10:19 PM BST",
-  "last_updated_iso": "2026-11-27T09:10:19.807Z",
+  "last_updated": "27 Nov 2026, 03:11:14 PM BST",
+  "last_updated_iso": "2026-11-27T09:11:14.178Z",
   "total_events": 136,
   "events": [
     {
@@ -319,7 +319,22 @@
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "T SPORTS HD",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SONY SPORTS TEN 1 HD",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3141",
