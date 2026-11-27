@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 08:48:21 PM BST",
-  "last_updated_iso": "2026-11-27T14:48:21.919Z",
+  "last_updated": "27 Nov 2026, 08:49:23 PM BST",
+  "last_updated_iso": "2026-11-27T14:49:23.076Z",
   "total_events": 141,
   "events": [
     {
@@ -2391,7 +2391,43 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 6",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel8.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795789200-0-0-ea098739942576274f6828d9d0d88e42",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1795794129-0-0-a3dad03161d636bf603fd15c1613025b",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1795794129-0-0-dd903350402d9ad33177c1d9fea9c348",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3336",
