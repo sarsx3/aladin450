@@ -1,6 +1,6 @@
 {
-  "last_updated": "27 Nov 2026, 03:40:22 PM BST",
-  "last_updated_iso": "2026-11-27T09:40:22.372Z",
+  "last_updated": "27 Nov 2026, 03:41:12 PM BST",
+  "last_updated_iso": "2026-11-27T09:41:12.677Z",
   "total_events": 136,
   "events": [
     {
@@ -358,6 +358,20 @@
         {
           "name": "sonyliv - aq",
           "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd?|drmScheme=clearkey&drmLicense=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd?|drmScheme=clearkey&drmLicense=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
