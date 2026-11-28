@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 08:29:22 PM BST",
-  "last_updated_iso": "2026-11-28T14:29:22.357Z",
+  "last_updated": "28 Nov 2026, 08:30:27 PM BST",
+  "last_updated_iso": "2026-11-28T14:30:27.468Z",
   "total_events": 141,
   "events": [
     {
@@ -698,7 +698,22 @@
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
-      "streams": []
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel65.flv?wsSecret=95f1c580e9b0689213cb5a5552a41c64&wsABSTime=1795915195",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.44/hls/XQXQXQAAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3221",
