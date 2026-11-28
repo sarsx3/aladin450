@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 07:26:17 PM BST",
-  "last_updated_iso": "2026-11-28T13:26:17.644Z",
+  "last_updated": "28 Nov 2026, 07:27:12 PM BST",
+  "last_updated_iso": "2026-11-28T13:27:12.511Z",
   "total_events": 145,
   "events": [
     {
@@ -2599,7 +2599,36 @@
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "unpublic",
-      "streams": []
+      "streams": [
+        {
+          "name": "SONYLIV (ENG)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SONYLIV (HIN)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SONYLIV (TAM)",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795868609-0-0-3c862fcc2c35ae7f0e051b5f052d5dfa",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ]
     },
     {
       "id": "3370",
