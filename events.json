@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 06:42:16 PM BST",
-  "last_updated_iso": "2026-11-28T12:42:16.426Z",
+  "last_updated": "28 Nov 2026, 06:43:12 PM BST",
+  "last_updated_iso": "2026-11-28T12:43:12.067Z",
   "total_events": 145,
   "events": [
     {
@@ -805,6 +805,20 @@
           "name": "Server - 2",
           "url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795861303-0-0-36b3ad041a543fb22c3a7f3d66220b89",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY BUNDESLIGA - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd?|drmScheme=clearkey&drmLicense=42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/KBBBAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
