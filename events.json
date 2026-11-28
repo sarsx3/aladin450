@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 06:38:12 PM BST",
-  "last_updated_iso": "2026-11-28T12:38:12.948Z",
+  "last_updated": "28 Nov 2026, 06:39:15 PM BST",
+  "last_updated_iso": "2026-11-28T12:39:15.127Z",
   "total_events": 145,
   "events": [
     {
@@ -316,6 +316,13 @@
           "name": "Server - 6",
           "url": "http://193.47.62.44/hls/D777AAAAQQQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live2.zktsva.app/live/301263.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1030,6 +1037,13 @@
         {
           "name": "Server - 3",
           "url": "https://live3979.zundrixmediapipeline.com/live/channel15.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
