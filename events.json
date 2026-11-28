@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 06:08:12 PM BST",
-  "last_updated_iso": "2026-11-28T12:08:12.645Z",
+  "last_updated": "28 Nov 2026, 06:09:15 PM BST",
+  "last_updated_iso": "2026-11-28T12:09:15.179Z",
   "total_events": 145,
   "events": [
     {
@@ -843,6 +843,27 @@
           "name": "Server - 7",
           "url": "https://live3979.zundrixmediapipeline.com/live/channel1.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SPORTDIGITAL FUSSBALL - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "FOX DESPORTS HD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
