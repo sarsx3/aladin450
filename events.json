@@ -1,7 +1,7 @@
 {
-  "last_updated": "28 Nov 2026, 02:37:12 PM BST",
-  "last_updated_iso": "2026-11-28T08:37:12.317Z",
-  "total_events": 142,
+  "last_updated": "28 Nov 2026, 02:38:15 PM BST",
+  "last_updated_iso": "2026-11-28T08:38:15.295Z",
+  "total_events": 146,
   "events": [
     {
       "id": "3123",
@@ -2178,6 +2178,62 @@
       "logo1": "https://cricketvectors.akamaized.net/Teams/M3.png",
       "logo2": "https://cricketvectors.akamaized.net/Teams/M6.png",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "3369",
+      "date": "28/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Chennaiyin",
+      "team2": "Mumbai City",
+      "logo1": "https://img.sofascore.com/api/v1/team/174590/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174600/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "3370",
+      "date": "29/11/2026",
+      "time": "5:30 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Goa",
+      "team2": "Kerala Blasters",
+      "logo1": "https://img.sofascore.com/api/v1/team/174594/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/174598/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "3371",
+      "date": "29/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "East Bengal",
+      "team2": "Mohun Bagan",
+      "logo1": "https://img.sofascore.com/api/v1/team/40655/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/370834/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": []
+    },
+    {
+      "id": "3372",
+      "date": "30/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Indian Super League",
+      "team1": "Northeast United",
+      "team2": "Punjab FC",
+      "logo1": "https://img.sofascore.com/api/v1/team/174602/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/230661/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
       "isHot": false,
       "visibility": "unpublic",
       "streams": []
