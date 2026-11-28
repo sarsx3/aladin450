@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 08:59:13 PM BST",
-  "last_updated_iso": "2026-11-28T14:59:13.629Z",
+  "last_updated": "28 Nov 2026, 09:00:32 PM BST",
+  "last_updated_iso": "2026-11-28T15:00:32.263Z",
   "total_events": 135,
   "events": [
     {
@@ -1234,6 +1234,13 @@
           "name": "Server - 2",
           "url": "https://live2.streamhaulcdn.com/livecdn/channel-23.flv?auth_key=3000001795871962-0-0-a1bba08fda80a3186b2f73d62bf8a059",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
