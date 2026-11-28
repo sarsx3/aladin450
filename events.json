@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 06:10:24 PM BST",
-  "last_updated_iso": "2026-11-28T12:10:24.902Z",
+  "last_updated": "28 Nov 2026, 06:11:13 PM BST",
+  "last_updated_iso": "2026-11-28T12:11:13.183Z",
   "total_events": 145,
   "events": [
     {
@@ -666,6 +666,13 @@
           "name": "Server - 2",
           "url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795861255-0-0-7be736af123eaf512eef155090934b6b",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
