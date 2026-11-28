@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 06:46:14 PM BST",
-  "last_updated_iso": "2026-11-28T12:46:14.689Z",
+  "last_updated": "28 Nov 2026, 06:47:12 PM BST",
+  "last_updated_iso": "2026-11-28T12:47:12.340Z",
   "total_events": 145,
   "events": [
     {
@@ -343,6 +343,13 @@
         {
           "name": "Server - 7",
           "url": "https://live2.zktsva.app/live/301263.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://www.rtmpcdn.com/live/37f53d4e-780f-41d9-86e5-e4b72ebea97e.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
